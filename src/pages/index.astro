@@ -482,10 +482,12 @@ const categories = Object.keys(categoryCounts)
       }
     }
 
-    // Language toggle click
-    langToggleBtn?.addEventListener('click', () => {
-      const nextLang = currentLang === 'id' ? 'en' : 'id';
-      applyLanguage(nextLang);
+    // Listen to global language changes from i18n.js
+    window.addEventListener('languageChanged', (e) => {
+      currentLang = e.detail?.lang || 'id';
+      if (typeof filterAndSortCourses === 'function') {
+        filterAndSortCourses();
+      }
     });
 
     // -------------------------------------------------------------
@@ -756,11 +758,14 @@ const categories = Object.keys(categoryCounts)
         const link = btn.getAttribute('data-link') || '';
         const linkIcon = btn.querySelector('.link-icon');
         const checkIcon = btn.querySelector('.link-check-icon');
+        const linkText = btn.querySelector('.link-btn-text');
+        const isEn = document.documentElement.lang === 'en';
 
         try {
           await navigator.clipboard.writeText(link);
           linkIcon?.classList.add('hidden');
           checkIcon?.classList.remove('hidden');
+          if (linkText) linkText.textContent = isEn ? 'Copied!' : 'Tersalin!';
           btn.classList.add('border-emerald-500', 'text-emerald-600', 'dark:text-emerald-400');
 
           // Tanpa popup toast, murni feedback visual tombol seperti yang diminta
@@ -768,6 +773,7 @@ const categories = Object.keys(categoryCounts)
           setTimeout(() => {
             linkIcon?.classList.remove('hidden');
             checkIcon?.classList.add('hidden');
+            if (linkText) linkText.textContent = isEn ? 'Copy Link' : 'Salin Link';
             btn.classList.remove('border-emerald-500', 'text-emerald-600', 'dark:text-emerald-400');
           }, 2000);
         } catch (err) {

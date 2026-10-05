@@ -71,7 +71,7 @@ const catStyle = categoryColors[course.category] || {
         <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>
         </svg>
-        <span>Beranda</span>
+        <span data-i18n="breadcrumb_home">Beranda</span>
       </a>
       <span>/</span>
       <a href={`/?cat=${course.category.toLowerCase()}#katalog`} class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors">
@@ -81,7 +81,7 @@ const catStyle = categoryColors[course.category] || {
       <span class="truncate max-w-[200px] text-slate-700 dark:text-slate-200 font-semibold">{course.title}</span>
     </nav>
 
-    <!-- Main Course Card Presentation -->
+    <!-- Main Course Presentation -->
     <div class="bg-white dark:bg-slate-900 rounded-3xl border border-slate-200/90 dark:border-slate-800/90 overflow-hidden shadow-xl">
       <div class="grid grid-cols-1 md:grid-cols-12 gap-0">
         
@@ -121,7 +121,7 @@ const catStyle = categoryColors[course.category] || {
 
             <div class="flex items-center gap-1.5 bg-black/70 backdrop-blur-md px-2.5 py-1 rounded-lg">
               <span class="line-through text-slate-300 text-xs">{course.originalPrice}</span>
-              <span class="text-emerald-400 font-extrabold text-sm uppercase">GRATIS</span>
+              <span class="free-badge-label text-emerald-400 font-extrabold text-sm uppercase">GRATIS</span>
             </div>
           </div>
         </div>
@@ -140,20 +140,20 @@ const catStyle = categoryColors[course.category] || {
             <!-- Metadata Box -->
             <div class="mt-5 p-3.5 rounded-2xl bg-slate-50 dark:bg-slate-800/60 border border-slate-200/80 dark:border-slate-800 grid grid-cols-2 gap-3 text-xs">
               <div>
-                <span class="text-slate-400 text-[10px] block">Instruktur</span>
+                <span class="text-slate-400 text-[10px] block" data-i18n="meta_instructor_label">Instruktur</span>
                 <span class="font-bold text-slate-800 dark:text-slate-200 truncate block" title={course.instructor}>{course.instructor}</span>
               </div>
               <div>
-                <span class="text-slate-400 text-[10px] block">Kode Kupon</span>
+                <span class="text-slate-400 text-[10px] block" data-i18n="meta_coupon_label">Kode Kupon</span>
                 <span class="font-mono font-bold text-rose-600 dark:text-rose-400 truncate block">{course.coupon}</span>
               </div>
               <div>
-                <span class="text-slate-400 text-[10px] block">Status Klaim</span>
-                <span class="font-bold text-emerald-600 dark:text-emerald-400">100% Aktif & Legal</span>
+                <span class="text-slate-400 text-[10px] block" data-i18n="meta_claim_label">Status Klaim</span>
+                <span class="font-bold text-emerald-600 dark:text-emerald-400" data-i18n="meta_claim_val">100% Aktif & Legal</span>
               </div>
               <div>
-                <span class="text-slate-400 text-[10px] block">Akses</span>
-                <span class="font-bold text-slate-800 dark:text-slate-200">Seumur Hidup (Lifetime)</span>
+                <span class="text-slate-400 text-[10px] block" data-i18n="meta_access_label">Akses</span>
+                <span class="font-bold text-slate-800 dark:text-slate-200" data-i18n="meta_access_val">Seumur Hidup (Lifetime)</span>
               </div>
             </div>
           </div>
@@ -168,7 +168,7 @@ const catStyle = categoryColors[course.category] || {
               rel="noopener noreferrer"
               class="w-full inline-flex items-center justify-center gap-2 px-5 py-3.5 rounded-2xl text-sm font-extrabold bg-gradient-to-r from-rose-600 to-rose-700 hover:from-rose-500 hover:to-rose-600 text-white shadow-lg shadow-rose-600/30 active:scale-[0.98] transition-all text-center"
             >
-              <span>Klaim Sekarang di Udemy (Gratis)</span>
+              <span data-i18n="cta_claim_udemy">Klaim Sekarang di Udemy (Gratis)</span>
               <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
               </svg>
@@ -221,10 +221,10 @@ const catStyle = categoryColors[course.category] || {
     <!-- Banner Kembali ke Beranda / Semua Kursus -->
     <div class="mt-8 p-4 sm:p-6 rounded-3xl bg-gradient-to-r from-rose-500/10 via-amber-500/10 to-transparent border border-rose-200/60 dark:border-rose-900/40 flex flex-col sm:flex-row items-center justify-between gap-4">
       <div>
-        <h3 class="text-sm sm:text-base font-extrabold text-slate-900 dark:text-white">
+        <h3 class="text-sm sm:text-base font-extrabold text-slate-900 dark:text-white" data-i18n="banner_more_title">
           Ingin Belajar Topik Lainnya?
         </h3>
-        <p class="text-xs text-slate-600 dark:text-slate-400 mt-0.5">
+        <p class="text-xs text-slate-600 dark:text-slate-400 mt-0.5" data-i18n="banner_more_desc">
           Tersedia 80+ kursus gratis Udemy bersertifikat lainnya yang siap Anda klaim hari ini.
         </p>
       </div>
@@ -232,7 +232,7 @@ const catStyle = categoryColors[course.category] || {
         href="/"
         class="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-800 dark:text-slate-200 hover:text-rose-600 dark:hover:text-rose-400 shadow-sm transition-all flex-shrink-0"
       >
-        <span>Lihat Semua Kursus</span>
+        <span data-i18n="banner_more_btn">Lihat Semua Kursus</span>
         <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
         </svg>
@@ -243,10 +243,10 @@ const catStyle = categoryColors[course.category] || {
     {related.length > 0 && (
       <section class="mt-12">
         <div class="flex items-center justify-between mb-5">
-          <h2 class="text-base sm:text-xl font-extrabold text-slate-900 dark:text-white">
+          <h2 class="text-base sm:text-xl font-extrabold text-slate-900 dark:text-white" data-i18n="related_section_title">
             Kursus Pilihan Terkait
           </h2>
-          <a href="/#katalog" class="text-xs font-bold text-rose-600 dark:text-rose-400 hover:underline">
+          <a href="/#katalog" class="text-xs font-bold text-rose-600 dark:text-rose-400 hover:underline" data-i18n="related_view_all">
             Lihat Katalog Lengkap &rarr;
           </a>
         </div>
@@ -266,20 +266,21 @@ const catStyle = categoryColors[course.category] || {
 
 <script is:inline>
   document.addEventListener('DOMContentLoaded', () => {
-    // 1. Salin Kode Kupon
+    // 1. Salin Kode Kupon Halaman Detail
     const copyCouponBtn = document.getElementById('copy-coupon-detail-btn');
     const copyCouponText = document.getElementById('copy-coupon-text');
 
     copyCouponBtn?.addEventListener('click', async () => {
       const coupon = copyCouponBtn.getAttribute('data-coupon') || '';
+      const isEn = document.documentElement.lang === 'en';
       try {
         await navigator.clipboard.writeText(coupon);
-        if (copyCouponText) copyCouponText.textContent = 'Kupon Tersalin!';
+        if (copyCouponText) copyCouponText.textContent = isEn ? 'Coupon Copied!' : 'Kupon Tersalin!';
         if (window.showToast) {
-          window.showToast(`Kode kupon "${coupon}" berhasil disalin!`);
+          window.showToast(isEn ? `Coupon "${coupon}" copied to clipboard!` : `Kode kupon "${coupon}" berhasil disalin!`);
         }
         setTimeout(() => {
-          if (copyCouponText) copyCouponText.textContent = 'Salin Kode Kupon';
+          if (copyCouponText) copyCouponText.textContent = isEn ? 'Copy Coupon Code' : 'Salin Kode Kupon';
         }, 2000);
       } catch (err) {
         console.error(err);
@@ -294,16 +295,16 @@ const catStyle = categoryColors[course.category] || {
 
     sharePageBtn?.addEventListener('click', async () => {
       const url = sharePageBtn.getAttribute('data-url') || window.location.href;
+      const isEn = document.documentElement.lang === 'en';
       try {
         await navigator.clipboard.writeText(url);
-        if (shareBtnText) shareBtnText.textContent = 'Link Tersalin!';
+        if (shareBtnText) shareBtnText.textContent = isEn ? 'Link Copied!' : 'Link Tersalin!';
         shareIcon?.classList.add('hidden');
         shareCheckIcon?.classList.remove('hidden');
         sharePageBtn.classList.add('border-emerald-500', 'text-emerald-600', 'dark:text-emerald-400');
 
-        // Tanpa popup toast, murni feedback tombol seperti yang diminta
         setTimeout(() => {
-          if (shareBtnText) shareBtnText.textContent = 'Salin Link';
+          if (shareBtnText) shareBtnText.textContent = isEn ? 'Copy Link' : 'Salin Link';
           shareIcon?.classList.remove('hidden');
           shareCheckIcon?.classList.add('hidden');
           sharePageBtn.classList.remove('border-emerald-500', 'text-emerald-600', 'dark:text-emerald-400');
@@ -311,6 +312,62 @@ const catStyle = categoryColors[course.category] || {
       } catch (err) {
         console.error(err);
       }
+    });
+
+    // 3. Salin Kupon & Link untuk Kartu Kursus Terkait di Bawah
+    document.querySelectorAll('.copy-coupon-btn').forEach((btn) => {
+      btn.addEventListener('click', async (e) => {
+        e.preventDefault();
+        const coupon = btn.getAttribute('data-coupon') || '';
+        const copyIcon = btn.querySelector('.copy-icon');
+        const checkIcon = btn.querySelector('.check-icon');
+        const btnText = btn.querySelector('.btn-text');
+        const isEn = document.documentElement.lang === 'en';
+
+        try {
+          await navigator.clipboard.writeText(coupon);
+          copyIcon?.classList.add('hidden');
+          checkIcon?.classList.remove('hidden');
+          if (btnText) btnText.textContent = isEn ? 'Copied!' : 'Tersalin!';
+          btn.classList.add('border-emerald-500', 'text-emerald-600', 'dark:text-emerald-400');
+          if (window.showToast) {
+            window.showToast(isEn ? `Coupon "${coupon}" copied!` : `Kupon "${coupon}" disalin!`);
+          }
+          setTimeout(() => {
+            copyIcon?.classList.remove('hidden');
+            checkIcon?.classList.add('hidden');
+            if (btnText) btnText.textContent = isEn ? 'Copy Coupon' : 'Salin Kupon';
+            btn.classList.remove('border-emerald-500', 'text-emerald-600', 'dark:text-emerald-400');
+          }, 2000);
+        } catch (_) {}
+      });
+    });
+
+    document.querySelectorAll('.copy-post-link-btn').forEach((btn) => {
+      btn.addEventListener('click', async (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        const link = btn.getAttribute('data-link') || '';
+        const linkIcon = btn.querySelector('.link-icon');
+        const checkIcon = btn.querySelector('.link-check-icon');
+        const linkText = btn.querySelector('.link-btn-text');
+        const isEn = document.documentElement.lang === 'en';
+
+        try {
+          await navigator.clipboard.writeText(link);
+          linkIcon?.classList.add('hidden');
+          checkIcon?.classList.remove('hidden');
+          if (linkText) linkText.textContent = isEn ? 'Copied!' : 'Tersalin!';
+          btn.classList.add('border-emerald-500', 'text-emerald-600', 'dark:text-emerald-400');
+
+          setTimeout(() => {
+            linkIcon?.classList.remove('hidden');
+            checkIcon?.classList.add('hidden');
+            if (linkText) linkText.textContent = isEn ? 'Copy Link' : 'Salin Link';
+            btn.classList.remove('border-emerald-500', 'text-emerald-600', 'dark:text-emerald-400');
+          }, 2000);
+        } catch (_) {}
+      });
     });
   });
 </script>
