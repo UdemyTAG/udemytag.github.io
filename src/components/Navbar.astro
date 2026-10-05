@@ -31,25 +31,69 @@ const { totalCourses = 80 } = Astro.props;
       </a>
 
       <!-- Quick Nav for Desktop -->
-      <div class="hidden md:flex items-center gap-6">
+      <div class="hidden lg:flex items-center gap-6">
         <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-semibold bg-emerald-50 text-emerald-700 dark:bg-emerald-950/60 dark:text-emerald-300 border border-emerald-200/80 dark:border-emerald-800/80">
           <span class="relative flex h-2 w-2">
             <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
             <span class="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
           </span>
-          <span>{totalCourses} Kursus Aktif</span>
+          <span data-i18n="nav_active_courses">{totalCourses} Kursus Aktif</span>
         </div>
 
-        <a href="#katalog" class="text-sm font-semibold text-slate-600 dark:text-slate-300 hover:text-rose-600 dark:hover:text-rose-400 transition-colors">
+        <a href="#katalog" class="text-sm font-semibold text-slate-600 dark:text-slate-300 hover:text-rose-600 dark:hover:text-rose-400 transition-colors" data-i18n="nav_catalog">
           Katalog Kursus
         </a>
-        <a href="#faq" class="text-sm font-semibold text-slate-600 dark:text-slate-300 hover:text-rose-600 dark:hover:text-rose-400 transition-colors">
+        <a href="#faq" class="text-sm font-semibold text-slate-600 dark:text-slate-300 hover:text-rose-600 dark:hover:text-rose-400 transition-colors" data-i18n="nav_faq">
           FAQ & Panduan
         </a>
       </div>
 
-      <!-- Action Buttons: Theme Toggle & CTA Button -->
-      <div class="flex items-center gap-1.5 sm:gap-3">
+      <!-- Action Buttons: Social Links + Language Toggle + Theme Toggle -->
+      <div class="flex items-center gap-1.5 sm:gap-2.5">
+        
+        <!-- Telegram Channel Link -->
+        <a
+          href="https://t.me/trikandroidgold"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="p-1.5 sm:p-2 rounded-xl text-sky-500 hover:text-sky-600 hover:bg-sky-50 dark:hover:bg-sky-950/50 transition-colors"
+          title="Gabung Channel Telegram"
+          aria-label="Telegram Channel"
+        >
+          <svg class="w-4 h-4 sm:w-5 sm:h-5 fill-current" viewBox="0 0 24 24">
+            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.74-.55 2.92-1.27 4.86-2.11 5.83-2.52 2.77-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/>
+          </svg>
+        </a>
+
+        <!-- Facebook Page Link -->
+        <a
+          href="https://web.facebook.com/Trikandroidgold"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="p-1.5 sm:p-2 rounded-xl text-blue-600 hover:text-blue-700 hover:bg-blue-50 dark:hover:bg-blue-950/50 transition-colors"
+          title="Ikuti Facebook Kami"
+          aria-label="Facebook Page"
+        >
+          <svg class="w-4 h-4 sm:w-5 sm:h-5 fill-current" viewBox="0 0 24 24">
+            <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12c0 4.84 3.44 8.87 8 9.8V15H8v-3h2V9.5C10 7.57 11.57 6 13.5 6H16v3h-2c-.55 0-1 .45-1 1v2h3v3h-3v6.95c5.05-.5 9-4.76 9-9.95z"/>
+          </svg>
+        </a>
+
+        <!-- Language Switcher Toggle (ID / EN) -->
+        <button
+          id="lang-toggle-btn"
+          type="button"
+          aria-label="Ganti Bahasa / Switch Language"
+          class="inline-flex items-center gap-1 px-2 py-1.5 sm:px-2.5 sm:py-2 rounded-xl border border-slate-200 dark:border-slate-800 text-xs font-bold text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors focus:outline-none focus:ring-2 focus:ring-rose-500"
+        >
+          <svg class="w-3.5 h-3.5 text-slate-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <circle cx="12" cy="12" r="10" stroke-width="2"/>
+            <line x1="2" y1="12" x2="22" y2="12" stroke-width="2"/>
+            <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" stroke-width="2"/>
+          </svg>
+          <span id="lang-current-label" class="tracking-wider">ID</span>
+        </button>
+
         <!-- Theme Toggle -->
         <button
           id="theme-toggle"
@@ -67,16 +111,6 @@ const { totalCourses = 80 } = Astro.props;
           </svg>
         </button>
 
-        <!-- CTA Button: Mobile Optimized -->
-        <a
-          href="#katalog"
-          class="inline-flex items-center gap-1 sm:gap-2 px-3 py-1.5 sm:px-4 sm:py-2 rounded-xl text-xs sm:text-sm font-bold bg-gradient-to-r from-rose-600 to-rose-700 hover:from-rose-500 hover:to-rose-600 text-white shadow-sm transition-all focus:outline-none focus:ring-2 focus:ring-rose-500 flex-shrink-0"
-        >
-          <span>Katalog</span>
-          <svg class="w-3.5 h-3.5 sm:w-4 sm:h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
-          </svg>
-        </a>
       </div>
 
     </div>

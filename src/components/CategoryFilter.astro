@@ -22,7 +22,7 @@ const { categories, activeCategory = 'all' } = Astro.props;
         <rect x="14" y="14" width="7" height="7"/>
         <rect x="3" y="14" width="7" height="7"/>
       </svg>
-      <span>Semua</span>
+      <span class="cat-label" data-i18n="cat_all">Semua</span>
       <span class="cat-badge px-1.5 py-0.2 rounded-full text-[9px] sm:text-[10px] bg-white/20 text-white">
         {categories.reduce((acc, c) => acc + c.count, 0)}
       </span>
@@ -35,7 +35,7 @@ const { categories, activeCategory = 'all' } = Astro.props;
         data-category={cat.name.toLowerCase()}
         class="cat-filter-btn px-2.5 py-1.5 sm:px-3.5 sm:py-2 rounded-xl text-[11px] sm:text-xs font-semibold transition-all duration-200 flex items-center gap-1.5 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:border-rose-500/50 hover:text-rose-600 dark:hover:text-rose-400 shadow-sm flex-shrink-0"
       >
-        <span>{cat.name}</span>
+        <span class="cat-label">{cat.name}</span>
         <span class="cat-badge px-1.5 py-0.2 rounded-full text-[9px] sm:text-[10px] bg-slate-100 dark:bg-slate-800 text-slate-500 dark:text-slate-400">
           {cat.count}
         </span>

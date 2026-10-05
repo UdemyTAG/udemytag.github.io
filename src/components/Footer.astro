@@ -21,50 +21,76 @@ const year = new Date().getFullYear();
           <span class="text-lg font-extrabold tracking-tight text-slate-900 dark:text-white">UdemyTAG</span>
         </div>
 
-        <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-400 max-w-sm leading-relaxed">
+        <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-400 max-w-sm leading-relaxed" data-i18n="footer_about">
           Direktori kurasi kupon diskon 100% dan kursus gratis Udemy legal dengan sertifikat resmi dan akses seumur hidup.
         </p>
 
-        <div class="text-[11px] text-slate-500 dark:text-slate-400">
-          🛡️ <strong>Keamanan:</strong> Tautan kupon resmi langsung mengarah ke halaman kursus udemy.com.
+        <!-- Social Community Badges -->
+        <div class="flex items-center gap-3 pt-1">
+          <a
+            href="https://t.me/trikandroidgold"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-sky-50 dark:bg-sky-950/60 border border-sky-200/80 dark:border-sky-800/80 text-sky-700 dark:text-sky-300 text-xs font-semibold hover:bg-sky-100 dark:hover:bg-sky-900/60 transition-colors shadow-sm"
+          >
+            <svg class="w-3.5 h-3.5 fill-current" viewBox="0 0 24 24">
+              <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.74-.55 2.92-1.27 4.86-2.11 5.83-2.52 2.77-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/>
+            </svg>
+            <span>Telegram Channel</span>
+          </a>
+
+          <a
+            href="https://web.facebook.com/Trikandroidgold"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-blue-50 dark:bg-blue-950/60 border border-blue-200/80 dark:border-blue-800/80 text-blue-700 dark:text-blue-300 text-xs font-semibold hover:bg-blue-100 dark:hover:bg-blue-900/60 transition-colors shadow-sm"
+          >
+            <svg class="w-3.5 h-3.5 fill-current" viewBox="0 0 24 24">
+              <path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12c0 4.84 3.44 8.87 8 9.8V15H8v-3h2V9.5C10 7.57 11.57 6 13.5 6H16v3h-2c-.55 0-1 .45-1 1v2h3v3h-3v6.95c5.05-.5 9-4.76 9-9.95z"/>
+            </svg>
+            <span>Facebook Page</span>
+          </a>
         </div>
       </div>
 
       <!-- Quick Links -->
       <div>
-        <h4 class="text-xs sm:text-sm font-bold uppercase tracking-wider text-slate-900 dark:text-white mb-3">
+        <h4 class="text-xs sm:text-sm font-bold uppercase tracking-wider text-slate-900 dark:text-white mb-3" data-i18n="footer_nav_title">
           Navigasi
         </h4>
         <ul class="space-y-2 text-xs sm:text-sm text-slate-600 dark:text-slate-400">
           <li>
-            <a href="#katalog" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors">Semua Kursus</a>
+            <a href="#katalog" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors" data-i18n="footer_nav_catalog">Semua Kursus</a>
           </li>
           <li>
-            <a href="#faq" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors">Cara Klaim Kupon</a>
+            <a href="#faq" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors" data-i18n="footer_nav_faq">Cara Klaim Kupon & FAQ</a>
           </li>
           <li>
-            <a href="#faq" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors">Pertanyaan Umum (FAQ)</a>
+            <a href="https://t.me/trikandroidgold" target="_blank" rel="noopener noreferrer" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors">Telegram @trikandroidgold</a>
+          </li>
+          <li>
+            <a href="https://web.facebook.com/Trikandroidgold" target="_blank" rel="noopener noreferrer" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors">Facebook @Trikandroidgold</a>
           </li>
         </ul>
       </div>
 
       <!-- Panduan Klaim Ringkas -->
       <div>
-        <h4 class="text-xs sm:text-sm font-bold uppercase tracking-wider text-slate-900 dark:text-white mb-3">
+        <h4 class="text-xs sm:text-sm font-bold uppercase tracking-wider text-slate-900 dark:text-white mb-3" data-i18n="footer_claim_title">
           Cara Klaim Kupon
         </h4>
         <ul class="space-y-2 text-[11px] sm:text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
           <li class="flex items-start gap-1.5">
             <span class="text-rose-500 font-bold">1.</span>
-            <span>Klik "Buka di Udemy" pada kursus pilihan Anda.</span>
+            <span data-i18n="footer_step_1">Klik "Buka di Udemy" pada kursus pilihan Anda.</span>
           </li>
           <li class="flex items-start gap-1.5">
             <span class="text-rose-500 font-bold">2.</span>
-            <span>Pastikan harga tertera Gratis / Rp0 sebelum checkout.</span>
+            <span data-i18n="footer_step_2">Pastikan harga tertera Gratis / Free / Rp0 sebelum checkout.</span>
           </li>
           <li class="flex items-start gap-1.5">
             <span class="text-rose-500 font-bold">3.</span>
-            <span>Klik "Daftar Sekarang" untuk menyimpan kursus permanen.</span>
+            <span data-i18n="footer_step_3">Klik "Daftar Sekarang" untuk menyimpan kursus permanen.</span>
           </li>
         </ul>
       </div>
@@ -73,13 +99,13 @@ const year = new Date().getFullYear();
 
     <!-- Legal Disclaimer & Copyright -->
     <div class="mt-8 pt-6 border-t border-slate-200 dark:border-slate-800 text-[11px] text-slate-500 dark:text-slate-400 space-y-3">
-      <div class="p-3 sm:p-4 rounded-xl sm:rounded-2xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200/80 dark:border-slate-800 leading-relaxed">
+      <div class="p-3 sm:p-4 rounded-xl sm:rounded-2xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200/80 dark:border-slate-800 leading-relaxed" data-i18n="footer_disclaimer">
         <strong>Disclaimer:</strong> UdemyTAG adalah proyek direktori independen dan tidak berafiliasi secara resmi dengan Udemy, Inc. Seluruh merek dagang dan konten merupakan hak milik masing-masing pemiliknya. Kupon diskon 100% memiliki batas kuota klaim maksimal yang diatur oleh instruktur.
       </div>
 
       <div class="flex flex-col sm:flex-row items-center justify-between gap-3 pt-1">
         <p>&copy; {year} UdemyTAG. All rights reserved.</p>
-        <a href="#top" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors flex items-center gap-1 font-semibold text-xs">
+        <a href="#top" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors flex items-center gap-1 font-semibold text-xs" data-i18n="footer_back_to_top">
           <span>Kembali ke Atas</span>
           <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18" />

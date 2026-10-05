@@ -17,16 +17,16 @@ const { totalCourses = 80 } = Astro.props;
     <!-- Top Pill: Clean & User-Centric -->
     <div class="inline-flex items-center gap-2 px-3 py-1 sm:px-3.5 sm:py-1.5 rounded-full text-[11px] sm:text-xs font-semibold bg-white dark:bg-slate-900 border border-rose-200/80 dark:border-rose-900/50 shadow-sm text-rose-700 dark:text-rose-300 mb-4 sm:mb-6">
       <span class="flex h-2 w-2 rounded-full bg-rose-500 animate-pulse"></span>
-      <span class="font-bold">Kupon Terverifikasi Aktif Hari Ini</span>
+      <span class="font-bold" data-i18n="hero_pill">Kupon Terverifikasi Aktif Hari Ini</span>
     </div>
 
     <!-- Main Headline: Compact on Mobile -->
-    <h1 class="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-slate-900 dark:text-white max-w-3xl mx-auto leading-tight">
+    <h1 class="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-slate-900 dark:text-white max-w-3xl mx-auto leading-tight" data-i18n="hero_headline">
       Kupon Diskon <span class="text-transparent bg-clip-text bg-gradient-to-r from-rose-600 via-rose-500 to-amber-500">100% Gratis</span> Kursus Udemy
     </h1>
 
     <!-- Subtitle / Value Proposition -->
-    <p class="mt-2.5 sm:mt-4 text-xs sm:text-base text-slate-600 dark:text-slate-300 max-w-2xl mx-auto leading-relaxed">
+    <p class="mt-2.5 sm:mt-4 text-xs sm:text-base text-slate-600 dark:text-slate-300 max-w-2xl mx-auto leading-relaxed" data-i18n="hero_subtitle">
       Akses materi pembelajaran premium dari instruktur Udemy terkemuka. Lengkap dengan sertifikat kelulusan resmi dan hak akses seumur hidup tanpa biaya sepeser pun.
     </p>
 
@@ -41,7 +41,7 @@ const { totalCourses = 80 } = Astro.props;
         </div>
         <div>
           <div class="text-xs sm:text-sm font-extrabold text-slate-900 dark:text-white">{totalCourses}+ Kursus</div>
-          <div class="text-[10px] sm:text-[11px] text-slate-500 dark:text-slate-400">Tersedia</div>
+          <div class="text-[10px] sm:text-[11px] text-slate-500 dark:text-slate-400" data-i18n="badge_available">Tersedia</div>
         </div>
       </div>
 
@@ -52,8 +52,8 @@ const { totalCourses = 80 } = Astro.props;
           </svg>
         </div>
         <div>
-          <div class="text-xs sm:text-sm font-extrabold text-slate-900 dark:text-white">100% Legal</div>
-          <div class="text-[10px] sm:text-[11px] text-slate-500 dark:text-slate-400">Resmi Instruktur</div>
+          <div class="text-xs sm:text-sm font-extrabold text-slate-900 dark:text-white" data-i18n="badge_legal_title">100% Legal</div>
+          <div class="text-[10px] sm:text-[11px] text-slate-500 dark:text-slate-400" data-i18n="badge_legal_sub">Resmi Instruktur</div>
         </div>
       </div>
 
@@ -64,8 +64,8 @@ const { totalCourses = 80 } = Astro.props;
           </svg>
         </div>
         <div>
-          <div class="text-xs sm:text-sm font-extrabold text-slate-900 dark:text-white">Sertifikat</div>
-          <div class="text-[10px] sm:text-[11px] text-slate-500 dark:text-slate-400">Kelulusan Resmi</div>
+          <div class="text-xs sm:text-sm font-extrabold text-slate-900 dark:text-white" data-i18n="badge_cert_title">Sertifikat</div>
+          <div class="text-[10px] sm:text-[11px] text-slate-500 dark:text-slate-400" data-i18n="badge_cert_sub">Kelulusan Resmi</div>
         </div>
       </div>
 
@@ -76,8 +76,8 @@ const { totalCourses = 80 } = Astro.props;
           </svg>
         </div>
         <div>
-          <div class="text-xs sm:text-sm font-extrabold text-slate-900 dark:text-white">Lifetime</div>
-          <div class="text-[10px] sm:text-[11px] text-slate-500 dark:text-slate-400">Akses Selamanya</div>
+          <div class="text-xs sm:text-sm font-extrabold text-slate-900 dark:text-white" data-i18n="badge_life_title">Lifetime</div>
+          <div class="text-[10px] sm:text-[11px] text-slate-500 dark:text-slate-400" data-i18n="badge_life_sub">Akses Selamanya</div>
         </div>
       </div>
 

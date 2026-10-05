@@ -62,12 +62,12 @@ const categories = Object.keys(categoryCounts)
             <svg class="w-3 h-3 sm:w-3.5 sm:h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
               <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
             </svg>
-            <span>Katalog Pilihan</span>
+            <span data-i18n="catalog_badge">Katalog Pilihan</span>
           </div>
-          <h2 class="text-xl sm:text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight">
+          <h2 class="text-xl sm:text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight" data-i18n="catalog_title">
             Eksplorasi Kupon Kursus Gratis
           </h2>
-          <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mt-0.5">
+          <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mt-0.5" data-i18n="catalog_desc">
             Gunakan filter pencarian instan untuk menemukan materi yang sesuai dengan target belajar Anda.
           </p>
         </div>
@@ -96,7 +96,7 @@ const categories = Object.keys(categoryCounts)
           type="button"
           class="inline-flex items-center gap-2 px-6 py-3 rounded-2xl text-xs sm:text-sm font-bold bg-slate-900 hover:bg-rose-600 dark:bg-rose-600 dark:hover:bg-rose-500 text-white shadow-md shadow-slate-900/10 dark:shadow-rose-600/20 active:scale-95 transition-all"
         >
-          <span>Tampilkan 12 Kursus Lainnya</span>
+          <span class="load-more-text">Tampilkan 12 Kursus Lainnya</span>
           <span id="remaining-count-badge" class="px-2 py-0.5 rounded-full text-[10px] bg-white/20 text-white font-mono">
             +68
           </span>
@@ -121,16 +121,17 @@ const categories = Object.keys(categoryCounts)
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
           </svg>
         </div>
-        <h3 class="text-base font-bold text-slate-900 dark:text-white">
+        <h3 class="text-base font-bold text-slate-900 dark:text-white" data-i18n="empty_title">
           Tidak ada kursus yang cocok
         </h3>
-        <p class="text-xs text-slate-500 dark:text-slate-400 mt-1 mb-5">
+        <p class="text-xs text-slate-500 dark:text-slate-400 mt-1 mb-5" data-i18n="empty_desc">
           Kriteria pencarian Anda tidak menemukan hasil. Cobalah kata kunci lain atau pilih Semua Kategori.
         </p>
         <button
           id="reset-filter-btn"
           type="button"
           class="px-4 py-2 rounded-xl text-xs font-bold bg-rose-600 hover:bg-rose-500 text-white shadow-md shadow-rose-600/30 transition-all"
+          data-i18n="reset_btn"
         >
           Reset Pencarian
         </button>
@@ -138,56 +139,111 @@ const categories = Object.keys(categoryCounts)
 
     </section>
 
-    <!-- FAQ Section -->
+    <!-- FAQ Accordion Section -->
     <section id="faq" class="border-t border-slate-200/80 dark:border-slate-800 bg-white/50 dark:bg-slate-900/30 py-10 sm:py-16">
       <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         
         <div class="text-center mb-8 sm:mb-12">
-          <h2 class="text-xl sm:text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight">
+          <h2 class="text-xl sm:text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight" data-i18n="faq_section_title">
             Pertanyaan yang Sering Diajukan (FAQ)
           </h2>
-          <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mt-1.5">
+          <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mt-1.5" data-i18n="faq_section_subtitle">
             Panduan lengkap memanfaatkan kupon diskon 100% Udemy secara optimal.
           </p>
         </div>
 
-        <div class="space-y-3 sm:space-y-4">
+        <!-- Interactive Click-to-Reveal Accordion -->
+        <div class="space-y-3 sm:space-y-4" id="faq-accordion-container">
           
-          <div class="p-4 sm:p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm">
-            <h3 class="text-sm sm:text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
-              <span class="text-rose-500">Q:</span> Bagaimana cara klaim kursus agar harganya menjadi Rp0?
-            </h3>
-            <p class="mt-1.5 text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+          <!-- FAQ Item 1 -->
+          <details class="faq-accordion-item group p-4 sm:p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm transition-all open:ring-1 open:ring-rose-500/30">
+            <summary class="flex items-center justify-between cursor-pointer list-none gap-3 focus:outline-none select-none">
+              <h3 class="text-sm sm:text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
+                <span class="text-rose-500 font-extrabold flex-shrink-0">Q:</span> 
+                <span class="faq-q-text" data-faq-id="1">Bagaimana cara klaim kursus agar harganya menjadi Rp0?</span>
+              </h3>
+              <div class="p-1.5 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-500 group-open:rotate-180 group-open:bg-rose-50 group-open:text-rose-600 dark:group-open:bg-rose-950/60 dark:group-open:text-rose-400 transition-transform duration-200 flex-shrink-0">
+                <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                </svg>
+              </div>
+            </summary>
+            <div class="mt-3 pt-3 border-t border-slate-100 dark:border-slate-800 text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed faq-a-text" data-faq-id="1">
               Klik tombol <strong>"Buka di Udemy"</strong> pada kartu kursus. Tautan tersebut sudah secara otomatis menyematkan kode kupon diskon 100%. Pastikan harga yang tertera di halaman kursus Udemy adalah <strong>Free / Gratis (Rp0)</strong> sebelum menekan tombol "Daftar Sekarang" (Enroll Now).
-            </p>
-          </div>
+            </div>
+          </details>
 
-          <div class="p-4 sm:p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm">
-            <h3 class="text-sm sm:text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
-              <span class="text-rose-500">Q:</span> Mengapa saat saya buka, harganya kembali berbayar?
-            </h3>
-            <p class="mt-1.5 text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+          <!-- FAQ Item 2 -->
+          <details class="faq-accordion-item group p-4 sm:p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm transition-all open:ring-1 open:ring-rose-500/30">
+            <summary class="flex items-center justify-between cursor-pointer list-none gap-3 focus:outline-none select-none">
+              <h3 class="text-sm sm:text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
+                <span class="text-rose-500 font-extrabold flex-shrink-0">Q:</span> 
+                <span class="faq-q-text" data-faq-id="2">Mengapa saat saya buka, harganya kembali berbayar?</span>
+              </h3>
+              <div class="p-1.5 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-500 group-open:rotate-180 group-open:bg-rose-50 group-open:text-rose-600 dark:group-open:bg-rose-950/60 dark:group-open:text-rose-400 transition-transform duration-200 flex-shrink-0">
+                <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                </svg>
+              </div>
+            </summary>
+            <div class="mt-3 pt-3 border-t border-slate-100 dark:border-slate-800 text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed faq-a-text" data-faq-id="2">
               Kupon diskon 100% yang diterbitkan oleh instruktur Udemy memiliki <strong>batas kuota maksimal</strong> (biasanya 500 hingga 1.000 klaim di seluruh dunia) atau batas waktu tertentu (1 - 3 hari). Jika kuota klaim telah habis, Udemy otomatis mengembalikan harga ke nominal semula. Selalu klaim secepatnya saat kursus baru muncul di UdemyTAG.
-            </p>
-          </div>
+            </div>
+          </details>
 
-          <div class="p-4 sm:p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm">
-            <h3 class="text-sm sm:text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
-              <span class="text-rose-500">Q:</span> Apakah kursus yang diklaim gratis tetap mendapatkan Sertifikat Resmi?
-            </h3>
-            <p class="mt-1.5 text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
-              <strong>Ya, 100% resmi!</strong> Karena kursus ini didaftarkan menggunakan kupon diskon resmi dari pembuat kursus, Anda terdaftar sebagai siswa resmi dan berhak mendapatkan sertifikat kelulusan digital (Certificate of Completion) setelah menyelesaikan seluruh materi.
-            </p>
-          </div>
+          <!-- FAQ Item 3 -->
+          <details class="faq-accordion-item group p-4 sm:p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm transition-all open:ring-1 open:ring-rose-500/30">
+            <summary class="flex items-center justify-between cursor-pointer list-none gap-3 focus:outline-none select-none">
+              <h3 class="text-sm sm:text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
+                <span class="text-rose-500 font-extrabold flex-shrink-0">Q:</span> 
+                <span class="faq-q-text" data-faq-id="3">Apakah kursus yang diklaim gratis tetap mendapatkan Sertifikat Resmi?</span>
+              </h3>
+              <div class="p-1.5 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-500 group-open:rotate-180 group-open:bg-rose-50 group-open:text-rose-600 dark:group-open:bg-rose-950/60 dark:group-open:text-rose-400 transition-transform duration-200 flex-shrink-0">
+                <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                </svg>
+              </div>
+            </summary>
+            <div class="mt-3 pt-3 border-t border-slate-100 dark:border-slate-800 text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed faq-a-text" data-faq-id="3">
+              <strong>Ya, 100% resmi!</strong> Karena Anda mendaftar menggunakan kupon diskon resmi dari pembuat kursus, Anda terdaftar sebagai siswa resmi dan berhak mendapatkan sertifikat kelulusan digital (Certificate of Completion) setelah menyelesaikan seluruh materi.
+            </div>
+          </details>
 
-          <div class="p-4 sm:p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm">
-            <h3 class="text-sm sm:text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
-              <span class="text-rose-500">Q:</span> Apakah akses materi kursus berlaku seumur hidup?
-            </h3>
-            <p class="mt-1.5 text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+          <!-- FAQ Item 4 -->
+          <details class="faq-accordion-item group p-4 sm:p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm transition-all open:ring-1 open:ring-rose-500/30">
+            <summary class="flex items-center justify-between cursor-pointer list-none gap-3 focus:outline-none select-none">
+              <h3 class="text-sm sm:text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
+                <span class="text-rose-500 font-extrabold flex-shrink-0">Q:</span> 
+                <span class="faq-q-text" data-faq-id="4">Apakah akses materi kursus berlaku seumur hidup?</span>
+              </h3>
+              <div class="p-1.5 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-500 group-open:rotate-180 group-open:bg-rose-50 group-open:text-rose-600 dark:group-open:bg-rose-950/60 dark:group-open:text-rose-400 transition-transform duration-200 flex-shrink-0">
+                <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                </svg>
+              </div>
+            </summary>
+            <div class="mt-3 pt-3 border-t border-slate-100 dark:border-slate-800 text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed faq-a-text" data-faq-id="4">
               Ya, setelah berhasil menambahkan kursus ke akun Udemy Anda, kursus tersebut akan tersimpan permanen di menu "My Learning" dan dapat diakses kapan saja tanpa batas waktu kedaluwarsa.
-            </p>
-          </div>
+            </div>
+          </details>
+
+          <!-- FAQ Item 5: Social Channels -->
+          <details class="faq-accordion-item group p-4 sm:p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm transition-all open:ring-1 open:ring-rose-500/30">
+            <summary class="flex items-center justify-between cursor-pointer list-none gap-3 focus:outline-none select-none">
+              <h3 class="text-sm sm:text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
+                <span class="text-rose-500 font-extrabold flex-shrink-0">Q:</span> 
+                <span class="faq-q-text" data-faq-id="5">Di mana saya bisa mendapatkan pemberitahuan kupon rilis paling cepat?</span>
+              </h3>
+              <div class="p-1.5 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-500 group-open:rotate-180 group-open:bg-rose-50 group-open:text-rose-600 dark:group-open:bg-rose-950/60 dark:group-open:text-rose-400 transition-transform duration-200 flex-shrink-0">
+                <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                </svg>
+              </div>
+            </summary>
+            <div class="mt-3 pt-3 border-t border-slate-100 dark:border-slate-800 text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed faq-a-text" data-faq-id="5">
+              Anda dapat bergabung di Channel Telegram kami di <a href="https://t.me/trikandroidgold" target="_blank" class="text-rose-600 dark:text-rose-400 font-bold underline hover:opacity-80">@trikandroidgold</a> dan mengikuti halaman Facebook kami di <a href="https://web.facebook.com/Trikandroidgold" target="_blank" class="text-blue-600 dark:text-blue-400 font-bold underline hover:opacity-80">@Trikandroidgold</a> untuk mendapatkan info kupon gratis seketika begitu dirilis.
+            </div>
+          </details>
 
         </div>
 
@@ -200,9 +256,241 @@ const categories = Object.keys(categoryCounts)
 
 </BaseLayout>
 
-<!-- Client-side Interactive Filter, Search & Pagination (Load More) Logic -->
+<!-- Client-side Interactive Filter, Search, Pagination & Bilingual (ID/EN) Logic -->
 <script is:inline>
   document.addEventListener('DOMContentLoaded', () => {
+    // -------------------------------------------------------------
+    // 1. DICTIONARY & BILINGUAL ENGINE (ID / EN)
+    // -------------------------------------------------------------
+    const i18n = {
+      id: {
+        nav_active_courses: (n) => `${n} Kursus Aktif`,
+        nav_catalog: 'Katalog Kursus',
+        nav_faq: 'FAQ & Panduan',
+        hero_pill: 'Kupon Terverifikasi Aktif Hari Ini',
+        hero_headline: 'Kupon Diskon <span class="text-transparent bg-clip-text bg-gradient-to-r from-rose-600 via-rose-500 to-amber-500">100% Gratis</span> Kursus Udemy',
+        hero_subtitle: 'Akses materi pembelajaran premium dari instruktur Udemy terkemuka. Lengkap dengan sertifikat kelulusan resmi dan hak akses seumur hidup tanpa biaya sepeser pun.',
+        badge_available: 'Tersedia',
+        badge_legal_title: '100% Legal',
+        badge_legal_sub: 'Resmi Instruktur',
+        badge_cert_title: 'Sertifikat',
+        badge_cert_sub: 'Kelulusan Resmi',
+        badge_life_title: 'Lifetime',
+        badge_life_sub: 'Akses Selamanya',
+        catalog_badge: 'Katalog Pilihan',
+        catalog_title: 'Eksplorasi Kupon Kursus Gratis',
+        catalog_desc: 'Gunakan filter pencarian instan untuk menemukan materi yang sesuai dengan target belajar Anda.',
+        search_placeholder: 'Cari kursus (cth: Python, Figma, Excel)...',
+        sort_label: 'Urutkan:',
+        sort_default: 'Terbaru',
+        sort_rating: 'Rating Tertinggi',
+        sort_title: 'Judul (A - Z)',
+        count_courses_label: 'Kursus',
+        cat_all: 'Semua',
+        load_more_btn: (n) => `Tampilkan ${n} Kursus Lainnya`,
+        pagination_status: (displayed, total) => `Menampilkan ${displayed} dari ${total} kursus`,
+        all_loaded: '✓ Seluruh kursus telah ditampilkan',
+        empty_title: 'Tidak ada kursus yang cocok',
+        empty_desc: 'Kriteria pencarian Anda tidak menemukan hasil. Cobalah kata kunci lain atau pilih Semua Kategori.',
+        reset_btn: 'Reset Pencarian',
+        copy_coupon_btn: 'Salin Kupon',
+        copied_btn: 'Tersalin!',
+        open_udemy_btn: 'Buka di Udemy',
+        free_label: 'GRATIS',
+        toast_copied: (code) => `Kupon "${code}" berhasil disalin!`,
+        faq_section_title: 'Pertanyaan yang Sering Diajukan (FAQ)',
+        faq_section_subtitle: 'Panduan lengkap memanfaatkan kupon diskon 100% Udemy secara optimal.',
+        footer_about: 'Direktori kurasi kupon diskon 100% dan kursus gratis Udemy legal dengan sertifikat resmi dan akses seumur hidup.',
+        footer_nav_title: 'Navigasi',
+        footer_nav_catalog: 'Semua Kursus',
+        footer_nav_faq: 'Cara Klaim Kupon & FAQ',
+        footer_claim_title: 'Cara Klaim Kupon',
+        footer_step_1: 'Klik "Buka di Udemy" pada kursus pilihan Anda.',
+        footer_step_2: 'Pastikan harga tertera Gratis / Free / Rp0 sebelum checkout.',
+        footer_step_3: 'Klik "Daftar Sekarang" untuk menyimpan kursus permanen.',
+        footer_disclaimer: '<strong>Disclaimer:</strong> UdemyTAG adalah proyek direktori independen dan tidak berafiliasi secara resmi dengan Udemy, Inc. Seluruh merek dagang dan konten merupakan hak milik masing-masing pemiliknya. Kupon diskon 100% memiliki batas kuota klaim maksimal yang diatur oleh instruktur.',
+        footer_back_to_top: 'Kembali ke Atas',
+        faqs: {
+          1: {
+            q: 'Bagaimana cara klaim kursus agar harganya menjadi Rp0?',
+            a: 'Klik tombol <strong>"Buka di Udemy"</strong> pada kartu kursus. Tautan tersebut sudah secara otomatis menyematkan kode kupon diskon 100%. Pastikan harga yang tertera di halaman kursus Udemy adalah <strong>Free / Gratis (Rp0)</strong> sebelum menekan tombol "Daftar Sekarang" (Enroll Now).'
+          },
+          2: {
+            q: 'Mengapa saat saya buka, harganya kembali berbayar?',
+            a: 'Kupon diskon 100% yang diterbitkan oleh instruktur Udemy memiliki <strong>batas kuota maksimal</strong> (biasanya 500 hingga 1.000 klaim di seluruh dunia) atau batas waktu tertentu (1 - 3 hari). Jika kuota klaim telah habis, Udemy otomatis mengembalikan harga ke nominal semula. Selalu klaim secepatnya saat kursus baru muncul di UdemyTAG.'
+          },
+          3: {
+            q: 'Apakah kursus yang diklaim gratis tetap mendapatkan Sertifikat Resmi?',
+            a: '<strong>Ya, 100% resmi!</strong> Karena Anda mendaftar menggunakan kupon diskon resmi dari pembuat kursus, Anda terdaftar sebagai siswa resmi dan berhak mendapatkan sertifikat kelulusan digital (Certificate of Completion) setelah menyelesaikan seluruh materi.'
+          },
+          4: {
+            q: 'Apakah akses materi kursus berlaku seumur hidup?',
+            a: 'Ya, setelah berhasil menambahkan kursus ke akun Udemy Anda, kursus tersebut akan tersimpan permanen di menu "My Learning" dan dapat diakses kapan saja tanpa batas waktu kedaluwarsa.'
+          },
+          5: {
+            q: 'Di mana saya bisa mendapatkan pemberitahuan kupon rilis paling cepat?',
+            a: 'Anda dapat bergabung di Channel Telegram kami di <a href="https://t.me/trikandroidgold" target="_blank" class="text-rose-600 dark:text-rose-400 font-bold underline hover:opacity-80">@trikandroidgold</a> dan mengikuti halaman Facebook kami di <a href="https://web.facebook.com/Trikandroidgold" target="_blank" class="text-blue-600 dark:text-blue-400 font-bold underline hover:opacity-80">@Trikandroidgold</a> untuk mendapatkan info kupon gratis seketika begitu dirilis.'
+          }
+        }
+      },
+      en: {
+        nav_active_courses: (n) => `${n} Active Courses`,
+        nav_catalog: 'Course Catalog',
+        nav_faq: 'FAQ & Guide',
+        hero_pill: 'Verified Active Coupons Today',
+        hero_headline: '<span class="text-transparent bg-clip-text bg-gradient-to-r from-rose-600 via-rose-500 to-amber-500">100% Free</span> Udemy Course Discount Coupons',
+        hero_subtitle: 'Access premium learning materials from top Udemy instructors. Complete with official certificate of completion and lifetime access at zero cost.',
+        badge_available: 'Available',
+        badge_legal_title: '100% Legal',
+        badge_legal_sub: 'Official Instructors',
+        badge_cert_title: 'Certificate',
+        badge_cert_sub: 'Official Completion',
+        badge_life_title: 'Lifetime',
+        badge_life_sub: 'Forever Access',
+        catalog_badge: 'Featured Catalog',
+        catalog_title: 'Explore Free Course Coupons',
+        catalog_desc: 'Use instant search filters to discover courses matching your learning goals.',
+        search_placeholder: 'Search courses (e.g. Python, Figma, Excel)...',
+        sort_label: 'Sort by:',
+        sort_default: 'Newest',
+        sort_rating: 'Highest Rating',
+        sort_title: 'Title (A - Z)',
+        count_courses_label: 'Courses',
+        cat_all: 'All',
+        load_more_btn: (n) => `Show ${n} More Courses`,
+        pagination_status: (displayed, total) => `Showing ${displayed} of ${total} courses`,
+        all_loaded: '✓ All courses loaded',
+        empty_title: 'No matching courses found',
+        empty_desc: 'Your search query did not return any courses. Try different keywords or select All Categories.',
+        reset_btn: 'Reset Search',
+        copy_coupon_btn: 'Copy Coupon',
+        copied_btn: 'Copied!',
+        open_udemy_btn: 'Open in Udemy',
+        free_label: 'FREE',
+        toast_copied: (code) => `Coupon "${code}" copied to clipboard!`,
+        faq_section_title: 'Frequently Asked Questions (FAQ)',
+        faq_section_subtitle: 'Comprehensive guide to claiming 100% off Udemy coupons effectively.',
+        footer_about: 'Curated directory of 100% discount coupons and verified free Udemy courses with certificates and lifetime access.',
+        footer_nav_title: 'Navigation',
+        footer_nav_catalog: 'All Courses',
+        footer_nav_faq: 'How to Claim & FAQ',
+        footer_claim_title: 'How to Claim Coupon',
+        footer_step_1: 'Click "Open in Udemy" on your selected course.',
+        footer_step_2: 'Ensure the price shows Free / $0 before checkout.',
+        footer_step_3: 'Click "Enroll Now" to keep the course permanently in your account.',
+        footer_disclaimer: '<strong>Disclaimer:</strong> UdemyTAG is an independent directory and is not officially affiliated with or endorsed by Udemy, Inc. All trademarks and content belong to their respective owners. 100% discount coupons have maximum claim quotas determined by the instructors.',
+        footer_back_to_top: 'Back to Top',
+        faqs: {
+          1: {
+            q: 'How do I claim a course so the price becomes $0 / Free?',
+            a: 'Click the <strong>"Open in Udemy"</strong> button on the course card. The link automatically applies the 100% discount coupon code. Ensure the price displayed on the Udemy course page is <strong>Free ($0)</strong> before clicking "Enroll Now".'
+          },
+          2: {
+            q: 'Why does the course show a price instead of free when I open it?',
+            a: '100% discount coupons issued by Udemy instructors have a <strong>maximum claim quota</strong> (typically 500 to 1,000 enrollments worldwide) or a short expiration period (1 to 3 days). Once the quota runs out, Udemy automatically reverts the price to full. Always claim courses as early as possible.'
+          },
+          3: {
+            q: 'Do courses enrolled with free coupons still grant an Official Certificate?',
+            a: '<strong>Yes, 100% official!</strong> Because you are enrolling through an official instructor discount coupon, you are registered as a regular student and entitled to a digital Certificate of Completion upon finishing the course.'
+          },
+          4: {
+            q: 'Is access to course materials truly lifetime?',
+            a: 'Yes, once successfully added to your Udemy account, the course is permanently saved in your "My Learning" section and accessible anytime with no expiration date.'
+          },
+          5: {
+            q: 'Where can I get real-time updates for new coupon releases?',
+            a: 'You can join our Telegram Channel at <a href="https://t.me/trikandroidgold" target="_blank" class="text-rose-600 dark:text-rose-400 font-bold underline hover:opacity-80">@trikandroidgold</a> and follow our Facebook Page at <a href="https://web.facebook.com/Trikandroidgold" target="_blank" class="text-blue-600 dark:text-blue-400 font-bold underline hover:opacity-80">@Trikandroidgold</a> for instant coupon alerts.'
+          }
+        }
+      }
+    };
+
+    let currentLang = localStorage.getItem('lang') || 'id';
+    const langToggleBtn = document.getElementById('lang-toggle-btn');
+    const langCurrentLabel = document.getElementById('lang-current-label');
+
+    function applyLanguage(lang) {
+      currentLang = lang;
+      localStorage.setItem('lang', lang);
+      document.documentElement.lang = lang;
+
+      // Update toggle button text
+      if (langCurrentLabel) {
+        langCurrentLabel.textContent = lang.toUpperCase();
+      }
+
+      const dict = i18n[lang] || i18n.id;
+
+      // Update elements with data-i18n
+      document.querySelectorAll('[data-i18n]').forEach((el) => {
+        const key = el.getAttribute('data-i18n');
+        if (dict[key]) {
+          if (typeof dict[key] === 'function') {
+            // function like active courses
+            const total = document.querySelectorAll('.course-card').length;
+            el.innerHTML = dict[key](total);
+          } else {
+            el.innerHTML = dict[key];
+          }
+        }
+      });
+
+      // Update search input placeholder
+      const searchInputEl = document.getElementById('search-input');
+      if (searchInputEl) {
+        searchInputEl.placeholder = dict.search_placeholder;
+      }
+
+      // Update card buttons & badges
+      document.querySelectorAll('.copy-btn-text').forEach((el) => {
+        if (!el.closest('.copy-coupon-btn')?.classList.contains('border-emerald-500')) {
+          el.textContent = dict.copy_coupon_btn;
+        }
+      });
+      document.querySelectorAll('.open-btn-text').forEach((el) => {
+        el.textContent = dict.open_udemy_btn;
+      });
+      document.querySelectorAll('.free-badge-label').forEach((el) => {
+        el.textContent = dict.free_label;
+      });
+
+      // Update Category "Semua" / "All"
+      const catAllLabel = document.querySelector('[data-category="all"] .cat-label');
+      if (catAllLabel) {
+        catAllLabel.textContent = dict.cat_all;
+      }
+
+      // Update FAQ Accordions
+      if (dict.faqs) {
+        document.querySelectorAll('.faq-q-text').forEach((el) => {
+          const id = el.getAttribute('data-faq-id');
+          if (dict.faqs[id]) el.innerHTML = dict.faqs[id].q;
+        });
+        document.querySelectorAll('.faq-a-text').forEach((el) => {
+          const id = el.getAttribute('data-faq-id');
+          if (dict.faqs[id]) el.innerHTML = dict.faqs[id].a;
+        });
+      }
+
+      // Update Load more message
+      const allLoadedMsg = document.getElementById('all-loaded-message');
+      if (allLoadedMsg) allLoadedMsg.textContent = dict.all_loaded;
+
+      // Re-run filter count labels
+      if (typeof filterAndSortCourses === 'function') {
+        filterAndSortCourses();
+      }
+    }
+
+    // Language toggle click
+    langToggleBtn?.addEventListener('click', () => {
+      const nextLang = currentLang === 'id' ? 'en' : 'id';
+      applyLanguage(nextLang);
+    });
+
+    // -------------------------------------------------------------
+    // 2. SEARCH, FILTER & PAGINATION (LOAD MORE)
+    // -------------------------------------------------------------
     const searchInput = document.getElementById('search-input');
     const clearSearchBtn = document.getElementById('clear-search-btn');
     const sortSelect = document.getElementById('sort-select');
@@ -238,6 +526,7 @@ const categories = Object.keys(categoryCounts)
 
     // Helper filter & paginasi kursus
     function filterAndSortCourses() {
+      const dict = i18n[currentLang] || i18n.id;
       const cards = Array.from(document.querySelectorAll('.course-card'));
       
       // 1. Tentukan kartu mana yang cocok dengan pencarian & kategori
@@ -298,6 +587,11 @@ const categories = Object.keys(categoryCounts)
       if (displayedCountSpan) displayedCountSpan.textContent = displayedCount.toString();
       if (totalMatchingCountSpan) totalMatchingCountSpan.textContent = totalMatching.toString();
 
+      const paginationStatusEl = document.getElementById('pagination-status');
+      if (paginationStatusEl) {
+        paginationStatusEl.innerHTML = dict.pagination_status(displayedCount, totalMatching);
+      }
+
       // 5. Update status tombol Load More
       const remaining = totalMatching - displayedCount;
       if (remaining > 0) {
@@ -307,9 +601,9 @@ const categories = Object.keys(categoryCounts)
         if (remainingCountBadge) {
           const nextBatch = Math.min(PAGE_SIZE, remaining);
           remainingCountBadge.textContent = `+${remaining}`;
-          const btnTextSpan = loadMoreBtn?.querySelector('span');
-          if (btnTextSpan) {
-            btnTextSpan.textContent = `Tampilkan ${nextBatch} Kursus Lainnya`;
+          const loadMoreText = loadMoreBtn?.querySelector('.load-more-text');
+          if (loadMoreText) {
+            loadMoreText.textContent = dict.load_more_btn(nextBatch);
           }
         }
       } else {
@@ -423,6 +717,7 @@ const categories = Object.keys(categoryCounts)
         const copyIcon = btn.querySelector('.copy-icon');
         const checkIcon = btn.querySelector('.check-icon');
         const btnText = btn.querySelector('.btn-text');
+        const dict = i18n[currentLang] || i18n.id;
 
         try {
           await navigator.clipboard.writeText(coupon);
@@ -430,17 +725,17 @@ const categories = Object.keys(categoryCounts)
           // Animasi Feedback
           copyIcon?.classList.add('hidden');
           checkIcon?.classList.remove('hidden');
-          if (btnText) btnText.textContent = 'Tersalin!';
+          if (btnText) btnText.textContent = dict.copied_btn;
           btn.classList.add('border-emerald-500', 'text-emerald-600', 'dark:text-emerald-400');
 
           if (window.showToast) {
-            window.showToast(`Kupon "${coupon}" berhasil disalin!`);
+            window.showToast(dict.toast_copied(coupon));
           }
 
           setTimeout(() => {
             copyIcon?.classList.remove('hidden');
             checkIcon?.classList.add('hidden');
-            if (btnText) btnText.textContent = 'Salin Kupon';
+            if (btnText) btnText.textContent = dict.copy_coupon_btn;
             btn.classList.remove('border-emerald-500', 'text-emerald-600', 'dark:text-emerald-400');
           }, 2000);
         } catch (err) {
@@ -452,8 +747,8 @@ const categories = Object.keys(categoryCounts)
       });
     });
 
-    // Inisialisasi awal paginasi
-    filterAndSortCourses();
+    // Terapkan bahasa saat inisialisasi awal
+    applyLanguage(currentLang);
 
   });
 </script>

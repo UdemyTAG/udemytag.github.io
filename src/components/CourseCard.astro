@@ -85,12 +85,12 @@ const catStyle = categoryColors[course.category] || {
 
       <div class="flex items-center gap-1 bg-black/70 backdrop-blur-md px-1.5 sm:px-2 py-0.5 rounded-md">
         <span class="line-through text-slate-300 text-[10px]">{course.originalPrice}</span>
-        <span class="text-emerald-400 font-extrabold uppercase">GRATIS</span>
+        <span class="free-badge-label text-emerald-400 font-extrabold uppercase">GRATIS</span>
       </div>
     </div>
   </div>
 
-  <!-- Course Body Content: Compact on mobile -->
+  <!-- Course Body Content -->
   <div class="flex flex-col flex-1 p-3.5 sm:p-5">
     
     <!-- Title -->
@@ -137,7 +137,7 @@ const catStyle = categoryColors[course.category] || {
         <svg class="check-icon hidden w-3.5 h-3.5 text-emerald-500 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/>
         </svg>
-        <span class="btn-text truncate">Salin Kupon</span>
+        <span class="btn-text copy-btn-text truncate">Salin Kupon</span>
       </button>
 
       <!-- Open in Udemy CTA -->
@@ -148,7 +148,7 @@ const catStyle = categoryColors[course.category] || {
         class="inline-flex items-center justify-center gap-1 px-2.5 py-2 sm:px-3 sm:py-2.5 rounded-xl text-xs font-bold bg-slate-900 hover:bg-rose-600 dark:bg-rose-600 dark:hover:bg-rose-500 text-white shadow-sm active:scale-95 transition-all focus:outline-none focus:ring-2 focus:ring-rose-500"
         aria-label={`Buka kursus ${course.title} di Udemy`}
       >
-        <span class="truncate">Buka di Udemy</span>
+        <span class="open-btn-text truncate">Buka di Udemy</span>
         <svg class="w-3.5 h-3.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
         </svg>
