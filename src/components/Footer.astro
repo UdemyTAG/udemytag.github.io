@@ -1,0 +1,103 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="mt-auto border-t border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 transition-colors">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 lg:py-16">
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-8 lg:gap-12">
+      
+      <!-- Brand & Info -->
+      <div class="md:col-span-2 space-y-4">
+        <div class="flex items-center gap-3">
+          <div class="w-9 h-9 rounded-xl bg-gradient-to-tr from-rose-600 to-amber-500 p-[2px]">
+            <div class="w-full h-full bg-slate-900 rounded-[10px] flex items-center justify-center">
+              <svg class="w-4 h-4 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                <path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/>
+                <line x1="12" x2="12" y1="7" y2="13"/>
+                <line x1="15" x2="9" y1="10" y2="10"/>
+              </svg>
+            </div>
+          </div>
+          <span class="text-xl font-extrabold tracking-tight text-slate-900 dark:text-white">UdemyTAG</span>
+        </div>
+
+        <p class="text-sm text-slate-600 dark:text-slate-400 max-w-md leading-relaxed">
+          Platform direktori kupon diskon 100% dan kursus gratis Udemy yang diperbarui otomatis secara real-time. Membantu talenta dan pembelajar meraih sertifikat kompetensi tanpa biaya.
+        </p>
+
+        <div class="pt-2 text-xs text-slate-500 dark:text-slate-400 space-y-1">
+          <p>⚡ <strong>Update Sinkronisasi:</strong> Setiap 6 jam via Google Sheets Pipeline</p>
+          <p>🛡️ <strong>Keamanan:</strong> Tautan kupon resmi langsung ke domain udemy.com</p>
+        </div>
+      </div>
+
+      <!-- Quick Links -->
+      <div>
+        <h4 class="text-sm font-bold uppercase tracking-wider text-slate-900 dark:text-white mb-4">
+          Navigasi Cepat
+        </h4>
+        <ul class="space-y-2.5 text-sm text-slate-600 dark:text-slate-400">
+          <li>
+            <a href="#katalog" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors">Semua Kursus</a>
+          </li>
+          <li>
+            <a href="#faq" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors">Cara Klaim Kupon</a>
+          </li>
+          <li>
+            <a href="/robots.txt" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors">Robots.txt</a>
+          </li>
+          <li>
+            <a href="/llms.txt" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors">LLMs.txt (AI Ingestion)</a>
+          </li>
+          <li>
+            <a href="https://github.com/UdemyTAG/udemytag.github.io" target="_blank" rel="noopener noreferrer" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors">GitHub Repository</a>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Panduan Klaim Ringkas -->
+      <div>
+        <h4 class="text-sm font-bold uppercase tracking-wider text-slate-900 dark:text-white mb-4">
+          Tips Belajar
+        </h4>
+        <ul class="space-y-2.5 text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+          <li class="flex items-start gap-2">
+            <span class="text-rose-500 font-bold">1.</span>
+            <span>Klik "Buka di Udemy" pada kursus yang ingin Anda ikuti.</span>
+          </li>
+          <li class="flex items-start gap-2">
+            <span class="text-rose-500 font-bold">2.</span>
+            <span>Pastikan harga tertera Rp0 / Free sebelum checkout.</span>
+          </li>
+          <li class="flex items-start gap-2">
+            <span class="text-rose-500 font-bold">3.</span>
+            <span>Klik "Daftar Sekarang" untuk menyimpan kursus permanen di akun Anda.</span>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+
+    <!-- Legal Disclaimer & Copyright -->
+    <div class="mt-12 pt-8 border-t border-slate-200 dark:border-slate-800 text-xs text-slate-500 dark:text-slate-400 space-y-4">
+      <div class="p-4 rounded-2xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200/80 dark:border-slate-800 leading-relaxed">
+        <strong>Pemberitahuan & Disclaimer Afiliasi:</strong> UdemyTAG adalah proyek komunitas dan direktori independen untuk kurasi informasi kupon promosi. UdemyTAG tidak berafiliasi, tidak bermitra resmi, dan tidak disponsori oleh Udemy, Inc. Semua merek dagang, logo, materi kursus, dan gambar adalah hak cipta milik pencipta dan Udemy, Inc. Setiap kupon diskon 100% memiliki batas kuota klaim maksimal serta batas kedaluwarsa yang ditentukan sepenuhnya oleh masing-masing instruktur.
+      </div>
+
+      <div class="flex flex-col sm:flex-row items-center justify-between gap-4 pt-2">
+        <p>&copy; {year} UdemyTAG. Seluruh hak cipta dilindungi undang-undang.</p>
+        <div class="flex items-center gap-4">
+          <a href="/robots.txt" class="hover:underline">Robots</a>
+          <a href="/llms.txt" class="hover:underline">LLMs</a>
+          <a href="#top" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors flex items-center gap-1 font-semibold">
+            <span>Kembali ke Atas</span>
+            <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18" />
+            </svg>
+          </a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
