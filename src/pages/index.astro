@@ -53,126 +53,139 @@ const categories = Object.keys(categoryCounts)
     <HeroSection totalCourses={coursesData.length} />
 
     <!-- Catalog Section -->
-    <section id="katalog" class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 sm:py-14">
+    <section id="katalog" class="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 py-6 sm:py-12">
       
       <!-- Section Header -->
-      <div class="flex flex-col md:flex-row md:items-end justify-between gap-4 mb-8">
+      <div class="flex flex-col md:flex-row md:items-end justify-between gap-2 sm:gap-4 mb-4 sm:mb-6">
         <div>
-          <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg text-xs font-bold bg-rose-100 dark:bg-rose-950/60 text-rose-700 dark:text-rose-300 mb-2">
-            <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+          <div class="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-lg text-[10px] sm:text-xs font-bold bg-rose-100 dark:bg-rose-950/60 text-rose-700 dark:text-rose-300 mb-1.5">
+            <svg class="w-3 h-3 sm:w-3.5 sm:h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
               <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
             </svg>
-            <span>Katalog Terverifikasi</span>
+            <span>Katalog Pilihan</span>
           </div>
-          <h2 class="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight">
+          <h2 class="text-xl sm:text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight">
             Eksplorasi Kupon Kursus Gratis
           </h2>
-          <p class="text-sm text-slate-600 dark:text-slate-400 mt-1">
+          <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mt-0.5">
             Gunakan filter pencarian instan untuk menemukan materi yang sesuai dengan target belajar Anda.
           </p>
         </div>
       </div>
 
       <!-- Search & Filters Toolbar -->
-      <div class="space-y-4 mb-8 bg-slate-100/70 dark:bg-slate-900/50 p-4 sm:p-5 rounded-3xl border border-slate-200/80 dark:border-slate-800">
+      <div class="space-y-3 mb-6 bg-slate-100/80 dark:bg-slate-900/60 p-3 sm:p-4 rounded-2xl border border-slate-200/80 dark:border-slate-800">
         <SearchBar totalCount={coursesData.length} />
         <CategoryFilter categories={categories} />
       </div>
 
-      <!-- Course Cards Grid -->
+      <!-- Course Cards Grid: 12 courses initial load with Load More -->
       <div 
         id="courses-grid" 
-        class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6"
+        class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3.5 sm:gap-6"
       >
         {coursesData.map((course) => (
           <CourseCard course={course} />
         ))}
       </div>
 
+      <!-- Load More / Pagination Button Container -->
+      <div id="load-more-container" class="mt-8 sm:mt-12 flex flex-col items-center justify-center gap-2.5">
+        <button
+          id="load-more-btn"
+          type="button"
+          class="inline-flex items-center gap-2 px-6 py-3 rounded-2xl text-xs sm:text-sm font-bold bg-slate-900 hover:bg-rose-600 dark:bg-rose-600 dark:hover:bg-rose-500 text-white shadow-md shadow-slate-900/10 dark:shadow-rose-600/20 active:scale-95 transition-all"
+        >
+          <span>Tampilkan 12 Kursus Lainnya</span>
+          <span id="remaining-count-badge" class="px-2 py-0.5 rounded-full text-[10px] bg-white/20 text-white font-mono">
+            +68
+          </span>
+        </button>
+
+        <p id="pagination-status" class="text-xs text-slate-500 dark:text-slate-400 font-medium">
+          Menampilkan <span id="displayed-count">12</span> dari <span id="total-matching-count">80</span> kursus
+        </p>
+
+        <div id="all-loaded-message" class="hidden text-xs font-semibold text-emerald-600 dark:text-emerald-400 bg-emerald-50 dark:bg-emerald-950/40 border border-emerald-200/80 dark:border-emerald-800/80 px-4 py-1.5 rounded-full">
+          ✓ Seluruh kursus telah ditampilkan
+        </div>
+      </div>
+
       <!-- Empty State -->
       <div 
         id="empty-state" 
-        class="hidden py-16 px-4 text-center max-w-md mx-auto"
+        class="hidden py-12 px-4 text-center max-w-md mx-auto"
       >
-        <div class="w-16 h-16 mx-auto mb-4 rounded-2xl bg-slate-100 dark:bg-slate-800 text-slate-400 flex items-center justify-center">
-          <svg class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <div class="w-14 h-14 mx-auto mb-3 rounded-2xl bg-slate-100 dark:bg-slate-800 text-slate-400 flex items-center justify-center">
+          <svg class="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
           </svg>
         </div>
-        <h3 class="text-lg font-bold text-slate-900 dark:text-white">
+        <h3 class="text-base font-bold text-slate-900 dark:text-white">
           Tidak ada kursus yang cocok
         </h3>
-        <p class="text-sm text-slate-500 dark:text-slate-400 mt-1 mb-6">
-          Kriteria pencarian Anda tidak menemukan hasil apapun. Cobalah menggunakan kata kunci yang lebih umum.
+        <p class="text-xs text-slate-500 dark:text-slate-400 mt-1 mb-5">
+          Kriteria pencarian Anda tidak menemukan hasil. Cobalah kata kunci lain atau pilih Semua Kategori.
         </p>
         <button
           id="reset-filter-btn"
           type="button"
-          class="px-5 py-2.5 rounded-xl text-xs font-bold bg-rose-600 hover:bg-rose-500 text-white shadow-md shadow-rose-600/30 transition-all"
+          class="px-4 py-2 rounded-xl text-xs font-bold bg-rose-600 hover:bg-rose-500 text-white shadow-md shadow-rose-600/30 transition-all"
         >
-          Reset Pencarian & Kategori
+          Reset Pencarian
         </button>
       </div>
 
     </section>
 
     <!-- FAQ Section -->
-    <section id="faq" class="border-t border-slate-200/80 dark:border-slate-800 bg-white/50 dark:bg-slate-900/30 py-16">
+    <section id="faq" class="border-t border-slate-200/80 dark:border-slate-800 bg-white/50 dark:bg-slate-900/30 py-10 sm:py-16">
       <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         
-        <div class="text-center mb-12">
-          <h2 class="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight">
+        <div class="text-center mb-8 sm:mb-12">
+          <h2 class="text-xl sm:text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight">
             Pertanyaan yang Sering Diajukan (FAQ)
           </h2>
-          <p class="text-sm text-slate-600 dark:text-slate-400 mt-2">
+          <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mt-1.5">
             Panduan lengkap memanfaatkan kupon diskon 100% Udemy secara optimal.
           </p>
         </div>
 
-        <div class="space-y-4">
+        <div class="space-y-3 sm:space-y-4">
           
-          <div class="p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm">
-            <h3 class="text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
+          <div class="p-4 sm:p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm">
+            <h3 class="text-sm sm:text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
               <span class="text-rose-500">Q:</span> Bagaimana cara klaim kursus agar harganya menjadi Rp0?
             </h3>
-            <p class="mt-2 text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+            <p class="mt-1.5 text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
               Klik tombol <strong>"Buka di Udemy"</strong> pada kartu kursus. Tautan tersebut sudah secara otomatis menyematkan kode kupon diskon 100%. Pastikan harga yang tertera di halaman kursus Udemy adalah <strong>Free / Gratis (Rp0)</strong> sebelum menekan tombol "Daftar Sekarang" (Enroll Now).
             </p>
           </div>
 
-          <div class="p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm">
-            <h3 class="text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
-              <span class="text-rose-500">Q:</span> Mengapa saat saya buka, harganya kembali normal/berbayar?
+          <div class="p-4 sm:p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm">
+            <h3 class="text-sm sm:text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
+              <span class="text-rose-500">Q:</span> Mengapa saat saya buka, harganya kembali berbayar?
             </h3>
-            <p class="mt-2 text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+            <p class="mt-1.5 text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
               Kupon diskon 100% yang diterbitkan oleh instruktur Udemy memiliki <strong>batas kuota maksimal</strong> (biasanya 500 hingga 1.000 klaim di seluruh dunia) atau batas waktu tertentu (1 - 3 hari). Jika kuota klaim telah habis, Udemy otomatis mengembalikan harga ke nominal semula. Selalu klaim secepatnya saat kursus baru muncul di UdemyTAG.
             </p>
           </div>
 
-          <div class="p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm">
-            <h3 class="text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
+          <div class="p-4 sm:p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm">
+            <h3 class="text-sm sm:text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
               <span class="text-rose-500">Q:</span> Apakah kursus yang diklaim gratis tetap mendapatkan Sertifikat Resmi?
             </h3>
-            <p class="mt-2 text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+            <p class="mt-1.5 text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
               <strong>Ya, 100% resmi!</strong> Karena kursus ini didaftarkan menggunakan kupon diskon resmi dari pembuat kursus, Anda terdaftar sebagai siswa resmi dan berhak mendapatkan sertifikat kelulusan digital (Certificate of Completion) setelah menyelesaikan seluruh materi.
             </p>
           </div>
 
-          <div class="p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm">
-            <h3 class="text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
+          <div class="p-4 sm:p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm">
+            <h3 class="text-sm sm:text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
               <span class="text-rose-500">Q:</span> Apakah akses materi kursus berlaku seumur hidup?
             </h3>
-            <p class="mt-2 text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+            <p class="mt-1.5 text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
               Ya, setelah berhasil menambahkan kursus ke akun Udemy Anda, kursus tersebut akan tersimpan permanen di menu "My Learning" dan dapat diakses kapan saja tanpa batas waktu kedaluwarsa.
-            </p>
-          </div>
-
-          <div class="p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm">
-            <h3 class="text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
-              <span class="text-rose-500">Q:</span> Seberapa sering UdemyTAG memperbarui daftar kursus?
-            </h3>
-            <p class="mt-2 text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
-              UdemyTAG menggunakan sistem CI/CD GitHub Actions terotomatisasi yang melakukan sinkronisasi data langsung dari Google Sheets setiap <strong>6 jam sekali</strong> untuk memastikan Anda selalu mendapatkan kupon yang masih segar dan aktif.
             </p>
           </div>
 
@@ -187,7 +200,7 @@ const categories = Object.keys(categoryCounts)
 
 </BaseLayout>
 
-<!-- Client-side Interactive Filter & Search Logic -->
+<!-- Client-side Interactive Filter, Search & Pagination (Load More) Logic -->
 <script is:inline>
   document.addEventListener('DOMContentLoaded', () => {
     const searchInput = document.getElementById('search-input');
@@ -199,6 +212,17 @@ const categories = Object.keys(categoryCounts)
     const resetFilterBtn = document.getElementById('reset-filter-btn');
     const categoryButtons = document.querySelectorAll('.cat-filter-btn');
     const copyButtons = document.querySelectorAll('.copy-coupon-btn');
+
+    // Pagination elements
+    const loadMoreBtn = document.getElementById('load-more-btn');
+    const loadMoreContainer = document.getElementById('load-more-container');
+    const displayedCountSpan = document.getElementById('displayed-count');
+    const totalMatchingCountSpan = document.getElementById('total-matching-count');
+    const remainingCountBadge = document.getElementById('remaining-count-badge');
+    const allLoadedMessage = document.getElementById('all-loaded-message');
+
+    const PAGE_SIZE = 12; // Jumlah kursus per batch
+    let visibleLimit = PAGE_SIZE;
 
     let currentCategory = 'all';
     let searchQuery = '';
@@ -212,11 +236,12 @@ const categories = Object.keys(categoryCounts)
       }
     });
 
-    // Helper filter kursus
+    // Helper filter & paginasi kursus
     function filterAndSortCourses() {
       const cards = Array.from(document.querySelectorAll('.course-card'));
-      let visibleCount = 0;
-
+      
+      // 1. Tentukan kartu mana yang cocok dengan pencarian & kategori
+      const matchingCards = [];
       cards.forEach((card) => {
         const title = card.getAttribute('data-title') || '';
         const category = card.getAttribute('data-category') || '';
@@ -230,16 +255,15 @@ const categories = Object.keys(categoryCounts)
           instructor.includes(searchQuery);
 
         if (matchesCategory && matchesQuery) {
-          card.classList.remove('hidden');
-          visibleCount++;
+          matchingCards.push(card);
         } else {
           card.classList.add('hidden');
         }
       });
 
-      // Update urutan jika perlu
+      // 2. Urutkan matching cards jika diperlukan
       if (currentSort !== 'default') {
-        const sortedCards = [...cards].sort((a, b) => {
+        matchingCards.sort((a, b) => {
           if (currentSort === 'rating-desc') {
             const rA = parseFloat(a.getAttribute('data-rating') || '0');
             const rB = parseFloat(b.getAttribute('data-rating') || '0');
@@ -252,27 +276,76 @@ const categories = Object.keys(categoryCounts)
           return 0;
         });
 
-        sortedCards.forEach((card) => coursesGrid.appendChild(card));
+        // Re-append ke container sesuai urutan
+        matchingCards.forEach((card) => coursesGrid?.appendChild(card));
       }
 
-      // Update hitungan
-      if (filteredCountSpan) {
-        filteredCountSpan.textContent = visibleCount.toString();
+      const totalMatching = matchingCards.length;
+
+      // 3. Terapkan batas paginasi (Load More)
+      let displayedCount = 0;
+      matchingCards.forEach((card, index) => {
+        if (index < visibleLimit) {
+          card.classList.remove('hidden');
+          displayedCount++;
+        } else {
+          card.classList.add('hidden');
+        }
+      });
+
+      // 4. Update indikator hitungan
+      if (filteredCountSpan) filteredCountSpan.textContent = totalMatching.toString();
+      if (displayedCountSpan) displayedCountSpan.textContent = displayedCount.toString();
+      if (totalMatchingCountSpan) totalMatchingCountSpan.textContent = totalMatching.toString();
+
+      // 5. Update status tombol Load More
+      const remaining = totalMatching - displayedCount;
+      if (remaining > 0) {
+        loadMoreBtn?.classList.remove('hidden');
+        allLoadedMessage?.classList.add('hidden');
+        loadMoreContainer?.classList.remove('hidden');
+        if (remainingCountBadge) {
+          const nextBatch = Math.min(PAGE_SIZE, remaining);
+          remainingCountBadge.textContent = `+${remaining}`;
+          const btnTextSpan = loadMoreBtn?.querySelector('span');
+          if (btnTextSpan) {
+            btnTextSpan.textContent = `Tampilkan ${nextBatch} Kursus Lainnya`;
+          }
+        }
+      } else {
+        loadMoreBtn?.classList.add('hidden');
+        if (totalMatching > 0 && totalMatching > PAGE_SIZE) {
+          allLoadedMessage?.classList.remove('hidden');
+          loadMoreContainer?.classList.remove('hidden');
+        } else {
+          allLoadedMessage?.classList.add('hidden');
+          if (totalMatching <= PAGE_SIZE) {
+            loadMoreContainer?.classList.add('hidden');
+          }
+        }
       }
 
-      // Tampilkan/sembunyikan empty state
-      if (visibleCount === 0) {
+      // 6. Tampilkan/sembunyikan empty state
+      if (totalMatching === 0) {
         emptyState?.classList.remove('hidden');
         coursesGrid?.classList.add('hidden');
+        loadMoreContainer?.classList.add('hidden');
       } else {
         emptyState?.classList.add('hidden');
         coursesGrid?.classList.remove('hidden');
       }
     }
 
+    // Event tombol Load More
+    loadMoreBtn?.addEventListener('click', () => {
+      visibleLimit += PAGE_SIZE;
+      filterAndSortCourses();
+    });
+
     // Event input pencarian
     searchInput?.addEventListener('input', (e) => {
       searchQuery = e.target.value.trim().toLowerCase();
+      visibleLimit = PAGE_SIZE; // reset batas paginasi
       if (searchQuery.length > 0) {
         clearSearchBtn?.classList.remove('hidden');
       } else {
@@ -286,6 +359,7 @@ const categories = Object.keys(categoryCounts)
       if (searchInput) {
         searchInput.value = '';
         searchQuery = '';
+        visibleLimit = PAGE_SIZE;
         clearSearchBtn.classList.add('hidden');
         filterAndSortCourses();
         searchInput.focus();
@@ -297,13 +371,14 @@ const categories = Object.keys(categoryCounts)
       btn.addEventListener('click', () => {
         const cat = btn.getAttribute('data-category') || 'all';
         currentCategory = cat;
+        visibleLimit = PAGE_SIZE; // reset batas paginasi saat ganti kategori
 
         // Update styling tombol aktif
         categoryButtons.forEach((b) => {
-          b.className = 'cat-filter-btn px-4 py-2 rounded-xl text-xs font-semibold transition-all duration-200 flex items-center gap-2 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:border-rose-500/50 hover:text-rose-600 dark:hover:text-rose-400 shadow-sm';
+          b.className = 'cat-filter-btn px-2.5 py-1.5 sm:px-3.5 sm:py-2 rounded-xl text-[11px] sm:text-xs font-semibold transition-all duration-200 flex items-center gap-1.5 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:border-rose-500/50 hover:text-rose-600 dark:hover:text-rose-400 shadow-sm flex-shrink-0';
         });
 
-        btn.className = 'cat-filter-btn px-4 py-2 rounded-xl text-xs font-bold transition-all duration-200 flex items-center gap-2 bg-rose-600 text-white shadow-md shadow-rose-600/25 ring-2 ring-rose-600/30';
+        btn.className = 'cat-filter-btn px-3 py-1.5 sm:px-4 sm:py-2 rounded-xl text-[11px] sm:text-xs font-bold transition-all duration-200 flex items-center gap-1.5 bg-rose-600 text-white shadow-sm shadow-rose-600/25 ring-2 ring-rose-600/30 flex-shrink-0';
 
         filterAndSortCourses();
       });
@@ -312,6 +387,7 @@ const categories = Object.keys(categoryCounts)
     // Sort select
     sortSelect?.addEventListener('change', (e) => {
       currentSort = e.target.value;
+      visibleLimit = PAGE_SIZE;
       filterAndSortCourses();
     });
 
@@ -321,14 +397,15 @@ const categories = Object.keys(categoryCounts)
       searchQuery = '';
       clearSearchBtn?.classList.add('hidden');
       currentCategory = 'all';
+      visibleLimit = PAGE_SIZE;
 
       // Reset tombol kategori ke 'all'
       categoryButtons.forEach((b) => {
         const isAll = b.getAttribute('data-category') === 'all';
         if (isAll) {
-          b.className = 'cat-filter-btn px-4 py-2 rounded-xl text-xs font-bold transition-all duration-200 flex items-center gap-2 bg-rose-600 text-white shadow-md shadow-rose-600/25 ring-2 ring-rose-600/30';
+          b.className = 'cat-filter-btn px-3 py-1.5 sm:px-4 sm:py-2 rounded-xl text-[11px] sm:text-xs font-bold transition-all duration-200 flex items-center gap-1.5 bg-rose-600 text-white shadow-sm shadow-rose-600/25 ring-2 ring-rose-600/30 flex-shrink-0';
         } else {
-          b.className = 'cat-filter-btn px-4 py-2 rounded-xl text-xs font-semibold transition-all duration-200 flex items-center gap-2 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:border-rose-500/50 hover:text-rose-600 dark:hover:text-rose-400 shadow-sm';
+          b.className = 'cat-filter-btn px-2.5 py-1.5 sm:px-3.5 sm:py-2 rounded-xl text-[11px] sm:text-xs font-semibold transition-all duration-200 flex items-center gap-1.5 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:border-rose-500/50 hover:text-rose-600 dark:hover:text-rose-400 shadow-sm flex-shrink-0';
         }
       });
 
@@ -374,6 +451,9 @@ const categories = Object.keys(categoryCounts)
         }
       });
     });
+
+    // Inisialisasi awal paginasi
+    filterAndSortCourses();
 
   });
 </script>
