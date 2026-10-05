@@ -1,0 +1,290 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Navbar from '../../components/Navbar.astro';
+import Footer from '../../components/Footer.astro';
+import CourseCard from '../../components/CourseCard.astro';
+import coursesData from '../../data/courses.json';
+
+export async function getStaticPaths() {
+  return coursesData.map((course) => {
+    // 4 kursus rekomendasi dari kategori yang sama
+    const related = coursesData
+      .filter((c) => c.id !== course.id && (c.category === course.category || true))
+      .slice(0, 4);
+
+    return {
+      params: { id: course.id },
+      props: { course, related },
+    };
+  });
+}
+
+const { course, related = [] } = Astro.props;
+
+const pageTitle = `${course.title} - Kupon Diskon 100% Gratis | UdemyTAG`;
+const pageDescription = course.description || `Dapatkan akses gratis ke kursus ${course.title} dengan kupon diskon 100% terbaru di UdemyTAG.`;
+const currentUrl = `https://udemytag.github.io/course/${course.id}/`;
+
+const categoryColors: Record<string, { bg: string; text: string; border: string }> = {
+  'Development': { bg: 'bg-blue-50 dark:bg-blue-950/60', text: 'text-blue-700 dark:text-blue-300', border: 'border-blue-200 dark:border-blue-800/60' },
+  'Business': { bg: 'bg-emerald-50 dark:bg-emerald-950/60', text: 'text-emerald-700 dark:text-emerald-300', border: 'border-emerald-200 dark:border-emerald-800/60' },
+  'Design': { bg: 'bg-purple-50 dark:bg-purple-950/60', text: 'text-purple-700 dark:text-purple-300', border: 'border-purple-200 dark:border-purple-800/60' },
+  'IT & Software': { bg: 'bg-amber-50 dark:bg-amber-950/60', text: 'text-amber-700 dark:text-amber-300', border: 'border-amber-200 dark:border-amber-800/60' },
+  'Marketing': { bg: 'bg-rose-50 dark:bg-rose-950/60', text: 'text-rose-700 dark:text-rose-300', border: 'border-rose-200 dark:border-rose-800/60' },
+  'Personal Development': { bg: 'bg-teal-50 dark:bg-teal-950/60', text: 'text-teal-700 dark:text-teal-300', border: 'border-teal-200 dark:border-teal-800/60' },
+};
+
+const catStyle = categoryColors[course.category] || {
+  bg: 'bg-slate-100 dark:bg-slate-800',
+  text: 'text-slate-700 dark:text-slate-300',
+  border: 'border-slate-200 dark:border-slate-700'
+};
+---
+
+<BaseLayout
+  title={pageTitle}
+  description={pageDescription}
+  image={course.image}
+  courses={[course]}
+>
+  <Navbar totalCourses={coursesData.length} />
+
+  <main class="flex-1 max-w-5xl mx-auto px-3 sm:px-6 lg:px-8 py-6 sm:py-10">
+    
+    <!-- Breadcrumb Navigation -->
+    <nav class="flex items-center gap-2 text-xs text-slate-500 dark:text-slate-400 mb-5">
+      <a href="/" class="hover:text-rose-600 dark:hover:text-rose-400 flex items-center gap-1 transition-colors">
+        <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>
+        </svg>
+        <span>Beranda</span>
+      </a>
+      <span>/</span>
+      <a href={`/?cat=${course.category.toLowerCase()}#katalog`} class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors">
+        {course.category}
+      </a>
+      <span>/</span>
+      <span class="truncate max-w-[200px] text-slate-700 dark:text-slate-200 font-semibold">{course.title}</span>
+    </nav>
+
+    <!-- Main Course Card Presentation -->
+    <div class="bg-white dark:bg-slate-900 rounded-3xl border border-slate-200/90 dark:border-slate-800/90 overflow-hidden shadow-xl">
+      <div class="grid grid-cols-1 md:grid-cols-12 gap-0">
+        
+        <!-- Media Column -->
+        <div class="md:col-span-6 relative aspect-video md:aspect-auto overflow-hidden bg-slate-900">
+          <img
+            src={course.image}
+            alt={course.title}
+            class="w-full h-full object-cover"
+            onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&auto=format&fit=crop&q=80';"
+          />
+          <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-black/30 pointer-events-none"></div>
+
+          <!-- 100% OFF Badge -->
+          <div class="absolute top-3 left-3 flex items-center gap-1.5 px-3 py-1 rounded-xl text-xs font-black bg-emerald-500 text-white shadow-lg shadow-emerald-500/40 uppercase tracking-wider">
+            <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+              <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+            </svg>
+            <span>100% OFF / FREE</span>
+          </div>
+
+          <!-- Category Pill -->
+          <div class="absolute top-3 right-3">
+            <span class={`text-xs font-bold px-3 py-1 rounded-xl border backdrop-blur-md shadow-md ${catStyle.bg} ${catStyle.text} ${catStyle.border}`}>
+              {course.category}
+            </span>
+          </div>
+
+          <!-- Bottom bar on media -->
+          <div class="absolute bottom-3 left-3 right-3 flex items-center justify-between text-white text-xs font-bold">
+            <div class="flex items-center gap-1 bg-black/70 backdrop-blur-md px-2.5 py-1 rounded-lg">
+              <svg class="w-4 h-4 text-amber-400 fill-amber-400" viewBox="0 0 24 24">
+                <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+              </svg>
+              <span>Rating {course.rating} / 5.0</span>
+            </div>
+
+            <div class="flex items-center gap-1.5 bg-black/70 backdrop-blur-md px-2.5 py-1 rounded-lg">
+              <span class="line-through text-slate-300 text-xs">{course.originalPrice}</span>
+              <span class="text-emerald-400 font-extrabold text-sm uppercase">GRATIS</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Details Column -->
+        <div class="md:col-span-6 p-5 sm:p-8 flex flex-col justify-between">
+          <div>
+            <h1 class="text-lg sm:text-2xl font-extrabold text-slate-900 dark:text-white leading-snug tracking-tight">
+              {course.title}
+            </h1>
+
+            <p class="mt-3 text-xs sm:text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
+              {course.description}
+            </p>
+
+            <!-- Metadata Box -->
+            <div class="mt-5 p-3.5 rounded-2xl bg-slate-50 dark:bg-slate-800/60 border border-slate-200/80 dark:border-slate-800 grid grid-cols-2 gap-3 text-xs">
+              <div>
+                <span class="text-slate-400 text-[10px] block">Instruktur</span>
+                <span class="font-bold text-slate-800 dark:text-slate-200 truncate block">{course.instructor}</span>
+              </div>
+              <div>
+                <span class="text-slate-400 text-[10px] block">Kode Kupon</span>
+                <span class="font-mono font-bold text-rose-600 dark:text-rose-400 truncate block">{course.coupon}</span>
+              </div>
+              <div>
+                <span class="text-slate-400 text-[10px] block">Status Klaim</span>
+                <span class="font-bold text-emerald-600 dark:text-emerald-400">100% Aktif & Legal</span>
+              </div>
+              <div>
+                <span class="text-slate-400 text-[10px] block">Akses</span>
+                <span class="font-bold text-slate-800 dark:text-slate-200">Seumur Hidup (Lifetime)</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Actions -->
+          <div class="mt-6 space-y-3 pt-4 border-t border-slate-100 dark:border-slate-800">
+            
+            <!-- Direct CTA to Udemy -->
+            <a
+              href={course.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="w-full inline-flex items-center justify-center gap-2 px-5 py-3.5 rounded-2xl text-sm font-extrabold bg-gradient-to-r from-rose-600 to-rose-700 hover:from-rose-500 hover:to-rose-600 text-white shadow-lg shadow-rose-600/30 active:scale-[0.98] transition-all text-center"
+            >
+              <span>Klaim Sekarang di Udemy (Gratis)</span>
+              <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+              </svg>
+            </a>
+
+            <!-- Sub Actions: Copy Coupon & Share FP Link -->
+            <div class="grid grid-cols-2 gap-2">
+              
+              <!-- Salin Kupon -->
+              <button
+                type="button"
+                id="copy-coupon-detail-btn"
+                class="inline-flex items-center justify-center gap-1.5 px-3 py-2.5 rounded-xl text-xs font-bold border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition-all active:scale-95"
+                data-coupon={course.coupon}
+              >
+                <svg class="w-3.5 h-3.5 text-slate-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <rect x="9" y="9" width="13" height="13" rx="2" ry="2" stroke-width="2"/>
+                  <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1" stroke-width="2"/>
+                </svg>
+                <span id="copy-coupon-text">Salin Kode Kupon</span>
+              </button>
+
+              <!-- Salin Link Post FP -->
+              <button
+                type="button"
+                id="share-page-btn"
+                class="inline-flex items-center justify-center gap-1.5 px-3 py-2.5 rounded-xl text-xs font-bold border border-blue-200 dark:border-blue-900/60 bg-blue-50 dark:bg-blue-950/40 text-blue-700 dark:text-blue-300 hover:bg-blue-100 dark:hover:bg-blue-900/60 transition-all active:scale-95"
+                data-url={currentUrl}
+              >
+                <svg class="w-3.5 h-3.5 fill-current" viewBox="0 0 24 24">
+                  <path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92c0-1.61-1.31-2.92-2.92-2.92z"/>
+                </svg>
+                <span id="share-btn-text">Salin Link Post FP</span>
+              </button>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Banner Kembali ke Beranda / Semua Kursus -->
+    <div class="mt-8 p-4 sm:p-6 rounded-3xl bg-gradient-to-r from-rose-500/10 via-amber-500/10 to-transparent border border-rose-200/60 dark:border-rose-900/40 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div>
+        <h3 class="text-sm sm:text-base font-extrabold text-slate-900 dark:text-white">
+          Ingin Belajar Topik Lainnya?
+        </h3>
+        <p class="text-xs text-slate-600 dark:text-slate-400 mt-0.5">
+          Tersedia 80+ kursus gratis Udemy bersertifikat lainnya yang siap Anda klaim hari ini.
+        </p>
+      </div>
+      <a
+        href="/"
+        class="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-800 dark:text-slate-200 hover:text-rose-600 dark:hover:text-rose-400 shadow-sm transition-all flex-shrink-0"
+      >
+        <span>Lihat Semua Kursus</span>
+        <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+        </svg>
+      </a>
+    </div>
+
+    <!-- Related Courses Section -->
+    {related.length > 0 && (
+      <section class="mt-12">
+        <div class="flex items-center justify-between mb-5">
+          <h2 class="text-base sm:text-xl font-extrabold text-slate-900 dark:text-white">
+            Kursus Pilihan Terkait
+          </h2>
+          <a href="/#katalog" class="text-xs font-bold text-rose-600 dark:text-rose-400 hover:underline">
+            Lihat Katalog Lengkap &rarr;
+          </a>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3.5 sm:gap-5">
+          {related.map((rel) => (
+            <CourseCard course={rel} />
+          ))}
+        </div>
+      </section>
+    )}
+
+  </main>
+
+  <Footer />
+
+</BaseLayout>
+
+<script is:inline>
+  document.addEventListener('DOMContentLoaded', () => {
+    // 1. Salin Kode Kupon
+    const copyCouponBtn = document.getElementById('copy-coupon-detail-btn');
+    const copyCouponText = document.getElementById('copy-coupon-text');
+
+    copyCouponBtn?.addEventListener('click', async () => {
+      const coupon = copyCouponBtn.getAttribute('data-coupon') || '';
+      try {
+        await navigator.clipboard.writeText(coupon);
+        if (copyCouponText) copyCouponText.textContent = 'Kupon Tersalin!';
+        if (window.showToast) {
+          window.showToast(`Kode kupon "${coupon}" berhasil disalin!`);
+        }
+        setTimeout(() => {
+          if (copyCouponText) copyCouponText.textContent = 'Salin Kode Kupon';
+        }, 2000);
+      } catch (err) {
+        console.error(err);
+      }
+    });
+
+    // 2. Salin Link Post FP
+    const sharePageBtn = document.getElementById('share-page-btn');
+    const shareBtnText = document.getElementById('share-btn-text');
+
+    sharePageBtn?.addEventListener('click', async () => {
+      const url = sharePageBtn.getAttribute('data-url') || window.location.href;
+      try {
+        await navigator.clipboard.writeText(url);
+        if (shareBtnText) shareBtnText.textContent = 'Link Tersalin!';
+        if (window.showToast) {
+          window.showToast('Link kursus disalin! Siap diposting di Facebook Page.');
+        }
+        setTimeout(() => {
+          if (shareBtnText) shareBtnText.textContent = 'Salin Link Post FP';
+        }, 2000);
+      } catch (err) {
+        console.error(err);
+      }
+    });
+  });
+</script>
