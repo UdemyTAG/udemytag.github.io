@@ -1,0 +1,11 @@
+# UdemyTAG - Direktori Kupon & Kursus Gratis Udemy
+
+> UdemyTAG menyediakan kurasi kupon diskon 100% dan kursus gratis Udemy yang diperbarui berkala secara otomatis.
+
+## Sumber Daya & Struktur
+- Beranda: https://udemytag.github.io/
+- Data Kursus: https://udemytag.github.io/src/data/courses.json
+- Kategori Utama: Development, Business, IT & Software, Design, Marketing, Personal Development
+
+## Aturan Tautan
+Semua kursus menyertakan kode kupon aktif yang langsung mengarah ke halaman resmi Udemy dengan diskon maksimal.
