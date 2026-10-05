@@ -747,7 +747,7 @@ const categories = Object.keys(categoryCounts)
       });
     });
 
-    // Salin Link Khusus untuk Post Fanspage Facebook
+    // Salin Link Halaman Kursus (Tanpa Popup Toast)
     const copyPostLinkButtons = document.querySelectorAll('.copy-post-link-btn');
     copyPostLinkButtons.forEach((btn) => {
       btn.addEventListener('click', async (e) => {
@@ -763,11 +763,7 @@ const categories = Object.keys(categoryCounts)
           checkIcon?.classList.remove('hidden');
           btn.classList.add('border-emerald-500', 'text-emerald-600', 'dark:text-emerald-400');
 
-          if (window.showToast) {
-            window.showToast(currentLang === 'id' 
-              ? 'Link khusus posting Facebook berhasil disalin!' 
-              : 'Course post link copied to clipboard!');
-          }
+          // Tanpa popup toast, murni feedback visual tombol seperti yang diminta
 
           setTimeout(() => {
             linkIcon?.classList.remove('hidden');
@@ -780,13 +776,15 @@ const categories = Object.keys(categoryCounts)
       });
     });
 
-    // Auto-scroll & Highlight jika dibuka via link khusus misal #course-5 atau ?course=course-5
-    const hash = window.location.hash.replace('#', '');
+    // Auto-scroll & Highlight jika dibuka via link khusus misal #retail-management-101 atau #course-1
+    const rawHash = window.location.hash.replace('#', '');
+    const hash = decodeURIComponent(rawHash);
     const urlParams = new URLSearchParams(window.location.search);
-    const targetCourseId = hash.startsWith('course-') ? hash : urlParams.get('course') || urlParams.get('c');
+    const targetParam = hash || urlParams.get('course') || urlParams.get('c');
 
-    if (targetCourseId) {
-      const targetCard = document.getElementById(targetCourseId);
+    if (targetParam) {
+      const targetCard = document.getElementById(targetParam) || 
+                         document.querySelector(`[data-slug="${targetParam}"]`);
       if (targetCard) {
         visibleLimit = 80;
         filterAndSortCourses();

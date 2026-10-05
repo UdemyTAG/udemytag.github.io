@@ -37,6 +37,10 @@ const schemaData = {
         'name': 'Udemy',
         'sameAs': 'https://www.udemy.com'
       },
+      'instructor': {
+        '@type': 'Person',
+        'name': course.instructor || 'Udemy Instructor'
+      },
       'offers': {
         '@type': 'Offer',
         'price': '0',
