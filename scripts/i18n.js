@@ -222,79 +222,83 @@
 
     const dict = i18nDict[validLang] || i18nDict.id;
 
-    // 1. Update elements with data-i18n attribute
-    document.querySelectorAll('[data-i18n]').forEach((el) => {
-      const key = el.getAttribute('data-i18n');
-      if (dict[key]) {
-        if (typeof dict[key] === 'function') {
-          const totalCards = document.querySelectorAll('.course-card').length || 80;
-          el.innerHTML = dict[key](totalCards);
-        } else {
-          el.innerHTML = dict[key];
+    // Only mutate DOM if switched to non-default language (English)
+    // Server HTML is already pre-rendered in Indonesian, so mutating DOM on ID causes LCP delays!
+    if (validLang === 'en') {
+      // 1. Update elements with data-i18n attribute
+      document.querySelectorAll('[data-i18n]').forEach((el) => {
+        const key = el.getAttribute('data-i18n');
+        if (dict[key]) {
+          if (typeof dict[key] === 'function') {
+            const totalCards = document.querySelectorAll('.course-card').length || 69;
+            el.innerHTML = dict[key](totalCards);
+          } else {
+            el.innerHTML = dict[key];
+          }
         }
-      }
-    });
-
-    // 2. Update search input placeholder (if on homepage)
-    const searchInput = document.getElementById('search-input');
-    if (searchInput) {
-      searchInput.placeholder = dict.search_placeholder;
-    }
-
-    // 3. Update Course Card texts (both homepage & course page related cards)
-    document.querySelectorAll('.open-btn-text').forEach((el) => {
-      el.textContent = dict.open_udemy_btn;
-    });
-
-    document.querySelectorAll('.copy-btn-text').forEach((el) => {
-      const btn = el.closest('.copy-coupon-btn');
-      if (!btn?.classList.contains('border-emerald-500')) {
-        el.textContent = dict.copy_coupon_btn;
-      }
-    });
-
-    document.querySelectorAll('.copy-link-text').forEach((el) => {
-      const btn = el.closest('.copy-post-link-btn');
-      if (!btn?.classList.contains('border-emerald-500')) {
-        el.textContent = dict.copy_link_btn;
-      }
-    });
-
-    document.querySelectorAll('.coupon-status-text').forEach((el) => {
-      el.textContent = dict.coupon_status_active;
-    });
-
-    document.querySelectorAll('.free-badge-label').forEach((el) => {
-      el.textContent = dict.free_label;
-    });
-
-    // 4. Update Course Detail Page specific buttons
-    const copyCouponDetailText = document.getElementById('copy-coupon-text');
-    if (copyCouponDetailText && copyCouponDetailText.textContent !== dict.copied_btn) {
-      copyCouponDetailText.textContent = validLang === 'en' ? 'Copy Coupon Code' : 'Salin Kode Kupon';
-    }
-
-    const shareBtnText = document.getElementById('share-btn-text');
-    if (shareBtnText && shareBtnText.textContent !== dict.link_copied_btn) {
-      shareBtnText.textContent = dict.copy_link_btn;
-    }
-
-    // 5. Update FAQ items (if on homepage)
-    if (dict.faqs) {
-      document.querySelectorAll('.faq-q-text').forEach((el) => {
-        const id = el.getAttribute('data-faq-id');
-        if (dict.faqs[id]) el.innerHTML = dict.faqs[id].q;
       });
-      document.querySelectorAll('.faq-a-text').forEach((el) => {
-        const id = el.getAttribute('data-faq-id');
-        if (dict.faqs[id]) el.innerHTML = dict.faqs[id].a;
-      });
-    }
 
-    // 6. Update Category "Semua" / "All"
-    const catAllLabel = document.querySelector('[data-category="all"] .cat-label');
-    if (catAllLabel) {
-      catAllLabel.textContent = dict.cat_all;
+      // 2. Update search input placeholder (if on homepage)
+      const searchInput = document.getElementById('search-input');
+      if (searchInput) {
+        searchInput.placeholder = dict.search_placeholder;
+      }
+
+      // 3. Update Course Card texts (both homepage & course page related cards)
+      document.querySelectorAll('.open-btn-text').forEach((el) => {
+        el.textContent = dict.open_udemy_btn;
+      });
+
+      document.querySelectorAll('.copy-btn-text').forEach((el) => {
+        const btn = el.closest('.copy-coupon-btn');
+        if (!btn?.classList.contains('border-emerald-500')) {
+          el.textContent = dict.copy_coupon_btn;
+        }
+      });
+
+      document.querySelectorAll('.copy-link-text').forEach((el) => {
+        const btn = el.closest('.copy-post-link-btn');
+        if (!btn?.classList.contains('border-emerald-500')) {
+          el.textContent = dict.copy_link_btn;
+        }
+      });
+
+      document.querySelectorAll('.coupon-status-text').forEach((el) => {
+        el.textContent = dict.coupon_status_active;
+      });
+
+      document.querySelectorAll('.free-badge-label').forEach((el) => {
+        el.textContent = dict.free_label;
+      });
+
+      // 4. Update Course Detail Page specific buttons
+      const copyCouponDetailText = document.getElementById('copy-coupon-text');
+      if (copyCouponDetailText && copyCouponDetailText.textContent !== dict.copied_btn) {
+        copyCouponDetailText.textContent = 'Copy Coupon Code';
+      }
+
+      const shareBtnText = document.getElementById('share-btn-text');
+      if (shareBtnText && shareBtnText.textContent !== dict.link_copied_btn) {
+        shareBtnText.textContent = dict.copy_link_btn;
+      }
+
+      // 5. Update FAQ items (if on homepage)
+      if (dict.faqs) {
+        document.querySelectorAll('.faq-q-text').forEach((el) => {
+          const id = el.getAttribute('data-faq-id');
+          if (dict.faqs[id]) el.innerHTML = dict.faqs[id].q;
+        });
+        document.querySelectorAll('.faq-a-text').forEach((el) => {
+          const id = el.getAttribute('data-faq-id');
+          if (dict.faqs[id]) el.innerHTML = dict.faqs[id].a;
+        });
+      }
+
+      // 6. Update Category "Semua" / "All"
+      const catAllLabel = document.querySelector('[data-category="all"] .cat-label');
+      if (catAllLabel) {
+        catAllLabel.textContent = dict.cat_all;
+      }
     }
 
     // Dispatch global event for page-specific handlers
@@ -322,6 +326,12 @@
   function renderClaimUpdates() {
     const data = getClaimStorage();
     const coursesBonus = data.courses || {};
+    const totalBonus = data.totalBonus || 0;
+
+    // Fast exit if no bonus is recorded to prevent forced reflow & layout thrashing on initial load
+    if (totalBonus === 0 && Object.keys(coursesBonus).length === 0) {
+      return;
+    }
 
     // 1. Update individual course card & course detail page counters
     Object.keys(coursesBonus).forEach((courseId) => {
@@ -336,7 +346,6 @@
       });
 
       document.querySelectorAll(`.card-remaining-number[data-course-id="${courseId}"]`).forEach((el) => {
-        const card = el.closest('article') || document.querySelector('.card-claim-bar')?.parentElement?.parentElement;
         const barEl = document.querySelector(`.card-claim-bar[data-course-id="${courseId}"]`);
         const quota = barEl ? parseInt(barEl.getAttribute('data-quota') || '500', 10) : 500;
         const claimedEl = document.querySelector(`.card-claimed-number[data-course-id="${courseId}"]`);
