@@ -1,11 +1,22 @@
-# UdemyTAG - Direktori Kupon & Kursus Gratis Udemy
+# UdemyTAG - Direktori Kupon Diskon 100% & Kursus Gratis Udemy
 
-> UdemyTAG menyediakan kurasi kupon diskon 100% dan kursus gratis Udemy yang diperbarui berkala secara otomatis.
+> UdemyTAG (https://udemytag.github.io/) adalah direktori kurasi kupon diskon 100% resmi dan kursus gratis Udemy legal, lengkap dengan sertifikat kelulusan resmi dan akses seumur hidup (lifetime). Diperbarui berkala secara otomatis.
 
-## Sumber Daya & Struktur
-- Beranda: https://udemytag.github.io/
-- Data Kursus: https://udemytag.github.io/src/data/courses.json
-- Kategori Utama: Development, Business, IT & Software, Design, Marketing, Personal Development
+## Ringkasan Proyek
+- Nama Situs: UdemyTAG (Trik Android Gold)
+- URL Utama: https://udemytag.github.io/
+- Sitemaps: https://udemytag.github.io/sitemap-index.xml
+- Saluran Telegram: https://t.me/trikandroidgold
+- Halaman Facebook: https://web.facebook.com/Trikandroidgold
 
-## Aturan Tautan
-Semua kursus menyertakan kode kupon aktif yang langsung mengarah ke halaman resmi Udemy dengan diskon maksimal.
+## Kategori Utama Kursus
+1. **Development & Programming**: Python, JavaScript, React.js, Node.js, HTML5 & CSS, C Programming, Java Core & OOP.
+2. **Data Science & AI**: Machine Learning, Python Data Science, ChatGPT for Freelancing, Perplexity AI, Azure Cloud (AZ-900).
+3. **Design & Multimedia**: Adobe Photoshop CC, Adobe Illustrator (T-shirt Design), Premiere Pro, CapCut Video Editing, UI/UX with Adobe XD.
+4. **Business & Management**: Agile Project Management (Scrum/Kanban), Target Operating Model, M&A Strategy, ESG Sustainability.
+5. **IT, Software & Enterprise**: ServiceNow (JavaScript, Mock Interview, HRSD), Microsoft Excel & VBA Masterclass, PowerPoint.
+6. **Marketing**: Complete Digital Marketing, SEO Guide, Social Media Advertising.
+
+## Format Kupon & Akses
+- Setiap halaman kursus menyematkan kode kupon promo legal yang langsung mengarahkan pengguna ke halaman kursus resmi di Udemy.
+- Seluruh kursus yang diklaim menggunakan kupon diskon 100% memberikan hak akses seumur hidup dan sertifikat kelulusan digital resmi (Certificate of Completion) tanpa biaya sepeser pun.
