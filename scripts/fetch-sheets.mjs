@@ -212,14 +212,23 @@ async function run() {
           instructor = 'Udemy Instructor';
         }
 
-        // Hitung estimasi klaim kupon & kuota resmi Udemy (realistis & deterministik)
+        // Hitung estimasi klaim kupon & kuota resmi Udemy (atau ambil langsung dari Google Sheets jika tersedia kolom kuota/klaim)
         let hash = 0;
         for (let i = 0; i < title.length; i++) {
           hash = (hash * 31 + title.charCodeAt(i)) % 100000;
         }
-        const quota = (hash % 2 === 0) ? 500 : 1000;
-        const percentage = 68 + (hash % 27); // 68% - 94%
-        const claimedCount = Math.floor((quota * percentage) / 100);
+
+        const sheetQuota = parseInt(getField(rowObj, ['quota', 'kuota', 'limit', 'max']), 10);
+        const quota = !isNaN(sheetQuota) && sheetQuota > 0 ? sheetQuota : ((hash % 2 === 0) ? 500 : 1000);
+
+        const sheetClaimed = parseInt(getField(rowObj, ['claimed', 'klaim', 'terklaim', 'count']), 10);
+        let claimedCount;
+        if (!isNaN(sheetClaimed) && sheetClaimed >= 0) {
+          claimedCount = Math.min(quota, sheetClaimed);
+        } else {
+          const percentage = 68 + (hash % 27); // 68% - 94%
+          claimedCount = Math.floor((quota * percentage) / 100);
+        }
 
         return {
           id: `course-${index + 1}`,
