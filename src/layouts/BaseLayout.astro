@@ -37,7 +37,7 @@ const orgSchema = {
   '@type': 'Organization',
   'name': 'UdemyTAG',
   'url': 'https://udemytag.github.io/',
-  'logo': 'https://udemytag.github.io/logo.png',
+  'logo': 'https://udemytag.github.io/logo-512.png',
   'sameAs': [
     'https://t.me/trikandroidgold',
     'https://web.facebook.com/Trikandroidgold'
@@ -181,10 +181,14 @@ if (courses.length === 1) {
     <meta property="twitter:description" content={description} />
     <meta property="twitter:image" content={image} />
 
-    <!-- Google Fonts Preconnect -->
+    <!-- Google Fonts Preconnect & Non-Blocking Async Load (Eliminates Render-Blocking) -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" media="print" onload="this.media='all'" />
+    <noscript>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" />
+    </noscript>
 
     <!-- Schema.org JSON-LD (Search Engines & Generative AI Optimization) -->
     {pageSchemas.map((schema) => (
@@ -244,6 +248,6 @@ if (courses.length === 1) {
       };
     </script>
     <!-- Global Client-side i18n Script (Multi-page Support) -->
-    <script is:inline src="/scripts/i18n.js"></script>
+    <script is:inline defer src="/scripts/i18n.js"></script>
   </body>
 </html>

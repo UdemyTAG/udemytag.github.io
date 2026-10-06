@@ -34,9 +34,13 @@ draw.ellipse(circle_bbox, fill=255)
 mask = mask.resize((w, h), Image.Resampling.LANCZOS)
 cropped.putalpha(mask)
 
-# Save main logo
-logo_path = os.path.join(out_dir, "logo.png")
-cropped.save(logo_path, "PNG")
+# Save high-res logo for Schema.org / OpenGraph
+cropped.resize((512, 512), Image.Resampling.LANCZOS).save(os.path.join(out_dir, "logo-512.png"), "PNG", optimize=True)
+
+# Save display logo (160x160 for high DPI display, ultra lightweight)
+logo_160 = cropped.resize((160, 160), Image.Resampling.LANCZOS)
+logo_160.save(os.path.join(out_dir, "logo.webp"), "WEBP", quality=92, method=6)
+logo_160.save(os.path.join(out_dir, "logo.png"), "PNG", optimize=True)
 
 # Save favicon variants
 fav_32 = cropped.resize((32, 32), Image.Resampling.LANCZOS)
