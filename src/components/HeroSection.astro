@@ -16,27 +16,40 @@ const subsFormatted = totalSubscribers >= 1000000
   : `${Math.round(totalSubscribers / 1000)}k+`;
 ---
 
-<section class="relative overflow-hidden pt-8 pb-10 sm:pt-14 sm:pb-16 bg-gradient-to-b from-slate-50/70 via-white to-transparent dark:from-slate-950 dark:via-slate-900/50 dark:to-slate-950 border-b border-slate-200/60 dark:border-slate-800/60">
+<section class="relative overflow-hidden pt-8 pb-10 sm:pt-14 sm:pb-16 bg-gradient-to-b from-slate-50/80 via-white to-transparent dark:from-slate-950 dark:via-slate-900/40 dark:to-slate-950 border-b border-slate-200/60 dark:border-slate-800/60">
   
-  <!-- Dynamic Animated Ambient Background Layer -->
+  <!-- Dynamic Animated Ambient Background Layer (High Visibility) -->
   <div class="hero-bg-layer absolute inset-0 pointer-events-none overflow-hidden -z-10" aria-hidden="true">
     
-    <!-- 1. Floating Glowing Ambient Orbs (Multi-color Aurora) -->
-    <div class="hero-orb orb-1 absolute -top-28 -left-24 w-80 h-80 sm:w-[32rem] sm:h-[32rem] bg-gradient-to-tr from-rose-600/25 via-pink-500/20 to-transparent rounded-full blur-3xl"></div>
-    <div class="hero-orb orb-2 absolute top-0 -right-24 w-80 h-80 sm:w-[30rem] sm:h-[30rem] bg-gradient-to-bl from-indigo-600/20 via-purple-600/15 to-transparent rounded-full blur-3xl"></div>
-    <div class="hero-orb orb-3 absolute top-1/4 left-1/2 -translate-x-1/2 w-72 h-72 sm:w-[28rem] sm:h-[28rem] bg-gradient-to-r from-amber-500/15 via-rose-500/15 to-transparent rounded-full blur-3xl"></div>
-    <div class="hero-orb orb-4 absolute -bottom-20 left-1/3 w-64 h-64 sm:w-80 sm:h-80 bg-emerald-500/10 rounded-full blur-3xl"></div>
+    <!-- 1. Central Hero Glow Nebula (Directly behind Title & Subtitle) -->
+    <div class="hero-nebula absolute top-1/3 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[340px] h-[240px] sm:w-[680px] sm:h-[400px] bg-gradient-to-r from-rose-600/40 via-purple-600/35 to-amber-500/35 dark:from-rose-600/60 dark:via-purple-600/50 dark:to-amber-500/45 rounded-full blur-2xl sm:blur-3xl animate-hero-nebula"></div>
 
-    <!-- 2. Cyber Dot Matrix Grid with Radial Mask -->
-    <div class="hero-grid-pattern absolute inset-0 bg-[radial-gradient(#e11d48_1px,transparent_1px)] dark:bg-[radial-gradient(#f43f5e_1px,transparent_1px)] [background-size:26px_26px] opacity-[0.07] dark:opacity-[0.14] [mask-image:radial-gradient(ellipse_75%_65%_at_50%_45%,#000_20%,transparent_100%)]"></div>
+    <!-- 2. Animated Pulse Rings (Concentric Tech Radar Aura) -->
+    <div class="hero-pulse-ring"></div>
+    <div class="hero-pulse-ring-2 hidden sm:block"></div>
 
-    <!-- 3. Floating Light Sparkles / Particles -->
-    <div class="hero-particle particle-1 absolute top-1/4 left-[15%] w-1.5 h-1.5 rounded-full bg-rose-400 dark:bg-rose-300 shadow-sm shadow-rose-400"></div>
-    <div class="hero-particle particle-2 absolute top-1/3 right-[20%] w-2 h-2 rounded-full bg-amber-400 dark:bg-amber-300 shadow-sm shadow-amber-400"></div>
-    <div class="hero-particle particle-3 absolute top-1/2 left-[28%] w-1.5 h-1.5 rounded-full bg-purple-400 dark:bg-purple-300 shadow-sm shadow-purple-400"></div>
-    <div class="hero-particle particle-4 absolute top-2/3 right-[15%] w-2 h-2 rounded-full bg-rose-400 dark:bg-rose-300 shadow-sm shadow-rose-400"></div>
-    <div class="hero-particle particle-5 absolute top-[18%] right-[32%] w-1.5 h-1.5 rounded-full bg-emerald-400 dark:bg-emerald-300 shadow-sm shadow-emerald-400"></div>
-    <div class="hero-particle particle-6 absolute bottom-1/4 left-[22%] w-1.5 h-1.5 rounded-full bg-amber-400 dark:bg-amber-300 shadow-sm shadow-amber-400"></div>
+    <!-- 3. Floating Glowing Ambient Aurora Orbs (Vivid & Rich) -->
+    <div class="hero-orb orb-1 absolute -top-16 -left-16 w-80 h-80 sm:w-[32rem] sm:h-[32rem] bg-gradient-to-tr from-rose-600/40 via-pink-500/35 to-transparent dark:from-rose-500/60 dark:via-pink-600/50 dark:to-transparent rounded-full blur-2xl sm:blur-3xl"></div>
+    <div class="hero-orb orb-2 absolute top-4 -right-16 w-80 h-80 sm:w-[30rem] sm:h-[30rem] bg-gradient-to-bl from-indigo-600/35 via-purple-600/30 to-transparent dark:from-indigo-500/55 dark:via-purple-600/50 dark:to-transparent rounded-full blur-2xl sm:blur-3xl"></div>
+    <div class="hero-orb orb-3 absolute bottom-2 left-1/2 -translate-x-1/2 w-80 h-80 sm:w-[30rem] sm:h-[30rem] bg-gradient-to-r from-amber-500/30 via-rose-500/30 to-transparent dark:from-amber-400/50 dark:via-rose-500/45 dark:to-transparent rounded-full blur-2xl sm:blur-3xl"></div>
+    <div class="hero-orb orb-4 absolute -bottom-16 left-1/4 w-72 h-72 sm:w-96 sm:h-96 bg-emerald-500/25 dark:bg-emerald-500/40 rounded-full blur-2xl sm:blur-3xl"></div>
+
+    <!-- 4. Cyber Dot Matrix Grid (High Visibility with Radial Vignette Mask) -->
+    <div class="hero-grid-pattern absolute inset-0 bg-[radial-gradient(#e11d48_1.5px,transparent_1.5px)] dark:bg-[radial-gradient(#f43f5e_1.5px,transparent_1.5px)] [background-size:24px_24px] opacity-25 dark:opacity-40 [mask-image:radial-gradient(ellipse_85%_75%_at_50%_45%,#000_30%,transparent_100%)]"></div>
+
+    <!-- 5. Floating Glowing Sparkles / Star Particles (Vibrant & Distinct) -->
+    <div class="hero-particle particle-1 absolute top-[18%] left-[12%]"></div>
+    <div class="hero-particle particle-2 absolute top-[28%] right-[14%]"></div>
+    <div class="hero-particle particle-3 absolute top-[45%] left-[22%]"></div>
+    <div class="hero-particle particle-4 absolute top-[62%] right-[18%]"></div>
+    <div class="hero-particle particle-5 absolute top-[15%] right-[28%]"></div>
+    <div class="hero-particle particle-6 absolute bottom-[22%] left-[16%]"></div>
+    <div class="hero-particle particle-7 absolute top-[38%] right-[32%]"></div>
+    <div class="hero-particle particle-8 absolute top-[70%] left-[30%]"></div>
+    <div class="hero-particle particle-9 absolute top-[22%] left-[38%]"></div>
+    <div class="hero-particle particle-10 absolute bottom-[18%] right-[26%]"></div>
+    <div class="hero-particle particle-11 absolute top-[52%] left-[8%]"></div>
+    <div class="hero-particle particle-12 absolute top-[35%] right-[8%]"></div>
   </div>
 
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
@@ -151,58 +164,153 @@ const subsFormatted = totalSubscribers >= 1000000
 </section>
 
 <style>
-  /* Dynamic Ambient Aurora Orbs */
+  /* Central Hero Nebula Glow */
+  @keyframes nebulaPulse {
+    0%, 100% {
+      transform: translate3d(-50%, -50%, 0) scale(0.95);
+      opacity: 0.8;
+    }
+    50% {
+      transform: translate3d(-50%, -50%, 0) scale(1.15);
+      opacity: 1;
+    }
+  }
+  .animate-hero-nebula {
+    animation: nebulaPulse 8s ease-in-out infinite;
+  }
+
+  /* Pulse Ring 1 (Concentric Radar Wave) */
+  .hero-pulse-ring {
+    position: absolute;
+    top: 38%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 380px;
+    height: 220px;
+    border-radius: 50%;
+    border: 1.5px solid rgba(244, 63, 94, 0.45);
+    box-shadow: 0 0 30px rgba(244, 63, 94, 0.3), inset 0 0 20px rgba(244, 63, 94, 0.2);
+    animation: ringPulse 4s ease-out infinite;
+    pointer-events: none;
+  }
+  @media (min-width: 640px) {
+    .hero-pulse-ring {
+      width: 580px;
+      height: 320px;
+    }
+  }
+
+  @keyframes ringPulse {
+    0% {
+      transform: translate(-50%, -50%) scale(0.85);
+      opacity: 0.85;
+    }
+    50% {
+      opacity: 0.45;
+    }
+    100% {
+      transform: translate(-50%, -50%) scale(1.3);
+      opacity: 0;
+    }
+  }
+
+  /* Pulse Ring 2 (Dashed Orbit) */
+  .hero-pulse-ring-2 {
+    position: absolute;
+    top: 38%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 760px;
+    height: 420px;
+    border-radius: 50%;
+    border: 1.5px dashed rgba(168, 85, 247, 0.35);
+    animation: ringSpin 35s linear infinite;
+    pointer-events: none;
+  }
+
+  @keyframes ringSpin {
+    from { transform: translate(-50%, -50%) rotate(0deg); }
+    to { transform: translate(-50%, -50%) rotate(360deg); }
+  }
+
+  /* Floating Aurora Blobs */
   .orb-1 {
-    animation: floatOrb1 16s ease-in-out infinite alternate;
+    animation: floatOrb1 14s ease-in-out infinite alternate;
   }
   .orb-2 {
-    animation: floatOrb2 20s ease-in-out infinite alternate;
+    animation: floatOrb2 18s ease-in-out infinite alternate;
   }
   .orb-3 {
     animation: pulseOrb3 12s ease-in-out infinite alternate;
   }
   .orb-4 {
-    animation: floatOrb4 18s ease-in-out infinite alternate;
+    animation: floatOrb4 16s ease-in-out infinite alternate;
   }
 
   @keyframes floatOrb1 {
     0% { transform: translate3d(0, 0, 0) scale(1); }
-    50% { transform: translate3d(45px, 35px, 0) scale(1.12); }
-    100% { transform: translate3d(-35px, 50px, 0) scale(0.95); }
+    50% { transform: translate3d(50px, 40px, 0) scale(1.18); }
+    100% { transform: translate3d(-40px, 60px, 0) scale(0.92); }
   }
 
   @keyframes floatOrb2 {
     0% { transform: translate3d(0, 0, 0) scale(1); }
-    50% { transform: translate3d(-45px, 40px, 0) scale(1.1); }
-    100% { transform: translate3d(30px, -30px, 0) scale(0.9); }
+    50% { transform: translate3d(-50px, 45px, 0) scale(1.15); }
+    100% { transform: translate3d(35px, -35px, 0) scale(0.88); }
   }
 
   @keyframes pulseOrb3 {
-    0%, 100% { transform: translate3d(-50%, 0, 0) scale(1); opacity: 0.18; }
-    50% { transform: translate3d(-50%, -25px, 0) scale(1.22); opacity: 0.35; }
+    0%, 100% { transform: translate3d(-50%, 0, 0) scale(1); opacity: 0.7; }
+    50% { transform: translate3d(-50%, -30px, 0) scale(1.28); opacity: 1; }
   }
 
   @keyframes floatOrb4 {
     0% { transform: translate3d(0, 0, 0) scale(0.9); }
-    50% { transform: translate3d(35px, -20px, 0) scale(1.15); }
-    100% { transform: translate3d(-20px, 15px, 0) scale(1); }
+    50% { transform: translate3d(40px, -25px, 0) scale(1.2); }
+    100% { transform: translate3d(-25px, 20px, 0) scale(1); }
   }
 
-  /* Floating Particles */
+  /* Glowing Star Particles (Vibrant & Vivid) */
   .hero-particle {
-    animation: particleFloat 6s ease-in-out infinite alternate;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    pointer-events: none;
   }
-  .particle-1 { animation-duration: 5s; animation-delay: 0s; }
-  .particle-2 { animation-duration: 7s; animation-delay: 1.2s; }
-  .particle-3 { animation-duration: 6.5s; animation-delay: 2.5s; }
-  .particle-4 { animation-duration: 8s; animation-delay: 0.8s; }
-  .particle-5 { animation-duration: 5.5s; animation-delay: 3.1s; }
-  .particle-6 { animation-duration: 7.2s; animation-delay: 1.8s; }
+  .particle-1, .particle-4, .particle-9 {
+    background: #f43f5e;
+    box-shadow: 0 0 10px #f43f5e, 0 0 20px #f43f5e;
+  }
+  .particle-2, .particle-6, .particle-10 {
+    background: #fbbf24;
+    box-shadow: 0 0 10px #fbbf24, 0 0 20px #fbbf24;
+  }
+  .particle-3, .particle-7, .particle-12 {
+    background: #c084fc;
+    box-shadow: 0 0 10px #c084fc, 0 0 20px #c084fc;
+  }
+  .particle-5, .particle-8, .particle-11 {
+    background: #34d399;
+    box-shadow: 0 0 10px #34d399, 0 0 20px #34d399;
+  }
+
+  .particle-1 { animation: particleFloat 5s ease-in-out infinite alternate; animation-delay: 0s; }
+  .particle-2 { animation: particleFloat 7s ease-in-out infinite alternate; animation-delay: 1.2s; width: 7px; height: 7px; }
+  .particle-3 { animation: particleFloat 6.5s ease-in-out infinite alternate; animation-delay: 2.5s; }
+  .particle-4 { animation: particleFloat 8s ease-in-out infinite alternate; animation-delay: 0.8s; width: 8px; height: 8px; }
+  .particle-5 { animation: particleFloat 5.5s ease-in-out infinite alternate; animation-delay: 3.1s; }
+  .particle-6 { animation: particleFloat 7.2s ease-in-out infinite alternate; animation-delay: 1.8s; }
+  .particle-7 { animation: particleFloat 6s ease-in-out infinite alternate; animation-delay: 2.1s; width: 7px; height: 7px; }
+  .particle-8 { animation: particleFloat 8.5s ease-in-out infinite alternate; animation-delay: 0.5s; }
+  .particle-9 { animation: particleFloat 5.8s ease-in-out infinite alternate; animation-delay: 3.7s; }
+  .particle-10 { animation: particleFloat 7.6s ease-in-out infinite alternate; animation-delay: 1.4s; }
+  .particle-11 { animation: particleFloat 6.2s ease-in-out infinite alternate; animation-delay: 2.8s; }
+  .particle-12 { animation: particleFloat 8.1s ease-in-out infinite alternate; animation-delay: 0.3s; }
 
   @keyframes particleFloat {
-    0% { transform: translateY(0px) scale(0.8); opacity: 0.2; }
-    50% { opacity: 0.85; }
-    100% { transform: translateY(-30px) scale(1.3); opacity: 0.3; }
+    0% { transform: translateY(0px) scale(0.85); opacity: 0.45; }
+    50% { opacity: 1; transform: translateY(-18px) scale(1.25); }
+    100% { transform: translateY(-38px) scale(0.9); opacity: 0.5; }
   }
 
   /* Blinking Typewriter Cursor */
