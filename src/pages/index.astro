@@ -437,72 +437,70 @@ const totalSubscribers = coursesData.reduce((acc, c) => acc + (c.subscribers || 
 
       const dict = i18n[lang] || i18n.id;
 
-      // Update elements with data-i18n
-      document.querySelectorAll('[data-i18n]').forEach((el) => {
-        const key = el.getAttribute('data-i18n');
-        if (dict[key]) {
-          if (typeof dict[key] === 'function') {
-            // function like active courses
-            const total = document.querySelectorAll('.course-card').length;
-            el.innerHTML = dict[key](total);
-          } else {
-            el.innerHTML = dict[key];
+      // Only mutate DOM if language is NOT default Indonesian ('id')
+      // HTML is already server-rendered in Indonesian, re-assigning text destroys LCP performance!
+      if (lang === 'en') {
+        // Update elements with data-i18n
+        document.querySelectorAll('[data-i18n]').forEach((el) => {
+          const key = el.getAttribute('data-i18n');
+          if (dict[key]) {
+            if (typeof dict[key] === 'function') {
+              const total = allCoursesData.length || 69;
+              el.innerHTML = dict[key](total);
+            } else {
+              el.innerHTML = dict[key];
+            }
           }
-        }
-      });
-
-      // Update search input placeholder
-      const searchInputEl = document.getElementById('search-input');
-      if (searchInputEl) {
-        searchInputEl.placeholder = dict.search_placeholder;
-      }
-
-      // Update card buttons & badges
-      document.querySelectorAll('.copy-btn-text').forEach((el) => {
-        if (!el.closest('.copy-coupon-btn')?.classList.contains('border-emerald-500')) {
-          el.textContent = dict.copy_coupon_btn;
-        }
-      });
-      document.querySelectorAll('.open-btn-text').forEach((el) => {
-        el.textContent = dict.open_udemy_btn;
-      });
-      document.querySelectorAll('.free-badge-label').forEach((el) => {
-        el.textContent = dict.free_label;
-      });
-      document.querySelectorAll('.copy-link-text').forEach((el) => {
-        if (!el.closest('.copy-post-link-btn')?.classList.contains('border-emerald-500')) {
-          el.textContent = lang === 'en' ? 'Copy Link' : 'Salin Link';
-        }
-      });
-      document.querySelectorAll('.coupon-status-text').forEach((el) => {
-        el.textContent = lang === 'en' ? 'Active Coupon' : 'Kupon Aktif';
-      });
-
-      // Update Category "Semua" / "All"
-      const catAllLabel = document.querySelector('[data-category="all"] .cat-label');
-      if (catAllLabel) {
-        catAllLabel.textContent = dict.cat_all;
-      }
-
-      // Update FAQ Accordions
-      if (dict.faqs) {
-        document.querySelectorAll('.faq-q-text').forEach((el) => {
-          const id = el.getAttribute('data-faq-id');
-          if (dict.faqs[id]) el.innerHTML = dict.faqs[id].q;
         });
-        document.querySelectorAll('.faq-a-text').forEach((el) => {
-          const id = el.getAttribute('data-faq-id');
-          if (dict.faqs[id]) el.innerHTML = dict.faqs[id].a;
+
+        // Update search input placeholder
+        const searchInputEl = document.getElementById('search-input');
+        if (searchInputEl) {
+          searchInputEl.placeholder = dict.search_placeholder;
+        }
+
+        // Update card buttons & badges
+        document.querySelectorAll('.copy-btn-text').forEach((el) => {
+          if (!el.closest('.copy-coupon-btn')?.classList.contains('border-emerald-500')) {
+            el.textContent = dict.copy_coupon_btn;
+          }
         });
-      }
+        document.querySelectorAll('.open-btn-text').forEach((el) => {
+          el.textContent = dict.open_udemy_btn;
+        });
+        document.querySelectorAll('.free-badge-label').forEach((el) => {
+          el.textContent = dict.free_label;
+        });
+        document.querySelectorAll('.copy-link-text').forEach((el) => {
+          if (!el.closest('.copy-post-link-btn')?.classList.contains('border-emerald-500')) {
+            el.textContent = 'Copy Link';
+          }
+        });
+        document.querySelectorAll('.coupon-status-text').forEach((el) => {
+          el.textContent = 'Active Coupon';
+        });
 
-      // Update Load more message
-      const allLoadedMsg = document.getElementById('all-loaded-message');
-      if (allLoadedMsg) allLoadedMsg.textContent = dict.all_loaded;
+        // Update Category "Semua" / "All"
+        const catAllLabel = document.querySelector('[data-category="all"] .cat-label');
+        if (catAllLabel) {
+          catAllLabel.textContent = dict.cat_all;
+        }
 
-      // Re-run filter count labels
-      if (typeof filterAndSortCourses === 'function') {
-        filterAndSortCourses();
+        // Update FAQ Accordions
+        if (dict.faqs) {
+          document.querySelectorAll('.faq-q-text').forEach((el) => {
+            const id = el.getAttribute('data-faq-id');
+            if (dict.faqs[id]) el.innerHTML = dict.faqs[id].q;
+          });
+          document.querySelectorAll('.faq-a-text').forEach((el) => {
+            const id = el.getAttribute('data-faq-id');
+            if (dict.faqs[id]) el.innerHTML = dict.faqs[id].a;
+          });
+        }
+
+        // Update Load more message
+        const allLoadedMsg = document.getElementById('all-loaded-message');
+        if (allLoadedMsg) allLoadedMsg.textContent = dict.all_loaded;
       }
 
       window.dispatchEvent(new CustomEvent('languageChanged', { detail: { lang } }));
