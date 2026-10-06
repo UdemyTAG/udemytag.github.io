@@ -1,0 +1,109 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Navbar from '../components/Navbar.astro';
+import Footer from '../components/Footer.astro';
+import CourseCard from '../components/CourseCard.astro';
+import coursesData from '../data/courses.json';
+
+// Ambil 4 kursus terpopuler/terbaru yang masih aktif sebagai rekomendasi
+const featuredCourses = coursesData.slice(0, 4);
+---
+
+<BaseLayout
+  title="Kupon Kedaluwarsa / Halaman Tidak Ditemukan - UdemyTAG"
+  description="Kupon kursus yang Anda cari kemungkinan telah habis kuotanya atau kedaluwarsa. Temukan ratusan kursus gratis bersertifikat lainnya di UdemyTAG."
+>
+  <Navbar />
+
+  <main class="min-h-screen bg-slate-50 dark:bg-slate-950 pt-28 pb-16">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      
+      <!-- Icon & Status Badge -->
+      <div class="inline-flex items-center justify-center w-20 h-20 rounded-2xl bg-amber-500/10 text-amber-600 dark:text-amber-400 border border-amber-500/20 mb-6 shadow-lg shadow-amber-500/5">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-10 h-10" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+        </svg>
+      </div>
+
+      <div class="inline-block px-3 py-1 rounded-full bg-amber-100 dark:bg-amber-900/40 text-amber-800 dark:text-amber-300 text-xs font-semibold tracking-wide uppercase mb-3">
+        Promo Kursus Telah Berakhir
+      </div>
+
+      <h1 class="text-3xl sm:text-4xl font-extrabold text-slate-900 dark:text-white tracking-tight mb-4">
+        Kupon Promo Sudah Habis / Kedaluwarsa
+      </h1>
+      
+      <p class="text-base sm:text-lg text-slate-600 dark:text-slate-300 max-w-2xl mx-auto mb-8 leading-relaxed">
+        Kupon diskon 100% dari instruktur Udemy memiliki kuota klaim terbatas dan berlaku dalam waktu singkat. Materi yang Anda tuju saat ini sudah ditarik atau telah digantikan dengan kupon kursus gratis yang lebih baru.
+      </p>
+
+      <!-- Action Buttons -->
+      <div class="flex flex-col sm:flex-row items-center justify-center gap-4 mb-14">
+        <a
+          href="/"
+          class="w-full sm:w-auto px-7 py-3.5 rounded-xl bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-semibold shadow-lg shadow-blue-500/25 transition-all transform hover:-translate-y-0.5 inline-flex items-center justify-center gap-2"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
+          </svg>
+          Kembali ke Katalog Lengkap
+        </a>
+        <a
+          href="/#search"
+          class="w-full sm:w-auto px-7 py-3.5 rounded-xl bg-white dark:bg-slate-900 hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-800 dark:text-slate-200 font-semibold border border-slate-200 dark:border-slate-800 shadow-sm transition-all inline-flex items-center justify-center gap-2"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-slate-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+          </svg>
+          Cari Kursus Gratis Lainnya
+        </a>
+      </div>
+
+      <!-- Auto Redirect Hint -->
+      <p class="text-xs text-slate-500 dark:text-slate-400 mb-12" id="redirect-hint">
+        Mengalihkan Anda otomatis ke katalog kursus dalam <span id="countdown" class="font-bold text-blue-600 dark:text-blue-400">8</span> detik...
+      </p>
+
+      <!-- Active Recommended Courses Grid -->
+      {featuredCourses.length > 0 && (
+        <div class="text-left border-t border-slate-200 dark:border-slate-800 pt-10">
+          <div class="flex items-center justify-between mb-6">
+            <div>
+              <h2 class="text-xl font-bold text-slate-900 dark:text-white">
+                Kursus Gratis Terbaru yang Masih Aktif
+              </h2>
+              <p class="text-sm text-slate-500 dark:text-slate-400">
+                Pilih kursus lain yang masih memiliki kuota klaim 100% hari ini:
+              </p>
+            </div>
+            <a href="/" class="text-sm font-semibold text-blue-600 dark:text-blue-400 hover:underline hidden sm:inline-block">
+              Lihat Semua ({coursesData.length}) &rarr;
+            </a>
+          </div>
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+            {featuredCourses.map((course) => (
+              <CourseCard course={course} />
+            ))}
+          </div>
+        </div>
+      )}
+
+    </div>
+  </main>
+
+  <Footer />
+
+  <script>
+    let seconds = 8;
+    const cdEl = document.getElementById('countdown');
+    const interval = setInterval(() => {
+      seconds--;
+      if (cdEl) cdEl.textContent = String(seconds);
+      if (seconds <= 0) {
+        clearInterval(interval);
+        window.location.href = '/';
+      }
+    }, 1000);
+  </script>
+</BaseLayout>
