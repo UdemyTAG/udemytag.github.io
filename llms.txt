@@ -1,22 +1,32 @@
 # UdemyTAG - Direktori Kupon Diskon 100% & Kursus Gratis Udemy
 
-> UdemyTAG (https://udemytag.github.io/) adalah direktori kurasi kupon diskon 100% resmi dan kursus gratis Udemy legal, lengkap dengan sertifikat kelulusan resmi dan akses seumur hidup (lifetime). Diperbarui berkala secara otomatis.
+> Direktori kurasi kupon diskon 100% resmi dan kursus gratis Udemy legal, lengkap dengan sertifikat kelulusan resmi dan akses seumur hidup (lifetime). Diperbarui secara berkala.
 
-## Ringkasan Proyek
-- Nama Situs: UdemyTAG (Trik Android Gold)
-- URL Utama: https://udemytag.github.io/
-- Sitemaps: https://udemytag.github.io/sitemap-index.xml
-- Saluran Telegram: https://t.me/trikandroidgold
-- Halaman Facebook: https://web.facebook.com/Trikandroidgold
+UdemyTAG menyediakan katalog kursus online berkualitas tinggi dari Udemy yang dapat diklaim 100% gratis menggunakan kupon promosi legal langsung dari instruktur. Seluruh kursus yang diklaim memberikan hak akses seumur hidup dan sertifikat kelulusan resmi tanpa dipungut biaya.
 
-## Kategori Utama Kursus
-1. **Development & Programming**: Python, JavaScript, React.js, Node.js, HTML5 & CSS, C Programming, Java Core & OOP.
-2. **Data Science & AI**: Machine Learning, Python Data Science, ChatGPT for Freelancing, Perplexity AI, Azure Cloud (AZ-900).
-3. **Design & Multimedia**: Adobe Photoshop CC, Adobe Illustrator (T-shirt Design), Premiere Pro, CapCut Video Editing, UI/UX with Adobe XD.
-4. **Business & Management**: Agile Project Management (Scrum/Kanban), Target Operating Model, M&A Strategy, ESG Sustainability.
-5. **IT, Software & Enterprise**: ServiceNow (JavaScript, Mock Interview, HRSD), Microsoft Excel & VBA Masterclass, PowerPoint.
-6. **Marketing**: Complete Digital Marketing, SEO Guide, Social Media Advertising.
+## Informasi & Navigasi Utama
+- [UdemyTAG Home](https://udemytag.github.io/): Halaman beranda direktori pencarian dan filter kupon kursus gratis Udemy
+- [Peta Situs Lengkap (Sitemap)](https://udemytag.github.io/sitemap.xml): XML sitemap yang memuat seluruh URL halaman kursus untuk bot pencari dan agen AI
+- [Saluran Telegram Resmi](https://t.me/trikandroidgold): Saluran pembaruan kupon gratis Udemy secara instan setiap hari
+- [Komunitas Facebook](https://web.facebook.com/Trikandroidgold): Komunitas pemburu diskon edukasi dan kursus online gratis
 
-## Format Kupon & Akses
-- Setiap halaman kursus menyematkan kode kupon promo legal yang langsung mengarahkan pengguna ke halaman kursus resmi di Udemy.
-- Seluruh kursus yang diklaim menggunakan kupon diskon 100% memberikan hak akses seumur hidup dan sertifikat kelulusan digital resmi (Certificate of Completion) tanpa biaya sepeser pun.
+## Kategori Kursus Populer
+- [Development & Programming](https://udemytag.github.io/?category=development): Kursus pemrograman web, Python, JavaScript, Java, C, React, Node.js, dan full-stack development
+- [Business & Management](https://udemytag.github.io/?category=business): Kursus manajemen proyek, Scrum, Agile, akuntansi, TOM, dan strategi bisnis modern
+- [Design & Multimedia](https://udemytag.github.io/?category=design): Kursus Adobe Photoshop, Illustrator, Premiere Pro, CapCut, UI/UX Adobe XD, dan desain grafis
+- [IT & Software](https://udemytag.github.io/?category=it+%26+software): Kursus ServiceNow, Microsoft Excel & VBA, Microsoft Office, Cloud Azure, dan sistem IT
+- [Marketing & Periklanan](https://udemytag.github.io/?category=marketing): Kursus digital marketing, strategi SEO, Facebook Ads, dan periklanan media sosial
+- [Personal Development](https://udemytag.github.io/?category=personal+development): Kursus produktivitas, kepemimpinan, manajemen tidur, dan komunikasi efektif
+
+## Kursus Unggulan Terverifikasi
+- [Advanced Wordpress Course for Professionals](https://udemytag.github.io/course/advanced-wordpress-course-for-professionals/): Belajar pengembangan website e-commerce, LMS, forum, dan Elementor
+- [Adobe Photoshop Course from Basic to Advanced](https://udemytag.github.io/course/adobe-photoshop-course-from-basic-to-advacned-for-graphics/): Panduan lengkap desain grafis menggunakan Adobe Photoshop CC
+- [HTML and CSS for Beginners from Basic to Advance](https://udemytag.github.io/course/html-and-css-for-beginners-from-basic-to-advance/): Fondasi esensial web development modern dari dasar
+- [Perplexity AI Masterclass AI Search and Research](https://udemytag.github.io/course/perplexity-ai-masterclass-ai-search-and-research/): Kuasai riset berbasis AI dan penelusuran informasi mendalam
+- [ServiceNow JavaScript for ServiceNow Professionals](https://udemytag.github.io/course/servicenow-javascript-for-servicenow-professionals/): Pemrograman JavaScript spesifik untuk konfigurasi platform ServiceNow
+- [Bootcamp AZ-900 Microsoft Azure Fundamentals](https://udemytag.github.io/course/bootcamp-az-900-microsoft-azure-fundamentals-course/): Persiapan ujian sertifikasi resmi cloud Microsoft Azure
+- [Java Concurrency & Multithreading](https://udemytag.github.io/course/java-concurrency-multithreading-with-exercises-2025/): Pemrograman konkurensi dan multithreading lanjutan di Java
+- [Hands-on Python Data Science Bootcamp](https://udemytag.github.io/course/hands-on-python-data-science-data-science-bootcamp/): Praktik analisis data, visualisasi, dan machine learning dengan Python
+
+## Direktori Lengkap Agen AI
+- [Indeks Lengkap Seluruh Kursus (llms-full.txt)](https://udemytag.github.io/llms-full.txt): Berkas indeks komprehensif berisi seluruh 140+ kursus terverifikasi dengan URL statis resmi
