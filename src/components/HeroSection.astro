@@ -1,10 +1,19 @@
 ---
 interface Props {
   totalCourses: number;
-  totalClaimed?: number;
+  totalActiveFree?: number;
+  totalSubscribers?: number;
 }
 
-const { totalCourses = 80, totalClaimed = 41900 } = Astro.props;
+const { 
+  totalCourses = 69, 
+  totalActiveFree = 42, 
+  totalSubscribers = 1450000 
+} = Astro.props;
+
+const subsFormatted = totalSubscribers >= 1000000 
+  ? `${(totalSubscribers / 1000000).toFixed(1)}M+` 
+  : `${Math.round(totalSubscribers / 1000)}k+`;
 ---
 
 <section class="relative overflow-hidden pt-6 pb-8 sm:pt-12 sm:pb-14 bg-gradient-to-b from-rose-50/60 via-white to-transparent dark:from-rose-950/20 dark:via-slate-950 dark:to-transparent border-b border-slate-200/60 dark:border-slate-800/60">
@@ -15,12 +24,12 @@ const { totalCourses = 80, totalClaimed = 41900 } = Astro.props;
 
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
     
-    <!-- Top Pill: Clean & User-Centric with Total Claimed Metrics -->
-    <div class="inline-flex items-center gap-2 px-3 py-1 sm:px-3.5 sm:py-1.5 rounded-full text-[11px] sm:text-xs font-semibold bg-white dark:bg-slate-900 border border-rose-200/80 dark:border-rose-900/50 shadow-sm text-rose-700 dark:text-rose-300 mb-4 sm:mb-6">
-      <span class="flex h-2 w-2 rounded-full bg-rose-500 animate-pulse"></span>
-      <span class="font-extrabold text-rose-600 dark:text-rose-400">🔥 <span class="hero-total-claimed-num" data-base={totalClaimed}>{totalClaimed.toLocaleString()}</span>+</span>
+    <!-- Top Pill: Clean & 100% Real Verification -->
+    <div class="inline-flex items-center gap-2 px-3 py-1 sm:px-3.5 sm:py-1.5 rounded-full text-[11px] sm:text-xs font-semibold bg-white dark:bg-slate-900 border border-emerald-200/80 dark:border-emerald-900/50 shadow-sm text-emerald-700 dark:text-emerald-300 mb-4 sm:mb-6">
+      <span class="flex h-2 w-2 rounded-full bg-emerald-500 animate-pulse"></span>
+      <span class="font-extrabold text-emerald-600 dark:text-emerald-400">✓ <span>{totalActiveFree}</span> Kupon Gratis</span>
       <span class="text-slate-300 dark:text-slate-700">|</span>
-      <span class="font-bold" data-i18n="hero_pill">Kupon Telah Diklaim</span>
+      <span class="font-bold" data-i18n="hero_pill">Terverifikasi Aktif Hari Ini</span>
     </div>
 
     <!-- Main Headline: Compact on Mobile -->
@@ -36,22 +45,35 @@ const { totalCourses = 80, totalClaimed = 41900 } = Astro.props;
     <!-- Key Highlights / Feature Badges: 5 items responsive -->
     <div class="mt-5 sm:mt-7 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-2 sm:gap-3 max-w-4xl mx-auto text-left">
       
-      <!-- 1. Total Kupon Diklaim -->
-      <div class="flex items-center gap-2 sm:gap-3 p-2.5 sm:p-3 rounded-xl sm:rounded-2xl bg-white dark:bg-slate-900 border border-rose-200/80 dark:border-rose-900/50 shadow-sm">
-        <div class="p-1.5 sm:p-2 rounded-lg sm:rounded-xl bg-rose-50 dark:bg-rose-950/60 text-rose-600 dark:text-rose-400">
-          <svg class="w-4 h-4 sm:w-5 sm:h-5 fill-current text-rose-500 animate-pulse" viewBox="0 0 24 24">
-            <path d="M12 2c-.5 2.5-2.5 4.5-4 6-2 2-3 4.5-3 7 0 5 4 9 9 9s9-4 9-9c0-3.5-2-6-4.5-8-1-1-2-2.5-2.5-5-.5 1-1.5 2-4 2z"/>
+      <!-- 1. Total Siswa Belajar di Udemy (Data Riil Asli) -->
+      <div class="flex items-center gap-2 sm:gap-3 p-2.5 sm:p-3 rounded-xl sm:rounded-2xl bg-white dark:bg-slate-900 border border-blue-200/80 dark:border-blue-900/50 shadow-sm">
+        <div class="p-1.5 sm:p-2 rounded-lg sm:rounded-xl bg-blue-50 dark:bg-blue-950/60 text-blue-600 dark:text-blue-400">
+          <svg class="w-4 h-4 sm:w-5 sm:h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z" />
           </svg>
         </div>
         <div>
           <div class="text-xs sm:text-sm font-extrabold text-slate-900 dark:text-white">
-            <span class="hero-highlight-claimed-num" data-base={totalClaimed}>{Math.round(totalClaimed / 1000)}k+</span>
+            <span>{subsFormatted}</span>
           </div>
-          <div class="text-[10px] sm:text-[11px] text-slate-500 dark:text-slate-400" data-i18n="badge_claimed_title">Klaim Sukses</div>
+          <div class="text-[10px] sm:text-[11px] text-slate-500 dark:text-slate-400" data-i18n="badge_students_title">Siswa Belajar</div>
         </div>
       </div>
 
-      <!-- 2. Kursus Aktif -->
+      <!-- 2. Kupon 100% Free Aktif Terverifikasi -->
+      <div class="flex items-center gap-2 sm:gap-3 p-2.5 sm:p-3 rounded-xl sm:rounded-2xl bg-white dark:bg-slate-900 border border-emerald-200/80 dark:border-emerald-900/50 shadow-sm">
+        <div class="p-1.5 sm:p-2 rounded-lg sm:rounded-xl bg-emerald-50 dark:bg-emerald-950/60 text-emerald-600 dark:text-emerald-400">
+          <svg class="w-4 h-4 sm:w-5 sm:h-5 fill-current animate-pulse" viewBox="0 0 24 24">
+            <path d="M12 2c-.5 2.5-2.5 4.5-4 6-2 2-3 4.5-3 7 0 5 4 9 9 9s9-4 9-9c0-3.5-2-6-4.5-8-1-1-2-2.5-2.5-5-.5 1-1.5 2-4 2z"/>
+          </svg>
+        </div>
+        <div>
+          <div class="text-xs sm:text-sm font-extrabold text-slate-900 dark:text-white">{totalActiveFree} Kupon</div>
+          <div class="text-[10px] sm:text-[11px] text-slate-500 dark:text-slate-400" data-i18n="badge_available">Aktif Hari Ini</div>
+        </div>
+      </div>
+
+      <!-- 3. Total Kursus -->
       <div class="flex items-center gap-2 sm:gap-3 p-2.5 sm:p-3 rounded-xl sm:rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm">
         <div class="p-1.5 sm:p-2 rounded-lg sm:rounded-xl bg-rose-50 dark:bg-rose-950/60 text-rose-600 dark:text-rose-400">
           <svg class="w-4 h-4 sm:w-5 sm:h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -60,7 +82,7 @@ const { totalCourses = 80, totalClaimed = 41900 } = Astro.props;
         </div>
         <div>
           <div class="text-xs sm:text-sm font-extrabold text-slate-900 dark:text-white">{totalCourses}+ Kursus</div>
-          <div class="text-[10px] sm:text-[11px] text-slate-500 dark:text-slate-400" data-i18n="badge_available">Tersedia</div>
+          <div class="text-[10px] sm:text-[11px] text-slate-500 dark:text-slate-400">Terkurasi</div>
         </div>
       </div>
 

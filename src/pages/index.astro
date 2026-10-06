@@ -39,7 +39,8 @@ const categories = Object.keys(categoryCounts)
     count: categoryCounts[name] || 0,
   }));
 
-const totalClaimed = coursesData.reduce((acc, c) => acc + (c.claimedCount || 0), 0);
+const totalActiveFree = coursesData.filter((c) => c.isFree !== false && !c.isExpired).length;
+const totalSubscribers = coursesData.reduce((acc, c) => acc + (c.subscribers || 0), 0);
 ---
 
 <BaseLayout 
@@ -49,10 +50,14 @@ const totalClaimed = coursesData.reduce((acc, c) => acc + (c.claimedCount || 0),
 >
   <div id="top"></div>
   
-  <Navbar totalCourses={coursesData.length} totalClaimed={totalClaimed} />
+  <Navbar totalCourses={coursesData.length} totalActiveFree={totalActiveFree} />
   
   <main class="flex-1">
-    <HeroSection totalCourses={coursesData.length} totalClaimed={totalClaimed} />
+    <HeroSection 
+      totalCourses={coursesData.length} 
+      totalActiveFree={totalActiveFree} 
+      totalSubscribers={totalSubscribers} 
+    />
 
     <!-- Catalog Section -->
     <section id="katalog" class="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 py-6 sm:py-12">

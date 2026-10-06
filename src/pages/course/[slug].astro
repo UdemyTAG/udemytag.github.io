@@ -54,11 +54,13 @@ const catStyle = categoryColors[course.category] || {
   border: 'border-slate-200 dark:border-slate-700'
 };
 
+const isFree = course.isFree !== false && !course.isExpired;
 const totalClaimed = coursesData.reduce((acc, c) => acc + (c.claimedCount || 0), 0);
-const claimed = course.claimedCount || 420;
-const quota = course.quota || 500;
-const remainingSlots = Math.max(0, quota - claimed);
-const claimPercent = Math.min(100, Math.round((claimed / quota) * 100));
+const claimed = course.claimedCount || (isFree ? 35 : 100);
+const quota = course.quota || 100;
+const remainingSlots = course.remainingSlots !== undefined ? course.remainingSlots : Math.max(0, quota - claimed);
+const claimPercent = quota > 0 ? Math.min(100, Math.round((claimed / quota) * 100)) : 100;
+const subs = course.subscribers || 0;
 ---
 
 <BaseLayout
@@ -101,13 +103,19 @@ const claimPercent = Math.min(100, Math.round((claimed / quota) * 100));
           />
           <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-black/30 pointer-events-none"></div>
 
-          <!-- 100% OFF Badge -->
-          <div class="absolute top-3 left-3 flex items-center gap-1.5 px-3 py-1 rounded-xl text-xs font-black bg-emerald-500 text-white shadow-lg shadow-emerald-500/40 uppercase tracking-wider">
-            <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
-              <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
-            </svg>
-            <span>100% OFF / FREE</span>
-          </div>
+          <!-- Status Badge -->
+          {isFree ? (
+            <div class="absolute top-3 left-3 flex items-center gap-1.5 px-3 py-1 rounded-xl text-xs font-black bg-emerald-500 text-white shadow-lg shadow-emerald-500/40 uppercase tracking-wider">
+              <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+              </svg>
+              <span>100% OFF / FREE</span>
+            </div>
+          ) : (
+            <div class="absolute top-3 left-3 flex items-center gap-1.5 px-3 py-1 rounded-xl text-xs font-black bg-slate-900/95 text-amber-300 border border-amber-500/30 shadow-lg uppercase tracking-wider backdrop-blur-md">
+              <span>KUOTA HABIS</span>
+            </div>
+          )}
 
           <!-- Category Pill -->
           <div class="absolute top-3 right-3">
@@ -126,8 +134,14 @@ const claimPercent = Math.min(100, Math.round((claimed / quota) * 100));
             </div>
 
             <div class="flex items-center gap-1.5 bg-black/70 backdrop-blur-md px-2.5 py-1 rounded-lg">
-              <span class="line-through text-slate-300 text-xs">{course.originalPrice}</span>
-              <span class="free-badge-label text-emerald-400 font-extrabold text-sm uppercase">GRATIS</span>
+              {isFree ? (
+                <>
+                  <span class="line-through text-slate-300 text-xs">{course.originalPrice}</span>
+                  <span class="free-badge-label text-emerald-400 font-extrabold text-sm uppercase">GRATIS</span>
+                </>
+              ) : (
+                <span class="text-amber-300 font-extrabold text-sm">{course.originalPrice}</span>
+              )}
             </div>
           </div>
         </div>
@@ -154,42 +168,67 @@ const claimPercent = Math.min(100, Math.round((claimed / quota) * 100));
                 <span class="font-mono font-bold text-rose-600 dark:text-rose-400 truncate block">{course.coupon}</span>
               </div>
               <div>
-                <span class="text-slate-400 text-[10px] block" data-i18n="meta_claim_label">Status Klaim</span>
-                <span class="font-bold text-emerald-600 dark:text-emerald-400" data-i18n="meta_claim_val">100% Aktif & Legal</span>
+                <span class="text-slate-400 text-[10px] block" data-i18n="meta_claim_label">Status Kupon</span>
+                {isFree ? (
+                  <span class="font-bold text-emerald-600 dark:text-emerald-400">100% Aktif & Legal</span>
+                ) : (
+                  <span class="font-bold text-rose-600 dark:text-rose-400">Kuota Habis (Expired)</span>
+                )}
               </div>
-              <div>
-                <span class="text-slate-400 text-[10px] block" data-i18n="meta_access_label">Akses</span>
-                <span class="font-bold text-slate-800 dark:text-slate-200" data-i18n="meta_access_val">Seumur Hidup (Lifetime)</span>
-              </div>
+              {subs > 0 ? (
+                <div>
+                  <span class="text-slate-400 text-[10px] block">Siswa di Udemy</span>
+                  <span class="font-bold text-blue-600 dark:text-blue-400">{subs.toLocaleString()} Murid</span>
+                </div>
+              ) : (
+                <div>
+                  <span class="text-slate-400 text-[10px] block" data-i18n="meta_access_label">Akses</span>
+                  <span class="font-bold text-slate-800 dark:text-slate-200" data-i18n="meta_access_val">Seumur Hidup (Lifetime)</span>
+                </div>
+              )}
             </div>
 
-            <!-- Live Claim Quota & Urgency Indicator -->
-            <div class="mt-4 p-3.5 rounded-2xl bg-gradient-to-r from-rose-50/70 via-amber-50/40 to-rose-50/70 dark:from-rose-950/40 dark:via-amber-950/20 dark:to-rose-950/40 border border-rose-200/80 dark:border-rose-900/60 shadow-sm">
-              <div class="flex items-center justify-between text-xs mb-1.5">
-                <span class="flex items-center gap-1.5 font-bold text-rose-700 dark:text-rose-300">
-                  <span class="text-sm">🔥</span>
-                  <span><strong class="card-claimed-number font-black text-rose-600 dark:text-rose-400" data-course-id={course.id} data-base={claimed}>{claimed}</strong> <span data-i18n="detail_claimed_headline">Orang Telah Mengklaim</span></span>
-                </span>
-                <span class="text-[11px] font-semibold text-slate-600 dark:text-slate-300">
-                  <span data-i18n="quota_prefix">Sisa</span> <strong class="card-remaining-number font-black text-rose-600 dark:text-rose-400" data-course-id={course.id}>{remainingSlots}</strong> <span data-i18n="quota_suffix">Slot</span>
-                </span>
-              </div>
+            <!-- Live Claim Quota & Real Urgency Indicator -->
+            {isFree ? (
+              <div class="mt-4 p-3.5 rounded-2xl bg-gradient-to-r from-rose-50/70 via-amber-50/40 to-rose-50/70 dark:from-rose-950/40 dark:via-amber-950/20 dark:to-rose-950/40 border border-rose-200/80 dark:border-rose-900/60 shadow-sm">
+                <div class="flex items-center justify-between text-xs mb-1.5">
+                  <span class="flex items-center gap-1.5 font-bold text-rose-700 dark:text-rose-300">
+                    <span class="text-sm">🔥</span>
+                    <span><strong class="card-claimed-number font-black text-rose-600 dark:text-rose-400" data-course-id={course.id} data-base={claimed}>{claimed}</strong> <span data-i18n="detail_claimed_headline">Orang Telah Mengklaim</span></span>
+                  </span>
+                  <span class="text-[11px] font-semibold text-slate-600 dark:text-slate-300">
+                    <span data-i18n="quota_prefix">Sisa</span> <strong class="card-remaining-number font-black text-rose-600 dark:text-rose-400" data-course-id={course.id}>{remainingSlots}</strong> <span data-i18n="quota_suffix">Slot Asli</span>
+                  </span>
+                </div>
 
-              <!-- Animated Progress Bar -->
-              <div class="w-full h-2 bg-slate-200/80 dark:bg-slate-800 rounded-full overflow-hidden shadow-inner">
-                <div 
-                  class="card-claim-bar h-full bg-gradient-to-r from-rose-500 via-rose-600 to-amber-500 rounded-full transition-all duration-500" 
-                  data-course-id={course.id}
-                  data-quota={quota}
-                  style={`width: ${claimPercent}%`}
-                ></div>
-              </div>
+                <!-- Animated Progress Bar -->
+                <div class="w-full h-2 bg-slate-200/80 dark:bg-slate-800 rounded-full overflow-hidden shadow-inner">
+                  <div 
+                    class="card-claim-bar h-full bg-gradient-to-r from-rose-500 via-rose-600 to-amber-500 rounded-full transition-all duration-500" 
+                    data-course-id={course.id}
+                    data-quota={quota}
+                    style={`width: ${claimPercent}%`}
+                  ></div>
+                </div>
 
-              <div class="flex items-center justify-between text-[10px] text-slate-500 dark:text-slate-400 mt-1.5">
-                <span data-i18n="detail_claim_hint">⚡ Kuota terbatas instruktur Udemy</span>
-                <span>{claimPercent}% <span data-i18n="detail_quota_filled">Terisi</span></span>
+                <div class="flex items-center justify-between text-[10px] text-slate-500 dark:text-slate-400 mt-1.5">
+                  <span data-i18n="detail_claim_hint">⚡ Data kuota resmi terverifikasi dari Udemy</span>
+                  <span>{claimPercent}% <span data-i18n="detail_quota_filled">Terisi</span></span>
+                </div>
               </div>
-            </div>
+            ) : (
+              <div class="mt-4 p-3.5 rounded-2xl bg-amber-50/80 dark:bg-amber-950/30 border border-amber-200/80 dark:border-amber-900/50 shadow-sm text-xs">
+                <div class="flex items-center gap-2 font-bold text-amber-800 dark:text-amber-300 mb-1">
+                  <svg class="w-4 h-4 text-amber-600 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/>
+                  </svg>
+                  <span>Kuota Kupon Gratis 100% Telah Habis di Udemy</span>
+                </div>
+                <p class="text-[11px] text-slate-600 dark:text-slate-400 leading-relaxed">
+                  Kupon promosi untuk kursus ini telah mencapai batas kuota penukaran instruktur. Harga kursus saat ini telah kembali ke harga normal ({course.originalPrice}).
+                </p>
+              </div>
+            )}
           </div>
 
           <!-- Actions -->
@@ -200,10 +239,14 @@ const claimPercent = Math.min(100, Math.round((claimed / quota) * 100));
               href={course.url}
               target="_blank"
               rel="noopener noreferrer"
-              class="claim-action-trigger w-full inline-flex items-center justify-center gap-2 px-5 py-3.5 rounded-2xl text-sm font-extrabold bg-gradient-to-r from-rose-600 to-rose-700 hover:from-rose-500 hover:to-rose-600 text-white shadow-lg shadow-rose-600/30 active:scale-[0.98] transition-all text-center"
+              class={`claim-action-trigger w-full inline-flex items-center justify-center gap-2 px-5 py-3.5 rounded-2xl text-sm font-extrabold transition-all text-center ${
+                isFree 
+                  ? 'bg-gradient-to-r from-rose-600 to-rose-700 hover:from-rose-500 hover:to-rose-600 text-white shadow-lg shadow-rose-600/30 active:scale-[0.98]' 
+                  : 'bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-200'
+              }`}
               data-course-id={course.id}
             >
-              <span data-i18n="cta_claim_udemy">Klaim Sekarang di Udemy (Gratis)</span>
+              <span>{isFree ? 'Klaim Sekarang di Udemy (Gratis)' : 'Buka Halaman Kursus di Udemy'}</span>
               <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
               </svg>

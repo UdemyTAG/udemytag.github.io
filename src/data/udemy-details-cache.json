@@ -1,0 +1,895 @@
+{
+  "advanced-wordpress-course-for-professionals_72BABF4DB1A6DB630554": {
+    "subscribers": 59023,
+    "reviews": 529,
+    "rating": "3.9",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 65,
+      "end": "2026-11-06T05:31:00Z"
+    }
+  },
+  "adobe-photoshop-course-from-basic-to-advacned-for-graphics_7E3B8021B7D2A4F8772B": {
+    "subscribers": 58790,
+    "reviews": 560,
+    "rating": "4.0",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 54,
+      "end": "2026-11-06T05:31:00Z"
+    }
+  },
+  "adobe-illustrator-course-for-graphics-design_05836A9CD6F4516C243C": {
+    "subscribers": 51888,
+    "reviews": 399,
+    "rating": "4.2",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 66,
+      "end": "2026-11-06T05:31:00Z"
+    }
+  },
+  "the-complete-bootstrap-5-course-modern-layouts-made-easy_1919524EEF21BE2E5FEE": {
+    "subscribers": 6705,
+    "reviews": 15,
+    "rating": "4.5",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Brighter Futures Hub",
+    "campaign": {
+      "max": 100,
+      "rem": 29,
+      "end": "2026-10-24T03:37:00Z"
+    }
+  },
+  "machine-learning-python-data-science-for-business-and-ai_2A461495829721BFEA85": {
+    "subscribers": 10226,
+    "reviews": 57,
+    "rating": "4.1",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Brighter Futures Hub",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "html5-masterclass-build-modern-and-mobile-friendly-websites_B2A4A52FFC6EDA3704E2": {
+    "subscribers": 5747,
+    "reviews": 45,
+    "rating": "4.5",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Brighter Futures Hub",
+    "campaign": {
+      "max": 100,
+      "rem": 53,
+      "end": "2026-10-29T06:06:00Z"
+    }
+  },
+  "uiux-design-masterclass-with-adobe-xd-from-beginner-to-pro_CAC886E7CDC047CC6B13": {
+    "subscribers": 39896,
+    "reviews": 340,
+    "rating": "4.5",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "the-complete-esg-sustainability-and-csr-masterclass_77CBD8F1C63D0AEBD792": {
+    "subscribers": 392,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Sameh Elsayed, FCCA, MSc, FMVA, DipIFR, Ross Maynard, The Business Coach Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "islamic-finance-made-practical-and-easy_AEA123F927C5B9A654B7": {
+    "subscribers": 391,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Sameh Elsayed, FCCA, MSc, FMVA, DipIFR, The Business Coach Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "the-advanced-diploma-in-business-execution-and-management_E777411B558CAB886DE7": {
+    "subscribers": 795,
+    "reviews": 4,
+    "rating": "5.0",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Sameh Elsayed, FCCA, MSc, FMVA, DipIFR, The Business Coach Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "fire-safety-and-risk-management_A6ED6E92014A64D52641": {
+    "subscribers": 763,
+    "reviews": 5,
+    "rating": "3.6",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "advanced-diploma-in-enterprise-resilience-and-continuity_A29CC42EB12C944AB57B": {
+    "subscribers": 765,
+    "reviews": 1,
+    "rating": "5.0",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Sameh Elsayed, FCCA, MSc, FMVA, DipIFR, The Business Coach Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "adobe-illustrator-for-t-shirt-design-from-sketch-to-print_6AE4C9B8F5A7F58ECE54": {
+    "subscribers": 22874,
+    "reviews": 111,
+    "rating": "4.4",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "build-11-javascript-application-and-web-javascript-bootcamp_388B41D56ABF6408B303": {
+    "subscribers": 23084,
+    "reviews": 180,
+    "rating": "4.4",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 58,
+      "end": "2026-11-06T06:09:00Z"
+    }
+  },
+  "python-software-application-games-automation-development_A61051692E248150AB0C": {
+    "subscribers": 26028,
+    "reviews": 178,
+    "rating": "4.2",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 58,
+      "end": "2026-11-06T06:09:00Z"
+    }
+  },
+  "php-with-mysql-2022-build-php-and-mysql-projects_PHPMYSQLPROJECTS77": {
+    "subscribers": 45284,
+    "reviews": 259,
+    "rating": "4.3",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Web Coding",
+    "campaign": {
+      "max": 100,
+      "rem": 25,
+      "end": "2026-11-06T07:08:00Z"
+    }
+  },
+  "html-and-css-for-beginners-from-basic-to-advance_64F14B928F4FD1F0520F": {
+    "subscribers": 47834,
+    "reviews": 1359,
+    "rating": "4.4",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "the-complete-digital-marketing-guide-for-beginners_E814009A3E260A8625BD": {
+    "subscribers": 19906,
+    "reviews": 262,
+    "rating": "3.6",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Preeti Parmar",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "adobe-photoshop-cc-for-absolute-beginner-to-advanced_C7AC72D58BE02A79382F": {
+    "subscribers": 83758,
+    "reviews": 774,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "the-complete-javascript-course-from-zero-to-expert-o_600F790FB555B934F6E9": {
+    "subscribers": 48604,
+    "reviews": 593,
+    "rating": "3.8",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 79,
+      "end": "2026-10-29T04:26:00Z"
+    }
+  },
+  "the-complete-mysql-bootcamp-go-from-beginner-to-expert_FAFDDA7D67494E6CC5D6": {
+    "subscribers": 58739,
+    "reviews": 818,
+    "rating": "3.8",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 71,
+      "end": "2026-10-29T04:25:00Z"
+    }
+  },
+  "numpy-scipy-matplotlib-pandas-a-z-machine-learning_A3483FE0430AD1E813DC": {
+    "subscribers": 52096,
+    "reviews": 568,
+    "rating": "3.9",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 27,
+      "end": "2026-10-29T04:23:00Z"
+    }
+  },
+  "complete-advanced-canva-for-video-editing-for-social-media_BD2463137CEDCE7FB313": {
+    "subscribers": 19419,
+    "reviews": 119,
+    "rating": "4.5",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 29,
+      "end": "2026-11-06T06:12:00Z"
+    }
+  },
+  "build-8-python-apps-games-and-web-application-python-master_5E60C6A0FA4B5EC7C111": {
+    "subscribers": 24895,
+    "reviews": 155,
+    "rating": "4.2",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 85,
+      "end": "2026-11-06T06:12:00Z"
+    }
+  },
+  "excel-vba-learn-visual-basic-macros-beginner-to-advanced_CAF904BAFA0899A43CFA": {
+    "subscribers": 13040,
+    "reviews": 50,
+    "rating": "3.8",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": 100,
+      "rem": 58,
+      "end": "2026-10-31T03:10:00Z"
+    }
+  },
+  "build-8-python-web-and-application-python-from-zero-to-hero_C62DFB42D2D6F2D6E786": {
+    "subscribers": 8289,
+    "reviews": 46,
+    "rating": "4.1",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 33,
+      "end": "2026-11-06T06:12:00Z"
+    }
+  },
+  "the-complete-microsoft-excel-data-analysis-bootcamp_04950623197EBAC94DF8": {
+    "subscribers": 13054,
+    "reviews": 177,
+    "rating": "4.3",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": 100,
+      "rem": 14,
+      "end": "2026-10-22T13:06:00Z"
+    }
+  },
+  "the-complete-google-forms-course-mastering-google-forms_B5C92B40D14E32784655": {
+    "subscribers": 21821,
+    "reviews": 204,
+    "rating": "3.6",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": 100,
+      "rem": 24,
+      "end": "2026-10-31T03:34:00Z"
+    }
+  },
+  "hands-on-python-machine-learning-with-real-world-projects_99F0DA93E8CE05D7C52B": {
+    "subscribers": 35226,
+    "reviews": 521,
+    "rating": "4.2",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 9,
+      "end": "2026-11-06T08:26:00Z"
+    }
+  },
+  "advanced-capcut-course-learn-professional-video-editing_3C58F05E9C60AB52C53B": {
+    "subscribers": 26456,
+    "reviews": 218,
+    "rating": "4.0",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 18,
+      "end": "2026-11-06T08:25:00Z"
+    }
+  },
+  "microsoft-office-excel-word-powerpoint-and-teams-for-pro_4EBED9A57ECC32C0DBAF": {
+    "subscribers": 14170,
+    "reviews": 168,
+    "rating": "3.8",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": 100,
+      "rem": 34,
+      "end": "2026-10-22T13:03:00Z"
+    }
+  },
+  "java-concurrency-iter-academy_CCY-OCTOBER-2026": {
+    "subscribers": 16956,
+    "reviews": 69,
+    "rating": "4.3",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Andrii Partola, ITER Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 8,
+      "end": "2026-11-06T09:34:00Z"
+    }
+  },
+  "java-intro-in-practice-iter-academy_INTRO-OCTOBER-2026": {
+    "subscribers": 20950,
+    "reviews": 212,
+    "rating": "4.5",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Andrii Partola, ITER Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "java-oop-iter-academy_OOP-OCTOBER-2026": {
+    "subscribers": 28532,
+    "reviews": 926,
+    "rating": "4.4",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Andrii Partola, ITER Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "java-core-in-practice-iter-academy_CORE-OCTOBER-2026": {
+    "subscribers": 28066,
+    "reviews": 621,
+    "rating": "4.4",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Andrii Partola, ITER Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "hands-on-python-data-science-data-science-bootcamp_09886BB944A99321F794": {
+    "subscribers": 31449,
+    "reviews": 425,
+    "rating": "4.2",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 51,
+      "end": "2026-11-06T08:26:00Z"
+    }
+  },
+  "ms-excel-masterclass-for-job-seekers-accounting-success_69B33A920B7C9B1B1C08": {
+    "subscribers": 24239,
+    "reviews": 503,
+    "rating": "4.4",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 85,
+      "end": "2026-11-06T08:26:00Z"
+    }
+  },
+  "javascript-fundamentals-to-advanced-full-stack-development_95AE51BE67E95B6F1FEF": {
+    "subscribers": 36155,
+    "reviews": 711,
+    "rating": "4.4",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 30,
+      "end": "2026-11-06T08:27:00Z"
+    }
+  },
+  "org-design_PAPAHR_OCT_946323": {
+    "subscribers": 2854,
+    "reviews": 5,
+    "rating": "5.0",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 41,
+      "end": "2026-11-06T07:05:00Z"
+    }
+  },
+  "robots-and-hr_PAPAHR_OCT_118449": {
+    "subscribers": 2969,
+    "reviews": 6,
+    "rating": "4.5",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 9,
+      "end": "2026-11-03T07:05:00Z"
+    }
+  },
+  "microsoft-excel-formulas-and-functions-beginner-to-expert_3ED9F1FE0846200870EB": {
+    "subscribers": 8635,
+    "reviews": 99,
+    "rating": "3.8",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Bright Path",
+    "campaign": {
+      "max": 100,
+      "rem": 58,
+      "end": "2026-10-13T13:53:00Z"
+    }
+  },
+  "microsoft-excel-data-analysis-become-a-data-analysis-expert_DC75282A0A2EDE212235": {
+    "subscribers": 10178,
+    "reviews": 170,
+    "rating": "3.9",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Bright Path",
+    "campaign": {
+      "max": 100,
+      "rem": 46,
+      "end": "2026-10-13T13:53:00Z"
+    }
+  },
+  "effective-advertising-strategy-from-digital-to-social-media_203929B9E9BC88AA3920": {
+    "subscribers": 637,
+    "reviews": 1,
+    "rating": "5.0",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Dr Kazi Mamur .MD, Empower UK Employment Training",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "sales-mastering_PAPAHR_OCT_407365": {
+    "subscribers": 9579,
+    "reviews": 62,
+    "rating": "4.2",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 63,
+      "end": "2026-11-06T07:05:00Z"
+    }
+  },
+  "the-big-recruitment-cert-course_PAPAHR_OCT_922479": {
+    "subscribers": 2960,
+    "reviews": 17,
+    "rating": "4.8",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 39,
+      "end": "2026-11-06T07:05:00Z"
+    }
+  },
+  "bootcamp-az-900-microsoft-azure-fundamentals_C11E7F7101185CF49E96": {
+    "subscribers": 7618,
+    "reviews": 147,
+    "rating": "4.4",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Codaming • 300k+ Learners Worldwide, Dinesh Kumar, Vedika Singh",
+    "campaign": null
+  },
+  "rank-your-blog-website-in-google-beginners-seo-course_6A72966AD64336AC6D99": {
+    "subscribers": 68774,
+    "reviews": 679,
+    "rating": "3.7",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Web Oral",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "chatgpt-make-money-with-chatgpt-as-a-new-freelancer_D8282C9B5CCBE7DC3CB3": {
+    "subscribers": 54991,
+    "reviews": 731,
+    "rating": "4.0",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Web Oral",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "adobe-photoshop-masterclass-beginner-to-pro-photo-editor_A4E7002294CECF234981": {
+    "subscribers": 3148,
+    "reviews": 11,
+    "rating": "4.4",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Logic Labs",
+    "campaign": {
+      "max": 100,
+      "rem": 59,
+      "end": "2026-10-29T05:53:00Z"
+    }
+  },
+  "premiere-pro-masterclass-beginner-to-advanced-video-editing_7EC7707C7E1D6131FD78": {
+    "subscribers": 2852,
+    "reviews": 5,
+    "rating": "3.4",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Logic Labs",
+    "campaign": {
+      "max": 100,
+      "rem": 60,
+      "end": "2026-10-29T05:51:00Z"
+    }
+  },
+  "communicating-through-disagreement-master-class_85FE93464618D92C1EEE": {
+    "subscribers": 3560,
+    "reviews": 16,
+    "rating": "4.4",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Sameh Elsayed, FCCA, MSc, FMVA, DipIFR, The Business Coach Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "microsoft-excel-formulas-and-functions-beginner-to-advanced_DE116EBF5D15F4D46397": {
+    "subscribers": 2828,
+    "reviews": 25,
+    "rating": "4.0",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Logic Labs",
+    "campaign": {
+      "max": 100,
+      "rem": 48,
+      "end": "2026-10-29T05:47:00Z"
+    }
+  },
+  "conscious-consumption-making-smarter-sustainable-choices_73427627C96ABAA3566C": {
+    "subscribers": 2666,
+    "reviews": 4,
+    "rating": "4.4",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Sameh Elsayed, FCCA, MSc, FMVA, DipIFR, The Business Coach Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 41,
+      "end": "2026-11-06T04:33:00Z"
+    }
+  },
+  "the-global-disruptions-in-operations-master-class_A7C80A139772162914DB": {
+    "subscribers": 2656,
+    "reviews": 11,
+    "rating": "4.8",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Sameh Elsayed, FCCA, MSc, FMVA, DipIFR, The Business Coach Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 38,
+      "end": "2026-11-06T04:33:00Z"
+    }
+  },
+  "strategic-ma-mastery-beyond-the-deal-culture-and-people_9A63647493C45D6E8C2A": {
+    "subscribers": 2069,
+    "reviews": 6,
+    "rating": "4.5",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Sameh Elsayed, FCCA, MSc, FMVA, DipIFR, The Business Coach Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 29,
+      "end": "2026-11-06T04:30:00Z"
+    }
+  },
+  "learn-html-and-css-from-beginning-to-advanced_A4F80A50DA488596769F": {
+    "subscribers": 51859,
+    "reviews": 1358,
+    "rating": "4.0",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 94,
+      "end": "2026-11-06T05:31:00Z"
+    }
+  },
+  "mastering-iso-45001-the-occupational-safety-master-class_CEA23ADDE94BD4D5CFA0": {
+    "subscribers": 1790,
+    "reviews": 22,
+    "rating": "4.2",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Sameh Elsayed, FCCA, MSc, FMVA, DipIFR, The Business Coach Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 29,
+      "end": "2026-11-06T04:30:00Z"
+    }
+  },
+  "essential-microsoft-powerpoint-course-for-everyone_1A49D43F19165258FDF5": {
+    "subscribers": 49508,
+    "reviews": 508,
+    "rating": "4.3",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 92,
+      "end": "2026-11-06T05:31:00Z"
+    }
+  },
+  "learn-t-shirt-design-with-adobe-photoshop-and-illustrator_98AB31B12D5CF8A626C7": {
+    "subscribers": 34258,
+    "reviews": 137,
+    "rating": "4.1",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 74,
+      "end": "2026-11-06T05:31:00Z"
+    }
+  },
+  "the-complete-react-js-developer-from-zero-to-deployment_5BA8E30E50B32DB5716D": {
+    "subscribers": 3929,
+    "reviews": 10,
+    "rating": "4.3",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "c-programming-language-mastery-learn-c-from-scratch_2D9E460A61248B464145": {
+    "subscribers": 2668,
+    "reviews": 5,
+    "rating": "3.6",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": 100,
+      "rem": 88,
+      "end": "2026-10-28T05:38:00Z"
+    }
+  },
+  "nodejs-build-fast-and-scalable-backend-applications_1B36B9804FA4BDEA0085": {
+    "subscribers": 4822,
+    "reviews": 11,
+    "rating": "4.0",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": 100,
+      "rem": 85,
+      "end": "2026-10-28T05:38:00Z"
+    }
+  },
+  "perplexity-ai-masterclass-ai-search-and-research_EB36B1F5EC8F45B20BA0": {
+    "subscribers": 3563,
+    "reviews": 7,
+    "rating": "4.4",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "sleep-management_5475A53A1FE40EE97084": {
+    "subscribers": 1653,
+    "reviews": 2,
+    "rating": "5.0",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "servicenow-javascript-by-uday-gadiparthii_OCT2026MO2": {
+    "subscribers": 19468,
+    "reviews": 281,
+    "rating": "4.5",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Uday Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "servicenow-mock-interviews-interview-questions_OCT2026MO2": {
+    "subscribers": 16991,
+    "reviews": 237,
+    "rating": "4.7",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Uday Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "html-like-never-before_OCT2026MO2": {
+    "subscribers": 19028,
+    "reviews": 262,
+    "rating": "4.5",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Uday Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "mastering-servicenow-human-resources-service-delivery-hrsd_OCT2026MO2": {
+    "subscribers": 11058,
+    "reviews": 337,
+    "rating": "4.5",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Uday Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  },
+  "servicenow-catalog-item-and-record-producer-workflow-flows_OCT2026MO2": {
+    "subscribers": 17815,
+    "reviews": 353,
+    "rating": "4.3",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Uday Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-07T17:00:00Z"
+    }
+  }
+}
