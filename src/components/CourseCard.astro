@@ -78,6 +78,8 @@ const subs = course.subscribers || 0;
       alt={course.title}
       loading="lazy"
       decoding="async"
+      width="240"
+      height="135"
       class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
       onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&auto=format&fit=crop&q=80';"
     />
@@ -262,7 +264,7 @@ const subs = course.subscribers || 0;
           data-link={dedicatedCourseUrl}
           data-course-id={course.id}
           title="Salin Link"
-          aria-label="Salin Link"
+          aria-label={`Salin link untuk ${course.title}`}
         >
           <svg class="link-icon w-3.5 h-3.5 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
             <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/>

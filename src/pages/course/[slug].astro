@@ -98,6 +98,10 @@ const subs = course.subscribers || 0;
           <img
             src={course.image}
             alt={course.title}
+            width="480"
+            height="270"
+            fetchpriority="high"
+            decoding="async"
             class="w-full h-full object-cover"
             onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&auto=format&fit=crop&q=80';"
           />
@@ -259,6 +263,7 @@ const subs = course.subscribers || 0;
               <button
                 type="button"
                 id="copy-coupon-detail-btn"
+                aria-label={`Salin kode kupon untuk ${course.title}`}
                 class="claim-action-trigger inline-flex items-center justify-center gap-1.5 px-3 py-2.5 rounded-xl text-xs font-bold border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition-all active:scale-95"
                 data-coupon={course.coupon}
                 data-course-id={course.id}
@@ -277,7 +282,7 @@ const subs = course.subscribers || 0;
                 class="inline-flex items-center justify-center gap-1.5 px-3 py-2.5 rounded-xl text-xs font-bold border border-blue-200 dark:border-blue-900/60 bg-blue-50 dark:bg-blue-950/40 text-blue-700 dark:text-blue-300 hover:bg-blue-100 dark:hover:bg-blue-900/60 transition-all active:scale-95"
                 data-url={currentUrl}
                 title="Salin Link"
-                aria-label="Salin Link"
+                aria-label={`Salin tautan halaman ${course.title}`}
               >
                 <svg id="share-icon" class="w-3.5 h-3.5 fill-current" viewBox="0 0 24 24">
                   <path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92c0-1.61-1.31-2.92-2.92-2.92z"/>
