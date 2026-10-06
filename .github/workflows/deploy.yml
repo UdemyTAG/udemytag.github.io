@@ -44,3 +44,6 @@ jobs:
           publish_dir: ./dist
           publish_branch: gh-pages
           commit_message: "Automated Deploy: Refresh courses from Google Sheets [skip ci]"
+
+      - name: Ping Search Engines & AI Bots via IndexNow
+        run: node scripts/submit-indexnow.mjs

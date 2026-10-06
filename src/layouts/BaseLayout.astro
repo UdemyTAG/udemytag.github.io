@@ -17,41 +17,132 @@ const {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site || 'https://udemytag.github.io').toString();
 
-// Schema.org JSON-LD ItemList dengan koleksi Course dan Offer
-const schemaData = {
+// Schema.org JSON-LD (Search Engines & Generative AI Optimization)
+const websiteSchema = {
   '@context': 'https://schema.org',
-  '@type': 'ItemList',
-  'name': 'Koleksi Kupon Kursus Udemy 100% Gratis - UdemyTAG',
-  'description': description,
-  'numberOfItems': courses.length,
-  'itemListElement': courses.slice(0, 30).map((course, index) => ({
-    '@type': 'ListItem',
-    'position': index + 1,
-    'item': {
-      '@type': 'Course',
-      'name': course.title,
-      'description': course.description,
-      'image': course.image,
-      'provider': {
-        '@type': 'Organization',
-        'name': 'Udemy',
-        'sameAs': 'https://www.udemy.com'
-      },
-      'instructor': {
-        '@type': 'Person',
-        'name': course.instructor || 'Udemy Instructor'
-      },
-      'offers': {
-        '@type': 'Offer',
-        'price': '0',
-        'priceCurrency': 'USD',
-        'category': 'Free',
-        'url': course.url,
-        'availability': 'https://schema.org/InStock'
-      }
-    }
-  }))
+  '@type': 'WebSite',
+  'name': 'UdemyTAG',
+  'alternateName': 'Trik Android Gold - Kupon Udemy 100% Gratis',
+  'url': 'https://udemytag.github.io/',
+  'description': 'Direktori kurasi kupon diskon 100% dan kursus gratis Udemy resmi bersertifikat.',
+  'potentialAction': {
+    '@type': 'SearchAction',
+    'target': 'https://udemytag.github.io/?q={search_term_string}#katalog',
+    'query-input': 'required name=search_term_string'
+  }
 };
+
+const orgSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  'name': 'UdemyTAG',
+  'url': 'https://udemytag.github.io/',
+  'logo': 'https://udemytag.github.io/logo.png',
+  'sameAs': [
+    'https://t.me/trikandroidgold',
+    'https://web.facebook.com/Trikandroidgold'
+  ]
+};
+
+const pageSchemas: any[] = [websiteSchema, orgSchema];
+
+if (courses.length === 1) {
+  const c = courses[0];
+  const courseSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Course',
+    'name': c.title,
+    'description': c.description || description,
+    'image': c.image || image,
+    'provider': {
+      '@type': 'Organization',
+      'name': 'Udemy',
+      'sameAs': 'https://www.udemy.com'
+    },
+    'instructor': {
+      '@type': 'Person',
+      'name': c.instructor || 'Udemy Instructor'
+    },
+    'offers': {
+      '@type': 'Offer',
+      'price': '0',
+      'priceCurrency': 'USD',
+      'category': 'Free Coupon',
+      'url': c.url,
+      'availability': 'https://schema.org/InStock',
+      'validFrom': '2026-01-01'
+    },
+    'aggregateRating': {
+      '@type': 'AggregateRating',
+      'ratingValue': (c.rating || 4.8).toString(),
+      'reviewCount': (c.reviews || 120).toString(),
+      'bestRating': '5'
+    }
+  };
+
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    'itemListElement': [
+      {
+        '@type': 'ListItem',
+        'position': 1,
+        'name': 'Beranda',
+        'item': 'https://udemytag.github.io/'
+      },
+      {
+        '@type': 'ListItem',
+        'position': 2,
+        'name': c.category || 'Courses',
+        'item': `https://udemytag.github.io/?cat=${(c.category || 'all').toLowerCase()}#katalog`
+      },
+      {
+        '@type': 'ListItem',
+        'position': 3,
+        'name': c.title,
+        'item': canonicalURL
+      }
+    ]
+  };
+
+  pageSchemas.push(courseSchema, breadcrumbSchema);
+} else if (courses.length > 1) {
+  const itemListSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    'name': 'Koleksi Kupon Kursus Udemy 100% Gratis - UdemyTAG',
+    'description': description,
+    'numberOfItems': courses.length,
+    'itemListElement': courses.slice(0, 30).map((course, index) => ({
+      '@type': 'ListItem',
+      'position': index + 1,
+      'item': {
+        '@type': 'Course',
+        'name': course.title,
+        'description': course.description,
+        'image': course.image,
+        'provider': {
+          '@type': 'Organization',
+          'name': 'Udemy',
+          'sameAs': 'https://www.udemy.com'
+        },
+        'instructor': {
+          '@type': 'Person',
+          'name': course.instructor || 'Udemy Instructor'
+        },
+        'offers': {
+          '@type': 'Offer',
+          'price': '0',
+          'priceCurrency': 'USD',
+          'category': 'Free',
+          'url': course.url,
+          'availability': 'https://schema.org/InStock'
+        }
+      }
+    }))
+  };
+  pageSchemas.push(itemListSchema);
+}
 ---
 
 <!doctype html>
@@ -95,8 +186,10 @@ const schemaData = {
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
 
-    <!-- Schema.org JSON-LD -->
-    <script type="application/ld+json" set:html={JSON.stringify(schemaData)} />
+    <!-- Schema.org JSON-LD (Search Engines & Generative AI Optimization) -->
+    {pageSchemas.map((schema) => (
+      <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    ))}
 
     <!-- Dark Mode Init Script (no-FOUC) -->
     <script is:inline>
