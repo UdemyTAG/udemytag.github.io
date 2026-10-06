@@ -1,9 +1,10 @@
 ---
 interface Props {
   totalCourses?: number;
+  totalClaimed?: number;
 }
 
-const { totalCourses = 80 } = Astro.props;
+const { totalCourses = 80, totalClaimed = 41900 } = Astro.props;
 ---
 
 <header class="sticky top-0 z-50 w-full border-b border-slate-200/90 dark:border-slate-800/90 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md transition-colors shadow-sm">
@@ -31,7 +32,7 @@ const { totalCourses = 80 } = Astro.props;
       </a>
 
       <!-- Quick Nav for Desktop -->
-      <div class="hidden lg:flex items-center gap-6">
+      <div class="hidden lg:flex items-center gap-5">
         <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-semibold bg-emerald-50 text-emerald-700 dark:bg-emerald-950/60 dark:text-emerald-300 border border-emerald-200/80 dark:border-emerald-800/80">
           <span class="relative flex h-2 w-2">
             <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
@@ -40,10 +41,16 @@ const { totalCourses = 80 } = Astro.props;
           <span data-i18n="nav_active_courses">{totalCourses} Kursus Aktif</span>
         </div>
 
-        <a href="#katalog" class="text-sm font-semibold text-slate-600 dark:text-slate-300 hover:text-rose-600 dark:hover:text-rose-400 transition-colors" data-i18n="nav_catalog">
+        <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold bg-rose-50 text-rose-700 dark:bg-rose-950/60 dark:text-rose-300 border border-rose-200/80 dark:border-rose-900/60">
+          <span class="text-rose-500">🔥</span>
+          <span class="nav-total-claimed-num font-bold">{Math.round(totalClaimed / 1000)}k+</span>
+          <span data-i18n="nav_total_claimed_label">Klaim</span>
+        </div>
+
+        <a href="/#katalog" class="text-sm font-semibold text-slate-600 dark:text-slate-300 hover:text-rose-600 dark:hover:text-rose-400 transition-colors" data-i18n="nav_catalog">
           Katalog Kursus
         </a>
-        <a href="#faq" class="text-sm font-semibold text-slate-600 dark:text-slate-300 hover:text-rose-600 dark:hover:text-rose-400 transition-colors" data-i18n="nav_faq">
+        <a href="/#faq" class="text-sm font-semibold text-slate-600 dark:text-slate-300 hover:text-rose-600 dark:hover:text-rose-400 transition-colors" data-i18n="nav_faq">
           FAQ & Panduan
         </a>
       </div>

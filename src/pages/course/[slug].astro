@@ -53,6 +53,12 @@ const catStyle = categoryColors[course.category] || {
   text: 'text-slate-700 dark:text-slate-300',
   border: 'border-slate-200 dark:border-slate-700'
 };
+
+const totalClaimed = coursesData.reduce((acc, c) => acc + (c.claimedCount || 0), 0);
+const claimed = course.claimedCount || 420;
+const quota = course.quota || 500;
+const remainingSlots = Math.max(0, quota - claimed);
+const claimPercent = Math.min(100, Math.round((claimed / quota) * 100));
 ---
 
 <BaseLayout
@@ -61,7 +67,7 @@ const catStyle = categoryColors[course.category] || {
   image={course.image}
   courses={[course]}
 >
-  <Navbar totalCourses={coursesData.length} />
+  <Navbar totalCourses={coursesData.length} totalClaimed={totalClaimed} />
 
   <main class="flex-1 max-w-5xl mx-auto px-3 sm:px-6 lg:px-8 py-6 sm:py-10">
     
@@ -156,6 +162,34 @@ const catStyle = categoryColors[course.category] || {
                 <span class="font-bold text-slate-800 dark:text-slate-200" data-i18n="meta_access_val">Seumur Hidup (Lifetime)</span>
               </div>
             </div>
+
+            <!-- Live Claim Quota & Urgency Indicator -->
+            <div class="mt-4 p-3.5 rounded-2xl bg-gradient-to-r from-rose-50/70 via-amber-50/40 to-rose-50/70 dark:from-rose-950/40 dark:via-amber-950/20 dark:to-rose-950/40 border border-rose-200/80 dark:border-rose-900/60 shadow-sm">
+              <div class="flex items-center justify-between text-xs mb-1.5">
+                <span class="flex items-center gap-1.5 font-bold text-rose-700 dark:text-rose-300">
+                  <span class="text-sm">🔥</span>
+                  <span><strong class="card-claimed-number font-black text-rose-600 dark:text-rose-400" data-course-id={course.id} data-base={claimed}>{claimed}</strong> <span data-i18n="detail_claimed_headline">Orang Telah Mengklaim</span></span>
+                </span>
+                <span class="text-[11px] font-semibold text-slate-600 dark:text-slate-300">
+                  <span data-i18n="quota_prefix">Sisa</span> <strong class="card-remaining-number font-black text-rose-600 dark:text-rose-400" data-course-id={course.id}>{remainingSlots}</strong> <span data-i18n="quota_suffix">Slot</span>
+                </span>
+              </div>
+
+              <!-- Animated Progress Bar -->
+              <div class="w-full h-2 bg-slate-200/80 dark:bg-slate-800 rounded-full overflow-hidden shadow-inner">
+                <div 
+                  class="card-claim-bar h-full bg-gradient-to-r from-rose-500 via-rose-600 to-amber-500 rounded-full transition-all duration-500" 
+                  data-course-id={course.id}
+                  data-quota={quota}
+                  style={`width: ${claimPercent}%`}
+                ></div>
+              </div>
+
+              <div class="flex items-center justify-between text-[10px] text-slate-500 dark:text-slate-400 mt-1.5">
+                <span data-i18n="detail_claim_hint">⚡ Kuota terbatas instruktur Udemy</span>
+                <span>{claimPercent}% <span data-i18n="detail_quota_filled">Terisi</span></span>
+              </div>
+            </div>
           </div>
 
           <!-- Actions -->
@@ -166,7 +200,8 @@ const catStyle = categoryColors[course.category] || {
               href={course.url}
               target="_blank"
               rel="noopener noreferrer"
-              class="w-full inline-flex items-center justify-center gap-2 px-5 py-3.5 rounded-2xl text-sm font-extrabold bg-gradient-to-r from-rose-600 to-rose-700 hover:from-rose-500 hover:to-rose-600 text-white shadow-lg shadow-rose-600/30 active:scale-[0.98] transition-all text-center"
+              class="claim-action-trigger w-full inline-flex items-center justify-center gap-2 px-5 py-3.5 rounded-2xl text-sm font-extrabold bg-gradient-to-r from-rose-600 to-rose-700 hover:from-rose-500 hover:to-rose-600 text-white shadow-lg shadow-rose-600/30 active:scale-[0.98] transition-all text-center"
+              data-course-id={course.id}
             >
               <span data-i18n="cta_claim_udemy">Klaim Sekarang di Udemy (Gratis)</span>
               <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -181,8 +216,9 @@ const catStyle = categoryColors[course.category] || {
               <button
                 type="button"
                 id="copy-coupon-detail-btn"
-                class="inline-flex items-center justify-center gap-1.5 px-3 py-2.5 rounded-xl text-xs font-bold border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition-all active:scale-95"
+                class="claim-action-trigger inline-flex items-center justify-center gap-1.5 px-3 py-2.5 rounded-xl text-xs font-bold border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition-all active:scale-95"
                 data-coupon={course.coupon}
+                data-course-id={course.id}
               >
                 <svg class="w-3.5 h-3.5 text-slate-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <rect x="9" y="9" width="13" height="13" rx="2" ry="2" stroke-width="2"/>

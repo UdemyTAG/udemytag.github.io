@@ -38,6 +38,8 @@ const categories = Object.keys(categoryCounts)
     name,
     count: categoryCounts[name] || 0,
   }));
+
+const totalClaimed = coursesData.reduce((acc, c) => acc + (c.claimedCount || 0), 0);
 ---
 
 <BaseLayout 
@@ -47,10 +49,10 @@ const categories = Object.keys(categoryCounts)
 >
   <div id="top"></div>
   
-  <Navbar totalCourses={coursesData.length} />
+  <Navbar totalCourses={coursesData.length} totalClaimed={totalClaimed} />
   
   <main class="flex-1">
-    <HeroSection totalCourses={coursesData.length} />
+    <HeroSection totalCourses={coursesData.length} totalClaimed={totalClaimed} />
 
     <!-- Catalog Section -->
     <section id="katalog" class="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 py-6 sm:py-12">
@@ -629,6 +631,10 @@ const categories = Object.keys(categoryCounts)
       } else {
         emptyState?.classList.add('hidden');
         coursesGrid?.classList.remove('hidden');
+      }
+
+      if (typeof window.renderClaimUpdates === 'function') {
+        window.renderClaimUpdates();
       }
     }
 

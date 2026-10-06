@@ -3,11 +3,13 @@
   const i18nDict = {
     id: {
       nav_active_courses: (n) => `${n} Kursus Aktif`,
+      nav_total_claimed_label: 'Klaim',
       nav_catalog: 'Katalog Kursus',
       nav_faq: 'FAQ & Panduan',
-      hero_pill: 'Kupon Terverifikasi Aktif Hari Ini',
+      hero_pill: 'Kupon Telah Diklaim',
       hero_headline: 'Kupon Diskon <span class="text-transparent bg-clip-text bg-gradient-to-r from-rose-600 via-rose-500 to-amber-500">100% Gratis</span> Kursus Udemy',
       hero_subtitle: 'Akses materi pembelajaran premium dari instruktur Udemy terkemuka. Lengkap dengan sertifikat kelulusan resmi dan hak akses seumur hidup tanpa biaya sepeser pun.',
+      badge_claimed_title: 'Klaim Sukses',
       badge_available: 'Tersedia',
       badge_legal_title: '100% Legal',
       badge_legal_sub: 'Resmi Instruktur',
@@ -15,6 +17,12 @@
       badge_cert_sub: 'Kelulusan Resmi',
       badge_life_title: 'Lifetime',
       badge_life_sub: 'Akses Selamanya',
+      claim_unit: 'Klaim',
+      quota_prefix: 'Sisa',
+      quota_suffix: 'Slot',
+      detail_claimed_headline: 'Orang Telah Mengklaim',
+      detail_claim_hint: '⚡ Kuota terbatas instruktur Udemy',
+      detail_quota_filled: 'Terisi',
       catalog_badge: 'Katalog Pilihan',
       catalog_title: 'Eksplorasi Kupon Kursus Gratis',
       catalog_desc: 'Gunakan filter pencarian instan untuk menemukan materi yang sesuai dengan target belajar Anda.',
@@ -89,11 +97,13 @@
     },
     en: {
       nav_active_courses: (n) => `${n} Active Courses`,
+      nav_total_claimed_label: 'Claims',
       nav_catalog: 'Course Catalog',
       nav_faq: 'FAQ & Guide',
-      hero_pill: 'Verified Active Coupons Today',
+      hero_pill: 'Coupons Claimed',
       hero_headline: '<span class="text-transparent bg-clip-text bg-gradient-to-r from-rose-600 via-rose-500 to-amber-500">100% Free</span> Udemy Course Discount Coupons',
       hero_subtitle: 'Access premium learning materials from top Udemy instructors. Complete with official certificate of completion and lifetime access at zero cost.',
+      badge_claimed_title: 'Claims Made',
       badge_available: 'Available',
       badge_legal_title: '100% Legal',
       badge_legal_sub: 'Official Instructors',
@@ -101,6 +111,12 @@
       badge_cert_sub: 'Official Completion',
       badge_life_title: 'Lifetime',
       badge_life_sub: 'Forever Access',
+      claim_unit: 'Claimed',
+      quota_prefix: 'Left',
+      quota_suffix: 'Slots',
+      detail_claimed_headline: 'People Have Claimed',
+      detail_claim_hint: '⚡ Limited Udemy instructor quota',
+      detail_quota_filled: 'Filled',
       catalog_badge: 'Featured Catalog',
       catalog_title: 'Explore Free Course Coupons',
       catalog_desc: 'Use instant search filters to discover courses matching your learning goals.',
@@ -281,14 +297,112 @@
 
   window.applyLanguage = applyLanguage;
 
+  // --- REAL-TIME COUPON CLAIM TRACKER & PERSISTENCE ---
+  function getClaimStorage() {
+    try {
+      const raw = localStorage.getItem('udemytag_claimed_data');
+      return raw ? JSON.parse(raw) : { courses: {}, totalBonus: 0 };
+    } catch (_) {
+      return { courses: {}, totalBonus: 0 };
+    }
+  }
+
+  function saveClaimStorage(data) {
+    try {
+      localStorage.setItem('udemytag_claimed_data', JSON.stringify(data));
+    } catch (_) {}
+  }
+
+  function renderClaimUpdates() {
+    const data = getClaimStorage();
+    const coursesBonus = data.courses || {};
+
+    // 1. Update individual course card & course detail page counters
+    Object.keys(coursesBonus).forEach((courseId) => {
+      const bonus = coursesBonus[courseId] || 0;
+      if (bonus <= 0) return;
+
+      document.querySelectorAll(`.card-claimed-number[data-course-id="${courseId}"]`).forEach((el) => {
+        const base = parseInt(el.getAttribute('data-base') || el.textContent, 10);
+        if (!isNaN(base)) {
+          el.textContent = base + bonus;
+        }
+      });
+
+      document.querySelectorAll(`.card-remaining-number[data-course-id="${courseId}"]`).forEach((el) => {
+        const card = el.closest('article') || document.querySelector('.card-claim-bar')?.parentElement?.parentElement;
+        const barEl = document.querySelector(`.card-claim-bar[data-course-id="${courseId}"]`);
+        const quota = barEl ? parseInt(barEl.getAttribute('data-quota') || '500', 10) : 500;
+        const claimedEl = document.querySelector(`.card-claimed-number[data-course-id="${courseId}"]`);
+        const currentClaimed = claimedEl ? parseInt(claimedEl.textContent, 10) : (quota * 0.8);
+        const remaining = Math.max(0, quota - currentClaimed);
+        el.textContent = remaining;
+
+        if (barEl) {
+          const percent = Math.min(100, Math.round((currentClaimed / quota) * 100));
+          barEl.style.width = `${percent}%`;
+        }
+      });
+    });
+
+    // 2. Update overall total claims across the platform
+    const totalBonus = data.totalBonus || 0;
+    if (totalBonus > 0) {
+      document.querySelectorAll('.hero-total-claimed-num').forEach((el) => {
+        const base = parseInt(el.getAttribute('data-base') || el.textContent.replace(/[^0-9]/g, ''), 10);
+        if (!isNaN(base)) {
+          el.textContent = (base + totalBonus).toLocaleString();
+        }
+      });
+
+      document.querySelectorAll('.hero-highlight-claimed-num').forEach((el) => {
+        const base = parseInt(el.getAttribute('data-base') || '41900', 10);
+        if (!isNaN(base)) {
+          const total = base + totalBonus;
+          el.textContent = `${Math.round(total / 1000)}k+`;
+        }
+      });
+
+      document.querySelectorAll('.nav-total-claimed-num').forEach((el) => {
+        const heroEl = document.querySelector('.hero-total-claimed-num');
+        const base = heroEl ? parseInt(heroEl.getAttribute('data-base') || '41900', 10) : 41900;
+        const total = base + totalBonus;
+        el.textContent = `${Math.round(total / 1000)}k+`;
+      });
+    }
+  }
+
+  function handleClaimAction(courseId) {
+    if (!courseId) return;
+    const data = getClaimStorage();
+    if (!data.courses) data.courses = {};
+
+    const currentBonus = data.courses[courseId] || 0;
+    if (currentBonus < 5) {
+      data.courses[courseId] = currentBonus + 1;
+      data.totalBonus = (data.totalBonus || 0) + 1;
+      saveClaimStorage(data);
+      renderClaimUpdates();
+
+      // Trigger micro-bounce feedback on the clicked course's counters
+      document.querySelectorAll(`.card-claimed-number[data-course-id="${courseId}"]`).forEach((el) => {
+        el.classList.add('scale-125', 'text-rose-500', 'transition-transform');
+        setTimeout(() => el.classList.remove('scale-125', 'text-rose-500'), 400);
+      });
+    }
+  }
+
+  window.renderClaimUpdates = renderClaimUpdates;
+  window.handleClaimAction = handleClaimAction;
+
   function initI18n() {
     const currentLang = getCurrentLang();
     applyLanguage(currentLang);
+    renderClaimUpdates();
 
     // Event listener on Navbar language toggle button
     const toggleBtn = document.getElementById('lang-toggle-btn');
     if (toggleBtn) {
-      // Remove any existing listener by cloning or direct attachment
       toggleBtn.addEventListener('click', (e) => {
         e.preventDefault();
         const activeLang = getCurrentLang();
@@ -296,6 +410,17 @@
         applyLanguage(nextLang);
       });
     }
+
+    // Global listener for claim action triggers (Udemy CTA & Copy Coupon)
+    document.addEventListener('click', (e) => {
+      const trigger = e.target.closest('.claim-action-trigger');
+      if (trigger) {
+        const courseId = trigger.getAttribute('data-course-id');
+        if (courseId) {
+          handleClaimAction(courseId);
+        }
+      }
+    });
   }
 
   if (document.readyState === 'loading') {
