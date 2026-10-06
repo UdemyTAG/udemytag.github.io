@@ -197,7 +197,7 @@ const subs = course.subscribers || 0;
                     <span><strong class="card-claimed-number font-black text-rose-600 dark:text-rose-400" data-course-id={course.id} data-base={claimed}>{claimed}</strong> <span data-i18n="detail_claimed_headline">Orang Telah Mengklaim</span></span>
                   </span>
                   <span class="text-[11px] font-semibold text-slate-600 dark:text-slate-300">
-                    <span data-i18n="quota_prefix">Sisa</span> <strong class="card-remaining-number font-black text-rose-600 dark:text-rose-400" data-course-id={course.id}>{remainingSlots}</strong> <span data-i18n="quota_suffix">Slot Asli</span>
+                    <span data-i18n="quota_prefix">Sisa</span> <strong class="card-remaining-number font-black text-rose-600 dark:text-rose-400" data-course-id={course.id}>{remainingSlots}</strong> <span data-i18n="quota_suffix">Slot</span>
                   </span>
                 </div>
 
@@ -212,7 +212,7 @@ const subs = course.subscribers || 0;
                 </div>
 
                 <div class="flex items-center justify-between text-[10px] text-slate-500 dark:text-slate-400 mt-1.5">
-                  <span data-i18n="detail_claim_hint">⚡ Data kuota resmi terverifikasi dari Udemy</span>
+                  <span data-i18n="detail_claim_hint">⚡ Kuota promo terbatas dari instruktur</span>
                   <span>{claimPercent}% <span data-i18n="detail_quota_filled">Terisi</span></span>
                 </div>
               </div>

@@ -2,8 +2,8 @@ name: Build & Deploy UdemyTAG to GitHub Pages
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Berjalan otomatis setiap 6 jam
-  workflow_dispatch:      # Mengaktifkan tombol "Run workflow" di tab Actions GitHub
+    - cron: '0 */3 * * *' # Berjalan otomatis setiap 3 jam untuk verifikasi kuota berkala
+  workflow_dispatch:      # Mengaktifkan tombol "Run workflow" di tab Actions GitHub (sinkronisasi instan)
   push:
     branches:
       - main
