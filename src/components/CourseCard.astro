@@ -228,7 +228,7 @@ const subs = course.subscribers || 0;
             : 'bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-200'
         }`}
         data-course-id={course.id}
-        aria-label={`Buka kursus ${course.title} di Udemy`}
+        aria-label={`${isFree ? 'Buka di Udemy' : 'Lihat Kursus di Udemy'}: ${course.title}`}
       >
         <span class="open-btn-text">{isFree ? 'Buka di Udemy' : 'Lihat Kursus di Udemy'}</span>
         <svg class="w-3.5 h-3.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -245,7 +245,7 @@ const subs = course.subscribers || 0;
           class="copy-coupon-btn claim-action-trigger inline-flex items-center justify-center gap-1 px-2.5 py-2 rounded-xl text-xs font-bold border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700/80 hover:text-rose-600 dark:hover:text-rose-400 active:scale-95 transition-all"
           data-coupon={course.coupon}
           data-course-id={course.id}
-          aria-label={`Salin kupon untuk ${course.title}`}
+          aria-label={`Salin Kupon: ${course.title}`}
         >
           <svg class="copy-icon w-3.5 h-3.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <rect x="9" y="9" width="13" height="13" rx="2" ry="2" stroke-width="2"/>
@@ -264,7 +264,7 @@ const subs = course.subscribers || 0;
           data-link={dedicatedCourseUrl}
           data-course-id={course.id}
           title="Salin Link"
-          aria-label={`Salin link untuk ${course.title}`}
+          aria-label={`Salin Link: ${course.title}`}
         >
           <svg class="link-icon w-3.5 h-3.5 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
             <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/>

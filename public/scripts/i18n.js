@@ -94,7 +94,7 @@
         },
         5: {
           q: 'Di mana saya bisa mendapatkan pemberitahuan kupon rilis paling cepat?',
-          a: 'Anda dapat bergabung di Channel Telegram kami di <a href="https://t.me/trikandroidgold" target="_blank" class="text-rose-600 dark:text-rose-400 font-bold underline hover:opacity-80">@trikandroidgold</a> dan mengikuti halaman Facebook kami di <a href="https://web.facebook.com/Trikandroidgold" target="_blank" class="text-blue-600 dark:text-blue-400 font-bold underline hover:opacity-80">@Trikandroidgold</a> untuk mendapatkan info kupon gratis seketika begitu dirilis.'
+          a: 'Anda dapat bergabung di Channel Telegram kami di <a href="https://t.me/trikandroidgold" target="_blank" rel="noopener noreferrer" class="text-rose-600 dark:text-rose-400 font-bold underline hover:opacity-80">@trikandroidgold</a> dan mengikuti halaman Facebook kami di <a href="https://web.facebook.com/Trikandroidgold" target="_blank" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 font-bold underline hover:opacity-80">@Trikandroidgold</a> untuk mendapatkan info kupon gratis seketika begitu dirilis.'
         }
       }
     },
@@ -191,7 +191,7 @@
         },
         5: {
           q: 'Where can I get real-time updates for new coupon releases?',
-          a: 'You can join our Telegram Channel at <a href="https://t.me/trikandroidgold" target="_blank" class="text-rose-600 dark:text-rose-400 font-bold underline hover:opacity-80">@trikandroidgold</a> and follow our Facebook Page at <a href="https://web.facebook.com/Trikandroidgold" target="_blank" class="text-blue-600 dark:text-blue-400 font-bold underline hover:opacity-80">@Trikandroidgold</a> for instant coupon alerts.'
+          a: 'You can join our Telegram Channel at <a href="https://t.me/trikandroidgold" target="_blank" rel="noopener noreferrer" class="text-rose-600 dark:text-rose-400 font-bold underline hover:opacity-80">@trikandroidgold</a> and follow our Facebook Page at <a href="https://web.facebook.com/Trikandroidgold" target="_blank" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 font-bold underline hover:opacity-80">@Trikandroidgold</a> for instant coupon alerts.'
         }
       }
     }
@@ -218,6 +218,13 @@
     const langLabel = document.getElementById('lang-current-label');
     if (langLabel) {
       langLabel.textContent = validLang.toUpperCase();
+    }
+    const langToggleBtn = document.getElementById('lang-toggle-btn');
+    if (langToggleBtn) {
+      langToggleBtn.setAttribute(
+        'aria-label',
+        validLang === 'id' ? 'ID - Ganti Bahasa (Switch Language)' : 'EN - Switch Language (Ganti Bahasa)'
+      );
     }
 
     const dict = i18nDict[validLang] || i18nDict.id;
