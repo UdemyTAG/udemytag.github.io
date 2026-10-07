@@ -109,7 +109,7 @@ const subs = course.subscribers || 0;
 
           <!-- Status Badge -->
           {isFree ? (
-            <div class="absolute top-3 left-3 flex items-center gap-1.5 px-3 py-1 rounded-xl text-xs font-black bg-emerald-500 text-white shadow-lg shadow-emerald-500/40 uppercase tracking-wider">
+            <div class="absolute top-3 left-3 flex items-center gap-1.5 px-3 py-1 rounded-xl text-xs font-black bg-emerald-700 text-white shadow-lg shadow-emerald-700/30 uppercase tracking-wider">
               <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
                 <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
               </svg>
@@ -174,9 +174,9 @@ const subs = course.subscribers || 0;
               <div>
                 <span class="text-slate-400 text-[10px] block" data-i18n="meta_claim_label">Status Kupon</span>
                 {isFree ? (
-                  <span class="font-bold text-emerald-600 dark:text-emerald-400">100% Aktif & Legal</span>
+                  <span class="font-bold text-emerald-700 dark:text-emerald-400">100% Aktif & Legal</span>
                 ) : (
-                  <span class="font-bold text-rose-600 dark:text-rose-400">Kuota Habis (Expired)</span>
+                  <span class="font-bold text-rose-700 dark:text-rose-400">Kuota Habis (Expired)</span>
                 )}
               </div>
               {subs > 0 ? (
@@ -383,13 +383,13 @@ const subs = course.subscribers || 0;
         if (shareBtnText) shareBtnText.textContent = isEn ? 'Link Copied!' : 'Link Tersalin!';
         shareIcon?.classList.add('hidden');
         shareCheckIcon?.classList.remove('hidden');
-        sharePageBtn.classList.add('border-emerald-500', 'text-emerald-600', 'dark:text-emerald-400');
+        sharePageBtn.classList.add('border-emerald-600', 'text-emerald-700', 'dark:text-emerald-400');
 
         setTimeout(() => {
           if (shareBtnText) shareBtnText.textContent = isEn ? 'Copy Link' : 'Salin Link';
           shareIcon?.classList.remove('hidden');
           shareCheckIcon?.classList.add('hidden');
-          sharePageBtn.classList.remove('border-emerald-500', 'text-emerald-600', 'dark:text-emerald-400');
+          sharePageBtn.classList.remove('border-emerald-600', 'text-emerald-700', 'dark:text-emerald-400');
         }, 2000);
       } catch (_) {}
     });

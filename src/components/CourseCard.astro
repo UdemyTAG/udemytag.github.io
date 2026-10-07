@@ -89,7 +89,7 @@ const subs = course.subscribers || 0;
 
     <!-- Status Badge (100% OFF atau KUOTA HABIS yang Jujur) -->
     {isFree ? (
-      <div class="absolute top-2.5 left-2.5 flex items-center gap-1 px-2.5 py-1 rounded-lg text-xs font-black bg-emerald-500 text-white shadow-md shadow-emerald-500/40 tracking-wider uppercase">
+      <div class="absolute top-2.5 left-2.5 flex items-center gap-1 px-2.5 py-1 rounded-lg text-xs font-black bg-emerald-700 text-white shadow-md shadow-emerald-700/30 tracking-wider uppercase">
         <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
           <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
         </svg>
@@ -132,13 +132,13 @@ const subs = course.subscribers || 0;
         {course.category}
       </span>
       {isFree ? (
-        <span class="inline-flex items-center gap-1 text-[10px] font-semibold text-emerald-600 dark:text-emerald-400">
-          <span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>
+        <span class="inline-flex items-center gap-1 text-[10px] font-bold text-emerald-700 dark:text-emerald-400">
+          <span class="w-1.5 h-1.5 rounded-full bg-emerald-600 animate-pulse"></span>
           <span class="coupon-status-text">Kupon Aktif</span>
         </span>
       ) : (
-        <span class="inline-flex items-center gap-1 text-[10px] font-semibold text-rose-500 dark:text-rose-400">
-          <span class="w-1.5 h-1.5 rounded-full bg-rose-500"></span>
+        <span class="inline-flex items-center gap-1 text-[10px] font-bold text-rose-700 dark:text-rose-400">
+          <span class="w-1.5 h-1.5 rounded-full bg-rose-600"></span>
           <span>Kuota Habis</span>
         </span>
       )}
@@ -184,8 +184,8 @@ const subs = course.subscribers || 0;
       <div class="flex items-center justify-between text-[11px] mb-1">
         {isFree ? (
           <>
-            <span class="flex items-center gap-1 font-bold text-rose-600 dark:text-rose-400">
-              <svg class="w-3.5 h-3.5 fill-current text-rose-500 flex-shrink-0 animate-pulse" viewBox="0 0 24 24">
+            <span class="flex items-center gap-1 font-bold text-rose-700 dark:text-rose-400">
+              <svg class="w-3.5 h-3.5 fill-current text-rose-600 dark:text-rose-400 flex-shrink-0 animate-pulse" viewBox="0 0 24 24">
                 <path d="M12 2c-.5 2.5-2.5 4.5-4 6-2 2-3 4.5-3 7 0 5 4 9 9 9s9-4 9-9c0-3.5-2-6-4.5-8-1-1-2-2.5-2.5-5-.5 1-1.5 2-4 2z"/>
               </svg>
               <span class="card-claimed-number font-extrabold" data-course-id={course.id} data-base={claimed}>{claimed}</span>
@@ -197,7 +197,7 @@ const subs = course.subscribers || 0;
             </span>
           </>
         ) : (
-          <span class="text-[10px] font-bold text-rose-500 dark:text-rose-400 flex items-center gap-1">
+          <span class="text-[10px] font-bold text-rose-700 dark:text-rose-400 flex items-center gap-1">
             <span>⚠️ Kuota Kupon Habis (Harga Normal)</span>
           </span>
         )}

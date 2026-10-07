@@ -14,7 +14,7 @@ const { categories, activeCategory = 'all' } = Astro.props;
     <button
       type="button"
       data-category="all"
-      class="cat-filter-btn px-3 py-1.5 sm:px-4 sm:py-2 rounded-xl text-[11px] sm:text-xs font-bold transition-all duration-200 flex items-center gap-1.5 bg-rose-600 text-white shadow-sm shadow-rose-600/25 ring-2 ring-rose-600/30 flex-shrink-0"
+      class="cat-filter-btn px-3 py-1.5 sm:px-4 sm:py-2 rounded-xl text-[11px] sm:text-xs font-bold transition-all duration-200 flex items-center gap-1.5 bg-rose-700 text-white shadow-sm shadow-rose-700/25 ring-2 ring-rose-700/30 flex-shrink-0"
     >
       <svg class="w-3 h-3 sm:w-3.5 sm:h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
         <rect x="3" y="3" width="7" height="7"/>
@@ -23,7 +23,7 @@ const { categories, activeCategory = 'all' } = Astro.props;
         <rect x="3" y="14" width="7" height="7"/>
       </svg>
       <span class="cat-label" data-i18n="cat_all">Semua</span>
-      <span class="cat-badge px-1.5 py-0.2 rounded-full text-[9px] sm:text-[10px] bg-white/20 text-white">
+      <span class="cat-badge px-1.5 py-0.5 rounded-full text-[9px] sm:text-[10px] bg-white text-rose-900 font-extrabold shadow-sm">
         {categories.reduce((acc, c) => acc + c.count, 0)}
       </span>
     </button>
@@ -36,7 +36,7 @@ const { categories, activeCategory = 'all' } = Astro.props;
         class="cat-filter-btn px-2.5 py-1.5 sm:px-3.5 sm:py-2 rounded-xl text-[11px] sm:text-xs font-semibold transition-all duration-200 flex items-center gap-1.5 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:border-rose-500/50 hover:text-rose-600 dark:hover:text-rose-400 shadow-sm flex-shrink-0"
       >
         <span class="cat-label">{cat.name}</span>
-        <span class="cat-badge px-1.5 py-0.2 rounded-full text-[9px] sm:text-[10px] bg-slate-200/90 dark:bg-slate-800 text-slate-700 dark:text-slate-200 font-bold">
+        <span class="cat-badge px-1.5 py-0.5 rounded-full text-[9px] sm:text-[10px] bg-slate-200/90 dark:bg-slate-800 text-slate-700 dark:text-slate-200 font-bold">
           {cat.count}
         </span>
       </button>
