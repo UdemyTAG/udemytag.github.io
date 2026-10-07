@@ -15,15 +15,16 @@ const { totalCourses = 69, totalActiveFree = 42 } = Astro.props;
       <a href="/" class="flex items-center gap-2 sm:gap-3 group focus:outline-none focus:ring-2 focus:ring-rose-500 rounded-xl px-1 py-1 flex-shrink-0">
         <div class="relative w-9 h-9 sm:w-10 sm:h-10 rounded-full p-[1.5px] bg-gradient-to-tr from-amber-400 via-rose-500 to-amber-300 shadow-sm shadow-amber-500/20 group-hover:scale-105 transition-transform flex-shrink-0">
           <picture>
-            <source srcset="/logo.webp" type="image/webp" />
+            <source srcset="/logo-40.webp 1x, /logo-80.webp 2x" type="image/webp" />
             <img 
-              src="/logo.png" 
+              src="/logo-40.png" 
+              srcset="/logo-40.png 1x, /logo-80.png 2x"
               alt="Trik Android Gold Logo" 
               class="w-full h-full rounded-full object-cover bg-slate-900" 
               width="40" 
-              height="40"
-              loading="eager"
-              decoding="async"
+              height="40" 
+              loading="eager" 
+              decoding="async" 
             />
           </picture>
         </div>

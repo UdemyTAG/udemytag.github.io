@@ -11,9 +11,10 @@ const year = new Date().getFullYear();
         <div class="flex items-center gap-2.5">
           <div class="relative w-8 h-8 rounded-full p-[1.5px] bg-gradient-to-tr from-amber-400 via-rose-500 to-amber-300 shadow-sm flex-shrink-0">
             <picture>
-              <source srcset="/logo.webp" type="image/webp" />
+              <source srcset="/logo-40.webp 1x, /logo-80.webp 2x" type="image/webp" />
               <img 
-                src="/logo.png" 
+                src="/logo-40.png" 
+                srcset="/logo-40.png 1x, /logo-80.png 2x" 
                 alt="UdemyTAG Logo" 
                 class="w-full h-full rounded-full object-cover bg-slate-900" 
                 width="32" 

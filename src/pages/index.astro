@@ -47,6 +47,7 @@ const totalSubscribers = coursesData.reduce((acc, c) => acc + (c.subscribers || 
   title="UdemyTAG - Kupon Diskon 100% & Kursus Gratis Udemy Terbaru Hari Ini"
   description="Daftar lengkap kupon diskon 100% dan kursus gratis Udemy legal bersertifikat. Update otomatis setiap 6 jam dengan akses seumur hidup."
   courses={coursesData}
+  loadGlobalI18n={false}
 >
   <div id="top"></div>
   
@@ -86,12 +87,12 @@ const totalSubscribers = coursesData.reduce((acc, c) => acc + (c.subscribers || 
         <CategoryFilter categories={categories} />
       </div>
 
-      <!-- Course Cards Grid: 12 courses initial load with Load More -->
+      <!-- Course Cards Grid: 8 courses initial load with Load More for optimal DOM size -->
       <div 
         id="courses-grid" 
         class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3.5 sm:gap-6"
       >
-        {coursesData.slice(0, 12).map((course) => (
+        {coursesData.slice(0, 8).map((course) => (
           <CourseCard course={course} />
         ))}
       </div>
@@ -506,13 +507,40 @@ const totalSubscribers = coursesData.reduce((acc, c) => acc + (c.subscribers || 
       window.dispatchEvent(new CustomEvent('languageChanged', { detail: { lang } }));
     }
 
-    // Listen to global language changes from i18n.js
+    // Language switcher toggle button listener
+    langToggleBtn?.addEventListener('click', () => {
+      const nextLang = currentLang === 'id' ? 'en' : 'id';
+      applyLanguage(nextLang);
+    });
+
+    // Listen to language changes
     window.addEventListener('languageChanged', (e) => {
       currentLang = e.detail?.lang || 'id';
       if (typeof filterAndSortCourses === 'function') {
         filterAndSortCourses();
       }
     });
+
+    // Lightweight claim persistence helpers
+    function getClaimStorage() {
+      try {
+        const raw = localStorage.getItem('udemytag_claimed_data');
+        return raw ? JSON.parse(raw) : { courses: {}, totalBonus: 0 };
+      } catch (_) {
+        return { courses: {}, totalBonus: 0 };
+      }
+    }
+
+    function recordClaim(courseId) {
+      if (!courseId) return;
+      const data = getClaimStorage();
+      if (!data.courses) data.courses = {};
+      data.courses[courseId] = (data.courses[courseId] || 0) + 1;
+      data.totalBonus = (data.totalBonus || 0) + 1;
+      try {
+        localStorage.setItem('udemytag_claimed_data', JSON.stringify(data));
+      } catch (_) {}
+    }
 
     // -------------------------------------------------------------
     // 2. SEARCH, FILTER & PAGINATION (LOAD MORE)
@@ -533,7 +561,7 @@ const totalSubscribers = coursesData.reduce((acc, c) => acc + (c.subscribers || 
     const remainingCountBadge = document.getElementById('remaining-count-badge');
     const allLoadedMessage = document.getElementById('all-loaded-message');
 
-    const PAGE_SIZE = 12; // Jumlah kursus per batch
+    const PAGE_SIZE = 8; // Jumlah kursus per batch untuk performa DOM optimal
     let visibleLimit = PAGE_SIZE;
 
     let currentCategory = 'all';
@@ -953,6 +981,8 @@ const totalSubscribers = coursesData.reduce((acc, c) => acc + (c.subscribers || 
       const copyBtn = e.target.closest('.copy-coupon-btn');
       if (copyBtn) {
         e.preventDefault();
+        const card = copyBtn.closest('.course-card');
+        if (card) recordClaim(card.getAttribute('data-id'));
         const coupon = copyBtn.getAttribute('data-coupon') || '100% OFF';
         const copyIcon = copyBtn.querySelector('.copy-icon');
         const checkIcon = copyBtn.querySelector('.check-icon');
