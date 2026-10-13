@@ -10,6 +10,8 @@ export default defineConfig({
   },
   integrations: [
     tailwind(),
-    sitemap(),
+    sitemap({
+      filter: (page) => !page.includes('/course/course-'),
+    }),
   ],
 });

@@ -59,5 +59,3 @@ Allow: /
 
 # Peta Situs Resmi (XML Sitemaps)
 Sitemap: https://udemytag.github.io/sitemap.xml
-Sitemap: https://udemytag.github.io/sitemap-0.xml
-Sitemap: https://udemytag.github.io/sitemap-index.xml

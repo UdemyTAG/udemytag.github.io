@@ -34,8 +34,10 @@ export async function getStaticPaths() {
 
 const { course, related = [] } = Astro.props;
 
-const pageTitle = `${course.title} - Kupon Diskon 100% Gratis | UdemyTAG`;
-const pageDescription = course.description || `Dapatkan akses gratis ke kursus ${course.title} dengan kupon diskon 100% terbaru di UdemyTAG.`;
+const pageTitle = `${course.title} - Kupon Diskon 100% Gratis Bersertifikat | UdemyTAG`;
+const pageDescription = course.description 
+  ? `Klaim kupon diskon 100% kursus "${course.title}". Akses gratis seumur hidup dan sertifikat resmi kelulusan Udemy di UdemyTAG.` 
+  : `Dapatkan akses kursus gratis "${course.title}" dengan kupon diskon 100% terbaru bersertifikat resmi di UdemyTAG.`;
 const courseSlug = course.slug || course.id;
 const currentUrl = `https://udemytag.github.io/course/${courseSlug}/`;
 
@@ -67,6 +69,7 @@ const subs = course.subscribers || 0;
   title={pageTitle}
   description={pageDescription}
   image={course.image}
+  canonical={currentUrl}
   courses={[course]}
 >
   <Navbar totalCourses={coursesData.length} totalClaimed={totalClaimed} />
