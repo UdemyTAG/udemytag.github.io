@@ -4046,5 +4046,27 @@
       "rem": 3,
       "end": "2026-11-19T08:51:00Z"
     }
+  },
+  "ai-in-90-days-a-leadership-bootcamp_OCTFREE02": {
+    "subscribers": 1348,
+    "reviews": 6,
+    "rating": "4.1",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "forensic-science-basics-principles-history-evidence_100% OFF": {
+    "subscribers": 392,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Aditya Kumar",
+    "campaign": null
   }
 }
