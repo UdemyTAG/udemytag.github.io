@@ -1,8 +1,12 @@
-# 🎓 UdemyTAG - Direktori Kupon Diskon 100% & Kursus Gratis Udemy
+# 🎓 UdemyTAG - Direktori Kupon Diskon 100% & Kursus Gratis Udemy Bersertifikat
 
-Platform modern berbasis **Astro SSG** dan **Tailwind CSS** yang menyediakan kurasi kupon diskon 100% dan kursus gratis Udemy legal bersertifikat. Diperbarui secara otomatis setiap 6 jam via GitHub Actions langsung dari Google Sheets.
+Platform modern berbasis **Astro SSG** dan **Tailwind CSS** yang menyediakan kurasi kupon diskon 100% dan kursus gratis Udemy legal bersertifikat resmi. Diperbarui secara otomatis setiap siklus via GitHub Actions langsung dari database agregator multi-provider.
 
-🌐 **Website Resmi:** [https://udemytag.github.io/](https://udemytag.github.io/)
+🌐 **Website Resmi:** [UdemyTAG: Kupon Kursus Udemy Gratis Bersertifikat Resmi](https://udemytag.github.io/)  
+📚 **Katalog Markdown (DA 96 Hub):** [Awesome Free Udemy Courses](AWESOME_UDEMY_COURSES.md)  
+📡 **RSS 2.0 Feed:** [https://udemytag.github.io/rss.xml](https://udemytag.github.io/rss.xml)  
+🗺️ **Peta Situs (Sitemap):** [https://udemytag.github.io/sitemap.xml](https://udemytag.github.io/sitemap.xml)  
+🤖 **Indeks AI & LLMs:** [https://udemytag.github.io/llms-full.txt](https://udemytag.github.io/llms-full.txt)
 
 ---
 

@@ -3305,5 +3305,512 @@
       "rem": null,
       "end": "2026-10-21T17:00:00Z"
     }
+  },
+  "audit-administration-effective-communication-in-audit_13THOCT26": {
+    "subscribers": 1817,
+    "reviews": 87,
+    "rating": "4.5",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 35,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "financial-services-basics-of-regulation-compliance_13THOCT26": {
+    "subscribers": 21048,
+    "reviews": 526,
+    "rating": "4.2",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Narelle Ferreira",
+    "campaign": {
+      "max": 100,
+      "rem": 76,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "financial-services-understanding-interest-rates_13THOCT26": {
+    "subscribers": 20887,
+    "reviews": 259,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 71,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "workplace-productivity-coping-with-the-anxiety-of-leadership_13THOCT26": {
+    "subscribers": 20073,
+    "reviews": 108,
+    "rating": "4.4",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 76,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "employee-wellbeing-toolkit_13THOCT26": {
+    "subscribers": 1782,
+    "reviews": 51,
+    "rating": "4.9",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 16,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "financial-stewardship-for-decision-makers-and-leaders_13THOCT26": {
+    "subscribers": 19766,
+    "reviews": 130,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 83,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "financial-services-basics-of-business-corporate-banking_13THOCT26": {
+    "subscribers": 24892,
+    "reviews": 920,
+    "rating": "4.5",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 70,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "financial-services-funds-flow-optimization-concepts_13THOCT26": {
+    "subscribers": 21408,
+    "reviews": 181,
+    "rating": "4.5",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 79,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "financial-services-overview-of-commodities_13THOCT26": {
+    "subscribers": 1663,
+    "reviews": 66,
+    "rating": "4.7",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 47,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "financial-services-introduction-to-etfs_13THOCT26": {
+    "subscribers": 14370,
+    "reviews": 166,
+    "rating": "4.7",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 55,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "organizational-influences-project-management-lifecycle-qi_13THOCT26": {
+    "subscribers": 1780,
+    "reviews": 55,
+    "rating": "4.7",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Oluseye Kolawole",
+    "campaign": {
+      "max": 100,
+      "rem": 8,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "financial-services-overview-of-retail-banking_13THOCT26": {
+    "subscribers": 20741,
+    "reviews": 226,
+    "rating": "4.4",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 85,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "financial-services-overview-of-central-banks_13THOCT26": {
+    "subscribers": 21262,
+    "reviews": 178,
+    "rating": "4.4",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 63,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "emotional-intelligence-in-leadership-y_13THOCT26": {
+    "subscribers": 26865,
+    "reviews": 515,
+    "rating": "4.3",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 27,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "managing-social-anxiety-in-the-workplace_13THOCT26": {
+    "subscribers": 25735,
+    "reviews": 148,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 49,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "mental-health-for-the-workplace_13THOCT26": {
+    "subscribers": 22742,
+    "reviews": 464,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 66,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "introduction-to-financial-controls_13THOCT26": {
+    "subscribers": 29504,
+    "reviews": 724,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 73,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "workplace-productivity-supporting-others-through-change_13THOCT26": {
+    "subscribers": 23938,
+    "reviews": 459,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 71,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "ai-engineering-complete-bootcamp-masterclass_OCTFREE01": {
+    "subscribers": 51263,
+    "reviews": 1209,
+    "rating": "4.5",
+    "price": "Rp209,000",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-21T17:00:00Z"
+    }
+  },
+  "fr-cours-de-certification-ingenieur-associe-en-ia_PACKTFREE": {
+    "subscribers": 5579,
+    "reviews": 35,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 74,
+      "end": "2026-11-01T16:30:00Z"
+    }
+  },
+  "certified-safety-manager_19C6A06C8722BD74B970": {
+    "subscribers": 1925,
+    "reviews": 80,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "ACCREVIA International",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-21T17:00:00Z"
+    }
+  },
+  "ibm-c1000-180-practice-test-watsonx-ai-assistant-engineer_NAVYSEP2026": {
+    "subscribers": 296,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Zach Zang",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-21T17:00:00Z"
+    }
+  },
+  "ibm-c1000-187-practice-test-mainframe-modernization_NAVYSEP2026": {
+    "subscribers": 302,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Zach Zang",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-21T17:00:00Z"
+    }
+  },
+  "microsoft-azure-fundamentals-az-900-practice-exams-f_96D4949BACB01B0A431B": {
+    "subscribers": 532,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Himanshu Kaushik",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-21T17:00:00Z"
+    }
+  },
+  "ai-tools-for-non-tech-creators_B77A7BC340F79D552CBE": {
+    "subscribers": 3431,
+    "reviews": 7,
+    "rating": "4.2",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-21T17:00:00Z"
+    }
+  },
+  "sas-aiml-machine-learning-6-practice-tests_NAVYSEP2026": {
+    "subscribers": 307,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Zach Zang",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-21T17:00:00Z"
+    }
+  },
+  "cisco-ios-xr-training_NAVYSEP2026": {
+    "subscribers": 401,
+    "reviews": 2,
+    "rating": "2.3",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Zach Zang, Todd Lammle",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-21T17:00:00Z"
+    }
+  },
+  "gced-giac-enterprise-defender-6-practice-tests_NAVYSEP2026": {
+    "subscribers": 293,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Zach Zang",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-21T17:00:00Z"
+    }
+  },
+  "cisco-encor-for-ccnp_NAVYSEP2026": {
+    "subscribers": 685,
+    "reviews": 83,
+    "rating": "3.9",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Zach Zang",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-21T17:00:00Z"
+    }
+  },
+  "gh-200-github-actions-6-practice-tests_NAVYSEP2026": {
+    "subscribers": 302,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Zach Zang",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-21T17:00:00Z"
+    }
+  },
+  "cisco-tetration_NAVYSEP2026": {
+    "subscribers": 473,
+    "reviews": 42,
+    "rating": "4.0",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Zach Zang",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-21T17:00:00Z"
+    }
+  },
+  "nca-aiio-practice-tests-ai-infrastructure-ops_NAVYSEP2026": {
+    "subscribers": 408,
+    "reviews": 3,
+    "rating": "5.0",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Zach Zang",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-21T17:00:00Z"
+    }
+  },
+  "qa-automation-testing-selenium-cypress-api-exams_9805D316F8C349A3BC03": {
+    "subscribers": 531,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Himanshu Kaushik",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-21T17:00:00Z"
+    }
+  },
+  "gh-100-github-administration-6-practice-tests_NAVYSEP2026": {
+    "subscribers": 308,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Zach Zang",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-21T17:00:00Z"
+    }
+  },
+  "ibm-c1000-195-practice-tests-watsonx-governance_NAVYSEP2026": {
+    "subscribers": 298,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Zach Zang",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-21T17:00:00Z"
+    }
+  },
+  "pmp-2026-project-management-6-practice-tests_NAVYSEP2026": {
+    "subscribers": 306,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Zach Zang",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-21T17:00:00Z"
+    }
+  },
+  "strategic-scm_DC681A040D82E8C4003F": {
+    "subscribers": 3683,
+    "reviews": 38,
+    "rating": "4.1",
+    "price": "Rp149,000",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-21T17:00:00Z"
+    }
+  },
+  "developper-creativite-trouver-idees_0F45438655ACA41A7F2B": {
+    "subscribers": 179,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "Pierre Henry",
+    "campaign": {
+      "max": 100,
+      "rem": 34,
+      "end": "2026-11-14T18:58:00Z"
+    }
+  },
+  "introduction-to-occupational-health-and-safety-professional_06D679453F61B0AED511": {
+    "subscribers": 5443,
+    "reviews": 148,
+    "rating": "4.5",
+    "price": "Rp149,000",
+    "isFree": true,
+    "instructors": "SARMAD YAHYA ASP®",
+    "campaign": {
+      "max": 100,
+      "rem": 34,
+      "end": "2026-11-14T19:37:00Z"
+    }
   }
 }

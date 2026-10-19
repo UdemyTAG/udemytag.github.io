@@ -59,6 +59,89 @@ try {
     fs.copyFileSync(llmsPublic, llmsDist);
     console.log('✓ Successfully synchronized llms.txt to dist/');
   }
+
+  // 4. Generate RSS 2.0 Feed untuk Sindikasi Konten & Backlink Organik Otomatis
+  if (fs.existsSync(coursesPath)) {
+    const rawData = fs.readFileSync(coursesPath, 'utf-8');
+    const courses = JSON.parse(rawData);
+
+    const rssItems = courses.slice(0, 50).map(c => {
+      const slug = c.slug || c.id;
+      const courseUrl = `https://udemytag.github.io/course/${slug}/`;
+      const pubDate = new Date().toUTCString();
+      const cleanDesc = (c.description || 'Kupon diskon 100% kursus Udemy resmi bersertifikat.').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+      const cleanTitle = (c.title || 'Udemy Course').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+      
+      return `    <item>
+      <title>${cleanTitle}</title>
+      <link>${courseUrl}</link>
+      <guid isPermaLink="true">${courseUrl}</guid>
+      <description>${cleanDesc} Klaim gratis di UdemyTAG.</description>
+      <category>${c.category || 'Development'}</category>
+      <pubDate>${pubDate}</pubDate>
+    </item>`;
+    }).join('\n');
+
+    const rssXml = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UdemyTAG - Kupon Kursus Udemy 100% Gratis Bersertifikat</title>
+    <link>https://udemytag.github.io/</link>
+    <description>Koleksi kupon diskon 100% dan kursus gratis Udemy resmi bersertifikat terbaru 2026.</description>
+    <language>id-ID</language>
+    <atom:link href="https://udemytag.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+${rssItems}
+  </channel>
+</rss>`;
+
+    const rssPublic = path.join(publicDir, 'rss.xml');
+    const rssDist = path.join(distDir, 'rss.xml');
+    fs.writeFileSync(rssPublic, rssXml, 'utf-8');
+    if (fs.existsSync(distDir)) {
+      fs.writeFileSync(rssDist, rssXml, 'utf-8');
+    }
+    console.log(`✓ Successfully generated rss.xml with ${Math.min(courses.length, 50)} items`);
+
+    // 5. Generate GitHub High-Authority Backlink Catalog (DA 96 Anchor Link Network)
+    let awesomeMd = `# 🎓 Awesome Free Udemy Courses with Certificate - UdemyTAG Catalog
+
+> **Direktori Kurasi Kursus Udemy Gratis Bersertifikat Resmi (Domain Authority Backlink Hub)**
+> Sumber utama: [UdemyTAG Official Website](https://udemytag.github.io/)
+
+Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certificate of Completion*) dan hak akses seumur hidup (*lifetime access*).
+
+---
+
+## 🚀 Tautan Cepat & Kategori Unggulan
+
+- 🌟 **[Beranda Direktori Kursus Udemy Gratis Bersertifikat](https://udemytag.github.io/)**
+- 🐍 **[Kursus Python Gratis Bersertifikat](https://udemytag.github.io/?cat=development#katalog)**
+- 💻 **[Kursus Web Development & Coding Gratis](https://udemytag.github.io/?cat=development#katalog)**
+- 🔒 **[Kursus Cyber Security & IT Software Gratis](https://udemytag.github.io/?cat=it%20&%20software#katalog)**
+- 📊 **[Kursus Bisnis, Data Science & Finansial Gratis](https://udemytag.github.io/?cat=business#katalog)**
+- 🎨 **[Kursus Desain Grafis & UI/UX Figma Gratis](https://udemytag.github.io/?cat=design#katalog)**
+- ❓ **[Panduan & FAQ Klaim Kupon Diskon 100%](https://udemytag.github.io/#faq)**
+
+---
+
+## 📚 Daftar Kursus Gratis Aktif Terbaru (Update Otomatis)
+
+| No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
+| :-: | :--- | :--- | :-: | :--- |
+`;
+
+    courses.slice(0, 40).forEach((c, i) => {
+      const slug = c.slug || c.id;
+      const pageUrl = `https://udemytag.github.io/course/${slug}/`;
+      const cleanTitle = c.title.replace(/\|/g, '-');
+      awesomeMd += `| ${i + 1} | **${cleanTitle}** | \`${c.category}\` | ⭐ ${c.rating} | [Buka di UdemyTAG](${pageUrl}) |\n`;
+    });
+
+    awesomeMd += `\n*Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*\n`;
+
+    fs.writeFileSync(path.resolve('AWESOME_UDEMY_COURSES.md'), awesomeMd, 'utf-8');
+    console.log(`✓ Successfully generated AWESOME_UDEMY_COURSES.md with 40 direct authority backlinks`);
+  }
 } catch (err) {
-  console.error('Error generating llms-full.txt:', err);
+  console.error('Error generating authority assets in postbuild:', err);
 }
