@@ -3812,5 +3812,239 @@
       "rem": 34,
       "end": "2026-11-14T19:37:00Z"
     }
+  },
+  "the-rhythm-of-english_REALDISOCT26": {
+    "subscribers": 24347,
+    "reviews": 334,
+    "rating": "4.6",
+    "price": "$69.99",
+    "isFree": false,
+    "instructors": "Sheila Lebedenko",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "american-english-vowels-for-indian-it-professionals_REALDISCOCT26": {
+    "subscribers": 11541,
+    "reviews": 86,
+    "rating": "4.7",
+    "price": "$64.99",
+    "isFree": true,
+    "instructors": "Sheila Lebedenko",
+    "campaign": {
+      "max": 100,
+      "rem": 2,
+      "end": "2026-11-19T03:52:00Z"
+    }
+  },
+  "mastering-javascript-and-jquery-course-beginners-to-advanced_A09E8032859BD847A825": {
+    "subscribers": 31150,
+    "reviews": 148,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "complete-guide-in-html-css-build-responsive-website_79A7705085437F10DDEE": {
+    "subscribers": 39954,
+    "reviews": 688,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 6,
+      "end": "2026-11-13T04:08:00Z"
+    }
+  },
+  "master-microsoft-word-for-business-and-career-success_EB0F025FE6FE7711D875": {
+    "subscribers": 1277,
+    "reviews": 5,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": 100,
+      "rem": 76,
+      "end": "2026-11-19T06:57:00Z"
+    }
+  },
+  "adobe-premiere-pro-cc-for-video-editing-from-novice-to-exper_70240FE57DE7F626E53A": {
+    "subscribers": 50139,
+    "reviews": 373,
+    "rating": "4.3",
+    "price": "$29.99",
+    "isFree": true,
+    "instructors": "Ben Kemp, Zechariah Tech",
+    "campaign": {
+      "max": 10,
+      "rem": 3,
+      "end": "2026-10-24T06:27:00Z"
+    }
+  },
+  "graphics-design-and-video-editing-all-in-one-course_D065E7E496C7A831FAAC": {
+    "subscribers": 1855,
+    "reviews": 3,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": 100,
+      "rem": 74,
+      "end": "2026-11-19T06:56:00Z"
+    }
+  },
+  "generative-ai-mastery-chatgpt-gemini-deepseek-and-copilot_DA14D02941E3A339243D": {
+    "subscribers": 4243,
+    "reviews": 23,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": 100,
+      "rem": 38,
+      "end": "2026-11-19T06:59:00Z"
+    }
+  },
+  "web-design-course-with-html-css-and-wordpress_6830A35A6FFE5E98F752": {
+    "subscribers": 42047,
+    "reviews": 787,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Manuel Tudu",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "advanced-microsoft-word-with-job-success_E7150BCFCD6C4CC5C266": {
+    "subscribers": 43063,
+    "reviews": 514,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": 10,
+      "rem": 2,
+      "end": "2026-10-24T06:28:00Z"
+    }
+  },
+  "essential-lightroom-course-for-beginner-to-advanced_A86003D98B3AF164A9DB": {
+    "subscribers": 36172,
+    "reviews": 166,
+    "rating": "4.2",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Ben Kemp, Zechariah Tech",
+    "campaign": {
+      "max": 10,
+      "rem": 2,
+      "end": "2026-10-24T06:28:00Z"
+    }
+  },
+  "ultimate-job-seeker-course-resume-cover-letter-interview_D0CA7F511D788DD1BAFA": {
+    "subscribers": 28749,
+    "reviews": 175,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": 100,
+      "rem": 2,
+      "end": "2026-11-19T07:59:00Z"
+    }
+  },
+  "mastering-social-media-marketing-a-comprehensive-guide_E33F95F34FDB0460606A": {
+    "subscribers": 28492,
+    "reviews": 387,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": 100,
+      "rem": 21,
+      "end": "2026-11-19T07:58:00Z"
+    }
+  },
+  "master-of-essential-c-programming-beginner-to-advanced_7DACC987D69BB2464327": {
+    "subscribers": 25328,
+    "reviews": 324,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 10,
+      "rem": 2,
+      "end": "2026-10-23T06:34:00Z"
+    }
+  },
+  "professional-ms-office-with-ai-chatgpt-gemini-copilot_8F6C6764E26149B4CD4E": {
+    "subscribers": 9733,
+    "reviews": 73,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sustoab Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 18,
+      "end": "2026-11-19T08:23:00Z"
+    }
+  },
+  "facebook-ads-for-small-business-from-very-basic-to-advance_64543B5D654C215D42D3": {
+    "subscribers": 15792,
+    "reviews": 113,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 24,
+      "end": "2026-11-19T08:51:00Z"
+    }
+  },
+  "adobe-photoshop-cc-for-absolute-beginner-to-advanced_1504B4357817389A80D9": {
+    "subscribers": 83758,
+    "reviews": 776,
+    "rating": "4.6",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 45,
+      "end": "2026-11-19T08:51:00Z"
+    }
+  },
+  "fiverr-freelancing-for-absolute-beginners-basic-to-advance_B8C57A0CCEB6EC5DD06F": {
+    "subscribers": 23120,
+    "reviews": 133,
+    "rating": "4.4",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 3,
+      "end": "2026-11-19T08:51:00Z"
+    }
   }
 }
