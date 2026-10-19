@@ -45,5 +45,13 @@ jobs:
           publish_branch: gh-pages
           commit_message: "Automated Deploy: Refresh courses from Google Sheets [skip ci]"
 
+      - name: Commit & Push Updated Catalog to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add AWESOME_UDEMY_COURSES.md public/rss.xml src/data/courses.json src/data/udemy-details-cache.json || true
+          git diff --staged --quiet || (git commit -m "chore(auto): update awesome courses catalog & rss feed [skip ci]" && git push origin main) || true
+
       - name: Ping Search Engines & AI Bots via IndexNow
         run: node scripts/submit-indexnow.mjs
+

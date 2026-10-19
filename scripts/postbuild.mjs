@@ -140,6 +140,9 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
     awesomeMd += `\n*Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*\n`;
 
     fs.writeFileSync(path.resolve('AWESOME_UDEMY_COURSES.md'), awesomeMd, 'utf-8');
+    if (fs.existsSync(distDir)) {
+      fs.writeFileSync(path.join(distDir, 'AWESOME_UDEMY_COURSES.md'), awesomeMd, 'utf-8');
+    }
     console.log(`✓ Successfully generated AWESOME_UDEMY_COURSES.md with 40 direct authority backlinks`);
   }
 } catch (err) {
