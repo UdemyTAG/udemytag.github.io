@@ -4289,5 +4289,18 @@
       "rem": null,
       "end": "2026-10-22T07:00:00Z"
     }
+  },
+  "complete-ethical-hacking-bundle_ETHHACKING21": {
+    "subscribers": 6521,
+    "reviews": 28,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Juravlea Nicolae",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
   }
 }
