@@ -1,50 +1,6 @@
 [
   {
-    "id": "course-1",
-    "slug": "deep-learning-specialization-advanced-ai-hands-on-lab",
-    "title": "Deep Learning Specialization: Advanced AI, Hands on Lab",
-    "url": "https://www.udemy.com/course/deep-learning-specialization-advanced-ai-architectures/?couponCode=OCTFREE01",
-    "image": "https://img-c.udemycdn.com/course/240x135/6785809_5f88.jpg",
-    "category": "Development",
-    "coupon": "OCTFREE01",
-    "instructor": "Data Science Academy, School of AI",
-    "originalPrice": "Rp149,000",
-    "discountPrice": "Free",
-    "rating": "4.4",
-    "subscribers": 16464,
-    "reviews": 155,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 79,
-    "quota": 100,
-    "remainingSlots": 21,
-    "description": "Master advanced AI with Deep Learning, Transformers, GANs, RL & real-world deployment skills",
-    "expiryDate": "20/10/2026 3:28:05"
-  },
-  {
     "id": "course-2",
-    "slug": "applied-ai-foundations-8-week-professional-course",
-    "title": "Applied AI Foundations: 8-Week Professional Course",
-    "url": "https://www.udemy.com/course/applied-ai-foundations-8-week-professional-course/?couponCode=OCTFREE01",
-    "image": "https://img-c.udemycdn.com/course/240x135/6810199_db56.jpg",
-    "category": "Development",
-    "coupon": "OCTFREE01",
-    "instructor": "Data Science Academy, School of AI",
-    "originalPrice": "Rp149,000",
-    "discountPrice": "Free",
-    "rating": "4.6",
-    "subscribers": 10043,
-    "reviews": 26,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 88,
-    "quota": 100,
-    "remainingSlots": 12,
-    "description": "Learn Applied AI & ML with hands-on labs, real industry case studies, and practical predictive analytics",
-    "expiryDate": "20/10/2026 3:28:05"
-  },
-  {
-    "id": "course-3",
     "slug": "ai-in-60-minutes-what-every-leader-should-know",
     "title": "AI in 60 Minutes: What Every Leader Should Know",
     "url": "https://www.udemy.com/course/ai-in-60-minutes/?couponCode=OCTFREE01",
@@ -66,29 +22,7 @@
     "expiryDate": "20/10/2026 3:28:05"
   },
   {
-    "id": "course-4",
-    "slug": "the-startup-founder-s-roadmap-from-zero-to-market",
-    "title": "The Startup Founder’s Roadmap: From Zero to Market",
-    "url": "https://www.udemy.com/course/startup-founders-roadmap-from-zero-to-market/?couponCode=OCTFREE01",
-    "image": "https://img-c.udemycdn.com/course/240x135/6819557_9a86_3.jpg",
-    "category": "Business",
-    "coupon": "OCTFREE01",
-    "instructor": "School of AI",
-    "originalPrice": "Rp149,000",
-    "discountPrice": "Free",
-    "rating": "4.3",
-    "subscribers": 10953,
-    "reviews": 61,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 70,
-    "quota": 100,
-    "remainingSlots": 30,
-    "description": "Step-by-step startup course for founders: validate ideas, build MVPs, gain traction, scale smart, and pitch investors",
-    "expiryDate": "20/10/2026 3:28:05"
-  },
-  {
-    "id": "course-5",
+    "id": "course-3",
     "slug": "ai-made-simple-for-kids-fun-learning-with-technology",
     "title": "AI Made Simple for Kids: Fun Learning with Technology",
     "url": "https://www.udemy.com/course/ai-made-simple-for-kids/?couponCode=PACKTFREE",
@@ -110,7 +44,7 @@
     "expiryDate": "20/10/2026 3:28:05"
   },
   {
-    "id": "course-6",
+    "id": "course-4",
     "slug": "school-of-ai-certified-solutions-architect-associate",
     "title": "School of AI Certified Solutions Architect (Associate)",
     "url": "https://www.udemy.com/course/school-of-ai-certified-solutions-architect-associate/?couponCode=OCTFREE01",
@@ -132,7 +66,7 @@
     "expiryDate": "20/10/2026 3:28:05"
   },
   {
-    "id": "course-7",
+    "id": "course-5",
     "slug": "school-of-ai-certified-cloud-practitioner-foundational",
     "title": "School of AI Certified Cloud Practitioner (Foundational)",
     "url": "https://www.udemy.com/course/school-of-ai-certified-cloud-practitioner-foundational/?couponCode=OCTFREE01",
@@ -154,7 +88,7 @@
     "expiryDate": "20/10/2026 3:28:05"
   },
   {
-    "id": "course-8",
+    "id": "course-6",
     "slug": "one-year-executive-mba-strategy-and-execution",
     "title": "One-Year Executive MBA: Strategy and Execution",
     "url": "https://www.udemy.com/course/one-year-executive-mba-strategy-and-execution/?couponCode=OCTFREE01",
@@ -176,7 +110,7 @@
     "expiryDate": "20/10/2026 3:28:05"
   },
   {
-    "id": "course-9",
+    "id": "course-7",
     "slug": "ai-governance-strategy-policy-responsible-deployment",
     "title": "AI Governance: Strategy, Policy & Responsible Deployment",
     "url": "https://www.udemy.com/course/ai-governance-strategy-policy-responsible-deployment/?couponCode=OCTFREE01",
@@ -198,7 +132,7 @@
     "expiryDate": "20/10/2026 3:28:05"
   },
   {
-    "id": "course-10",
+    "id": "course-8",
     "slug": "generative-ai-engineering-with-openai-anthropic",
     "title": "Generative AI Engineering with OpenAI, Anthropic",
     "url": "https://www.udemy.com/course/generative-ai-engineering-with-openai-anthropic/?couponCode=OCTFREE01",
@@ -220,7 +154,7 @@
     "expiryDate": "20/10/2026 3:28:05"
   },
   {
-    "id": "course-11",
+    "id": "course-9",
     "slug": "senior-executive-program-ai-robotics-and-systems",
     "title": "Senior Executive Program: AI, Robotics, and Systems",
     "url": "https://www.udemy.com/course/senior-executive-program-ai-robotics-and-systems/?couponCode=OCTFREE01",
@@ -242,7 +176,7 @@
     "expiryDate": "20/10/2026 3:28:05"
   },
   {
-    "id": "course-12",
+    "id": "course-10",
     "slug": "essential-ai-guide-from-fundamentals-to-real-world-impact",
     "title": "Essential AI Guide: From Fundamentals to Real-World Impact",
     "url": "https://www.udemy.com/course/essential-ai-guide-from-fundamentals-to-real-world-impact/?couponCode=PACKTFREE",
@@ -264,7 +198,7 @@
     "expiryDate": "20/10/2026 3:28:05"
   },
   {
-    "id": "course-13",
+    "id": "course-11",
     "slug": "agi-systems-and-alignment-professional-certificate",
     "title": "AGI Systems and Alignment Professional Certificate",
     "url": "https://www.udemy.com/course/agi-systems-and-alignment-professional-certificate/?couponCode=OCTFREE01",
@@ -286,7 +220,7 @@
     "expiryDate": "20/10/2026 3:28:05"
   },
   {
-    "id": "course-17",
+    "id": "course-15",
     "slug": "american-english-vowels-for-indian-it-professionals",
     "title": "American English Vowels for Indian IT Professionals",
     "url": "https://www.udemy.com/course/american-english-vowels-for-indian-it-professionals/?couponCode=REALDISCOCT26",
@@ -308,7 +242,7 @@
     "expiryDate": "19/10/2026 19:41:53"
   },
   {
-    "id": "course-18",
+    "id": "course-16",
     "slug": "master-microsoft-word-for-business-and-career-success",
     "title": "Master Microsoft Word for Business and Career Success",
     "url": "https://www.udemy.com/course/master-microsoft-word-for-business-and-career-success/?couponCode=EB0F025FE6FE7711D875",
@@ -330,7 +264,7 @@
     "expiryDate": "19/10/2026 19:41:53"
   },
   {
-    "id": "course-19",
+    "id": "course-17",
     "slug": "graphics-design-and-video-editing-all-in-one-course",
     "title": "Graphics Design and Video Editing: All in One Course",
     "url": "https://www.udemy.com/course/graphics-design-and-video-editing-all-in-one-course/?couponCode=D065E7E496C7A831FAAC",
@@ -352,7 +286,7 @@
     "expiryDate": "19/10/2026 19:41:53"
   },
   {
-    "id": "course-20",
+    "id": "course-18",
     "slug": "generative-ai-mastery-chatgpt-gemini-deepseek-and-copilot",
     "title": "Generative AI Mastery: ChatGPT, Gemini, DeepSeek and Copilot",
     "url": "https://www.udemy.com/course/generative-ai-mastery-chatgpt-gemini-deepseek-and-copilot/?couponCode=DA14D02941E3A339243D",
@@ -374,7 +308,7 @@
     "expiryDate": "19/10/2026 19:41:53"
   },
   {
-    "id": "course-21",
+    "id": "course-19",
     "slug": "advanced-microsoft-word-with-job-success",
     "title": "Advanced Microsoft Word With Job Success",
     "url": "https://www.udemy.com/course/advanced-microsoft-word-with-job-success/?couponCode=E7150BCFCD6C4CC5C266",
@@ -396,7 +330,7 @@
     "expiryDate": "19/10/2026 19:41:53"
   },
   {
-    "id": "course-22",
+    "id": "course-20",
     "slug": "ultimate-job-seeker-course-resume-cover-letter-interview",
     "title": "Ultimate Job Seeker Course - Resume, Cover Letter, Interview",
     "url": "https://www.udemy.com/course/ultimate-job-seeker-course-resume-cover-letter-interview/?couponCode=D0CA7F511D788DD1BAFA",
@@ -418,7 +352,7 @@
     "expiryDate": "19/10/2026 19:41:53"
   },
   {
-    "id": "course-23",
+    "id": "course-21",
     "slug": "master-of-essential-c-programming-beginner-to-advanced",
     "title": "Master of Essential C++ Programming Beginner to Advanced",
     "url": "https://www.udemy.com/course/master-of-essential-c-programming-beginner-to-advanced/?couponCode=7DACC987D69BB2464327",
@@ -440,7 +374,7 @@
     "expiryDate": "19/10/2026 19:41:53"
   },
   {
-    "id": "course-24",
+    "id": "course-22",
     "slug": "audit-administration-effective-communication-in-audit",
     "title": "Audit Administration - Effective Communication in Audit",
     "url": "https://www.udemy.com/course/audit-administration-effective-communication-in-audit/?couponCode=13THOCT26",
@@ -462,7 +396,7 @@
     "expiryDate": "19/10/2026 19:23:28"
   },
   {
-    "id": "course-25",
+    "id": "course-23",
     "slug": "financial-services-basics-of-regulation-compliance",
     "title": "Financial Services - Basics of Regulation & Compliance",
     "url": "https://www.udemy.com/course/financial-services-basics-of-regulation-compliance/?couponCode=13THOCT26",
@@ -484,7 +418,7 @@
     "expiryDate": "19/10/2026 19:23:28"
   },
   {
-    "id": "course-26",
+    "id": "course-24",
     "slug": "financial-services-understanding-interest-rates",
     "title": "Financial Services - Understanding Interest Rates",
     "url": "https://www.udemy.com/course/financial-services-understanding-interest-rates/?couponCode=13THOCT26",
@@ -506,7 +440,7 @@
     "expiryDate": "19/10/2026 19:23:28"
   },
   {
-    "id": "course-27",
+    "id": "course-25",
     "slug": "workplace-productivity-coping-with-the-anxiety-of-leadership",
     "title": "Workplace Productivity-Coping with the Anxiety of Leadership",
     "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=13THOCT26",
@@ -528,7 +462,7 @@
     "expiryDate": "19/10/2026 19:23:28"
   },
   {
-    "id": "course-28",
+    "id": "course-26",
     "slug": "employee-wellbeing-toolkit",
     "title": "Employee Wellbeing Toolkit",
     "url": "https://www.udemy.com/course/employee-wellbeing-toolkit/?couponCode=13THOCT26",
@@ -550,7 +484,7 @@
     "expiryDate": "19/10/2026 19:23:28"
   },
   {
-    "id": "course-29",
+    "id": "course-27",
     "slug": "financial-stewardship-for-decision-makers-and-leaders",
     "title": "Financial Stewardship for Decision Makers and Leaders",
     "url": "https://www.udemy.com/course/financial-stewardship-for-decision-makers-and-leaders/?couponCode=13THOCT26",
@@ -572,7 +506,7 @@
     "expiryDate": "19/10/2026 19:23:28"
   },
   {
-    "id": "course-30",
+    "id": "course-28",
     "slug": "financial-services-basics-of-business-corporate-banking",
     "title": "Financial Services - Basics of Business & Corporate Banking",
     "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=13THOCT26",
@@ -594,7 +528,7 @@
     "expiryDate": "19/10/2026 19:23:28"
   },
   {
-    "id": "course-31",
+    "id": "course-29",
     "slug": "financial-services-funds-flow-optimization-concepts",
     "title": "Financial Services - Funds Flow Optimization Concepts",
     "url": "https://www.udemy.com/course/financial-services-funds-flow-optimization-concepts/?couponCode=13THOCT26",
@@ -616,7 +550,7 @@
     "expiryDate": "19/10/2026 19:23:28"
   },
   {
-    "id": "course-32",
+    "id": "course-30",
     "slug": "financial-services-overview-of-commodities",
     "title": "Financial Services: Overview of Commodities",
     "url": "https://www.udemy.com/course/financial-services-overview-of-commodities/?couponCode=13THOCT26",
@@ -638,7 +572,7 @@
     "expiryDate": "19/10/2026 19:23:28"
   },
   {
-    "id": "course-33",
+    "id": "course-31",
     "slug": "financial-services-introduction-to-etfs",
     "title": "Financial Services: Introduction to ETFs",
     "url": "https://www.udemy.com/course/financial-services-introduction-to-etfs/?couponCode=13THOCT26",
@@ -660,7 +594,7 @@
     "expiryDate": "19/10/2026 19:23:28"
   },
   {
-    "id": "course-34",
+    "id": "course-32",
     "slug": "organizational-influences-project-management-lifecycle",
     "title": "Organizational Influences & Project Management Lifecycle",
     "url": "https://www.udemy.com/course/organizational-influences-project-management-lifecycle-qi/?couponCode=13THOCT26",
@@ -682,7 +616,7 @@
     "expiryDate": "19/10/2026 19:23:28"
   },
   {
-    "id": "course-35",
+    "id": "course-33",
     "slug": "financial-services-overview-of-retail-banking",
     "title": "Financial Services - Overview of Retail Banking",
     "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=13THOCT26",
@@ -704,7 +638,7 @@
     "expiryDate": "19/10/2026 19:23:28"
   },
   {
-    "id": "course-36",
+    "id": "course-34",
     "slug": "financial-services-overview-of-central-banks",
     "title": "Financial Services - Overview of Central Banks",
     "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=13THOCT26",
@@ -726,7 +660,7 @@
     "expiryDate": "19/10/2026 19:23:28"
   },
   {
-    "id": "course-37",
+    "id": "course-35",
     "slug": "emotional-intelligence-in-leadership",
     "title": "Emotional Intelligence in Leadership",
     "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=13THOCT26",
@@ -748,7 +682,7 @@
     "expiryDate": "19/10/2026 19:23:28"
   },
   {
-    "id": "course-38",
+    "id": "course-36",
     "slug": "managing-social-anxiety-in-the-workplace",
     "title": "Managing Social Anxiety in the Workplace",
     "url": "https://www.udemy.com/course/managing-social-anxiety-in-the-workplace/?couponCode=13THOCT26",
@@ -770,7 +704,7 @@
     "expiryDate": "19/10/2026 19:23:28"
   },
   {
-    "id": "course-39",
+    "id": "course-37",
     "slug": "mental-health-for-the-workplace",
     "title": "Mental Health for the Workplace",
     "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=13THOCT26",
@@ -792,7 +726,7 @@
     "expiryDate": "19/10/2026 19:23:28"
   },
   {
-    "id": "course-40",
+    "id": "course-38",
     "slug": "introduction-to-financial-controls",
     "title": "Introduction to Financial Controls",
     "url": "https://www.udemy.com/course/introduction-to-financial-controls/?couponCode=13THOCT26",
@@ -814,7 +748,7 @@
     "expiryDate": "19/10/2026 19:23:28"
   },
   {
-    "id": "course-41",
+    "id": "course-39",
     "slug": "workplace-productivity-supporting-others-through-change",
     "title": "Workplace Productivity - Supporting Others Through Change",
     "url": "https://www.udemy.com/course/workplace-productivity-supporting-others-through-change/?couponCode=13THOCT26",
@@ -836,7 +770,7 @@
     "expiryDate": "19/10/2026 19:23:28"
   },
   {
-    "id": "course-42",
+    "id": "course-40",
     "slug": "webflow-for-beginners-create-your-first-website",
     "title": "Webflow for Beginners: Create Your First Website",
     "url": "https://www.udemy.com/course/webflow-for-beginners-create-your-first-website/?couponCode=487D3C84BB7431357C7A",
@@ -858,7 +792,7 @@
     "expiryDate": "19/10/2026 18:41:55"
   },
   {
-    "id": "course-43",
+    "id": "course-41",
     "slug": "advanced-excel-course-with-shortcuts-tips-and-tricks-for-job",
     "title": "Advanced Excel Course With Shortcuts Tips and Tricks for JOB",
     "url": "https://www.udemy.com/course/advanced-excel-course-with-shortcuts-tips-and-tricks-for-job/?couponCode=183CD49A142C4E1A096E",
@@ -880,7 +814,7 @@
     "expiryDate": "19/10/2026 18:41:55"
   },
   {
-    "id": "course-44",
+    "id": "course-42",
     "slug": "learn-google-sheets-and-microsoft-excel-at-once-from-basic",
     "title": "Learn Google Sheets and Microsoft Excel at Once from Basic",
     "url": "https://www.udemy.com/course/learn-google-sheets-and-microsoft-excel-at-once-from-basic/?couponCode=25A6856A55E67C515B8C",
@@ -902,7 +836,7 @@
     "expiryDate": "19/10/2026 18:41:55"
   },
   {
-    "id": "course-45",
+    "id": "course-43",
     "slug": "excel-vba-for-beginner-to-advanced",
     "title": "Excel VBA for Beginner to Advanced",
     "url": "https://www.udemy.com/course/excel-vba-for-beginner-to-advanced/?couponCode=DFDE2E9A460FAAF5CDE5",
@@ -924,7 +858,7 @@
     "expiryDate": "19/10/2026 18:41:55"
   },
   {
-    "id": "course-46",
+    "id": "course-44",
     "slug": "canva-for-beginners-create-stunning-visuals-design",
     "title": "Canva for Beginners: Create Stunning Visuals Design",
     "url": "https://www.udemy.com/course/canva-for-beginners-create-stunning-visuals-design/?couponCode=5368C3BD78335749DF4E",
@@ -946,7 +880,7 @@
     "expiryDate": "19/10/2026 18:41:55"
   },
   {
-    "id": "course-47",
+    "id": "course-45",
     "slug": "mastering-microsoft-word-a-comprehensive-guide-to-boost-you",
     "title": "Mastering Microsoft Word: A Comprehensive Guide to Boost You",
     "url": "https://www.udemy.com/course/mastering-microsoft-word-a-comprehensive-guide-to-boost-you/?couponCode=A9CDAFD51848557BB928",
@@ -968,7 +902,7 @@
     "expiryDate": "19/10/2026 18:41:55"
   },
   {
-    "id": "course-48",
+    "id": "course-46",
     "slug": "chatgpt-for-product-management",
     "title": "ChatGPT for Product Management",
     "url": "https://www.udemy.com/course/chatgpt-for-product-owners/?couponCode=66D10362452D9542B39C",
@@ -990,7 +924,7 @@
     "expiryDate": "19/10/2026 18:41:55"
   },
   {
-    "id": "course-49",
+    "id": "course-47",
     "slug": "ai-for-product-management-innovation",
     "title": "AI for Product Management & Innovation",
     "url": "https://www.udemy.com/course/ai-for-product-management-innovation-r/?couponCode=92E4B1AC00988D2BFC1F",
@@ -1012,7 +946,7 @@
     "expiryDate": "19/10/2026 18:41:55"
   },
   {
-    "id": "course-50",
+    "id": "course-48",
     "slug": "agile-overview",
     "title": "Agile Overview",
     "url": "https://www.udemy.com/course/overview-agile-framework/?couponCode=459CF447BC319B5714AB",
@@ -1034,7 +968,7 @@
     "expiryDate": "19/10/2026 18:41:55"
   },
   {
-    "id": "course-51",
+    "id": "course-49",
     "slug": "chatgpt-for-product-management-2",
     "title": "ChatGPT for Product Management",
     "url": "https://www.udemy.com/course/chatgpt-for-product-management/?couponCode=CBDD55FDEA84F8F84C3B",
@@ -1056,7 +990,7 @@
     "expiryDate": "19/10/2026 18:41:55"
   },
   {
-    "id": "course-52",
+    "id": "course-50",
     "slug": "product-owner-certification",
     "title": "Product Owner Certification",
     "url": "https://www.udemy.com/course/a-csm-advanced-certified-scrum-master/?couponCode=2237E80006940B7D079E",
@@ -1078,7 +1012,7 @@
     "expiryDate": "19/10/2026 18:41:55"
   },
   {
-    "id": "course-53",
+    "id": "course-51",
     "slug": "master-agile-scrum-basics",
     "title": "Master Agile & Scrum Basics",
     "url": "https://www.udemy.com/course/master-agile-scrum-basics/?couponCode=0B0618552D468B95EA9B",
@@ -1100,7 +1034,7 @@
     "expiryDate": "19/10/2026 18:41:55"
   },
   {
-    "id": "course-54",
+    "id": "course-52",
     "slug": "chatgpt-for-business-analysts",
     "title": "ChatGPT for Business Analysts",
     "url": "https://www.udemy.com/course/build-product-management-deliverable-portfolio-using-chatgpt/?couponCode=44965DDD336C3BD834D2",
@@ -1122,7 +1056,7 @@
     "expiryDate": "19/10/2026 18:41:55"
   },
   {
-    "id": "course-55",
+    "id": "course-53",
     "slug": "a-csm-advanced-certified-scrum-master",
     "title": "A-CSM (Advanced Certified Scrum Master)",
     "url": "https://www.udemy.com/course/advanced-certified-scrum-master/?couponCode=843D2A926E37271A85DC",
@@ -1144,7 +1078,7 @@
     "expiryDate": "19/10/2026 18:41:55"
   },
   {
-    "id": "course-56",
+    "id": "course-54",
     "slug": "mastering-brain-computer-interfaces-neurotechnology",
     "title": "Mastering Brain-Computer Interfaces & Neurotechnology",
     "url": "https://www.udemy.com/course/brain-computer-interfaces-neurotechnology/?couponCode=OCTFREE01",
@@ -1166,7 +1100,7 @@
     "expiryDate": "19/10/2026 11:04:32"
   },
   {
-    "id": "course-57",
+    "id": "course-55",
     "slug": "mistral-ai-development-ai-with-mistral-langchain-ollama",
     "title": "Mistral AI Development: AI with Mistral, LangChain & Ollama",
     "url": "https://www.udemy.com/course/mistral-ai-development-mistral-langchain-ollama/?couponCode=OCTFREE01",
@@ -1188,7 +1122,7 @@
     "expiryDate": "19/10/2026 11:04:32"
   },
   {
-    "id": "course-58",
+    "id": "course-56",
     "slug": "mastering-context-design-for-intelligent-ai-agents",
     "title": "Mastering Context Design for Intelligent AI Agents",
     "url": "https://www.udemy.com/course/mastering-context-design-for-intelligent-ai-agents/?couponCode=OCTFREE01",
@@ -1210,7 +1144,7 @@
     "expiryDate": "19/10/2026 11:04:32"
   },
   {
-    "id": "course-59",
+    "id": "course-57",
     "slug": "ai-agents-for-everyone-and-artificial-intelligence-bootcamp",
     "title": "AI Agents for Everyone and Artificial Intelligence Bootcamp",
     "url": "https://www.udemy.com/course/ai-agents-for-everyone-and-artificial-intelligence-bootcamp/?couponCode=OCTFREE01",
@@ -1232,7 +1166,7 @@
     "expiryDate": "19/10/2026 11:04:32"
   },
   {
-    "id": "course-60",
+    "id": "course-58",
     "slug": "mastering-deepscaler-build-deploy-ai-models-with-ollama",
     "title": "Mastering DeepScaleR: Build & Deploy AI Models with Ollama",
     "url": "https://www.udemy.com/course/mastering-deepscaler-build-deploy-ai-models-with-ollama/?couponCode=OCTFREE01",
@@ -1254,7 +1188,7 @@
     "expiryDate": "19/10/2026 11:04:32"
   },
   {
-    "id": "course-61",
+    "id": "course-59",
     "slug": "rust-programming-bootcamp-100-projects-in-100-days",
     "title": "Rust Programming Bootcamp - 100 Projects in 100 Days",
     "url": "https://www.udemy.com/course/rust-programming-bootcamp/?couponCode=OCTFREE01",
@@ -1276,7 +1210,7 @@
     "expiryDate": "19/10/2026 11:04:32"
   },
   {
-    "id": "course-62",
+    "id": "course-60",
     "slug": "custom-chatgpt-publishing-ai-bootcamp-masterclass",
     "title": "Custom ChatGPT Publishing & AI Bootcamp Masterclass",
     "url": "https://www.udemy.com/course/custom-chatgpt-publishing-ai-bootcamp-masterclass/?couponCode=OCTFREE01",
@@ -1298,7 +1232,7 @@
     "expiryDate": "19/10/2026 11:04:32"
   },
   {
-    "id": "course-63",
+    "id": "course-61",
     "slug": "mastering-ai-agents-bootcamp-build-smart-chatbots-tools",
     "title": "Mastering AI Agents Bootcamp: Build Smart Chatbots & Tools",
     "url": "https://www.udemy.com/course/mastering-ai-agents-bootcamp-build-smart-chatbots-tools/?couponCode=OCTFREE01",
@@ -1320,7 +1254,7 @@
     "expiryDate": "19/10/2026 11:04:32"
   },
   {
-    "id": "course-64",
+    "id": "course-62",
     "slug": "full-stack-ai-with-ollama-llama-deepseek-mistral-qwq",
     "title": "Full-Stack AI with Ollama: Llama, Deepseek, Mistral, QwQ",
     "url": "https://www.udemy.com/course/full-stack-ai-with-ollama-llama-deepseek-mistral-phi/?couponCode=OCTFREE01",
@@ -1342,7 +1276,7 @@
     "expiryDate": "19/10/2026 11:04:32"
   },
   {
-    "id": "course-65",
+    "id": "course-63",
     "slug": "quantum-kitchen-cooking-up-concepts-in-quantum-computing",
     "title": "Quantum Kitchen: Cooking Up Concepts in Quantum Computing",
     "url": "https://www.udemy.com/course/quantum-computing-kitchen/?couponCode=PACKTFREE",
@@ -1364,7 +1298,7 @@
     "expiryDate": "19/10/2026 11:04:32"
   },
   {
-    "id": "course-66",
+    "id": "course-64",
     "slug": "ai-quantum-computing-mastery-from-zero-to-expert-bootcamp",
     "title": "AI & Quantum Computing Mastery: From Zero to Expert Bootcamp",
     "url": "https://www.udemy.com/course/ai-quantum-computing-mastery-from-zero-to-expert-bootcamp/?couponCode=OCTFREE01",
@@ -1386,7 +1320,7 @@
     "expiryDate": "19/10/2026 11:04:32"
   },
   {
-    "id": "course-67",
+    "id": "course-65",
     "slug": "nvidia-certified-professional-ai-infrastructure-ncp-aii",
     "title": "NVIDIA-Certified Professional: AI Infrastructure (NCP-AII)",
     "url": "https://www.udemy.com/course/ncp-aii-nvidia-certified-professional-ai-infrastructure/?couponCode=PACKTFREE",
@@ -1408,7 +1342,7 @@
     "expiryDate": "19/10/2026 11:04:32"
   },
   {
-    "id": "course-68",
+    "id": "course-66",
     "slug": "nca-aiio-nvidia-certified-associate-ai-infrastructure-ops",
     "title": "NCA‑AIIO NVIDIA‑Certified Associate: AI Infrastructure & Ops",
     "url": "https://www.udemy.com/course/nca-aiio-nvidia-certified-associate-ai-infrastructure-and-operations/?couponCode=PACKTFREE",
@@ -1430,7 +1364,29 @@
     "expiryDate": "19/10/2026 11:04:32"
   },
   {
-    "id": "course-14",
+    "id": "course-1",
+    "slug": "p-o-w-e-r-proven-interview-system-to-crack-your-dream-job",
+    "title": "P.O.W.E.R. : Proven Interview System to crack your DREAM job",
+    "url": "https://www.udemy.com/course/ace-every-job-interview-master-blueprint-and-get-your-dream-job/?couponCode=OCT2026FREE01",
+    "image": "https://img-c.udemycdn.com/course/240x135/809432_d867_2.jpg",
+    "category": "Development",
+    "coupon": "OCT2026FREE01",
+    "instructor": "Susmita Dutta, Ash Akshay Goel",
+    "originalPrice": "$59.99",
+    "discountPrice": "$59.99",
+    "rating": "4.3",
+    "subscribers": 95242,
+    "reviews": 647,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "7-Step Proven System to convert every job interview into a job offer",
+    "expiryDate": "20/10/2026 7:09:48"
+  },
+  {
+    "id": "course-12",
     "slug": "generative-ai-for-business-leaders-and-executives",
     "title": "Generative AI for Business Leaders and Executives",
     "url": "https://www.udemy.com/course/generative-ai-for-business-leaders-and-executives/?couponCode=PACKTFREE",
@@ -1452,7 +1408,7 @@
     "expiryDate": "20/10/2026 3:28:05"
   },
   {
-    "id": "course-15",
+    "id": "course-13",
     "slug": "ai-in-90-days-a-leadership-bootcamp",
     "title": "AI in 90 Days: A Leadership Bootcamp",
     "url": "https://www.udemy.com/course/ai-in-90-days-a-leadership-bootcamp/?couponCode=OCTFREE02",
@@ -1474,7 +1430,7 @@
     "expiryDate": "20/10/2026 3:28:05"
   },
   {
-    "id": "course-16",
+    "id": "course-14",
     "slug": "forensic-science-basics-principles-history-evidence",
     "title": "Forensic Science Basics: Principles, History & Evidence",
     "url": "https://www.udemy.com/course/forensic-science-basics-principles-history-evidence/",
@@ -1496,7 +1452,7 @@
     "expiryDate": "20/10/2026 3:28:05"
   },
   {
-    "id": "course-69",
+    "id": "course-67",
     "slug": "bootcamp-az-900-microsoft-azure-fundamentals-course",
     "title": "Bootcamp AZ-900: Microsoft Azure Fundamentals Course",
     "url": "https://www.udemy.com/course/bootcamp-az-900-microsoft-azure-fundamentals/?couponCode=C11E7F7102185CF49E67",

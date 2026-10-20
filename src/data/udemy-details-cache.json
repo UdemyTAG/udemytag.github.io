@@ -4068,5 +4068,18 @@
     "isFree": false,
     "instructors": "Aditya Kumar",
     "campaign": null
+  },
+  "ace-every-job-interview-master-blueprint-and-get-your-dream-job_OCT2026FREE01": {
+    "subscribers": 95242,
+    "reviews": 647,
+    "rating": "4.3",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Susmita Dutta, Ash Akshay Goel",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
   }
 }
