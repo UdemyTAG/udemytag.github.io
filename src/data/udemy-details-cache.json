@@ -4081,5 +4081,213 @@
       "rem": null,
       "end": "2026-10-22T07:00:00Z"
     }
+  },
+  "google-calendar-virtual-assistant_OCT-20": {
+    "subscribers": 38586,
+    "reviews": 440,
+    "rating": "3.3",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Pasha Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "mastering-vigilant-leadership_OCT-20": {
+    "subscribers": 3306,
+    "reviews": 68,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Pasha Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 15,
+      "end": "2026-11-20T00:21:00Z"
+    }
+  },
+  "marketing-brief_OCT-20": {
+    "subscribers": 3170,
+    "reviews": 65,
+    "rating": "4.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Pasha Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "tableau-desktop-specialist-certification-exams-2023_OCT-20": {
+    "subscribers": 16575,
+    "reviews": 72,
+    "rating": "4.1",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Pasha Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 13,
+      "end": "2026-11-20T00:21:00Z"
+    }
+  },
+  "designing-the-candidate-experience-q_OCT-20": {
+    "subscribers": 2038,
+    "reviews": 35,
+    "rating": "4.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Pasha Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 4,
+      "end": "2026-11-20T00:21:00Z"
+    }
+  },
+  "product-marketing-go-to-market_OCT-20": {
+    "subscribers": 3266,
+    "reviews": 601,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Pasha Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "chatgpt-make-money-with-chatgpt-as-a-new-freelancer_5E72D2567F39430946A5": {
+    "subscribers": 55041,
+    "reviews": 731,
+    "rating": "4.0",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Web Oral",
+    "campaign": {
+      "max": 100,
+      "rem": 10,
+      "end": "2026-11-20T04:39:00Z"
+    }
+  },
+  "public-relations-for-startups_OCT-20": {
+    "subscribers": 1272,
+    "reviews": 49,
+    "rating": "4.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Pasha Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "presenting-to-executives_OCT-20": {
+    "subscribers": 2287,
+    "reviews": 50,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Pasha Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "sales-operations-foundations_OCT-20": {
+    "subscribers": 1754,
+    "reviews": 183,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Pasha Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "complete-c-plus-programming-course-from-basic-to-expert_B547EC9CFCB103DE295A": {
+    "subscribers": 32295,
+    "reviews": 443,
+    "rating": "4.2",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Maria EduCare",
+    "campaign": {
+      "max": 100,
+      "rem": 59,
+      "end": "2026-10-31T04:27:00Z"
+    }
+  },
+  "secure-your-wordpress-website-for-beginners_49A006F259310DCE625E": {
+    "subscribers": 42415,
+    "reviews": 286,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Web Oral",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "learn-machine-learning-course-with-python-ml_E134B7FB121E5069400B": {
+    "subscribers": 46121,
+    "reviews": 600,
+    "rating": "4.1",
+    "price": "$27.99",
+    "isFree": false,
+    "instructors": "Maria EduCare",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "ultimate-guide-to-creating-presentations-with-powerpoint_EFD58EB6C4B3338FCD38": {
+    "subscribers": 23946,
+    "reviews": 145,
+    "rating": "4.4",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": 100,
+      "rem": 48,
+      "end": "2026-11-20T08:14:00Z"
+    }
+  },
+  "capcut-mastery-from-beginner-to-pro_7F9918B95E9BFA1F4280": {
+    "subscribers": 30407,
+    "reviews": 180,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "excel-for-everyone-essential-skills-for-work-and-life_9BC589D28DEEE4B5DEFE": {
+    "subscribers": 33187,
+    "reviews": 606,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
   }
 }
