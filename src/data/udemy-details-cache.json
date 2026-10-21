@@ -4866,5 +4866,551 @@
       "rem": null,
       "end": "2026-10-22T07:00:00Z"
     }
+  },
+  "ultimate-guide-to-canva-t-shirt-design-mastery-in-t-shirt_44B9F6A7B803E1AE13A1": {
+    "subscribers": 21526,
+    "reviews": 91,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "the-beginners-guide-to-adobe-premiere-pro-edit-like-a-pro_0889D44A9B3332E2FE3A": {
+    "subscribers": 27978,
+    "reviews": 125,
+    "rating": "4.3",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "canva-mastery-design-like-a-pro-in-just-days_22EC002C9642656FFFD5": {
+    "subscribers": 45740,
+    "reviews": 582,
+    "rating": "4.5",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": 100,
+      "rem": 14,
+      "end": "2026-11-21T06:11:00Z"
+    }
+  },
+  "java-programming-masterclass-beginner-to-master_5435CFA6A506BD368283": {
+    "subscribers": 48096,
+    "reviews": 795,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 5,
+      "end": "2026-11-13T04:08:00Z"
+    }
+  },
+  "mastering-c-plus-language-c-programming-for-beginners_B8214DD3EF8CF1835EB2": {
+    "subscribers": 32325,
+    "reviews": 371,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 45,
+      "end": "2026-11-13T04:09:00Z"
+    }
+  },
+  "the-complete-mongodb-build-scale-query-nosql-databases_6FE5CABA71E5E1D29241": {
+    "subscribers": 3811,
+    "reviews": 15,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "css-the-complete-guide-to-css-zero-to-hero_F1A2B958675CF6710ACB": {
+    "subscribers": 29649,
+    "reviews": 312,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 50,
+      "end": "2026-11-13T04:09:00Z"
+    }
+  },
+  "cpo-chief-product-officer-from-manager-to-c-level-en_PAPAHR_OCT_592804": {
+    "subscribers": 1547,
+    "reviews": 6,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 16,
+      "end": "2026-11-21T07:05:00Z"
+    }
+  },
+  "become-a-certified-people-partner-your-path-to-a-rewarding_PAPAHR_OCT_676622": {
+    "subscribers": 10726,
+    "reviews": 94,
+    "rating": "4.2",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 55,
+      "end": "2026-11-21T07:05:00Z"
+    }
+  },
+  "chatgpt-for-hr_PAPAHR_OCT_501566": {
+    "subscribers": 2924,
+    "reviews": 1,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 31,
+      "end": "2026-11-21T07:05:00Z"
+    }
+  },
+  "people-management-mba-build-and-lead-high-performing-teams_PAPAHR_OCT_872457": {
+    "subscribers": 5725,
+    "reviews": 45,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 6,
+      "end": "2026-11-21T07:05:00Z"
+    }
+  },
+  "gamedev-recruiter_PAPAHR_OCT_574836": {
+    "subscribers": 2893,
+    "reviews": 10,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 43,
+      "end": "2026-11-21T07:05:00Z"
+    }
+  },
+  "a-player-employee-training-personal-effectiveness_PAPAHR_OCT_201742": {
+    "subscribers": 5729,
+    "reviews": 17,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 42,
+      "end": "2026-11-21T07:05:00Z"
+    }
+  },
+  "advanced-capcut-masterclass-complete-video-editing-guide_7D3072F2930302F94686": {
+    "subscribers": 14935,
+    "reviews": 84,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sustoab Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 60,
+      "end": "2026-11-21T06:24:00Z"
+    }
+  },
+  "ms-office-with-ai-word-excel-powerpoint-chatgpt-gemini_B119EFB6BEC48171E753": {
+    "subscribers": 11134,
+    "reviews": 99,
+    "rating": "3.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sustoab Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 22,
+      "end": "2026-11-20T08:20:00Z"
+    }
+  },
+  "building-ai-integrations-with-model-context-protocol-mcp_C399A79F7D7325FB8A98": {
+    "subscribers": 5237,
+    "reviews": 130,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support, Lucas Soares",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "microsoft-office-and-google-workspace-masterclass_AAAEEA7557B0A7FABC2D": {
+    "subscribers": 10526,
+    "reviews": 109,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sustoab Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 8,
+      "end": "2026-11-20T08:51:00Z"
+    }
+  },
+  "blogging-and-influencer-marketing_7BAC320B99F9F297276F": {
+    "subscribers": 59902,
+    "reviews": 497,
+    "rating": "4.5",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Zoya Lobod, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 43,
+      "end": "2026-11-21T07:18:00Z"
+    }
+  },
+  "brand-management-with-generative-ai-q_0D4822390712045641F4": {
+    "subscribers": 8187,
+    "reviews": 79,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "building-ai-voice-agents-with-elevenlabs_0352C2C5594D5F9520C3": {
+    "subscribers": 1920,
+    "reviews": 29,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "amazon-fba-guide_3B5F3BBA748CD092FEAF": {
+    "subscribers": 28549,
+    "reviews": 214,
+    "rating": "4.4",
+    "price": "$24.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Yuliiya Hubanova, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 18,
+      "end": "2026-11-21T07:11:00Z"
+    }
+  },
+  "business-analysis-for-executives-with-microsoft-copilot_48FC666EBBD136FFC28D": {
+    "subscribers": 4767,
+    "reviews": 275,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "agentic-coding-full-stack-java-apps-with-cursor-and-copilot_0FBD7BF6653814CDF3F5": {
+    "subscribers": 11385,
+    "reviews": 257,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Mariana Kolodzheieva, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "ai-visual-design-with-adobe-firefly_CC8042645298CC8C0F39": {
+    "subscribers": 8567,
+    "reviews": 109,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 18,
+      "end": "2026-11-21T07:05:00Z"
+    }
+  },
+  "ai-voice-creation-for-every-industry-with-elevenlabs_0653CC27A82F9462AC29": {
+    "subscribers": 19434,
+    "reviews": 111,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 26,
+      "end": "2026-11-21T07:01:00Z"
+    }
+  },
+  "ai-powered-tutorial-creation-make-videos-with-trupeer_A55E97055589555786A4": {
+    "subscribers": 14859,
+    "reviews": 110,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "ai-to-empower-your-marketing-team_7B4E3FAFF179BC2753F0": {
+    "subscribers": 14599,
+    "reviews": 102,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 58,
+      "end": "2026-11-21T06:59:00Z"
+    }
+  },
+  "the-ultimate-gamma-guide-master-ai-presentation-creation_5855C865B274289E2D94": {
+    "subscribers": 15680,
+    "reviews": 194,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 18,
+      "end": "2026-11-21T06:59:00Z"
+    }
+  },
+  "playing-with-binary_380A7C02BB876E08FA83": {
+    "subscribers": 8504,
+    "reviews": 44,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Infusion X",
+    "campaign": {
+      "max": 100,
+      "rem": 43,
+      "end": "2026-11-21T08:25:00Z"
+    }
+  },
+  "ai-powered-seo-audit_180295DA354FDD19305D": {
+    "subscribers": 14950,
+    "reviews": 87,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 31,
+      "end": "2026-11-21T06:58:00Z"
+    }
+  },
+  "computer-engineering-mastery-from-beginner-to-expert_B4212F9934EBC818DB86": {
+    "subscribers": 30759,
+    "reviews": 317,
+    "rating": "4.3",
+    "price": "$79.99",
+    "isFree": false,
+    "instructors": "Infusion X",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "rewrite-your-reality-10x-your-writing-skills-effortlessly_F5899E930D25E938ED98": {
+    "subscribers": 16300,
+    "reviews": 48,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Infusion X",
+    "campaign": {
+      "max": 100,
+      "rem": 49,
+      "end": "2026-11-21T08:18:00Z"
+    }
+  },
+  "chatgpt-ads-for-beginners-start-advertising-in-ai_5E9BBEC15BDE2429F39B": {
+    "subscribers": 1883,
+    "reviews": 26,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "claude-pro-mastery-ai-for-business-marketing-automation_DBC4C1672F9F17F98C4C": {
+    "subscribers": 27672,
+    "reviews": 597,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "chatgpt-for-developers-ai-coding-crash-course_89BFBEBCB316FC5EA98C": {
+    "subscribers": 10307,
+    "reviews": 116,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Dmytro Vasyliev, Anton Voroniuk Support, Dmytro Vasyliev Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "chatgpt-digital-marketing_88BB21D8BED04095EDAB": {
+    "subscribers": 72187,
+    "reviews": 1160,
+    "rating": "4.6",
+    "price": "$79.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support, Eugene Voroniuk, Eugene Vyborov, Dmytro Vasyliev",
+    "campaign": {
+      "max": 100,
+      "rem": 20,
+      "end": "2026-11-21T07:41:00Z"
+    }
+  },
+  "basic-wordpress-web-development-course-for-beginner-zero-to-hero_ACEC9A4526FA57CA403E": {
+    "subscribers": 34035,
+    "reviews": 256,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
+  },
+  "cold-marketing-strategy_BB12C3069136D780CE4E": {
+    "subscribers": 44873,
+    "reviews": 375,
+    "rating": "4.5",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 44,
+      "end": "2026-11-21T07:32:00Z"
+    }
+  },
+  "html-and-css-for-beginners-from-basic-to-advance_69F95F394F2ACC02DE76": {
+    "subscribers": 47834,
+    "reviews": 1360,
+    "rating": "4.5",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 6,
+      "end": "2026-11-20T09:17:00Z"
+    }
+  },
+  "wordpress-elementor-course-develop-site-without-coding_C025B9BB2C0BAE3287AA": {
+    "subscribers": 40587,
+    "reviews": 296,
+    "rating": "4.5",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 35,
+      "end": "2026-11-20T09:17:00Z"
+    }
+  },
+  "b2b-outbound-lead-generation-mastery_A31BDB91BFDBFF9E8E32": {
+    "subscribers": 30249,
+    "reviews": 483,
+    "rating": "4.4",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Joshua Pratt, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 60,
+      "end": "2026-11-21T07:34:00Z"
+    }
+  },
+  "ceo-playbook-generative-ai-_E0073423E5B9CCE8076B": {
+    "subscribers": 16509,
+    "reviews": 237,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support, Eugene Vyborov, Dmytro Vasyliev",
+    "campaign": {
+      "max": 100,
+      "rem": 32,
+      "end": "2026-11-21T07:40:00Z"
+    }
   }
 }

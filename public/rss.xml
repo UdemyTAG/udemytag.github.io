@@ -7,68 +7,228 @@
     <language>id-ID</language>
     <atom:link href="https://udemytag.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Employee Wellbeing Toolkit</title>
-      <link>https://udemytag.github.io/course/employee-wellbeing-toolkit/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/employee-wellbeing-toolkit/</guid>
-      <description>Dapatkan akses gratis ke kursus Employee Wellbeing Toolkit dengan kupon diskon 100% terbaru di UdemyTAG. Klaim gratis di UdemyTAG.</description>
-      <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>3-Day AI Product Management Bootcamp</title>
-      <link>https://udemytag.github.io/course/3-day-ai-product-management-bootcamp/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/3-day-ai-product-management-bootcamp/</guid>
-      <description>Design, Build, and Launch AI-Powered ProductsTotal: Klaim gratis di UdemyTAG.</description>
-      <category>Business</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS Certified AI Practitioner (AIP) — Complete Bootcamp 2026</title>
-      <link>https://udemytag.github.io/course/aws-certified-ai-practitioner-aip-complete-bootcamp-2026/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/aws-certified-ai-practitioner-aip-complete-bootcamp-2026/</guid>
-      <description>Pass the exam on your first attempt + Build real AI systems using Bedrock, SageMaker &amp; Serverless AWS AI Klaim gratis di UdemyTAG.</description>
-      <category>IT & Software</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Break Into AI Without a Technical Background</title>
-      <link>https://udemytag.github.io/course/break-into-ai-without-a-technical-background/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/break-into-ai-without-a-technical-background/</guid>
-      <description>From Zero to AI-Ready Professional in 3 Days Klaim gratis di UdemyTAG.</description>
-      <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Build Your AI Governance Framework in 7 Days</title>
-      <link>https://udemytag.github.io/course/build-your-ai-governance-framework-in-7-days/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/build-your-ai-governance-framework-in-7-days/</guid>
-      <description>Dapatkan akses gratis ke kursus Build Your AI Governance Framework in 7 Days dengan kupon diskon 100% terbaru di UdemyTAG. Klaim gratis di UdemyTAG.</description>
+      <title>Canva Mastery: Design Like a Pro in Just Days</title>
+      <link>https://udemytag.github.io/course/canva-mastery-design-like-a-pro-in-just-days/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/canva-mastery-design-like-a-pro-in-just-days/</guid>
+      <description>Canva for Productivity: Design Faster &amp; Smarter with Time-Saving Techniques Klaim gratis di UdemyTAG.</description>
       <category>Design</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
-      <title>AI SEO &amp; GEO Bootcamp: Rank in Search and AI</title>
-      <link>https://udemytag.github.io/course/ai-seo-geo-bootcamp-rank-in-search-and-ai/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/ai-seo-geo-bootcamp-rank-in-search-and-ai/</guid>
-      <description>Master SEO, AI content, and GEO strategies to rank on Google, ChatGPT, and next-gen search engines in 7 daysTotal: Klaim gratis di UdemyTAG.</description>
+      <title>Java Programming Masterclass - Beginner to Master</title>
+      <link>https://udemytag.github.io/course/java-programming-masterclass-beginner-to-master/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/java-programming-masterclass-beginner-to-master/</guid>
+      <description>Learn Java Basics to Advanced with Real Coding Examples. Learn core Java Programming with this core Java course. Klaim gratis di UdemyTAG.</description>
+      <category>Development</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mastering C++ Language - C++ Programming For Beginners</title>
+      <link>https://udemytag.github.io/course/mastering-c-language-c-programming-for-beginners/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/mastering-c-language-c-programming-for-beginners/</guid>
+      <description>Learn Mastering C++ Programming Language Only for Beginners. Join the Comprehensive C++ Masterclass! Klaim gratis di UdemyTAG.</description>
+      <category>Development</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS - The Complete Guide to CSS for Beginners</title>
+      <link>https://udemytag.github.io/course/css-the-complete-guide-to-css-for-beginners/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/css-the-complete-guide-to-css-for-beginners/</guid>
+      <description>A Complete CSS Programming Course for Beginners to Advanced. Create Colorful, Interactive and Accessible CSS Websites! Klaim gratis di UdemyTAG.</description>
+      <category>Development</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>CPO: Chief Product Officer: from Manager to C-Level [EN]</title>
+      <link>https://udemytag.github.io/course/cpo-chief-product-officer-from-manager-to-c-level-en/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/cpo-chief-product-officer-from-manager-to-c-level-en/</guid>
+      <description>Product strategy | product portfolio management | growth metrics | product leadership | path to becoming a CPOTotal: Klaim gratis di UdemyTAG.</description>
+      <category>Development</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>People Partner HR certification program for future HRBP [EN]</title>
+      <link>https://udemytag.github.io/course/people-partner-hr-certification-program-for-future-hrbp-en/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/people-partner-hr-certification-program-for-future-hrbp-en/</guid>
+      <description>Development &amp; Career Growth | Human Resources | Business Partner | Employee Relations | HRPP | Leadership | Enablement Klaim gratis di UdemyTAG.</description>
+      <category>Development</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>The AI-Ready Manager: Lead Human-AI Teams at Work [EN]</title>
+      <link>https://udemytag.github.io/course/the-ai-ready-manager-lead-human-ai-teams-at-work-en/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/the-ai-ready-manager-lead-human-ai-teams-at-work-en/</guid>
+      <description>ai for managers | chatgpt | claude ai | prompt engineering | ai agents | automation | ai adoption | leadership | mcp Klaim gratis di UdemyTAG.</description>
+      <category>Development</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>People Management MBA Build Lead High Performing Teams [EN]</title>
+      <link>https://udemytag.github.io/course/people-management-mba-build-lead-high-performing-teams-en/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/people-management-mba-build-lead-high-performing-teams-en/</guid>
+      <description>Team building | Motivation | Leadership styles | Retention | Feedback | Performance | Remote management | KPIs Klaim gratis di UdemyTAG.</description>
+      <category>Business</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>B2B Marketing: ICP, Content, Demand and Sales [EN]</title>
+      <link>https://udemytag.github.io/course/b2b-marketing-icp-content-demand-and-sales-en/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/b2b-marketing-icp-content-demand-and-sales-en/</guid>
+      <description>b2b marketing | ideal customer profile | demand generation | b2b content | sales alignment | pipeline | lead scoring Klaim gratis di UdemyTAG.</description>
+      <category>Business</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to become A-player: Productivity Checklist for HiPo [EN]</title>
+      <link>https://udemytag.github.io/course/how-to-become-a-player-productivity-checklist-for-hipo-en/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/how-to-become-a-player-productivity-checklist-for-hipo-en/</guid>
+      <description>Develop A-Player Skills | Learn Self-Management, Teamwork, Goal Setting, Agile Practices, Motivation &amp; Communication Klaim gratis di UdemyTAG.</description>
+      <category>Personal Development</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Advanced CapCut Masterclass: Complete Video Editing Guide</title>
+      <link>https://udemytag.github.io/course/advanced-capcut-masterclass-complete-video-editing-guide/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/advanced-capcut-masterclass-complete-video-editing-guide/</guid>
+      <description>Your Expert Guide to CapCut: Elevate Your Video Production with Advanced Keyframing, Masking, Motion Graphics, Export Klaim gratis di UdemyTAG.</description>
+      <category>Design</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>MS Office with AI - Word Excel PowerPoint ChatGpt Gemini</title>
+      <link>https://udemytag.github.io/course/ms-office-with-ai-word-excel-powerpoint-chatgpt-gemini/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/ms-office-with-ai-word-excel-powerpoint-chatgpt-gemini/</guid>
+      <description>Learn Microsoft Word, Excel &amp; PowerPoint from Basics to Advanced with AI Tools Like ChatGPT Gemini for Smarter, Faster Klaim gratis di UdemyTAG.</description>
+      <category>Business</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Office and Google Workspace Masterclass</title>
+      <link>https://udemytag.github.io/course/microsoft-office-and-google-workspace-masterclass/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/microsoft-office-and-google-workspace-masterclass/</guid>
+      <description>Microsoft Word Excel PowerPoint and Google Docs Sheets Slides Ideal for Beginners Professionals Students Job Seekers Klaim gratis di UdemyTAG.</description>
+      <category>Development</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blogging and Influencer Marketing</title>
+      <link>https://udemytag.github.io/course/blogging-and-influencer-marketing/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/blogging-and-influencer-marketing/</guid>
+      <description>Manual on How to Use Influencer Marketing to Grow Your Business Online and Reach Your Marketing Goals! Klaim gratis di UdemyTAG.</description>
+      <category>Business</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Amazon FBA Guide: From Zero to Seller</title>
+      <link>https://udemytag.github.io/course/amazon-fba-guide-from-zero-to-seller/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/amazon-fba-guide-from-zero-to-seller/</guid>
+      <description>Your Gateway to a Seven-Figure Income, Tackling Market Challenges, and Turning Products into Profit Klaim gratis di UdemyTAG.</description>
+      <category>Design</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Visual Design with Adobe Firefly</title>
+      <link>https://udemytag.github.io/course/ai-visual-design-with-adobe-firefly/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/ai-visual-design-with-adobe-firefly/</guid>
+      <description>Master AI-powered design with Adobe Firefly: create images, videos, sound, text effects &amp; vectors Klaim gratis di UdemyTAG.</description>
+      <category>Design</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Voice Creation for Every Industry with ElevenLabs</title>
+      <link>https://udemytag.github.io/course/ai-voice-creation-for-every-industry-with-elevenlabs/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/ai-voice-creation-for-every-industry-with-elevenlabs/</guid>
+      <description>Unlock ElevenLabs to create, integrate, and direct lifelike AI voices for multilingual and professional use cases. Klaim gratis di UdemyTAG.</description>
+      <category>Development</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI to Empower your Marketing Team</title>
+      <link>https://udemytag.github.io/course/ai-to-empower-your-marketing-team/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/ai-to-empower-your-marketing-team/</guid>
+      <description>Optimize your SEO, Keyword Research, Content Creation and Optimization with AI-powered tools Klaim gratis di UdemyTAG.</description>
+      <category>Business</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Ultimate Gamma Guide: Master AI Presentation Creation</title>
+      <link>https://udemytag.github.io/course/the-ultimate-gamma-guide-master-ai-presentation-creation/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/the-ultimate-gamma-guide-master-ai-presentation-creation/</guid>
+      <description>A beginner-friendly guide to using Gamma for AI-powered content creation, presentations, and storytelling. Klaim gratis di UdemyTAG.</description>
+      <category>Design</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Playing with Binary</title>
+      <link>https://udemytag.github.io/course/playing-with-binary/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/playing-with-binary/</guid>
+      <description>Foundation for digital electronics Klaim gratis di UdemyTAG.</description>
+      <category>Development</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI-Powered SEO Audit: Diagnose, Optimize and Rank Fast</title>
+      <link>https://udemytag.github.io/course/ai-powered-seo-audit-diagnose-optimize-and-rank-fast/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/ai-powered-seo-audit-diagnose-optimize-and-rank-fast/</guid>
+      <description>Automate Site Checks, Outflank Competitors, and Elevate Content with AI-Powered Workflows Klaim gratis di UdemyTAG.</description>
       <category>Marketing</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
-      <title>Certified Fusion 360 for Absolute Beginners</title>
-      <link>https://udemytag.github.io/course/certified-fusion-360-for-absolute-beginners/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/certified-fusion-360-for-absolute-beginners/</guid>
-      <description>Learn Fusion 360 and 3D printing through hands-on projects: snap-fits, hinges, assemblies, and product design Klaim gratis di UdemyTAG.</description>
+      <title>Rewrite Your Reality: 10x Your Writing Skills Effortlessly</title>
+      <link>https://udemytag.github.io/course/rewrite-your-reality-10x-your-writing-skills-effortlessly/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/rewrite-your-reality-10x-your-writing-skills-effortlessly/</guid>
+      <description>Unlock the Power to Mesmerize, Persuade, and Captivate with Every Word! Klaim gratis di UdemyTAG.</description>
       <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
-      <title>Data Literacy for Product Owners</title>
-      <link>https://udemytag.github.io/course/data-literacy-for-product-owners/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/data-literacy-for-product-owners/</guid>
-      <description>Understanding Data, Quality, and LimitsTotal: Klaim gratis di UdemyTAG.</description>
+      <title>ChatGPT, DeepSeek, Grok and 30+ More AI Marketing Assistants</title>
+      <link>https://udemytag.github.io/course/chatgpt-deepseek-grok-and-30-more-ai-marketing-assistants/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/chatgpt-deepseek-grok-and-30-more-ai-marketing-assistants/</guid>
+      <description>Ultimate ChatGPT, MJ, Gemini &amp; DeepSeek course for digital marketers. Master AI to streamline your marketing tasks. Klaim gratis di UdemyTAG.</description>
+      <category>Business</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Build Your Best Cold Email Strategy!</title>
+      <link>https://udemytag.github.io/course/build-your-best-cold-email-strategy/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/build-your-best-cold-email-strategy/</guid>
+      <description>Set up an effective cold email campaign that will help you increase open rates and conversions! Klaim gratis di UdemyTAG.</description>
+      <category>Design</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTML and CSS for Beginners From Basic to Advance</title>
+      <link>https://udemytag.github.io/course/html-and-css-for-beginners-from-basic-to-advance/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/html-and-css-for-beginners-from-basic-to-advance/</guid>
+      <description>HTML5, CSS3, Elements, Attributes, Headings, Paragraphs, Styles, Responsive, Iframes, Images, Colors, Box Model, Class Klaim gratis di UdemyTAG.</description>
       <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wordpress Elementor Course: Develop Site Without Coding</title>
+      <link>https://udemytag.github.io/course/wordpress-elementor-course-develop-site-without-coding/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/wordpress-elementor-course-develop-site-without-coding/</guid>
+      <description>Develop Website With Zero Coding Knowledge by Elementor and Wordpress Klaim gratis di UdemyTAG.</description>
+      <category>Development</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>B2B Outbound Lead Generation Mastery</title>
+      <link>https://udemytag.github.io/course/b2b-outbound-lead-generation-mastery/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/b2b-outbound-lead-generation-mastery/</guid>
+      <description>Unlock the Full Potential of Your Business with Strategic B2B Outbound Lead Generation Methods Klaim gratis di UdemyTAG.</description>
+      <category>Development</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>CEO Playbook: Generative AI</title>
+      <link>https://udemytag.github.io/course/ceo-playbook-generative-ai/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/ceo-playbook-generative-ai/</guid>
+      <description>Master Generative AI: A CEO’s Blueprint for Transforming Business Klaim gratis di UdemyTAG.</description>
+      <category>Development</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
       <title>AI Use Cases Across Industries</title>
@@ -76,7 +236,7 @@
       <guid isPermaLink="true">https://udemytag.github.io/course/ai-use-cases-across-industries/</guid>
       <description>Patterns that repeat across sectors Klaim gratis di UdemyTAG.</description>
       <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
       <title>AI Governance for Business Leaders: Policy to Practice</title>
@@ -84,7 +244,7 @@
       <guid isPermaLink="true">https://udemytag.github.io/course/ai-governance-for-business-leaders-policy-to-practice/</guid>
       <description>Turn AI policies into practical governance, controls, accountability, risk management, and business results.Total: Klaim gratis di UdemyTAG.</description>
       <category>Business</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
       <title>AI Foundations for Professionals</title>
@@ -92,7 +252,7 @@
       <guid isPermaLink="true">https://udemytag.github.io/course/ai-foundations-for-professionals/</guid>
       <description>Build practical AI knowledge, use generative AI tools effectively, and make informed decisions in the modern workplace.Total: Klaim gratis di UdemyTAG.</description>
       <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
       <title>Generative AI for Productivity</title>
@@ -100,7 +260,7 @@
       <guid isPermaLink="true">https://udemytag.github.io/course/generative-ai-for-productivity/</guid>
       <description>Use generative AI to write faster, research smarter, streamline workflows, and build consistent productivity systems.Total: Klaim gratis di UdemyTAG.</description>
       <category>Personal Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
       <title>Generative AI for Business Leaders and Executives</title>
@@ -108,7 +268,7 @@
       <guid isPermaLink="true">https://udemytag.github.io/course/generative-ai-for-business-leaders-and-executives/</guid>
       <description>Lead AI-driven transformation with confidence—strategy, governance, and execution for enterprise-ready GenAI adoption. Klaim gratis di UdemyTAG.</description>
       <category>Business</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
       <title>Quantum Kitchen: Cooking Up Concepts in Quantum Computing</title>
@@ -116,7 +276,7 @@
       <guid isPermaLink="true">https://udemytag.github.io/course/quantum-kitchen-cooking-up-concepts-in-quantum-computing/</guid>
       <description>A beginner-friendly journey through quantum computing using food analogies to make complex concepts deliciously simple Klaim gratis di UdemyTAG.</description>
       <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
       <title>NVIDIA-Certified Professional: AI Infrastructure (NCP-AII)</title>
@@ -124,7 +284,7 @@
       <guid isPermaLink="true">https://udemytag.github.io/course/nvidia-certified-professional-ai-infrastructure-ncp-aii/</guid>
       <description>Master GPU-powered AI infrastructure design, orchestration, security, and scalability with NVIDIA NCP-AII. Klaim gratis di UdemyTAG.</description>
       <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
       <title>NCA‑AIIO NVIDIA‑Certified Associate: AI Infrastructure &amp; Ops</title>
@@ -132,15 +292,7 @@
       <guid isPermaLink="true">https://udemytag.github.io/course/nca-aiio-nvidia-certified-associate-ai-infrastructure-ops/</guid>
       <description>Master GPU-Powered AI Infrastructure, MLOps, and Data Center Operations to Pass the NCA-AIIO Certification Klaim gratis di UdemyTAG.</description>
       <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Certified Infra AI Expert: End-to-End GPU-Accelerated AI</title>
-      <link>https://udemytag.github.io/course/certified-infra-ai-expert-end-to-end-gpu-accelerated-ai/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/certified-infra-ai-expert-end-to-end-gpu-accelerated-ai/</guid>
-      <description>Master GPUs, Omniverse, Digital Twins, AI Containers, Triton Inference, DeepStream, and ModelOps Klaim gratis di UdemyTAG.</description>
-      <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
       <title>Quantum Computing for Decision Makers: Executive Essentials</title>
@@ -148,15 +300,7 @@
       <guid isPermaLink="true">https://udemytag.github.io/course/quantum-computing-for-decision-makers-executive-essentials/</guid>
       <description>What Every Business Leader Needs to Know About Quantum Computing Klaim gratis di UdemyTAG.</description>
       <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Complete Guide to AI Infrastructure: Zero to Hero</title>
-      <link>https://udemytag.github.io/course/the-complete-guide-to-ai-infrastructure-zero-to-hero/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/the-complete-guide-to-ai-infrastructure-zero-to-hero/</guid>
-      <description>Master the Essential Skills of an AI Infrastructure Engineer: GPUs, Kubernetes, MLOps, &amp; Large Language Models. Klaim gratis di UdemyTAG.</description>
-      <category>Design</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
       <title>RAG Strategy &amp; Execution: Build Enterprise Knowledge Systems</title>
@@ -164,7 +308,7 @@
       <guid isPermaLink="true">https://udemytag.github.io/course/rag-strategy-execution-build-enterprise-knowledge-systems/</guid>
       <description>Master the strategy, design, and governance of Retrieval-Augmented Generation to transform enterprise knowledge access Klaim gratis di UdemyTAG.</description>
       <category>Design</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
       <title>MCP for Leaders: Architecting Context-Driven AI</title>
@@ -172,7 +316,7 @@
       <guid isPermaLink="true">https://udemytag.github.io/course/mcp-for-leaders-architecting-context-driven-ai/</guid>
       <description>Unlock the power of MCP to build scalable, secure, and context-aware AI systems across your organization. Klaim gratis di UdemyTAG.</description>
       <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
       <title>Certified Chief Technology Officer(CTO) Mastery Program</title>
@@ -180,15 +324,7 @@
       <guid isPermaLink="true">https://udemytag.github.io/course/certified-chief-technology-officer-cto-mastery-program/</guid>
       <description>A 52-Week Executive Journey to Build Visionary, Technical, and Strategic Leadership in Modern Technology Organizations Klaim gratis di UdemyTAG.</description>
       <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Certified Generative AI Architect with Knowledge Graphs</title>
-      <link>https://udemytag.github.io/course/certified-generative-ai-architect-with-knowledge-graphs/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/certified-generative-ai-architect-with-knowledge-graphs/</guid>
-      <description>Design and Deploy Scalable GenAI Systems with Ontologies, RAG, and Multi-Agent Architectures Klaim gratis di UdemyTAG.</description>
-      <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
       <title>The Certified Global CEO Masterclass: Leading at the Top</title>
@@ -196,7 +332,7 @@
       <guid isPermaLink="true">https://udemytag.github.io/course/the-certified-global-ceo-masterclass-leading-at-the-top/</guid>
       <description>Master strategy, innovation, digital transformation, and global leadership with this 52-week executive education program Klaim gratis di UdemyTAG.</description>
       <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
       <title>[Non-Technical] AI Product Manager Explorer Certificate</title>
@@ -204,7 +340,7 @@
       <guid isPermaLink="true">https://udemytag.github.io/course/non-technical-ai-product-manager-explorer-certificate/</guid>
       <description>A 7-day certificate to help product managers lead AI initiatives, define strategy, and align stakeholders Klaim gratis di UdemyTAG.</description>
       <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
       <title>NCA-GENL: NVIDIA-Certified Generative AI LLMs Specialization</title>
@@ -212,199 +348,63 @@
       <guid isPermaLink="true">https://udemytag.github.io/course/nca-genl-nvidia-certified-generative-ai-llms-specialization/</guid>
       <description>Complete Guide to Passing NVIDIA’s NCA-GENL Exam: Generative AI, LLMs, Prompting, and Model Deployment Klaim gratis di UdemyTAG.</description>
       <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
-      <title>Mastering Vigilant Leadership</title>
-      <link>https://udemytag.github.io/course/mastering-vigilant-leadership/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/mastering-vigilant-leadership/</guid>
-      <description>Developing Strategic Vision, Risk Mitigation, and Adaptability for Effective Vigilant Leadership Klaim gratis di UdemyTAG.</description>
-      <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tableau Desktop Specialist Certification Exams</title>
-      <link>https://udemytag.github.io/course/tableau-desktop-specialist-certification-exams/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/tableau-desktop-specialist-certification-exams/</guid>
-      <description>180 Practice Questions with Detailed Answers for Tableau Desktop Specialist Exam Klaim gratis di UdemyTAG.</description>
-      <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT: Make Money with ChatGPT as a New Freelancer</title>
-      <link>https://udemytag.github.io/course/chatgpt-make-money-with-chatgpt-as-a-new-freelancer/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/chatgpt-make-money-with-chatgpt-as-a-new-freelancer/</guid>
-      <description>Maximize Your Freelance Income With ChatGPT. A One-Stop Solution For All Your Freelance Needs. Zero to Hero Klaim gratis di UdemyTAG.</description>
-      <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Complete C++ Programming Course from Basic to Expert</title>
-      <link>https://udemytag.github.io/course/the-complete-c-programming-course-from-basic-to-expert/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/the-complete-c-programming-course-from-basic-to-expert/</guid>
-      <description>Familiarize yourself with the fundamentals of C++, including syntax, data types, control structures, and functions. Klaim gratis di UdemyTAG.</description>
-      <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ultimate Guide to Creating Presentations with PowerPoint</title>
-      <link>https://udemytag.github.io/course/ultimate-guide-to-creating-presentations-with-powerpoint/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/ultimate-guide-to-creating-presentations-with-powerpoint/</guid>
-      <description>From Beginner to Boardroom: Essential PowerPoint for Impactful Presentations Klaim gratis di UdemyTAG.</description>
+      <title>Ultimate Guide to Canva T-Shirt Design: Mastery in T-Shirt</title>
+      <link>https://udemytag.github.io/course/ultimate-guide-to-canva-t-shirt-design-mastery-in-t-shirt/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/ultimate-guide-to-canva-t-shirt-design-mastery-in-t-shirt/</guid>
+      <description>Effortless Design, Professional Results: T-Shirts Made Easy Klaim gratis di UdemyTAG.</description>
       <category>Design</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
-      <title>Forensic Science Basics: Principles, History &amp; Evidence</title>
-      <link>https://udemytag.github.io/course/forensic-science-basics-principles-history-evidence/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/forensic-science-basics-principles-history-evidence/</guid>
-      <description>Understand what forensic science is, how it evolved, its 7 core principles, and how types of evidence work. Klaim gratis di UdemyTAG.</description>
-      <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>AB-210 Microsoft Dynamics 365 Sales AI Consultant Associate</title>
-      <link>https://udemytag.github.io/course/ab-210-microsoft-dynamics-365-sales-ai-consultant-associate/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/ab-210-microsoft-dynamics-365-sales-ai-consultant-associate/</guid>
-      <description>Prepare for AB-210 with Dynamics 365 Sales, Copilot, AI agents, Dataverse, guided workshops, and practice tests. Klaim gratis di UdemyTAG.</description>
-      <category>Business</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bootcamp AZ-900: Microsoft Azure Fundamentals Course</title>
-      <link>https://udemytag.github.io/course/bootcamp-az-900-microsoft-azure-fundamentals-course/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/bootcamp-az-900-microsoft-azure-fundamentals-course/</guid>
-      <description>Bootcamp AZ-900: Microsoft Azure Fundamentals Course | AZ-900, Microsoft Azure Fundamentals AZ900, Azure AZ900, AZ-900 Klaim gratis di UdemyTAG.</description>
-      <category>IT & Software</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Code Power User: Architecting AI-Native Dev Workflows</title>
-      <link>https://udemytag.github.io/course/claude-code-power-user-architecting-ai-native-dev-workflows/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/claude-code-power-user-architecting-ai-native-dev-workflows/</guid>
-      <description>Master CLAUDEmd, Skills, Planning Mode, and Automation to Turn Claude Code into Your Project Co-PilotTotal: Klaim gratis di UdemyTAG.</description>
-      <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google AI Stack 2026: Gemini 3, Imagen, Veo &amp; AI Agents Mast</title>
-      <link>https://udemytag.github.io/course/google-ai-stack-2026-gemini-3-imagen-veo-ai-agents-mast/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/google-ai-stack-2026-gemini-3-imagen-veo-ai-agents-mast/</guid>
-      <description>Build Multimodal Apps, Autonomous Agents, AI Videos &amp; Enterprise Systems Using Google’s Complete AI PlatformTotal: Klaim gratis di UdemyTAG.</description>
-      <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI-Powered Job Search: Land High-Paying Roles Faster in 2026</title>
-      <link>https://udemytag.github.io/course/ai-powered-job-search-land-high-paying-roles-faster-in-2026/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/ai-powered-job-search-land-high-paying-roles-faster-in-2026/</guid>
-      <description>Use ChatGPT &amp; AI Tools to Optimize Your Resume, Ace Interviews, and Negotiate Higher SalariesTotal: Klaim gratis di UdemyTAG.</description>
-      <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Agent Economy: Build Autonomous AI Businesses</title>
-      <link>https://udemytag.github.io/course/ai-agent-economy-build-autonomous-ai-businesses/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/ai-agent-economy-build-autonomous-ai-businesses/</guid>
-      <description>Design autonomous AI agents that use tools, transact payments, and operate as independent digital economic actors.Total: Klaim gratis di UdemyTAG.</description>
-      <category>Business</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agentic AI in Practice: From LangGraph to OpenClaw</title>
-      <link>https://udemytag.github.io/course/agentic-ai-in-practice-from-langgraph-to-openclaw/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/agentic-ai-in-practice-from-langgraph-to-openclaw/</guid>
-      <description>Create autonomous AI agents using LangChain, vector databases, memory, tools, multi-agent coordination and OpenClaw.Total: Klaim gratis di UdemyTAG.</description>
-      <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS Machine Learning Engineer Associate — Complete Bootcamp</title>
-      <link>https://udemytag.github.io/course/aws-machine-learning-engineer-associate-complete-bootcamp/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/aws-machine-learning-engineer-associate-complete-bootcamp/</guid>
-      <description>Master SageMaker, MLOps, pipelines &amp; deployment. Build real ML systems &amp; pass AWS ML Engineer AssociateTotal: Klaim gratis di UdemyTAG.</description>
-      <category>IT & Software</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS Solutions Architect Associate Bootcamp 2026</title>
-      <link>https://udemytag.github.io/course/aws-solutions-architect-associate-bootcamp-2026/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/aws-solutions-architect-associate-bootcamp-2026/</guid>
-      <description>AWS Solutions Architect Associate Bootcamp 2026Total: Klaim gratis di UdemyTAG.</description>
-      <category>IT & Software</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Agents for Cloud Infrastructure</title>
-      <link>https://udemytag.github.io/course/ai-agents-for-cloud-infrastructure/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/ai-agents-for-cloud-infrastructure/</guid>
-      <description>From beginner to expert—build AI agents that safely control AWS, Azure &amp; GCP infrastructure in production Klaim gratis di UdemyTAG.</description>
-      <category>IT & Software</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI for Business Leaders: Strategy, GenAI &amp; Automation</title>
-      <link>https://udemytag.github.io/course/ai-for-business-leaders-strategy-genai-automation/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/ai-for-business-leaders-strategy-genai-automation/</guid>
-      <description>Master AI strategy, ChatGPT, automation, and leadership frameworks to drive real business impactTotal: Klaim gratis di UdemyTAG.</description>
-      <category>Business</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Memento-Skills: Build Self-Evolving AI Agents</title>
-      <link>https://udemytag.github.io/course/memento-skills-build-self-evolving-ai-agents/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/memento-skills-build-self-evolving-ai-agents/</guid>
-      <description>Design agents that learn from experience, evolve skills, and improve continuously without retraining modelsTotal: Klaim gratis di UdemyTAG.</description>
+      <title>The Beginner's Guide to Adobe Premiere Pro: Edit Like a Pro</title>
+      <link>https://udemytag.github.io/course/the-beginner-s-guide-to-adobe-premiere-pro-edit-like-a-pro/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/the-beginner-s-guide-to-adobe-premiere-pro-edit-like-a-pro/</guid>
+      <description>The Beginner's Guide to Adobe Premiere Pro: Edit Like a Pro, No Prior Experience Needed Klaim gratis di UdemyTAG.</description>
       <category>Design</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
-      <title>Python for AI Masterclass in 5 days</title>
-      <link>https://udemytag.github.io/course/python-for-ai-masterclass-in-5-days/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/python-for-ai-masterclass-in-5-days/</guid>
-      <description>Master Python, NumPy, PyTorch &amp; LLM APIs — Build and Deploy a Real AI App . Klaim gratis di UdemyTAG.</description>
+      <title>The Complete MongoDB: Build, Scale &amp; Query NoSQL Databases</title>
+      <link>https://udemytag.github.io/course/the-complete-mongodb-build-scale-query-nosql-databases/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/the-complete-mongodb-build-scale-query-nosql-databases/</guid>
+      <description>MongoDB, NoSQL Fundamentals and Real World Mongo DB Usage - Everything You Need To Get Started With MongoDB and NoSQL Klaim gratis di UdemyTAG.</description>
       <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
-      <title>AI Fundamentals for Business</title>
-      <link>https://udemytag.github.io/course/ai-fundamentals-for-business/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/ai-fundamentals-for-business/</guid>
-      <description>What AI can and cannot do — without Math or CodeTotal: Klaim gratis di UdemyTAG.</description>
-      <category>Business</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Quantum Computing &amp; AI Bootcamp: Build Future AI Systems</title>
-      <link>https://udemytag.github.io/course/quantum-computing-ai-bootcamp-build-future-ai-systems/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/quantum-computing-ai-bootcamp-build-future-ai-systems/</guid>
-      <description>Learn Quantum Computing, Quantum Machine Learning, AI systems, and hybrid AI-Quantum applications using Python &amp; QiskitTotal: Klaim gratis di UdemyTAG.</description>
+      <title>Building AI Integrations with Model Context Protocol (MCP)</title>
+      <link>https://udemytag.github.io/course/building-ai-integrations-with-model-context-protocol-mcp/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/building-ai-integrations-with-model-context-protocol-mcp/</guid>
+      <description>From MCP Foundations to Real Integrations with Claude and Cursor Klaim gratis di UdemyTAG.</description>
       <category>Design</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
-      <title>New Manager Training: Emotional Intelligence for Success</title>
-      <link>https://udemytag.github.io/course/new-manager-training-emotional-intelligence-for-success/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/new-manager-training-emotional-intelligence-for-success/</guid>
-      <description>Develop your emotional intelligence to become a better leader, foster strong teams, and achieve success as a new manager Klaim gratis di UdemyTAG.</description>
-      <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <title>Brand Management with Generative AI</title>
+      <link>https://udemytag.github.io/course/brand-management-with-generative-ai/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/brand-management-with-generative-ai/</guid>
+      <description>Harness GenAI to craft brand stories, scale content, and engage with precision Klaim gratis di UdemyTAG.</description>
+      <category>Business</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
-      <title>Google Calendar :  Virtual Assistant</title>
-      <link>https://udemytag.github.io/course/google-calendar-virtual-assistant/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/google-calendar-virtual-assistant/</guid>
-      <description>Planning your life with Google Calendar Arrange your appointments and help you if you are a virtual assistant Klaim gratis di UdemyTAG.</description>
-      <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <title>Building AI Voice Agents with ElevenLabs</title>
+      <link>https://udemytag.github.io/course/building-ai-voice-agents-with-elevenlabs/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/building-ai-voice-agents-with-elevenlabs/</guid>
+      <description>Create, test, and deploy autonomous voice agents for real business use cases.Total: Klaim gratis di UdemyTAG.</description>
+      <category>Design</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
     <item>
-      <title>Secure Your Wordpress Website For Beginners</title>
-      <link>https://udemytag.github.io/course/secure-your-wordpress-website-for-beginners/</link>
-      <guid isPermaLink="true">https://udemytag.github.io/course/secure-your-wordpress-website-for-beginners/</guid>
-      <description>Create a WordPress website and learn how to keep it safe from hackers. Klaim gratis di UdemyTAG.</description>
-      <category>Development</category>
-      <pubDate>Wed, 21 Oct 2026 08:08:46 GMT</pubDate>
+      <title>Business Analysis for Executives with Microsoft Copilot</title>
+      <link>https://udemytag.github.io/course/business-analysis-for-executives-with-microsoft-copilot/</link>
+      <guid isPermaLink="true">https://udemytag.github.io/course/business-analysis-for-executives-with-microsoft-copilot/</guid>
+      <description>Everything a modern executive needs to think deeper and lead stronger — now powered by AI Klaim gratis di UdemyTAG.</description>
+      <category>Business</category>
+      <pubDate>Wed, 21 Oct 2026 14:16:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
