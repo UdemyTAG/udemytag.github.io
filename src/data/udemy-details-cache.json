@@ -5893,5 +5893,18 @@
       "rem": 80,
       "end": "2026-11-20T07:00:00Z"
     }
+  },
+  "python-for-beginners-course-in-depth_F71A9150165C386EA927": {
+    "subscribers": 277364,
+    "reviews": 3690,
+    "rating": "4.2",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Horizon Tech",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-22T07:00:00Z"
+    }
   }
 }
