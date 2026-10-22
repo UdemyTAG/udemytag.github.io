@@ -6081,5 +6081,45 @@
       "rem": 37,
       "end": "2026-11-22T07:05:00Z"
     }
+  },
+  "special-education-inclusion_1060FCF45FE630BFD678": {
+    "subscribers": 2846,
+    "reviews": 44,
+    "rating": "4.2",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Edutainment UK",
+    "campaign": {
+      "max": 100,
+      "rem": 46,
+      "end": "2026-11-22T12:46:00Z"
+    }
+  },
+  "warehouse-management-wms_51E96D746F32DCE81693": {
+    "subscribers": 3591,
+    "reviews": 186,
+    "rating": "4.1",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Edutainment UK",
+    "campaign": null
+  },
+  "sports-marketing_B97F66006188A5AFF4CF": {
+    "subscribers": 3071,
+    "reviews": 38,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "WriteWow Solutions",
+    "campaign": null
+  },
+  "online-safety-cybersecurity-health-scam-prevention_C335522470347FD14818": {
+    "subscribers": 3278,
+    "reviews": 15,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sadia Islam Rimi",
+    "campaign": null
   }
 }
