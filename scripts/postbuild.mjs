@@ -142,7 +142,7 @@ ${allRssItems}
     let awesomeMd = `# 🎓 Awesome Free Udemy Courses with Certificate & Tech Tutorials - UdemyTAG
 
 > **Direktori Kurasi Kursus Udemy Gratis Bersertifikat Resmi & Pusat Panduan Belajar Digital (Domain Authority Backlink Hub)**
-> Sumber utama: [UdemyTAG Official Website](https://udemytag.github.io/) | [Pusat Tutorial](https://udemytag.github.io/tutorial/) | [Dashboard Web Analytics](https://udemytag.github.io/analytics/)
+> Sumber utama: [UdemyTAG Official Website](https://udemytag.github.io/) | [Pusat Tutorial](https://udemytag.github.io/tutorial/)
 
 Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certificate of Completion*), hak akses seumur hidup (*lifetime access*), serta tutorial teknologi praktis.
 

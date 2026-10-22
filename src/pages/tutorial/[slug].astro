@@ -85,7 +85,7 @@ const articleSchema = {
   '@type': 'TechArticle',
   'headline': article.title,
   'description': article.excerpt,
-  'image': 'https://udemytag.github.io/og-image.png',
+  'image': article.image ? `https://udemytag.github.io${article.image}` : 'https://udemytag.github.io/og-image.png',
   'datePublished': article.publishedAt,
   'dateModified': article.updatedAt || article.publishedAt,
   'author': {
@@ -286,6 +286,21 @@ const renderedHtml = renderContent(article.content);
               </div>
             </div>
           </header>
+
+          <!-- Article Cover Image Banner -->
+          {article.image && (
+            <div class="my-6 rounded-2xl overflow-hidden border border-slate-200/80 dark:border-slate-800 shadow-md">
+              <img
+                src={article.image}
+                alt={article.title}
+                class="w-full max-h-[460px] object-cover"
+                loading="eager"
+                decoding="async"
+                width="1200"
+                height="630"
+              />
+            </div>
+          )}
 
           <!-- Rendered Article Body -->
           <div class="prose prose-slate dark:prose-invert max-w-none pt-6 text-slate-800 dark:text-slate-200">

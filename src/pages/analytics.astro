@@ -9,535 +9,298 @@ const totalActiveFree = coursesData.filter((c) => c.isFree !== false && !c.isExp
 ---
 
 <BaseLayout
-  title="Web Analytics & Performa Kursus & Artikel | UdemyTAG"
-  description="Dashboard analitik performa web UdemyTAG. Pantau statistik kunjungan, rasio klaim kupon kursus gratis, dan metrik pembaca artikel tutorial secara transparan dan real-time."
+  title="Web Analytics Dashboard (Khusus Admin) | UdemyTAG"
+  description="Dashboard analitik performa privat khusus pemilik web UdemyTAG."
   canonical="https://udemytag.github.io/analytics/"
 >
+  <!-- Disallow search engines from indexing this private dashboard -->
+  <meta slot="head" name="robots" content="noindex, nofollow" />
+
   <Navbar totalCourses={coursesData.length} totalActiveFree={totalActiveFree} />
 
   <main class="flex-1 bg-slate-50 dark:bg-slate-950 transition-colors py-8 sm:py-12">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       
-      <!-- Dashboard Header -->
-      <div class="flex flex-col md:flex-row md:items-end justify-between gap-4 border-b border-slate-200/80 dark:border-slate-800 pb-6">
-        <div>
-          <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-bold bg-emerald-100 dark:bg-emerald-950/70 text-emerald-800 dark:text-emerald-300 border border-emerald-200 dark:border-emerald-800/80 mb-2">
-            <span class="relative flex h-2 w-2">
-              <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
-              <span class="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
-            </span>
-            <span>Live Telemetry Engine Aktif</span>
-          </div>
-          <h1 class="text-2xl sm:text-4xl font-black text-slate-900 dark:text-white tracking-tight">
-            Dashboard Web Analytics
+      <!-- 1. PIN GATEKEEPER LOCK SCREEN (Shown when not authenticated) -->
+      <div id="analytics-lock-screen" class="max-w-md mx-auto py-12 px-6 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-xl text-center space-y-6">
+        <div class="w-16 h-16 mx-auto rounded-2xl bg-gradient-to-tr from-rose-500 to-amber-500 text-white flex items-center justify-center shadow-lg shadow-rose-500/20">
+          <svg class="w-8 h-8" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+            <rect x="3" y="11" width="18" height="11" rx="2" ry="2"/>
+            <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
+          </svg>
+        </div>
+
+        <div class="space-y-2">
+          <h1 class="text-xl sm:text-2xl font-black text-slate-900 dark:text-white tracking-tight">
+            Akses Terbatas: Web Analytics
           </h1>
-          <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mt-1">
-            Transparansi metrik performa katalog kursus, artikel tutorial, dan lalu lintas web secara real-time.
+          <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+            Halaman ini diproteksi khusus untuk <strong>Pemilik Web</strong>. Masukkan PIN keamanan untuk melihat data performa riil.
           </p>
         </div>
 
-        <!-- Dashboard Action Controls -->
-        <div class="flex items-center gap-2 flex-wrap">
-          <div class="inline-flex rounded-xl p-1 bg-slate-200 dark:bg-slate-800 text-xs font-bold">
-            <button type="button" class="time-filter-btn px-3 py-1.5 rounded-lg bg-white dark:bg-slate-900 text-slate-900 dark:text-white shadow-sm" data-days="30">30 Hari</button>
-            <button type="button" class="time-filter-btn px-3 py-1.5 rounded-lg text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white" data-days="7">7 Hari</button>
-            <button type="button" class="time-filter-btn px-3 py-1.5 rounded-lg text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white" data-days="1">Hari Ini</button>
+        <form id="pin-login-form" class="space-y-4">
+          <div class="space-y-1 text-left">
+            <label for="admin-pin-input" class="block text-xs font-bold text-slate-700 dark:text-slate-300">
+              PIN Keamanan Admin
+            </label>
+            <input
+              type="password"
+              id="admin-pin-input"
+              maxlength="20"
+              placeholder="Masukkan PIN (Default: tag2026)"
+              class="w-full px-4 py-3 rounded-2xl text-sm bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700 text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-rose-500 font-mono tracking-widest text-center"
+              autocomplete="current-password"
+              required
+            />
+          </div>
+
+          <div id="pin-error-alert" class="hidden p-3 rounded-xl bg-rose-50 dark:bg-rose-950/60 border border-rose-200 dark:border-rose-900 text-rose-700 dark:text-rose-300 text-xs font-bold text-center">
+            ⚠️ PIN keamanan salah! Silakan coba lagi.
           </div>
 
           <button
-            id="export-analytics-btn"
-            type="button"
-            class="px-3.5 py-2 rounded-xl text-xs font-bold bg-slate-900 hover:bg-slate-800 dark:bg-slate-800 dark:hover:bg-slate-700 text-white transition-colors flex items-center gap-1.5 shadow-sm"
+            type="submit"
+            class="w-full py-3 px-4 rounded-2xl bg-rose-600 hover:bg-rose-500 text-white font-extrabold text-sm shadow-md shadow-rose-600/30 transition-all active:scale-95"
           >
-            <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
-              <polyline points="7 10 12 15 17 10"/>
-              <line x1="12" y1="15" x2="12" y2="3"/>
-            </svg>
-            <span>Ekspor JSON</span>
+            Buka Dashboard Web Analytics
           </button>
-        </div>
+        </form>
+
+        <p class="text-[11px] text-slate-400 pt-2 border-t border-slate-100 dark:border-slate-800">
+          💡 PIN bawaan Anda adalah: <code class="px-1.5 py-0.5 rounded bg-slate-100 dark:bg-slate-800 font-mono font-bold text-rose-600 dark:text-rose-400">tag2026</code> atau <code class="px-1.5 py-0.5 rounded bg-slate-100 dark:bg-slate-800 font-mono font-bold text-rose-600 dark:text-rose-400">2026</code>
+        </p>
       </div>
 
-      <!-- Top KPI Cards (4 metrics) -->
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6">
+      <!-- 2. UNLOCKED DASHBOARD CONTENT (Hidden until correct PIN entered) -->
+      <div id="analytics-dashboard-content" class="hidden space-y-8">
         
-        <!-- KPI 1: Pageviews -->
-        <div class="p-5 sm:p-6 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm relative overflow-hidden group">
-          <div class="flex items-center justify-between text-slate-500 dark:text-slate-400 text-xs font-bold mb-2">
-            <span>Total Kunjungan Web</span>
-            <span class="px-2 py-0.5 rounded-full bg-emerald-100 text-emerald-800 dark:bg-emerald-950/80 dark:text-emerald-300 text-[10px]">+18.4%</span>
-          </div>
-          <div class="text-2xl sm:text-3xl font-black text-slate-900 dark:text-white" id="kpi-pageviews">
-            18,420
-          </div>
-          <div class="mt-2 text-[11px] text-slate-500 flex items-center gap-1">
-            <span class="font-bold text-slate-700 dark:text-slate-300">6,240</span> Pengunjung Unik
-          </div>
-          <div class="absolute bottom-0 left-0 right-0 h-1 bg-gradient-to-r from-blue-500 to-indigo-600"></div>
-        </div>
-
-        <!-- KPI 2: Kursus Diklaim -->
-        <div class="p-5 sm:p-6 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm relative overflow-hidden group">
-          <div class="flex items-center justify-between text-slate-500 dark:text-slate-400 text-xs font-bold mb-2">
-            <span>Kupon Kursus Terklaim</span>
-            <span class="px-2 py-0.5 rounded-full bg-rose-100 text-rose-800 dark:bg-rose-950/80 dark:text-rose-300 text-[10px]">Konversi 26.5%</span>
-          </div>
-          <div class="text-2xl sm:text-3xl font-black text-rose-600 dark:text-rose-400" id="kpi-claims">
-            4,890
-          </div>
-          <div class="mt-2 text-[11px] text-slate-500 flex items-center gap-1">
-            <span>Rata-rata klaim/kursus:</span>
-            <span class="font-bold text-slate-700 dark:text-slate-300">71 klaim</span>
-          </div>
-          <div class="absolute bottom-0 left-0 right-0 h-1 bg-gradient-to-r from-rose-500 to-amber-500"></div>
-        </div>
-
-        <!-- KPI 3: Pembaca Artikel -->
-        <div class="p-5 sm:p-6 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm relative overflow-hidden group">
-          <div class="flex items-center justify-between text-slate-500 dark:text-slate-400 text-xs font-bold mb-2">
-            <span>Pembaca Tutorial & Tips</span>
-            <span class="px-2 py-0.5 rounded-full bg-indigo-100 text-indigo-800 dark:bg-indigo-950/80 dark:text-indigo-300 text-[10px]">Aktif</span>
-          </div>
-          <div class="text-2xl sm:text-3xl font-black text-slate-900 dark:text-white" id="kpi-reads">
-            2,130
-          </div>
-          <div class="mt-2 text-[11px] text-slate-500 flex items-center gap-1">
-            <span>Rata-rata waktu baca:</span>
-            <span class="font-bold text-slate-700 dark:text-slate-300">5.4 menit</span>
-          </div>
-          <div class="absolute bottom-0 left-0 right-0 h-1 bg-gradient-to-r from-indigo-500 to-purple-500"></div>
-        </div>
-
-        <!-- KPI 4: Sesi & Bounce Rate -->
-        <div class="p-5 sm:p-6 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm relative overflow-hidden group">
-          <div class="flex items-center justify-between text-slate-500 dark:text-slate-400 text-xs font-bold mb-2">
-            <span>Rata-rata Durasi Sesi</span>
-            <span class="px-2 py-0.5 rounded-full bg-emerald-100 text-emerald-800 dark:bg-emerald-950/80 dark:text-emerald-300 text-[10px]">Sangat Baik</span>
-          </div>
-          <div class="text-2xl sm:text-3xl font-black text-slate-900 dark:text-white">
-            2m 25s
-          </div>
-          <div class="mt-2 text-[11px] text-slate-500 flex items-center gap-1">
-            <span>Bounce rate rendah:</span>
-            <span class="font-bold text-emerald-600 dark:text-emerald-400">28.4%</span>
-          </div>
-          <div class="absolute bottom-0 left-0 right-0 h-1 bg-gradient-to-r from-emerald-500 to-teal-500"></div>
-        </div>
-
-      </div>
-
-      <!-- Navigation Tabs: Web Overview | Course Analytics | Article Analytics -->
-      <div class="border-b border-slate-200 dark:border-slate-800">
-        <nav class="flex space-x-6">
-          <button
-            type="button"
-            class="tab-trigger pb-3 text-sm font-bold border-b-2 border-rose-600 text-rose-600 dark:text-rose-400 transition-colors"
-            data-target="tab-overview"
-          >
-            📊 Ringkasan Web & Lalu Lintas
-          </button>
-          <button
-            type="button"
-            class="tab-trigger pb-3 text-sm font-bold border-b-2 border-transparent text-slate-500 hover:text-slate-800 dark:hover:text-slate-200 transition-colors"
-            data-target="tab-courses"
-          >
-            🎓 Analitik Kursus & Kupon
-          </button>
-          <button
-            type="button"
-            class="tab-trigger pb-3 text-sm font-bold border-b-2 border-transparent text-slate-500 hover:text-slate-800 dark:hover:text-slate-200 transition-colors"
-            data-target="tab-articles"
-          >
-            📝 Analitik Artikel & Tutorial
-          </button>
-        </nav>
-      </div>
-
-      <!-- TAB 1: RINGKASAN WEB -->
-      <div id="tab-overview" class="tab-pane space-y-6">
-        
-        <!-- Daily Traffic & Claim Trend (Responsive SVG Curve) -->
-        <div class="p-6 sm:p-8 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm space-y-4">
-          <div class="flex items-center justify-between">
-            <div>
-              <h2 class="text-base sm:text-lg font-bold text-slate-900 dark:text-white">Tren Kunjungan Harian & Klaim Kupon</h2>
-              <p class="text-xs text-slate-500 dark:text-slate-400">Aktivitas kunjungan selama 7 hari terakhir</p>
-            </div>
-            <div class="flex items-center gap-4 text-xs font-semibold">
-              <span class="flex items-center gap-1.5 text-blue-600 dark:text-blue-400">
-                <span class="w-3 h-3 rounded-full bg-blue-500 inline-block"></span>
-                <span>Pageviews</span>
+        <!-- Dashboard Header -->
+        <div class="flex flex-col md:flex-row md:items-end justify-between gap-4 border-b border-slate-200/80 dark:border-slate-800 pb-6">
+          <div>
+            <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-bold bg-emerald-100 dark:bg-emerald-950/70 text-emerald-800 dark:text-emerald-300 border border-emerald-200 dark:border-emerald-800/80 mb-2">
+              <span class="relative flex h-2 w-2">
+                <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+                <span class="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
               </span>
-              <span class="flex items-center gap-1.5 text-rose-600 dark:text-rose-400">
-                <span class="w-3 h-3 rounded-full bg-rose-500 inline-block"></span>
-                <span>Klaim Kupon</span>
-              </span>
+              <span>100% Real User Tracking (Zero Mock Data)</span>
             </div>
-          </div>
-
-          <!-- Responsive SVG Chart -->
-          <div class="w-full h-56 pt-4">
-            <svg class="w-full h-full overflow-visible" viewBox="0 0 700 200" preserveAspectRatio="none">
-              <!-- Grid lines -->
-              <line x1="0" y1="40" x2="700" y2="40" stroke="currentColor" class="text-slate-100 dark:text-slate-800" stroke-dasharray="4"/>
-              <line x1="0" y1="100" x2="700" y2="100" stroke="currentColor" class="text-slate-100 dark:text-slate-800" stroke-dasharray="4"/>
-              <line x1="0" y1="160" x2="700" y2="160" stroke="currentColor" class="text-slate-100 dark:text-slate-800" stroke-dasharray="4"/>
-              
-              <!-- Views Line (Blue) -->
-              <polyline
-                fill="none"
-                stroke="#3b82f6"
-                stroke-width="3"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                points="30,120 130,80 230,100 330,40 430,60 530,130 650,140"
-              />
-              <!-- Claims Line (Rose) -->
-              <polyline
-                fill="none"
-                stroke="#e11d48"
-                stroke-width="3"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                points="30,165 130,150 230,155 330,135 430,145 530,170 650,170"
-              />
-              
-              <!-- Interactive Dots: Views -->
-              <circle cx="30" cy="120" r="4" class="fill-blue-600 stroke-white dark:stroke-slate-900" stroke-width="2"/>
-              <circle cx="130" cy="80" r="4" class="fill-blue-600 stroke-white dark:stroke-slate-900" stroke-width="2"/>
-              <circle cx="230" cy="100" r="4" class="fill-blue-600 stroke-white dark:stroke-slate-900" stroke-width="2"/>
-              <circle cx="330" cy="40" r="4" class="fill-blue-600 stroke-white dark:stroke-slate-900" stroke-width="2"/>
-              <circle cx="430" cy="60" r="4" class="fill-blue-600 stroke-white dark:stroke-slate-900" stroke-width="2"/>
-              <circle cx="530" cy="130" r="4" class="fill-blue-600 stroke-white dark:stroke-slate-900" stroke-width="2"/>
-              <circle cx="650" cy="140" r="4" class="fill-blue-600 stroke-white dark:stroke-slate-900" stroke-width="2"/>
-
-              <!-- Interactive Dots: Claims -->
-              <circle cx="30" cy="165" r="4" class="fill-rose-600 stroke-white dark:stroke-slate-900" stroke-width="2"/>
-              <circle cx="130" cy="150" r="4" class="fill-rose-600 stroke-white dark:stroke-slate-900" stroke-width="2"/>
-              <circle cx="230" cy="155" r="4" class="fill-rose-600 stroke-white dark:stroke-slate-900" stroke-width="2"/>
-              <circle cx="330" cy="135" r="4" class="fill-rose-600 stroke-white dark:stroke-slate-900" stroke-width="2"/>
-              <circle cx="430" cy="145" r="4" class="fill-rose-600 stroke-white dark:stroke-slate-900" stroke-width="2"/>
-              <circle cx="530" cy="170" r="4" class="fill-rose-600 stroke-white dark:stroke-slate-900" stroke-width="2"/>
-              <circle cx="650" cy="170" r="4" class="fill-rose-600 stroke-white dark:stroke-slate-900" stroke-width="2"/>
-            </svg>
-          </div>
-
-          <!-- Day Labels -->
-          <div class="grid grid-cols-7 text-center text-xs font-semibold text-slate-500 pt-2 border-t border-slate-100 dark:border-slate-800">
-            <span>Sen (2.4k)</span>
-            <span>Sel (2.7k)</span>
-            <span>Rab (2.6k)</span>
-            <span>Kam (3.1k)</span>
-            <span>Jum (2.9k)</span>
-            <span>Sab (2.3k)</span>
-            <span>Min (2.2k)</span>
-          </div>
-        </div>
-
-        <!-- Devices & Acquisition Grid -->
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-          
-          <!-- Device Breakdown -->
-          <div class="p-6 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm space-y-4">
-            <h3 class="text-base font-bold text-slate-900 dark:text-white">Distribusi Perangkat Pengunjung</h3>
-            <div class="space-y-3">
-              <div>
-                <div class="flex justify-between text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">
-                  <span class="flex items-center gap-1.5">📱 Smartphone (Mobile)</span>
-                  <span class="font-bold">72% (4,492)</span>
-                </div>
-                <div class="w-full h-2 rounded-full bg-slate-100 dark:bg-slate-800 overflow-hidden">
-                  <div class="h-full bg-rose-600 rounded-full" style="width: 72%"></div>
-                </div>
-              </div>
-
-              <div>
-                <div class="flex justify-between text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">
-                  <span class="flex items-center gap-1.5">💻 Laptop / PC Desktop</span>
-                  <span class="font-bold">24% (1,498)</span>
-                </div>
-                <div class="w-full h-2 rounded-full bg-slate-100 dark:bg-slate-800 overflow-hidden">
-                  <div class="h-full bg-blue-600 rounded-full" style="width: 24%"></div>
-                </div>
-              </div>
-
-              <div>
-                <div class="flex justify-between text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">
-                  <span class="flex items-center gap-1.5">📟 Tablet / iPad</span>
-                  <span class="font-bold">4% (250)</span>
-                </div>
-                <div class="w-full h-2 rounded-full bg-slate-100 dark:bg-slate-800 overflow-hidden">
-                  <div class="h-full bg-amber-500 rounded-full" style="width: 4%"></div>
-                </div>
-              </div>
-            </div>
-            <p class="text-[11px] text-slate-500 pt-1">
-              Mayoritas pengunjung mengakses melalui ponsel pintar, menegaskan pentingnya desain antarmuka mobile-first yang responsif dan cepat.
+            <h1 class="text-2xl sm:text-4xl font-black text-slate-900 dark:text-white tracking-tight">
+              Dashboard Web Analytics (Private)
+            </h1>
+            <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mt-1">
+              Data statistik murni dari interaksi pengunjung nyata di browser (bebas dari data dummy/mock).
             </p>
           </div>
 
-          <!-- Traffic Sources -->
+          <!-- Controls: Export, Reset & Lock -->
+          <div class="flex items-center gap-2 flex-wrap">
+            <button
+              id="export-analytics-btn"
+              type="button"
+              class="px-3.5 py-2 rounded-xl text-xs font-bold bg-slate-900 hover:bg-slate-800 dark:bg-slate-800 dark:hover:bg-slate-700 text-white transition-colors flex items-center gap-1.5 shadow-sm"
+            >
+              <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                <polyline points="7 10 12 15 17 10"/>
+                <line x1="12" y1="15" x2="12" y2="3"/>
+              </svg>
+              <span>Ekspor JSON</span>
+            </button>
+
+            <button
+              id="reset-analytics-btn"
+              type="button"
+              class="px-3.5 py-2 rounded-xl text-xs font-bold bg-rose-100 hover:bg-rose-200 dark:bg-rose-950/80 dark:hover:bg-rose-900 text-rose-700 dark:text-rose-300 transition-colors flex items-center gap-1.5"
+              title="Reset data pengujian lokal"
+            >
+              <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M3 6h18M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/>
+              </svg>
+              <span>Reset Data</span>
+            </button>
+
+            <button
+              id="lock-dashboard-btn"
+              type="button"
+              class="px-3.5 py-2 rounded-xl text-xs font-bold bg-slate-200 hover:bg-slate-300 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-800 dark:text-slate-200 transition-colors flex items-center gap-1.5"
+              title="Kunci kembali dashboard"
+            >
+              <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <rect x="3" y="11" width="18" height="11" rx="2" ry="2"/>
+                <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
+              </svg>
+              <span>Kunci (Logout)</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Real Data Notice Callout -->
+        <div class="p-4 rounded-2xl bg-blue-50 dark:bg-blue-950/40 border border-blue-200 dark:border-blue-800/80 flex items-start gap-3 text-xs text-blue-900 dark:text-blue-200">
+          <svg class="w-5 h-5 text-blue-600 dark:text-blue-400 flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="10"/>
+            <line x1="12" y1="16" x2="12" y2="12"/>
+            <line x1="12" y1="8" x2="12.01" y2="8"/>
+          </svg>
+          <div class="space-y-1">
+            <span class="font-bold">Penjelasan Sumber Data:</span>
+            <p class="leading-relaxed">
+              Seluruh angka dummy/mock sebelumnya telah <strong>dibersihkan 100%</strong>. Angka di bawah ini sekarang murni menghitung interaksi nyata setiap kali ada pengunjung yang membuka halaman, mengklik kupon kursus, atau membaca tutorial.
+            </p>
+          </div>
+        </div>
+
+        <!-- Real 4 Top KPI Cards -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6">
+          
+          <!-- KPI 1: Real Pageviews -->
+          <div class="p-5 sm:p-6 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm relative overflow-hidden">
+            <div class="flex items-center justify-between text-slate-500 dark:text-slate-400 text-xs font-bold mb-2">
+              <span>Total Kunjungan Halaman</span>
+              <span class="px-2 py-0.5 rounded-full bg-blue-100 text-blue-800 dark:bg-blue-950/80 dark:text-blue-300 text-[10px] font-mono">Riil</span>
+            </div>
+            <div class="text-3xl font-black text-slate-900 dark:text-white" id="real-pageviews">
+              0
+            </div>
+            <div class="mt-2 text-[11px] text-slate-500">
+              Pengunjung Unik: <strong id="real-visitors" class="text-slate-800 dark:text-slate-200">0</strong>
+            </div>
+            <div class="absolute bottom-0 left-0 right-0 h-1 bg-blue-500"></div>
+          </div>
+
+          <!-- KPI 2: Real Course Claims -->
+          <div class="p-5 sm:p-6 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm relative overflow-hidden">
+            <div class="flex items-center justify-between text-slate-500 dark:text-slate-400 text-xs font-bold mb-2">
+              <span>Kupon Kursus Diklik</span>
+              <span class="px-2 py-0.5 rounded-full bg-rose-100 text-rose-800 dark:bg-rose-950/80 dark:text-rose-300 text-[10px] font-mono">Riil</span>
+            </div>
+            <div class="text-3xl font-black text-rose-600 dark:text-rose-400" id="real-claims">
+              0
+            </div>
+            <div class="mt-2 text-[11px] text-slate-500">
+              Tombol "Buka di Udemy" & "Salin Kupon"
+            </div>
+            <div class="absolute bottom-0 left-0 right-0 h-1 bg-rose-500"></div>
+          </div>
+
+          <!-- KPI 3: Real Article Reads -->
+          <div class="p-5 sm:p-6 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm relative overflow-hidden">
+            <div class="flex items-center justify-between text-slate-500 dark:text-slate-400 text-xs font-bold mb-2">
+              <span>Pembaca Artikel Tutorial</span>
+              <span class="px-2 py-0.5 rounded-full bg-indigo-100 text-indigo-800 dark:bg-indigo-950/80 dark:text-indigo-300 text-[10px] font-mono">Riil</span>
+            </div>
+            <div class="text-3xl font-black text-indigo-600 dark:text-indigo-400" id="real-reads">
+              0
+            </div>
+            <div class="mt-2 text-[11px] text-slate-500">
+              Halaman tutorial yang dibuka pembaca
+            </div>
+            <div class="absolute bottom-0 left-0 right-0 h-1 bg-indigo-500"></div>
+          </div>
+
+          <!-- KPI 4: Privacy & Status -->
+          <div class="p-5 sm:p-6 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm relative overflow-hidden">
+            <div class="flex items-center justify-between text-slate-500 dark:text-slate-400 text-xs font-bold mb-2">
+              <span>Status Privasi</span>
+              <span class="px-2 py-0.5 rounded-full bg-emerald-100 text-emerald-800 dark:bg-emerald-950/80 dark:text-emerald-300 text-[10px]">Aktif</span>
+            </div>
+            <div class="text-lg font-black text-slate-900 dark:text-white mt-1">
+              Zero Cookie
+            </div>
+            <div class="mt-2 text-[11px] text-slate-500">
+              100% Kebal Pemblokir Iklan (AdBlock)
+            </div>
+            <div class="absolute bottom-0 left-0 right-0 h-1 bg-emerald-500"></div>
+          </div>
+
+        </div>
+
+        <!-- 2 Main Sections: Top Real Courses & Top Real Articles -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+          
+          <!-- Real Top Courses -->
           <div class="p-6 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm space-y-4">
-            <h3 class="text-base font-bold text-slate-900 dark:text-white">Sumber Lalu Lintas (Acquisition)</h3>
-            <div class="space-y-3">
-              <div class="flex items-center justify-between p-2.5 rounded-2xl bg-slate-50 dark:bg-slate-800/60 text-xs">
-                <span class="font-bold text-slate-800 dark:text-slate-200">🔍 Google Organic Search</span>
-                <span class="px-2 py-0.5 rounded-full bg-emerald-100 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300 font-mono font-bold">64%</span>
+            <div class="flex items-center justify-between">
+              <div>
+                <h2 class="text-base font-bold text-slate-900 dark:text-white">Kursus yang Pernah Diklaim Pengunjung</h2>
+                <p class="text-xs text-slate-500">Diurutkan berdasarkan klik klaim kupon asli</p>
               </div>
-              <div class="flex items-center justify-between p-2.5 rounded-2xl bg-slate-50 dark:bg-slate-800/60 text-xs">
-                <span class="font-bold text-slate-800 dark:text-slate-200">🔗 Direct / Bookmark Browser</span>
-                <span class="px-2 py-0.5 rounded-full bg-blue-100 text-blue-800 dark:bg-blue-950 dark:text-blue-300 font-mono font-bold">18%</span>
+            </div>
+
+            <div id="real-courses-container">
+              <div id="no-courses-placeholder" class="py-10 text-center text-xs text-slate-400">
+                <svg class="w-8 h-8 mx-auto mb-2 text-slate-300 dark:text-slate-700" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                </svg>
+                <span>Belum ada kupon kursus yang diklik di browser ini.</span>
+                <p class="text-[11px] text-slate-500 mt-1">Coba buka <a href="/#katalog" class="text-rose-600 underline">Katalog Kursus</a> dan klik salah satu kursus untuk melihat datanya bertambah seketika.</p>
               </div>
-              <div class="flex items-center justify-between p-2.5 rounded-2xl bg-slate-50 dark:bg-slate-800/60 text-xs">
-                <span class="font-bold text-slate-800 dark:text-slate-200">✈️ Telegram Channel (@trikandroidgold)</span>
-                <span class="px-2 py-0.5 rounded-full bg-sky-100 text-sky-800 dark:bg-sky-950 dark:text-sky-300 font-mono font-bold">12%</span>
+              <ul id="real-courses-list" class="divide-y divide-slate-100 dark:divide-slate-800 hidden space-y-2"></ul>
+            </div>
+          </div>
+
+          <!-- Real Top Articles -->
+          <div class="p-6 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm space-y-4">
+            <div class="flex items-center justify-between">
+              <div>
+                <h2 class="text-base font-bold text-slate-900 dark:text-white">Tutorial yang Pernah Dibaca</h2>
+                <p class="text-xs text-slate-500">Diurutkan berdasarkan pembaca riil</p>
               </div>
-              <div class="flex items-center justify-between p-2.5 rounded-2xl bg-slate-50 dark:bg-slate-800/60 text-xs">
-                <span class="font-bold text-slate-800 dark:text-slate-200">👥 Facebook Community</span>
-                <span class="px-2 py-0.5 rounded-full bg-slate-200 text-slate-800 dark:bg-slate-700 dark:text-slate-300 font-mono font-bold">6%</span>
+            </div>
+
+            <div id="real-articles-container">
+              <div id="no-articles-placeholder" class="py-10 text-center text-xs text-slate-400">
+                <svg class="w-8 h-8 mx-auto mb-2 text-slate-300 dark:text-slate-700" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z" />
+                </svg>
+                <span>Belum ada riwayat baca artikel di browser ini.</span>
+                <p class="text-[11px] text-slate-500 mt-1">Coba buka salah satu <a href="/tutorial/" class="text-rose-600 underline">Artikel Tutorial</a> dan segarkan halaman ini.</p>
               </div>
+              <ul id="real-articles-list" class="divide-y divide-slate-100 dark:divide-slate-800 hidden space-y-2"></ul>
             </div>
           </div>
 
         </div>
 
-      </div>
-
-      <!-- TAB 2: ANALITIK KURSUS -->
-      <div id="tab-courses" class="tab-pane hidden space-y-6">
-        
-        <div class="p-6 sm:p-8 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm space-y-6">
-          <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
-            <div>
-              <h2 class="text-base sm:text-lg font-bold text-slate-900 dark:text-white">Top 5 Kursus Paling Populer (Klaim Terbanyak)</h2>
-              <p class="text-xs text-slate-500 dark:text-slate-400">Kursus dengan tingkat klik dan salin kupon tertinggi</p>
+        <!-- Real Device Breakdown & Referrers -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div class="p-6 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm space-y-3">
+            <h3 class="text-base font-bold text-slate-900 dark:text-white">Perangkat Pengunjung (Riil)</h3>
+            <div class="space-y-3 pt-2" id="real-device-stats">
+              <div class="text-xs text-slate-500">Memuat data perangkat...</div>
             </div>
-            <a href="/#katalog" class="text-xs font-bold text-rose-600 dark:text-rose-400 hover:underline">
-              Buka Katalog Lengkap →
-            </a>
           </div>
 
-          <div class="overflow-x-auto">
-            <table class="w-full text-left text-xs">
-              <thead class="border-b border-slate-200 dark:border-slate-800 text-slate-400 uppercase font-mono">
-                <tr>
-                  <th class="py-3 px-2">#</th>
-                  <th class="py-3 px-3">Judul Kursus</th>
-                  <th class="py-3 px-3">Kategori</th>
-                  <th class="py-3 px-3 text-right">Total Klaim</th>
-                  <th class="py-3 px-3 text-right">Status Kuota</th>
-                </tr>
-              </thead>
-              <tbody class="divide-y divide-slate-100 dark:divide-slate-800/80 font-medium">
-                <tr class="hover:bg-slate-50 dark:hover:bg-slate-800/40 transition-colors">
-                  <td class="py-3.5 px-2 font-bold text-rose-600">1</td>
-                  <td class="py-3.5 px-3 font-bold text-slate-900 dark:text-white">Complete Python Bootcamp: Go from zero to hero in Python</td>
-                  <td class="py-3.5 px-3"><span class="px-2 py-0.5 rounded-full text-[10px] bg-indigo-100 text-indigo-800 dark:bg-indigo-950 dark:text-indigo-300">Development</span></td>
-                  <td class="py-3.5 px-3 text-right font-mono font-bold text-emerald-600 dark:text-emerald-400">640</td>
-                  <td class="py-3.5 px-3 text-right"><span class="text-emerald-500 font-bold">● Aktif</span></td>
-                </tr>
-                <tr class="hover:bg-slate-50 dark:hover:bg-slate-800/40 transition-colors">
-                  <td class="py-3.5 px-2 font-bold text-rose-600">2</td>
-                  <td class="py-3.5 px-3 font-bold text-slate-900 dark:text-white">The Complete 2026 Web Development Bootcamp</td>
-                  <td class="py-3.5 px-3"><span class="px-2 py-0.5 rounded-full text-[10px] bg-indigo-100 text-indigo-800 dark:bg-indigo-950 dark:text-indigo-300">Development</span></td>
-                  <td class="py-3.5 px-3 text-right font-mono font-bold text-emerald-600 dark:text-emerald-400">580</td>
-                  <td class="py-3.5 px-3 text-right"><span class="text-emerald-500 font-bold">● Aktif</span></td>
-                </tr>
-                <tr class="hover:bg-slate-50 dark:hover:bg-slate-800/40 transition-colors">
-                  <td class="py-3.5 px-2 font-bold text-rose-600">3</td>
-                  <td class="py-3.5 px-3 font-bold text-slate-900 dark:text-white">Ethical Hacking & Cyber Security Masterclass</td>
-                  <td class="py-3.5 px-3"><span class="px-2 py-0.5 rounded-full text-[10px] bg-rose-100 text-rose-800 dark:bg-rose-950 dark:text-rose-300">IT & Software</span></td>
-                  <td class="py-3.5 px-3 text-right font-mono font-bold text-emerald-600 dark:text-emerald-400">495</td>
-                  <td class="py-3.5 px-3 text-right"><span class="text-emerald-500 font-bold">● Aktif</span></td>
-                </tr>
-                <tr class="hover:bg-slate-50 dark:hover:bg-slate-800/40 transition-colors">
-                  <td class="py-3.5 px-2 font-bold text-rose-600">4</td>
-                  <td class="py-3.5 px-3 font-bold text-slate-900 dark:text-white">ChatGPT & Prompt Engineering for Productivity</td>
-                  <td class="py-3.5 px-3"><span class="px-2 py-0.5 rounded-full text-[10px] bg-emerald-100 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300">Data Science & AI</span></td>
-                  <td class="py-3.5 px-3 text-right font-mono font-bold text-emerald-600 dark:text-emerald-400">420</td>
-                  <td class="py-3.5 px-3 text-right"><span class="text-emerald-500 font-bold">● Aktif</span></td>
-                </tr>
-                <tr class="hover:bg-slate-50 dark:hover:bg-slate-800/40 transition-colors">
-                  <td class="py-3.5 px-2 font-bold text-rose-600">5</td>
-                  <td class="py-3.5 px-3 font-bold text-slate-900 dark:text-white">Figma UI/UX Design Essentials 2026</td>
-                  <td class="py-3.5 px-3"><span class="px-2 py-0.5 rounded-full text-[10px] bg-fuchsia-100 text-fuchsia-800 dark:bg-fuchsia-950 dark:text-fuchsia-300">Design</span></td>
-                  <td class="py-3.5 px-3 text-right font-mono font-bold text-emerald-600 dark:text-emerald-400">360</td>
-                  <td class="py-3.5 px-3 text-right"><span class="text-emerald-500 font-bold">● Aktif</span></td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-        </div>
-
-        <!-- Course Category Demand Distribution -->
-        <div class="p-6 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm space-y-4">
-          <h3 class="text-base font-bold text-slate-900 dark:text-white">Minat Kategori Kursus (Berdasarkan Klik Klaim)</h3>
-          <div class="space-y-3">
-            <div>
-              <div class="flex justify-between text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">
-                <span>💻 Development (Web, Python, Mobile)</span>
-                <span class="font-bold font-mono">2,140 klaim (43.7%)</span>
-              </div>
-              <div class="w-full h-2 rounded-full bg-slate-100 dark:bg-slate-800 overflow-hidden">
-                <div class="h-full bg-indigo-600 rounded-full" style="width: 43.7%"></div>
-              </div>
-            </div>
-
-            <div>
-              <div class="flex justify-between text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">
-                <span>🔒 IT & Software (Security, Linux, Cloud)</span>
-                <span class="font-bold font-mono">1,180 klaim (24.1%)</span>
-              </div>
-              <div class="w-full h-2 rounded-full bg-slate-100 dark:bg-slate-800 overflow-hidden">
-                <div class="h-full bg-rose-600 rounded-full" style="width: 24.1%"></div>
-              </div>
-            </div>
-
-            <div>
-              <div class="flex justify-between text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">
-                <span>🎨 Design & UI/UX</span>
-                <span class="font-bold font-mono">680 klaim (13.9%)</span>
-              </div>
-              <div class="w-full h-2 rounded-full bg-slate-100 dark:bg-slate-800 overflow-hidden">
-                <div class="h-full bg-fuchsia-600 rounded-full" style="width: 13.9%"></div>
-              </div>
-            </div>
-
-            <div>
-              <div class="flex justify-between text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">
-                <span>🤖 Data Science & AI</span>
-                <span class="font-bold font-mono">490 klaim (10.0%)</span>
-              </div>
-              <div class="w-full h-2 rounded-full bg-slate-100 dark:bg-slate-800 overflow-hidden">
-                <div class="h-full bg-emerald-600 rounded-full" style="width: 10.0%"></div>
-              </div>
-            </div>
-
-            <div>
-              <div class="flex justify-between text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">
-                <span>📈 Business & Entrepreneurship</span>
-                <span class="font-bold font-mono">400 klaim (8.3%)</span>
-              </div>
-              <div class="w-full h-2 rounded-full bg-slate-100 dark:bg-slate-800 overflow-hidden">
-                <div class="h-full bg-amber-500 rounded-full" style="width: 8.3%"></div>
-              </div>
+          <div class="p-6 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm space-y-3">
+            <h3 class="text-base font-bold text-slate-900 dark:text-white">Sumber Kunjungan Pengunjung (Riil)</h3>
+            <div class="space-y-2 pt-2" id="real-sources-stats">
+              <div class="text-xs text-slate-500">Memuat data rujukan lalu lintas...</div>
             </div>
           </div>
         </div>
 
-      </div>
-
-      <!-- TAB 3: ANALITIK ARTIKEL & TUTORIAL -->
-      <div id="tab-articles" class="tab-pane hidden space-y-6">
-        
-        <div class="p-6 sm:p-8 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-sm space-y-6">
-          <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
-            <div>
-              <h2 class="text-base sm:text-lg font-bold text-slate-900 dark:text-white">Performa Pembaca Artikel & Tutorial</h2>
-              <p class="text-xs text-slate-500 dark:text-slate-400">Total pembaca, durasi baca, dan tingkat penyelesaian membaca</p>
-            </div>
-            <a href="/tutorial/" class="text-xs font-bold text-rose-600 dark:text-rose-400 hover:underline">
-              Buka Indeks Tutorial →
-            </a>
-          </div>
-
-          <div class="overflow-x-auto">
-            <table class="w-full text-left text-xs">
-              <thead class="border-b border-slate-200 dark:border-slate-800 text-slate-400 uppercase font-mono">
-                <tr>
-                  <th class="py-3 px-2">#</th>
-                  <th class="py-3 px-3">Judul Artikel</th>
-                  <th class="py-3 px-3 text-right">Pembaca</th>
-                  <th class="py-3 px-3 text-right">Rata-rata Durasi</th>
-                  <th class="py-3 px-3 text-right">Tingkat Scroll Selesai</th>
-                </tr>
-              </thead>
-              <tbody class="divide-y divide-slate-100 dark:divide-slate-800/80 font-medium">
-                <tr class="hover:bg-slate-50 dark:hover:bg-slate-800/40 transition-colors">
-                  <td class="py-3.5 px-2 font-bold text-rose-600">1</td>
-                  <td class="py-3.5 px-3 font-bold text-slate-900 dark:text-white">
-                    <a href="/tutorial/cara-klaim-kursus-udemy-gratis-bersertifikat-resmi/" class="hover:text-rose-600 dark:hover:text-rose-400">
-                      Cara Mendapatkan Kursus Udemy Gratis Bersertifikat Resmi 2026
-                    </a>
-                  </td>
-                  <td class="py-3.5 px-3 text-right font-mono font-bold">820</td>
-                  <td class="py-3.5 px-3 text-right font-mono text-slate-500">4.8 mnt</td>
-                  <td class="py-3.5 px-3 text-right font-mono font-bold text-emerald-600">88%</td>
-                </tr>
-                <tr class="hover:bg-slate-50 dark:hover:bg-slate-800/40 transition-colors">
-                  <td class="py-3.5 px-2 font-bold text-rose-600">2</td>
-                  <td class="py-3.5 px-3 font-bold text-slate-900 dark:text-white">
-                    <a href="/tutorial/roadmap-belajar-web-development-dari-nol-sampai-siap-kerja/" class="hover:text-rose-600 dark:hover:text-rose-400">
-                      Roadmap Belajar Web Development dari Nol Hingga Siap Kerja
-                    </a>
-                  </td>
-                  <td class="py-3.5 px-3 text-right font-mono font-bold">540</td>
-                  <td class="py-3.5 px-3 text-right font-mono text-slate-500">6.2 mnt</td>
-                  <td class="py-3.5 px-3 text-right font-mono font-bold text-emerald-600">79%</td>
-                </tr>
-                <tr class="hover:bg-slate-50 dark:hover:bg-slate-800/40 transition-colors">
-                  <td class="py-3.5 px-2 font-bold text-rose-600">3</td>
-                  <td class="py-3.5 px-3 font-bold text-slate-900 dark:text-white">
-                    <a href="/tutorial/tutorial-python-pemula-7-konsep-dasar-sebelum-belajar-ai/" class="hover:text-rose-600 dark:hover:text-rose-400">
-                      Tutorial Python untuk Pemula: 7 Konsep Dasar Wajib Sebelum Belajar AI
-                    </a>
-                  </td>
-                  <td class="py-3.5 px-3 text-right font-mono font-bold">390</td>
-                  <td class="py-3.5 px-3 text-right font-mono text-slate-500">5.5 mnt</td>
-                  <td class="py-3.5 px-3 text-right font-mono font-bold text-emerald-600">82%</td>
-                </tr>
-                <tr class="hover:bg-slate-50 dark:hover:bg-slate-800/40 transition-colors">
-                  <td class="py-3.5 px-2 font-bold text-rose-600">4</td>
-                  <td class="py-3.5 px-3 font-bold text-slate-900 dark:text-white">
-                    <a href="/tutorial/panduan-prompt-engineering-menulis-perintah-chatgpt-gemini-claude/" class="hover:text-rose-600 dark:hover:text-rose-400">
-                      Panduan Prompt Engineering: Trik Menulis Perintah AI
-                    </a>
-                  </td>
-                  <td class="py-3.5 px-3 text-right font-mono font-bold">240</td>
-                  <td class="py-3.5 px-3 text-right font-mono text-slate-500">5.1 mnt</td>
-                  <td class="py-3.5 px-3 text-right font-mono font-bold text-emerald-600">74%</td>
-                </tr>
-                <tr class="hover:bg-slate-50 dark:hover:bg-slate-800/40 transition-colors">
-                  <td class="py-3.5 px-2 font-bold text-rose-600">5</td>
-                  <td class="py-3.5 px-3 font-bold text-slate-900 dark:text-white">
-                    <a href="/tutorial/belajar-cyber-security-otodidak-langkah-awal-ethical-hacker/" class="hover:text-rose-600 dark:hover:text-rose-400">
-                      Belajar Cyber Security Otodidak: Langkah Awal Ethical Hacker
-                    </a>
-                  </td>
-                  <td class="py-3.5 px-3 text-right font-mono font-bold">210</td>
-                  <td class="py-3.5 px-3 text-right font-mono text-slate-500">7.0 mnt</td>
-                  <td class="py-3.5 px-3 text-right font-mono font-bold text-emerald-600">85%</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-        </div>
-
-      </div>
-
-      <!-- Architectural Insights & Privacy-First Manifesto -->
-      <div class="p-6 sm:p-8 rounded-3xl bg-slate-100 dark:bg-slate-900/60 border border-slate-200/80 dark:border-slate-800 space-y-4">
-        <div class="flex items-center gap-2">
-          <span class="w-2.5 h-2.5 rounded-full bg-emerald-500"></span>
-          <h3 class="text-sm sm:text-base font-bold text-slate-900 dark:text-white">
-            Solusi Arsitektur: Mengapa GitHub Pages + Jamstack Jauh Lebih Unggul Daripada Dashboard Admin Konvensional?
+        <!-- Owner Guide Box -->
+        <div class="p-6 sm:p-8 rounded-3xl bg-slate-900 text-white border border-slate-800 space-y-4">
+          <h3 class="text-base font-bold flex items-center gap-2">
+            <span>💡</span>
+            <span>Panduan Admin: Cara Mengakses Dashboard Ini Di Masa Depan</span>
           </h3>
+          <ul class="text-xs sm:text-sm text-slate-300 space-y-2 leading-relaxed">
+            <li class="flex items-start gap-2">
+              <span class="text-rose-400 font-bold">•</span>
+              <span><strong>URL Privat:</strong> Tautan Web Analytics telah disembunyikan dari menu publik (Navbar & Footer) dan diberi tag <code>noindex</code> agar tidak muncul di Google. Simpan tautan ini di bookmark browser Anda: <code class="px-2 py-0.5 bg-slate-800 rounded font-mono text-rose-300">https://udemytag.github.io/analytics/</code></span>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-rose-400 font-bold">•</span>
+              <span><strong>Kunci Keamanan PIN:</strong> Jika dibuka oleh orang lain, mereka akan tertahan di layar PIN dan tidak dapat melihat data Anda.</span>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-rose-400 font-bold">•</span>
+              <span><strong>Opsi Cloudflare Analytics Global:</strong> Jika ingin melihat jumlah total pengunjung dari seluruh dunia dalam 1 grafik server global tanpa cookie, Anda cukup mengaktifkan fitur <em>Cloudflare Web Analytics (Gratis)</em> di dashboard Cloudflare domain Anda.</span>
+            </li>
+          </ul>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
-          <div class="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800">
-            <h4 class="font-bold text-slate-900 dark:text-white mb-1.5">⚡ 100/100 Core Web Vitals</h4>
-            <p>Situs statis murni yang di-generate via Astro SSG tidak memerlukan database round-trip. Googlebot dapat mengindeks halaman dalam milidetik, memaksimalkan peluang ranking halaman satu Google.</p>
-          </div>
-          <div class="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800">
-            <h4 class="font-bold text-slate-900 dark:text-white mb-1.5">🛡️ Keamanan Mutlak & Tanpa Biaya</h4>
-            <p>Tanpa database server eksternal berarti tidak ada biaya bulanan, tidak ada server crash, dan kebal dari serangan hacker seperti SQL Injection atau credential stuffing.</p>
-          </div>
-          <div class="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800">
-            <h4 class="font-bold text-slate-900 dark:text-white mb-1.5">🔒 100% Privacy-First & Anti-Adblock</h4>
-            <p>Telemetri client-side UdemyTAG berjalan mandiri tanpa cookie pelacak pihak ketiga, menjamin kepatuhan GDPR serta tidak pernah diblokir oleh ekstensi AdBlocker pengunjung.</p>
-          </div>
-        </div>
+
       </div>
 
     </div>
@@ -545,64 +308,204 @@ const totalActiveFree = coursesData.filter((c) => c.isFree !== false && !c.isExp
 
   <Footer />
 
-  <!-- Interactive Tabs & Live Telemetry Aggregation Script -->
+  <!-- Security Authentication & Real Data Rendering Script -->
   <script is:inline>
     document.addEventListener('DOMContentLoaded', () => {
-      // 1. Tab Switcher
-      const tabTriggers = document.querySelectorAll('.tab-trigger');
-      const tabPanes = document.querySelectorAll('.tab-pane');
+      const AUTH_KEY = 'udemytag_analytics_authenticated_v3';
+      const VALID_PINS = ['tag2026', '2026'];
 
-      tabTriggers.forEach((trigger) => {
-        trigger.addEventListener('click', () => {
-          const targetId = trigger.getAttribute('data-target');
-          
-          tabTriggers.forEach((t) => {
-            t.className = 'tab-trigger pb-3 text-sm font-bold border-b-2 border-transparent text-slate-500 hover:text-slate-800 dark:hover:text-slate-200 transition-colors';
-          });
-          trigger.className = 'tab-trigger pb-3 text-sm font-bold border-b-2 border-rose-600 text-rose-600 dark:text-rose-400 transition-colors';
+      const lockScreen = document.getElementById('analytics-lock-screen');
+      const dashboardContent = document.getElementById('analytics-dashboard-content');
+      const pinForm = document.getElementById('pin-login-form');
+      const pinInput = document.getElementById('admin-pin-input');
+      const pinError = document.getElementById('pin-error-alert');
+      const lockBtn = document.getElementById('lock-dashboard-btn');
+      const resetBtn = document.getElementById('reset-analytics-btn');
+      const exportBtn = document.getElementById('export-analytics-btn');
 
-          tabPanes.forEach((pane) => {
-            if (pane.id === targetId) {
-              pane.classList.remove('hidden');
-            } else {
-              pane.classList.add('hidden');
-            }
-          });
-        });
+      // Check if already authenticated this session
+      function checkAuth() {
+        const isAuth = sessionStorage.getItem(AUTH_KEY) === 'true';
+        if (isAuth) {
+          lockScreen?.classList.add('hidden');
+          dashboardContent?.classList.remove('hidden');
+          renderRealData();
+        } else {
+          lockScreen?.classList.remove('hidden');
+          dashboardContent?.classList.add('hidden');
+        }
+      }
+
+      // Handle PIN Submit
+      pinForm?.addEventListener('submit', (e) => {
+        e.preventDefault();
+        const enteredPin = (pinInput?.value || '').trim();
+
+        if (VALID_PINS.includes(enteredPin)) {
+          sessionStorage.setItem(AUTH_KEY, 'true');
+          pinError?.classList.add('hidden');
+          checkAuth();
+          if (window.showToast) {
+            window.showToast('Kunci terbuka! Selamat datang di Dashboard Admin.');
+          }
+        } else {
+          pinError?.classList.remove('hidden');
+          pinInput?.focus();
+        }
       });
 
-      // 2. Real-time Local Telemetry Aggregation
-      if (window.UdemyTelemetry) {
+      // Handle Lock / Logout
+      lockBtn?.addEventListener('click', () => {
+        sessionStorage.removeItem(AUTH_KEY);
+        if (pinInput) pinInput.value = '';
+        checkAuth();
+        if (window.showToast) {
+          window.showToast('Dashboard berhasil dikunci kembali.');
+        }
+      });
+
+      // Render 100% Real Telemetry Data
+      function renderRealData() {
+        if (!window.UdemyTelemetry) return;
         const report = window.UdemyTelemetry.getAnalyticsReport();
-        const pageviewsEl = document.getElementById('kpi-pageviews');
-        const claimsEl = document.getElementById('kpi-claims');
-        const readsEl = document.getElementById('kpi-reads');
 
-        if (pageviewsEl) pageviewsEl.textContent = report.totalPageviews.toLocaleString();
-        if (claimsEl) claimsEl.textContent = report.totalCourseClaims.toLocaleString();
-        if (readsEl) readsEl.textContent = report.totalArticleReads.toLocaleString();
-      }
+        // 1. KPI Numbers
+        const pageviewsEl = document.getElementById('real-pageviews');
+        const visitorsEl = document.getElementById('real-visitors');
+        const claimsEl = document.getElementById('real-claims');
+        const readsEl = document.getElementById('real-reads');
 
-      // 3. Export JSON Button
-      const exportBtn = document.getElementById('export-analytics-btn');
-      if (exportBtn) {
-        exportBtn.addEventListener('click', () => {
-          if (!window.UdemyTelemetry) return;
-          const report = window.UdemyTelemetry.getAnalyticsReport();
-          const blob = new Blob([JSON.stringify(report, null, 2)], { type: 'application/json' });
-          const url = URL.createObjectURL(blob);
-          const a = document.createElement('a');
-          a.href = url;
-          a.download = `udemytag-analytics-${new Date().toISOString().slice(0, 10)}.json`;
-          document.body.appendChild(a);
-          a.click();
-          document.body.removeChild(a);
-          URL.revokeObjectURL(url);
-          if (window.showToast) {
-            window.showToast('Laporan analitik berhasil diunduh (JSON)');
+        if (pageviewsEl) pageviewsEl.textContent = (report.totalPageviews || 0).toLocaleString();
+        if (visitorsEl) visitorsEl.textContent = (report.uniqueVisitors || 0).toLocaleString();
+        if (claimsEl) claimsEl.textContent = (report.totalCourseClaims || 0).toLocaleString();
+        if (readsEl) readsEl.textContent = (report.totalArticleReads || 0).toLocaleString();
+
+        // 2. Real Courses List
+        const coursesList = document.getElementById('real-courses-list');
+        const noCoursesPlaceholder = document.getElementById('no-courses-placeholder');
+        if (report.topCourses && report.topCourses.length > 0) {
+          noCoursesPlaceholder?.classList.add('hidden');
+          coursesList?.classList.remove('hidden');
+          if (coursesList) {
+            coursesList.innerHTML = report.topCourses.map((c, i) => `
+              <li class="py-2.5 flex items-center justify-between text-xs">
+                <div class="flex items-center gap-2 min-w-0 flex-1">
+                  <span class="font-bold text-rose-600 font-mono w-4">${i + 1}.</span>
+                  <span class="font-bold text-slate-800 dark:text-slate-200 truncate">${c.title}</span>
+                  <span class="px-2 py-0.5 rounded text-[10px] bg-slate-100 dark:bg-slate-800 text-slate-500">${c.category || 'General'}</span>
+                </div>
+                <span class="font-mono font-bold text-rose-600 dark:text-rose-400 ml-3">${c.claims} klik</span>
+              </li>
+            `).join('');
           }
-        });
+        } else {
+          noCoursesPlaceholder?.classList.remove('hidden');
+          coursesList?.classList.add('hidden');
+        }
+
+        // 3. Real Articles List
+        const articlesList = document.getElementById('real-articles-list');
+        const noArticlesPlaceholder = document.getElementById('no-articles-placeholder');
+        if (report.topArticles && report.topArticles.length > 0) {
+          noArticlesPlaceholder?.classList.add('hidden');
+          articlesList?.classList.remove('hidden');
+          if (articlesList) {
+            articlesList.innerHTML = report.topArticles.map((a, i) => `
+              <li class="py-2.5 flex items-center justify-between text-xs">
+                <div class="flex items-center gap-2 min-w-0 flex-1">
+                  <span class="font-bold text-indigo-600 font-mono w-4">${i + 1}.</span>
+                  <span class="font-bold text-slate-800 dark:text-slate-200 truncate">${a.title}</span>
+                </div>
+                <span class="font-mono font-bold text-indigo-600 dark:text-indigo-400 ml-3">${a.views} baca</span>
+              </li>
+            `).join('');
+          }
+        } else {
+          noArticlesPlaceholder?.classList.remove('hidden');
+          articlesList?.classList.add('hidden');
+        }
+
+        // 4. Real Devices Breakdown
+        const deviceStatsEl = document.getElementById('real-device-stats');
+        if (deviceStatsEl && report.devices) {
+          deviceStatsEl.innerHTML = `
+            <div>
+              <div class="flex justify-between text-xs font-semibold mb-1">
+                <span>📱 Smartphone (Mobile)</span>
+                <span class="font-mono font-bold">${report.devices.Mobile}% (${report.deviceCounts?.Mobile || 0})</span>
+              </div>
+              <div class="w-full h-2 rounded-full bg-slate-100 dark:bg-slate-800 overflow-hidden">
+                <div class="h-full bg-rose-600 rounded-full" style="width: ${report.devices.Mobile}%"></div>
+              </div>
+            </div>
+            <div>
+              <div class="flex justify-between text-xs font-semibold mb-1">
+                <span>💻 Komputer / Laptop Desktop</span>
+                <span class="font-mono font-bold">${report.devices.Desktop}% (${report.deviceCounts?.Desktop || 0})</span>
+              </div>
+              <div class="w-full h-2 rounded-full bg-slate-100 dark:bg-slate-800 overflow-hidden">
+                <div class="h-full bg-blue-600 rounded-full" style="width: ${report.devices.Desktop}%"></div>
+              </div>
+            </div>
+            <div>
+              <div class="flex justify-between text-xs font-semibold mb-1">
+                <span>📟 Tablet</span>
+                <span class="font-mono font-bold">${report.devices.Tablet}% (${report.deviceCounts?.Tablet || 0})</span>
+              </div>
+              <div class="w-full h-2 rounded-full bg-slate-100 dark:bg-slate-800 overflow-hidden">
+                <div class="h-full bg-amber-500 rounded-full" style="width: ${report.devices.Tablet}%"></div>
+              </div>
+            </div>
+          `;
+        }
+
+        // 5. Real Sources
+        const sourcesStatsEl = document.getElementById('real-sources-stats');
+        if (sourcesStatsEl) {
+          if (report.trafficSources && report.trafficSources.length > 0) {
+            sourcesStatsEl.innerHTML = report.trafficSources.map(s => `
+              <div class="flex items-center justify-between p-2 rounded-xl bg-slate-50 dark:bg-slate-800/60 text-xs">
+                <span class="font-bold text-slate-800 dark:text-slate-200">${s.name}</span>
+                <span class="px-2 py-0.5 rounded-full bg-blue-100 text-blue-800 dark:bg-blue-950 dark:text-blue-300 font-mono font-bold">${s.count} (${s.percent}%)</span>
+              </div>
+            `).join('');
+          } else {
+            sourcesStatsEl.innerHTML = `<div class="text-xs text-slate-400">Belum ada rujukan lalu lintas eksternal.</div>`;
+          }
+        }
       }
+
+      // Handle Reset
+      resetBtn?.addEventListener('click', () => {
+        if (confirm('Apakah Anda yakin ingin menghapus data telemetri pengujian di browser ini?')) {
+          window.UdemyTelemetry?.resetData();
+          renderRealData();
+          if (window.showToast) {
+            window.showToast('Data telemetri lokal telah di-reset ke 0.');
+          }
+        }
+      });
+
+      // Handle Export JSON
+      exportBtn?.addEventListener('click', () => {
+        if (!window.UdemyTelemetry) return;
+        const report = window.UdemyTelemetry.getAnalyticsReport();
+        const blob = new Blob([JSON.stringify(report, null, 2)], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `udemytag-real-analytics-${new Date().toISOString().slice(0, 10)}.json`;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+        if (window.showToast) {
+          window.showToast('Laporan analitik riil berhasil diunduh (JSON)');
+        }
+      });
+
+      // Initial check on load
+      checkAuth();
     });
   </script>
 </BaseLayout>
