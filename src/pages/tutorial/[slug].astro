@@ -29,13 +29,24 @@ const categoryColors: Record<string, string> = {
 
 const badgeClass = categoryColors[article.category] || 'bg-slate-100 text-slate-800 dark:bg-slate-800 dark:text-slate-300 border-slate-300 dark:border-slate-700';
 
-// Generate Table of Contents from H2 headings
-const toc: { id: string; text: string }[] = [];
+// Generate Table of Contents from H2 headings (Indonesian)
+const tocId: { id: string; text: string }[] = [];
 article.content.split('\n').forEach((line: string) => {
   if (line.startsWith('## ')) {
     const text = line.replace('## ', '').trim();
     const id = text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
-    toc.push({ id, text });
+    tocId.push({ id, text });
+  }
+});
+
+// Generate Table of Contents from H2 headings (English)
+const tocEn: { id: string; text: string }[] = [];
+const contentEn = article.content_en || article.content;
+contentEn.split('\n').forEach((line: string) => {
+  if (line.startsWith('## ')) {
+    const text = line.replace('## ', '').trim();
+    const id = text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+    tocEn.push({ id, text });
   }
 });
 
@@ -167,7 +178,8 @@ function renderContent(raw: string) {
   }).join('\n');
 }
 
-const renderedHtml = renderContent(article.content);
+const renderedHtmlId = renderContent(article.content);
+const renderedHtmlEn = renderContent(article.content_en || article.content);
 ---
 
 <BaseLayout
@@ -187,11 +199,11 @@ const renderedHtml = renderContent(article.content);
       <nav aria-label="Breadcrumb" class="mb-6">
         <ol class="flex items-center flex-wrap gap-2 text-xs text-slate-500 dark:text-slate-400">
           <li>
-            <a href="/" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors">Beranda</a>
+            <a href="/" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors" data-i18n="breadcrumb_home">Beranda</a>
           </li>
           <li class="flex items-center gap-2">
             <span class="text-slate-300 dark:text-slate-600">/</span>
-            <a href="/tutorial/" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors">Tutorial & Tips</a>
+            <a href="/tutorial/" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors" data-i18n="nav_tutorials">Tutorial & Tips</a>
           </li>
           <li class="flex items-center gap-2">
             <span class="text-slate-300 dark:text-slate-600">/</span>
@@ -204,12 +216,25 @@ const renderedHtml = renderContent(article.content);
       <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12">
         
         <!-- Left Column: Article Body (8 cols) -->
-        <article class="lg:col-span-8 bg-white dark:bg-slate-900/90 rounded-3xl p-6 sm:p-10 border border-slate-200/80 dark:border-slate-800 shadow-sm" id="article-container" data-article-slug={article.slug} data-article-title={article.title} data-article-category={article.category}>
+        <article
+          class="lg:col-span-8 bg-white dark:bg-slate-900/90 rounded-3xl p-6 sm:p-10 border border-slate-200/80 dark:border-slate-800 shadow-sm"
+          id="article-detail-page"
+          data-title-id={article.title}
+          data-title-en={article.title_en || article.title}
+          data-excerpt-id={article.excerpt}
+          data-excerpt-en={article.excerpt_en || article.excerpt}
+          data-cat-id={article.category}
+          data-cat-en={article.category_en || article.category}
+          data-read-time={article.readTime}
+          data-article-slug={article.slug}
+          data-article-title={article.title}
+          data-article-category={article.category}
+        >
           
           <!-- Article Header -->
           <header class="space-y-4 pb-6 border-b border-slate-200/80 dark:border-slate-800">
             <div class="flex items-center flex-wrap justify-between gap-2">
-              <span class={`inline-flex items-center px-3 py-1 rounded-full text-xs font-bold border ${badgeClass}`}>
+              <span id="article-category-badge" class={`inline-flex items-center px-3 py-1 rounded-full text-xs font-bold border ${badgeClass}`}>
                 {article.category}
               </span>
               <div class="flex items-center gap-3 text-xs text-slate-500 dark:text-slate-400 font-mono">
@@ -218,18 +243,18 @@ const renderedHtml = renderContent(article.content);
                     <circle cx="12" cy="12" r="10" stroke-width="2"/>
                     <polyline points="12 6 12 12 16 14" stroke-width="2"/>
                   </svg>
-                  <span>{article.readTime} menit baca</span>
+                  <span id="article-read-time-detail">{article.readTime} menit baca</span>
                 </span>
                 <span>•</span>
                 <span>{article.publishedAt}</span>
               </div>
             </div>
 
-            <h1 class="text-2xl sm:text-3xl lg:text-4xl font-black text-slate-900 dark:text-white tracking-tight leading-tight">
+            <h1 id="article-title-heading" class="text-2xl sm:text-3xl lg:text-4xl font-black text-slate-900 dark:text-white tracking-tight leading-tight">
               {article.title}
             </h1>
 
-            <p class="text-sm sm:text-base text-slate-600 dark:text-slate-400 leading-relaxed font-normal">
+            <p id="article-excerpt-lead" class="text-sm sm:text-base text-slate-600 dark:text-slate-400 leading-relaxed font-normal">
               {article.excerpt}
             </p>
 
@@ -241,7 +266,7 @@ const renderedHtml = renderContent(article.content);
                 </div>
                 <div>
                   <div class="font-bold text-slate-900 dark:text-white">{article.author}</div>
-                  <div class="text-[11px] text-slate-500">Editor Edukasi Digital</div>
+                  <div class="text-[11px] text-slate-500" data-i18n="tutorial_author_role">Editor Edukasi Digital</div>
                 </div>
               </div>
 
@@ -302,15 +327,16 @@ const renderedHtml = renderContent(article.content);
             </div>
           )}
 
-          <!-- Rendered Article Body -->
+          <!-- Rendered Article Body (Bilingual ID & EN) -->
           <div class="prose prose-slate dark:prose-invert max-w-none pt-6 text-slate-800 dark:text-slate-200">
-            <div set:html={renderedHtml} />
+            <div id="article-body-id" set:html={renderedHtmlId} />
+            <div id="article-body-en" class="hidden" set:html={renderedHtmlEn} />
           </div>
 
           <!-- Target SEO Keywords Pills -->
           {article.seoKeywords && article.seoKeywords.length > 0 && (
             <div class="mt-10 pt-6 border-t border-slate-200/80 dark:border-slate-800">
-              <h3 class="text-xs font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 mb-3">
+              <h3 class="text-xs font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 mb-3" data-i18n="tutorial_seo_keywords_title">
                 Kata Kunci Terkait (SEO Index)
               </h3>
               <div class="flex flex-wrap gap-2">
@@ -330,7 +356,7 @@ const renderedHtml = renderContent(article.content);
                 href={`/tutorial/${prev.slug}/`}
                 class="p-4 rounded-2xl border border-slate-200 dark:border-slate-800 hover:border-rose-400 dark:hover:border-rose-500/50 hover:bg-slate-50 dark:hover:bg-slate-800/40 transition-all flex flex-col justify-between group"
               >
-                <span class="text-[11px] font-bold text-slate-400 group-hover:text-rose-600 transition-colors">← Tutorial Sebelumnya</span>
+                <span class="text-[11px] font-bold text-slate-400 group-hover:text-rose-600 transition-colors" data-i18n="tutorial_prev_link">← Tutorial Sebelumnya</span>
                 <span class="text-xs sm:text-sm font-bold text-slate-900 dark:text-white mt-1 line-clamp-2">{prev.title}</span>
               </a>
             ) : <div />}
@@ -340,7 +366,7 @@ const renderedHtml = renderContent(article.content);
                 href={`/tutorial/${next.slug}/`}
                 class="p-4 rounded-2xl border border-slate-200 dark:border-slate-800 hover:border-rose-400 dark:hover:border-rose-500/50 hover:bg-slate-50 dark:hover:bg-slate-800/40 transition-all flex flex-col justify-between text-right group"
               >
-                <span class="text-[11px] font-bold text-slate-400 group-hover:text-rose-600 transition-colors">Tutorial Selanjutnya →</span>
+                <span class="text-[11px] font-bold text-slate-400 group-hover:text-rose-600 transition-colors" data-i18n="tutorial_next_link">Tutorial Selanjutnya →</span>
                 <span class="text-xs sm:text-sm font-bold text-slate-900 dark:text-white mt-1 line-clamp-2">{next.title}</span>
               </a>
             ) : <div />}
@@ -351,8 +377,8 @@ const renderedHtml = renderContent(article.content);
         <!-- Right Column: Sidebar (TOC & Related Courses) (4 cols) -->
         <aside class="lg:col-span-4 space-y-6">
           
-          <!-- Sticky Table of Contents -->
-          {toc.length > 0 && (
+          <!-- Sticky Table of Contents (Bilingual ID & EN) -->
+          {tocId.length > 0 && (
             <div class="sticky top-20 bg-white dark:bg-slate-900/90 rounded-3xl p-6 border border-slate-200/80 dark:border-slate-800 shadow-sm space-y-3">
               <h3 class="text-xs font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 flex items-center gap-2">
                 <svg class="w-4 h-4 text-rose-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -363,10 +389,22 @@ const renderedHtml = renderContent(article.content);
                   <line x1="3" y1="12" x2="3.01" y2="12"/>
                   <line x1="3" y1="18" x2="3.01" y2="18"/>
                 </svg>
-                <span>Daftar Isi Tutorial</span>
+                <span data-i18n="tutorial_toc_title">Daftar Isi Tutorial</span>
               </h3>
-              <ul class="space-y-2 text-xs">
-                {toc.map((item, idx) => (
+              <ul id="article-toc-id" class="space-y-2 text-xs">
+                {tocId.map((item, idx) => (
+                  <li>
+                    <a
+                      href={`#${item.id}`}
+                      class="text-slate-600 dark:text-slate-400 hover:text-rose-600 dark:hover:text-rose-400 hover:underline leading-relaxed block transition-colors"
+                    >
+                      <span class="text-rose-700 dark:text-rose-400 font-mono font-bold mr-1">{idx + 1}.</span> {item.text}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+              <ul id="article-toc-en" class="hidden space-y-2 text-xs">
+                {tocEn.map((item, idx) => (
                   <li>
                     <a
                       href={`#${item.id}`}
@@ -383,11 +421,11 @@ const renderedHtml = renderContent(article.content);
           <!-- Related Courses Card Box -->
           <div class="bg-gradient-to-br from-slate-900 to-slate-950 text-white rounded-3xl p-6 border border-slate-800 shadow-md space-y-4">
             <div class="space-y-1">
-              <span class="inline-flex items-center gap-1 text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded bg-rose-600 text-white">
+              <span class="inline-flex items-center gap-1 text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded bg-rose-600 text-white" data-i18n="tutorial_related_badge">
                 Rekomendasi Praktik
               </span>
-              <h3 class="text-base font-black text-white">Kursus Gratis Terkait</h3>
-              <p class="text-xs text-slate-300">
+              <h3 class="text-base font-black text-white" data-i18n="tutorial_related_title">Kursus Gratis Terkait</h3>
+              <p class="text-xs text-slate-300" data-i18n="tutorial_related_desc">
                 Latih materi tutorial ini langsung dengan kursus lengkap bersertifikat resmi di Udemy:
               </p>
             </div>
@@ -422,6 +460,7 @@ const renderedHtml = renderContent(article.content);
             <a
               href="/#katalog"
               class="block w-full text-center py-2.5 rounded-xl bg-rose-700 hover:bg-rose-600 text-white text-xs font-extrabold transition-colors shadow"
+              data-i18n="tutorial_explore_all_courses"
             >
               Jelajahi Semua Kursus Gratis →
             </a>
@@ -436,7 +475,7 @@ const renderedHtml = renderContent(article.content);
               <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                 <path d="M19 12H5M12 19l-7-7 7-7"/>
               </svg>
-              <span>Kembali ke Indeks Tutorial</span>
+              <span data-i18n="tutorial_back_to_index">Kembali ke Indeks Tutorial</span>
             </a>
           </div>
 
@@ -465,7 +504,7 @@ const renderedHtml = renderContent(article.content);
       }
 
       // Track article view in telemetry
-      const articleEl = document.getElementById('article-container');
+      const articleEl = document.getElementById('article-detail-page') || document.getElementById('article-container');
       if (articleEl && window.UdemyTelemetry) {
         const slug = articleEl.getAttribute('data-article-slug');
         const title = articleEl.getAttribute('data-article-title');

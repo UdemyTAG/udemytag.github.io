@@ -82,11 +82,11 @@ const collectionSchema = {
         <nav aria-label="Breadcrumb" class="mb-4">
           <ol class="flex items-center gap-2 text-xs text-slate-500 dark:text-slate-400">
             <li>
-              <a href="/" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors">Beranda</a>
+              <a href="/" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors" data-i18n="breadcrumb_home">Beranda</a>
             </li>
             <li class="flex items-center gap-2">
               <span class="text-slate-300 dark:text-slate-600">/</span>
-              <span class="text-slate-900 dark:text-white font-semibold">Tutorial & Tips</span>
+              <span class="text-slate-900 dark:text-white font-semibold" data-i18n="nav_tutorials">Tutorial & Tips</span>
             </li>
           </ol>
         </nav>
@@ -97,12 +97,12 @@ const collectionSchema = {
               <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/>
               <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>
             </svg>
-            <span>Pusat Pengetahuan & Panduan</span>
+            <span data-i18n="tutorial_hub_badge">Pusat Pengetahuan & Panduan</span>
           </div>
-          <h1 class="text-2xl sm:text-4xl font-black text-slate-900 dark:text-white tracking-tight leading-tight">
+          <h1 class="text-2xl sm:text-4xl font-black text-slate-900 dark:text-white tracking-tight leading-tight" data-i18n="tutorial_page_title">
             Tutorial & Tips Singkat Teknologi
           </h1>
-          <p class="text-sm sm:text-base text-slate-600 dark:text-slate-400 mt-2 leading-relaxed">
+          <p class="text-sm sm:text-base text-slate-600 dark:text-slate-400 mt-2 leading-relaxed" data-i18n="tutorial_page_desc">
             Panduan praktis, roadmap belajar terarah, serta tips memaksimalkan kursus gratis bersertifikat resmi untuk akselerasi karir digital Anda.
           </p>
         </div>
@@ -151,8 +151,8 @@ const collectionSchema = {
       
       <!-- Counter Status -->
       <div class="flex items-center justify-between text-xs text-slate-500 dark:text-slate-400 mb-6">
-        <span>Menampilkan <strong id="articles-count" class="text-slate-900 dark:text-white">{articlesData.length}</strong> tutorial</span>
-        <a href="/#katalog" class="text-rose-600 dark:text-rose-400 font-bold hover:underline">
+        <span><span data-i18n="tutorial_counter_prefix">Menampilkan</span> <strong id="articles-count" class="text-slate-900 dark:text-white">{articlesData.length}</strong> <span data-i18n="tutorial_counter_suffix">tutorial</span></span>
+        <a href="/#katalog" class="text-rose-600 dark:text-rose-400 font-bold hover:underline" data-i18n="tutorial_browse_courses">
           Lihat Katalog Kursus Gratis →
         </a>
       </div>
@@ -163,8 +163,11 @@ const collectionSchema = {
           <div 
             class="article-item" 
             data-category={article.category}
+            data-category-en={article.category_en || article.category}
             data-title={article.title.toLowerCase()}
+            data-title-en={(article.title_en || '').toLowerCase()}
             data-excerpt={article.excerpt.toLowerCase()}
+            data-excerpt-en={(article.excerpt_en || '').toLowerCase()}
             data-keywords={(article.seoKeywords || []).join(' ').toLowerCase()}
           >
             <ArticleCard article={article} />
@@ -179,16 +182,17 @@ const collectionSchema = {
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
           </svg>
         </div>
-        <h3 class="text-base font-bold text-slate-900 dark:text-white">
+        <h3 class="text-base font-bold text-slate-900 dark:text-white" data-i18n="tutorial_empty_title">
           Tidak ada tutorial yang cocok
         </h3>
-        <p class="text-xs text-slate-500 dark:text-slate-400 mt-1 mb-4">
+        <p class="text-xs text-slate-500 dark:text-slate-400 mt-1 mb-4" data-i18n="tutorial_empty_desc">
           Coba kata kunci pencarian yang lain atau pilih kategori 'Semua'.
         </p>
         <button
           id="reset-tutorial-search"
           type="button"
           class="px-4 py-2 rounded-xl text-xs font-bold bg-rose-700 text-white shadow hover:bg-rose-600 transition-colors"
+          data-i18n="tutorial_reset_search"
         >
           Reset Pencarian
         </button>
@@ -197,13 +201,13 @@ const collectionSchema = {
       <!-- Bottom Promotion Banner: Explore Free Courses -->
       <div class="mt-14 p-6 sm:p-8 rounded-3xl bg-gradient-to-r from-slate-900 via-rose-950 to-slate-900 text-white shadow-xl border border-rose-900/40 flex flex-col md:flex-row items-center justify-between gap-6">
         <div class="space-y-1 text-center md:text-left">
-          <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-[11px] font-bold bg-rose-500/20 text-rose-300 border border-rose-500/30">
+          <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-[11px] font-bold bg-rose-500/20 text-rose-300 border border-rose-500/30" data-i18n="tutorial_promo_badge">
             🔥 Terverifikasi 100% Gratis
           </span>
-          <h2 class="text-xl sm:text-2xl font-black tracking-tight">
+          <h2 class="text-xl sm:text-2xl font-black tracking-tight" data-i18n="tutorial_promo_title">
             Ingin Langsung Praktik dengan Kursus Lengkap?
           </h2>
-          <p class="text-xs sm:text-sm text-slate-300 max-w-xl leading-relaxed">
+          <p class="text-xs sm:text-sm text-slate-300 max-w-xl leading-relaxed" data-i18n="tutorial_promo_desc">
             Klaim kupon diskon 100% dari ribuan instruktur Udemy resmi di seluruh dunia. Dapatkan sertifikat kelulusan resmi tanpa biaya sepeser pun.
           </p>
         </div>
@@ -211,7 +215,7 @@ const collectionSchema = {
           href="/#katalog"
           class="inline-flex items-center gap-2 px-6 py-3 rounded-2xl bg-rose-600 hover:bg-rose-500 text-white text-xs sm:text-sm font-extrabold shadow-lg shadow-rose-600/30 hover:shadow-rose-600/50 transition-all flex-shrink-0 active:scale-95"
         >
-          <span>Buka Katalog Kupon Kursus</span>
+          <span data-i18n="tutorial_promo_btn">Buka Katalog Kupon Kursus</span>
           <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
             <path stroke-linecap="round" stroke-linejoin="round" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
           </svg>
@@ -266,14 +270,21 @@ const collectionSchema = {
 
         articleItems.forEach((item) => {
           const cat = item.getAttribute('data-category') || '';
+          const catEn = item.getAttribute('data-category-en') || '';
           const title = item.getAttribute('data-title') || '';
+          const titleEn = item.getAttribute('data-title-en') || '';
           const excerpt = item.getAttribute('data-excerpt') || '';
+          const excerptEn = item.getAttribute('data-excerpt-en') || '';
           const keywords = item.getAttribute('data-keywords') || '';
 
-          const matchCat = (currentCat === 'Semua') || (cat.toLowerCase() === currentCat.toLowerCase());
+          const matchCat = (currentCat === 'Semua' || currentCat === 'All') || 
+            (cat.toLowerCase() === currentCat.toLowerCase()) ||
+            (catEn.toLowerCase() === currentCat.toLowerCase());
           const matchQuery = !currentQuery || 
             title.includes(currentQuery) || 
+            titleEn.includes(currentQuery) || 
             excerpt.includes(currentQuery) || 
+            excerptEn.includes(currentQuery) || 
             keywords.includes(currentQuery);
 
           if (matchCat && matchQuery) {
@@ -322,6 +333,11 @@ const collectionSchema = {
       // Initial filter run
       updateActiveTab();
       filterArticles();
+
+      // Sync filter and counter if language switches
+      window.addEventListener('languageChanged', () => {
+        filterArticles();
+      });
     });
   </script>
 </BaseLayout>

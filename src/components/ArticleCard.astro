@@ -4,8 +4,11 @@ interface Props {
     id: string;
     slug: string;
     title: string;
+    title_en?: string;
     excerpt: string;
+    excerpt_en?: string;
     category: string;
+    category_en?: string;
     readTime: number;
     author: string;
     publishedAt: string;
@@ -29,8 +32,17 @@ const categoryColors: Record<string, string> = {
 const badgeClass = categoryColors[article.category] || 'bg-slate-100 text-slate-800 dark:bg-slate-800 dark:text-slate-300 border-slate-300 dark:border-slate-700';
 ---
 
-<article class="group relative flex flex-col justify-between rounded-2xl border border-slate-200 dark:border-slate-800/80 bg-white dark:bg-slate-900/90 overflow-hidden shadow-sm hover:shadow-xl hover:border-rose-400 dark:hover:border-rose-500/50 transition-all duration-300 transform hover:-translate-y-1">
-  
+<article 
+  class="group relative flex flex-col justify-between rounded-2xl border border-slate-200 dark:border-slate-800/80 bg-white dark:bg-slate-900/90 overflow-hidden shadow-sm hover:shadow-xl hover:border-rose-400 dark:hover:border-rose-500/50 transition-all duration-300 transform hover:-translate-y-1 article-card"
+  data-article-id={article.id}
+  data-title-id={article.title}
+  data-title-en={article.title_en || article.title}
+  data-excerpt-id={article.excerpt}
+  data-excerpt-en={article.excerpt_en || article.excerpt}
+  data-cat-id={article.category}
+  data-cat-en={article.category_en || article.category}
+  data-read-time={article.readTime}
+>
   <!-- Cover Image Thumbnail -->
   {article.image && (
     <a href={`/tutorial/${article.slug}/`} class="block relative aspect-[16/9] w-full overflow-hidden bg-slate-100 dark:bg-slate-800">
@@ -47,7 +59,7 @@ const badgeClass = categoryColors[article.category] || 'bg-slate-100 text-slate-
       
       <!-- Category Badge Floating over image -->
       <div class="absolute top-3 left-3">
-        <span class={`inline-flex items-center px-2.5 py-0.5 rounded-full font-bold border text-[10px] shadow-sm backdrop-blur-md ${badgeClass}`}>
+        <span class={`article-card-cat-badge inline-flex items-center px-2.5 py-0.5 rounded-full font-bold border text-[10px] shadow-sm backdrop-blur-md ${badgeClass}`}>
           {article.category}
         </span>
       </div>
@@ -56,10 +68,10 @@ const badgeClass = categoryColors[article.category] || 'bg-slate-100 text-slate-
 
   <div class="p-5 sm:p-6 flex-1 flex flex-col justify-between">
     <div class="space-y-3">
-      <!-- Meta: Read Time + Date (if no image, also show category badge) -->
+      <!-- Meta: Read Time + Date -->
       <div class="flex items-center justify-between gap-2 text-xs">
         {!article.image && (
-          <span class={`inline-flex items-center px-2.5 py-0.5 rounded-full font-bold border text-[11px] ${badgeClass}`}>
+          <span class={`article-card-cat-badge inline-flex items-center px-2.5 py-0.5 rounded-full font-bold border text-[11px] ${badgeClass}`}>
             {article.category}
           </span>
         )}
@@ -68,20 +80,20 @@ const badgeClass = categoryColors[article.category] || 'bg-slate-100 text-slate-
             <circle cx="12" cy="12" r="10"/>
             <polyline points="12 6 12 12 16 14"/>
           </svg>
-          <span>{article.readTime} mnt baca</span>
+          <span class="article-read-time-label">{article.readTime} mnt baca</span>
         </span>
         <span class="text-slate-400 text-[11px]">{article.publishedAt}</span>
       </div>
 
       <!-- Title -->
       <h3 class="text-base sm:text-lg font-bold text-slate-900 dark:text-white group-hover:text-rose-600 dark:group-hover:text-rose-400 transition-colors leading-snug line-clamp-2">
-        <a href={`/tutorial/${article.slug}/`} class="focus:outline-none focus:ring-2 focus:ring-rose-500 rounded-lg">
+        <a href={`/tutorial/${article.slug}/`} class="article-card-title-link focus:outline-none focus:ring-2 focus:ring-rose-500 rounded-lg">
           {article.title}
         </a>
       </h3>
 
       <!-- Excerpt -->
-      <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed line-clamp-2">
+      <p class="article-card-excerpt-text text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed line-clamp-2">
         {article.excerpt}
       </p>
     </div>
@@ -94,7 +106,7 @@ const badgeClass = categoryColors[article.category] || 'bg-slate-100 text-slate-
         href={`/tutorial/${article.slug}/`} 
         class="inline-flex items-center gap-1 font-bold text-rose-600 dark:text-rose-400 hover:text-rose-700 dark:hover:text-rose-300 transition-colors group-hover:translate-x-0.5 transform transition-transform"
       >
-        <span>Baca Tutorial</span>
+        <span class="article-read-btn-text" data-i18n="tutorial_read_btn">Baca Tutorial</span>
         <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
           <path d="M5 12h14M12 5l7 7-7 7"/>
         </svg>

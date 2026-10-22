@@ -5,6 +5,7 @@
       nav_active_courses: (n) => `${n} Kursus Aktif`,
       nav_total_claimed_label: 'Klaim',
       nav_catalog: 'Katalog Kursus',
+      nav_tutorials: 'Tutorial & Tips',
       nav_faq: 'FAQ & Panduan',
       hero_pill: 'Terverifikasi Aktif Hari Ini',
       hero_pill_badge: 'Kupon Gratis',
@@ -75,6 +76,45 @@
       banner_more_btn: 'Lihat Semua Kursus',
       related_section_title: 'Kursus Pilihan Terkait',
       related_view_all: 'Lihat Katalog Lengkap →',
+      
+      // --- TUTORIAL / ARTICLES i18n ---
+      tutorial_badge: 'Tutorial & Tips Singkat',
+      tutorial_section_title: 'Tingkatkan Skill Digital & Maksimalkan Belajar',
+      tutorial_section_desc: 'Kumpulan panduan teknis, tips pemrograman, pemanfaatan AI, keamanan siber, dan strategi klaim sertifikat resmi Udemy secara gratis seumur hidup.',
+      tutorial_view_all_btn: (n) => `Lihat Semua (${n} Tutorial)`,
+      tutorial_read_btn: 'Baca Tutorial',
+      tutorial_popular_topics: 'Topik Populer:',
+      tutorial_archive_link: 'Arsip Tutorial Lengkap →',
+      tutorial_hub_badge: 'Pusat Pengetahuan & Panduan',
+      tutorial_page_title: 'Tutorial & Tips Singkat Teknologi',
+      tutorial_page_desc: 'Panduan praktis, roadmap belajar terarah, serta tips memaksimalkan kursus gratis bersertifikat resmi untuk akselerasi karir digital Anda.',
+      tutorial_search_placeholder: 'Cari tutorial (misal: Python, Web Dev, Prompt AI, OWASP)...',
+      tutorial_counter_prefix: 'Menampilkan',
+      tutorial_counter_suffix: 'tutorial',
+      tutorial_browse_courses: 'Lihat Katalog Kursus Gratis →',
+      tutorial_empty_title: 'Tidak ada tutorial yang cocok',
+      tutorial_empty_desc: 'Coba kata kunci pencarian yang lain atau pilih kategori \'Semua\'.',
+      tutorial_reset_search: 'Reset Pencarian',
+      tutorial_promo_badge: '🔥 Terverifikasi 100% Gratis',
+      tutorial_promo_title: 'Ingin Langsung Praktik dengan Kursus Lengkap?',
+      tutorial_promo_desc: 'Klaim kupon diskon 100% dari ribuan instruktur Udemy resmi di seluruh dunia. Dapatkan sertifikat kelulusan resmi tanpa biaya sepeser pun.',
+      tutorial_promo_btn: 'Buka Katalog Kupon Kursus',
+      tutorial_toc_title: 'Daftar Isi Tutorial',
+      tutorial_author_role: 'Editor Edukasi Digital',
+      tutorial_related_badge: 'Rekomendasi Praktik',
+      tutorial_related_title: 'Kursus Gratis Terkait',
+      tutorial_related_desc: 'Latih materi tutorial ini langsung dengan kursus lengkap bersertifikat resmi di Udemy:',
+      tutorial_explore_all_courses: 'Jelajahi Semua Kursus Gratis →',
+      tutorial_back_to_index: 'Kembali ke Indeks Tutorial',
+      tutorial_prev_link: '← Tutorial Sebelumnya',
+      tutorial_next_link: 'Tutorial Selanjutnya →',
+      tutorial_seo_keywords_title: 'Kata Kunci Terkait (SEO Index)',
+      cat_edukasi: 'Edukasi & Karir',
+      cat_programming: 'Programming & IT',
+      cat_ai: 'Data Science & AI',
+      cat_cyber: 'Cyber Security & IT',
+      cat_desain: 'Desain & UI/UX',
+
       faqs: {
         1: {
           q: 'Bagaimana cara klaim kursus agar harganya menjadi Rp0?',
@@ -98,10 +138,12 @@
         }
       }
     },
+
     en: {
       nav_active_courses: (n) => `${n} Active Courses`,
       nav_total_claimed_label: 'Claims',
       nav_catalog: 'Course Catalog',
+      nav_tutorials: 'Tutorials & Tips',
       nav_faq: 'FAQ & Guide',
       hero_pill: 'Verified Active Today',
       hero_pill_badge: 'Free Coupons',
@@ -172,6 +214,45 @@
       banner_more_btn: 'View All Courses',
       related_section_title: 'Related Recommended Courses',
       related_view_all: 'Browse Full Catalog →',
+
+      // --- TUTORIAL / ARTICLES i18n ---
+      tutorial_badge: 'Tutorials & Quick Tips',
+      tutorial_section_title: 'Boost Digital Skills & Maximize Your Learning',
+      tutorial_section_desc: 'Curated technical guides, coding tips, AI workflows, cybersecurity, and strategies to claim official Udemy certificates for free.',
+      tutorial_view_all_btn: (n) => `View All (${n} Tutorials)`,
+      tutorial_read_btn: 'Read Tutorial',
+      tutorial_popular_topics: 'Popular Topics:',
+      tutorial_archive_link: 'Full Tutorial Archive →',
+      tutorial_hub_badge: 'Knowledge Hub & Guides',
+      tutorial_page_title: 'Tech Tutorials & Quick Guides',
+      tutorial_page_desc: 'Practical guides, structured learning roadmaps, and tips to maximize certified free courses for your digital career.',
+      tutorial_search_placeholder: 'Search tutorials (e.g. Python, Web Dev, Prompt AI, OWASP)...',
+      tutorial_counter_prefix: 'Showing',
+      tutorial_counter_suffix: 'tutorials',
+      tutorial_browse_courses: 'Browse Free Courses Catalog →',
+      tutorial_empty_title: 'No matching tutorials found',
+      tutorial_empty_desc: 'Try different search keywords or select the \'All\' category.',
+      tutorial_reset_search: 'Reset Search',
+      tutorial_promo_badge: '🔥 100% Verified Free',
+      tutorial_promo_title: 'Ready for Full Hands-on Courses?',
+      tutorial_promo_desc: 'Claim 100% off coupons from verified Udemy instructors worldwide. Get official completion certificates at zero cost.',
+      tutorial_promo_btn: 'Open Free Courses Catalog',
+      tutorial_toc_title: 'Table of Contents',
+      tutorial_author_role: 'Digital Learning Editor',
+      tutorial_related_badge: 'Recommended Practice',
+      tutorial_related_title: 'Related Free Courses',
+      tutorial_related_desc: 'Practice these tutorial concepts directly with complete verified courses on Udemy:',
+      tutorial_explore_all_courses: 'Explore All Free Courses →',
+      tutorial_back_to_index: 'Back to Tutorial Archive',
+      tutorial_prev_link: '← Previous Tutorial',
+      tutorial_next_link: 'Next Tutorial →',
+      tutorial_seo_keywords_title: 'Related Keywords (SEO Index)',
+      cat_edukasi: 'Education & Career',
+      cat_programming: 'Programming & IT',
+      cat_ai: 'Data Science & AI',
+      cat_cyber: 'Cyber Security & IT',
+      cat_desain: 'UI/UX & Design',
+
       faqs: {
         1: {
           q: 'How do I claim a course so the price becomes $0 (Free)?',
@@ -228,83 +309,155 @@
     }
 
     const dict = i18nDict[validLang] || i18nDict.id;
+    const isEn = validLang === 'en';
 
-    // Only mutate DOM if switched to non-default language (English)
-    // Server HTML is already pre-rendered in Indonesian, so mutating DOM on ID causes LCP delays!
-    if (validLang === 'en') {
-      // 1. Update elements with data-i18n attribute
-      document.querySelectorAll('[data-i18n]').forEach((el) => {
-        const key = el.getAttribute('data-i18n');
-        if (dict[key]) {
-          if (typeof dict[key] === 'function') {
-            const totalCards = document.querySelectorAll('.course-card').length || 69;
-            el.innerHTML = dict[key](totalCards);
-          } else {
-            el.innerHTML = dict[key];
-          }
+    // 1. Update elements with data-i18n attribute
+    document.querySelectorAll('[data-i18n]').forEach((el) => {
+      const key = el.getAttribute('data-i18n');
+      if (dict[key]) {
+        if (typeof dict[key] === 'function') {
+          const totalCourses = document.querySelectorAll('.course-card').length || 69;
+          const totalArticles = document.querySelectorAll('.article-card').length || 6;
+          const num = key.includes('tutorial') ? totalArticles : totalCourses;
+          el.innerHTML = dict[key](num);
+        } else {
+          el.innerHTML = dict[key];
         }
-      });
-
-      // 2. Update search input placeholder (if on homepage)
-      const searchInput = document.getElementById('search-input');
-      if (searchInput) {
-        searchInput.placeholder = dict.search_placeholder;
       }
+    });
 
-      // 3. Update Course Card texts (both homepage & course page related cards)
-      document.querySelectorAll('.open-btn-text').forEach((el) => {
-        el.textContent = dict.open_udemy_btn;
-      });
+    // 2. Update search input placeholders
+    const searchInput = document.getElementById('search-input');
+    if (searchInput) {
+      searchInput.placeholder = dict.search_placeholder;
+    }
+    const tutorialSearch = document.getElementById('tutorial-search');
+    if (tutorialSearch) {
+      tutorialSearch.placeholder = dict.tutorial_search_placeholder;
+    }
 
-      document.querySelectorAll('.copy-btn-text').forEach((el) => {
-        const btn = el.closest('.copy-coupon-btn');
-        if (!btn?.classList.contains('border-emerald-500')) {
-          el.textContent = dict.copy_coupon_btn;
-        }
-      });
+    // 3. Update Course Card texts
+    document.querySelectorAll('.open-btn-text').forEach((el) => {
+      el.textContent = dict.open_udemy_btn;
+    });
 
-      document.querySelectorAll('.copy-link-text').forEach((el) => {
-        const btn = el.closest('.copy-post-link-btn');
-        if (!btn?.classList.contains('border-emerald-500')) {
-          el.textContent = dict.copy_link_btn;
-        }
-      });
-
-      document.querySelectorAll('.coupon-status-text').forEach((el) => {
-        el.textContent = dict.coupon_status_active;
-      });
-
-      document.querySelectorAll('.free-badge-label').forEach((el) => {
-        el.textContent = dict.free_label;
-      });
-
-      // 4. Update Course Detail Page specific buttons
-      const copyCouponDetailText = document.getElementById('copy-coupon-text');
-      if (copyCouponDetailText && copyCouponDetailText.textContent !== dict.copied_btn) {
-        copyCouponDetailText.textContent = 'Copy Coupon Code';
+    document.querySelectorAll('.copy-btn-text').forEach((el) => {
+      const btn = el.closest('.copy-coupon-btn');
+      if (!btn?.classList.contains('border-emerald-500')) {
+        el.textContent = dict.copy_coupon_btn;
       }
+    });
 
-      const shareBtnText = document.getElementById('share-btn-text');
-      if (shareBtnText && shareBtnText.textContent !== dict.link_copied_btn) {
-        shareBtnText.textContent = dict.copy_link_btn;
+    document.querySelectorAll('.copy-link-text').forEach((el) => {
+      const btn = el.closest('.copy-post-link-btn');
+      if (!btn?.classList.contains('border-emerald-500')) {
+        el.textContent = dict.copy_link_btn;
       }
+    });
 
-      // 5. Update FAQ items (if on homepage)
-      if (dict.faqs) {
-        document.querySelectorAll('.faq-q-text').forEach((el) => {
-          const id = el.getAttribute('data-faq-id');
-          if (dict.faqs[id]) el.innerHTML = dict.faqs[id].q;
-        });
-        document.querySelectorAll('.faq-a-text').forEach((el) => {
-          const id = el.getAttribute('data-faq-id');
-          if (dict.faqs[id]) el.innerHTML = dict.faqs[id].a;
-        });
+    document.querySelectorAll('.coupon-status-text').forEach((el) => {
+      el.textContent = dict.coupon_status_active;
+    });
+
+    document.querySelectorAll('.free-badge-label').forEach((el) => {
+      el.textContent = dict.free_label;
+    });
+
+    // 4. Update Category "Semua" / "All"
+    const catAllLabel = document.querySelector('[data-category="all"] .cat-label');
+    if (catAllLabel) {
+      catAllLabel.textContent = dict.cat_all;
+    }
+
+    // 5. Update FAQ items
+    if (dict.faqs) {
+      document.querySelectorAll('.faq-q-text').forEach((el) => {
+        const id = el.getAttribute('data-faq-id');
+        if (dict.faqs[id]) el.innerHTML = dict.faqs[id].q;
+      });
+      document.querySelectorAll('.faq-a-text').forEach((el) => {
+        const id = el.getAttribute('data-faq-id');
+        if (dict.faqs[id]) el.innerHTML = dict.faqs[id].a;
+      });
+    }
+
+    // 6. Update Article Cards (both homepage & tutorial catalog)
+    document.querySelectorAll('.article-card').forEach((card) => {
+      const titleLink = card.querySelector('.article-card-title-link');
+      if (titleLink) {
+        titleLink.textContent = isEn ? (card.getAttribute('data-title-en') || titleLink.textContent) : (card.getAttribute('data-title-id') || titleLink.textContent);
       }
+      const excerptEl = card.querySelector('.article-card-excerpt-text');
+      if (excerptEl) {
+        excerptEl.textContent = isEn ? (card.getAttribute('data-excerpt-en') || excerptEl.textContent) : (card.getAttribute('data-excerpt-id') || excerptEl.textContent);
+      }
+      const catBadge = card.querySelector('.article-card-cat-badge');
+      if (catBadge) {
+        catBadge.textContent = isEn ? (card.getAttribute('data-cat-en') || catBadge.textContent) : (card.getAttribute('data-cat-id') || catBadge.textContent);
+      }
+      const readTimeEl = card.querySelector('.article-read-time-label');
+      if (readTimeEl) {
+        const time = card.getAttribute('data-read-time') || '5';
+        readTimeEl.textContent = isEn ? `${time} min read` : `${time} mnt baca`;
+      }
+      const readBtn = card.querySelector('.article-read-btn-text');
+      if (readBtn) {
+        readBtn.textContent = dict.tutorial_read_btn;
+      }
+    });
 
-      // 6. Update Category "Semua" / "All"
-      const catAllLabel = document.querySelector('[data-category="all"] .cat-label');
-      if (catAllLabel) {
-        catAllLabel.textContent = dict.cat_all;
+    // 7. Update Category Filter Tabs on Tutorial Catalog Page
+    const catKeyMap = {
+      'Semua': 'cat_all',
+      'All': 'cat_all',
+      'Edukasi & Karir': 'cat_edukasi',
+      'Education & Career': 'cat_edukasi',
+      'Programming & IT': 'cat_programming',
+      'Data Science & AI': 'cat_ai',
+      'Cyber Security & IT': 'cat_cyber',
+      'Desain & UI/UX': 'cat_desain',
+      'UI/UX & Design': 'cat_desain'
+    };
+
+    document.querySelectorAll('.category-tab-btn').forEach((btn) => {
+      const cat = btn.getAttribute('data-category') || '';
+      const key = catKeyMap[cat];
+      if (key && dict[key]) {
+        const span = btn.querySelector('span:first-child');
+        if (span) span.textContent = dict[key];
+      }
+    });
+
+    // 8. Update Article Reader Detail Page
+    const articleDetail = document.getElementById('article-detail-page');
+    if (articleDetail) {
+      const bodyId = document.getElementById('article-body-id');
+      const bodyEn = document.getElementById('article-body-en');
+      const h1El = document.getElementById('article-title-heading');
+      const descEl = document.getElementById('article-excerpt-lead');
+      const catEl = document.getElementById('article-category-badge');
+      const readTimeDetail = document.getElementById('article-read-time-detail');
+      const tocId = document.getElementById('article-toc-id');
+      const tocEn = document.getElementById('article-toc-en');
+
+      if (isEn) {
+        if (bodyId) bodyId.classList.add('hidden');
+        if (bodyEn) bodyEn.classList.remove('hidden');
+        if (tocId) tocId.classList.add('hidden');
+        if (tocEn) tocEn.classList.remove('hidden');
+        if (h1El) h1El.textContent = articleDetail.getAttribute('data-title-en') || h1El.textContent;
+        if (descEl) descEl.textContent = articleDetail.getAttribute('data-excerpt-en') || descEl.textContent;
+        if (catEl) catEl.textContent = articleDetail.getAttribute('data-cat-en') || catEl.textContent;
+        if (readTimeDetail) readTimeDetail.textContent = `${articleDetail.getAttribute('data-read-time') || 5} min read`;
+      } else {
+        if (bodyId) bodyId.classList.remove('hidden');
+        if (bodyEn) bodyEn.classList.add('hidden');
+        if (tocId) tocId.classList.remove('hidden');
+        if (tocEn) tocEn.classList.add('hidden');
+        if (h1El) h1El.textContent = articleDetail.getAttribute('data-title-id') || h1El.textContent;
+        if (descEl) descEl.textContent = articleDetail.getAttribute('data-excerpt-id') || descEl.textContent;
+        if (catEl) catEl.textContent = articleDetail.getAttribute('data-cat-id') || catEl.textContent;
+        if (readTimeDetail) readTimeDetail.textContent = `${articleDetail.getAttribute('data-read-time') || 5} menit baca`;
       }
     }
 
@@ -335,12 +488,10 @@
     const coursesBonus = data.courses || {};
     const totalBonus = data.totalBonus || 0;
 
-    // Fast exit if no bonus is recorded to prevent forced reflow & layout thrashing on initial load
     if (totalBonus === 0 && Object.keys(coursesBonus).length === 0) {
       return;
     }
 
-    // 1. Update individual course card & course detail page counters
     Object.keys(coursesBonus).forEach((courseId) => {
       const bonus = coursesBonus[courseId] || 0;
       if (bonus <= 0) return;
@@ -367,8 +518,6 @@
       });
     });
 
-    // 2. Update overall total claims across the platform
-    const totalBonus = data.totalBonus || 0;
     if (totalBonus > 0) {
       document.querySelectorAll('.hero-total-claimed-num').forEach((el) => {
         const base = parseInt(el.getAttribute('data-base') || el.textContent.replace(/[^0-9]/g, ''), 10);
@@ -406,7 +555,6 @@
       saveClaimStorage(data);
       renderClaimUpdates();
 
-      // Trigger micro-bounce feedback on the clicked course's counters
       document.querySelectorAll(`.card-claimed-number[data-course-id="${courseId}"]`).forEach((el) => {
         el.classList.add('scale-125', 'text-rose-500', 'transition-transform');
         setTimeout(() => el.classList.remove('scale-125', 'text-rose-500'), 400);
@@ -422,7 +570,6 @@
     applyLanguage(currentLang);
     renderClaimUpdates();
 
-    // Event listener on Navbar language toggle button
     const toggleBtn = document.getElementById('lang-toggle-btn');
     if (toggleBtn) {
       toggleBtn.addEventListener('click', (e) => {
@@ -433,7 +580,6 @@
       });
     }
 
-    // Global listener for claim action triggers (Udemy CTA & Copy Coupon)
     document.addEventListener('click', (e) => {
       const trigger = e.target.closest('.claim-action-trigger');
       if (trigger) {
