@@ -5906,5 +5906,180 @@
       "rem": null,
       "end": "2026-10-22T07:00:00Z"
     }
+  },
+  "consonants-for-advanced-chinese-learners-of-american-english_REALDISCOCT26": {
+    "subscribers": 11959,
+    "reviews": 27,
+    "rating": "4.7",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Sheila Lebedenko",
+    "campaign": {
+      "max": 100,
+      "rem": 64,
+      "end": "2026-11-22T04:52:00Z"
+    }
+  },
+  "bootcamp-az-900-microsoft-azure-fundamentals_C12E7F7101185CF49E67": {
+    "subscribers": 8191,
+    "reviews": 159,
+    "rating": "4.4",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Codaming • 300k+ Learners Worldwide, Dinesh Kumar, Vedika Singh",
+    "campaign": null
+  },
+  "deloitte-human-capital-trends-report-2026-by-papahr-overview_PAPAHR_OCT_316173": {
+    "subscribers": 1975,
+    "reviews": 9,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 53,
+      "end": "2026-11-22T07:05:00Z"
+    }
+  },
+  "adobe-illustrator-for-t-shirt-design-from-sketch-to-print_012162A9D689D58F4601": {
+    "subscribers": 22898,
+    "reviews": 111,
+    "rating": "4.4",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": 100,
+      "rem": 67,
+      "end": "2026-11-22T07:58:00Z"
+    }
+  },
+  "capcut-video-editing-for-social-media-beginner-to-pro_7EB9E8A36214F6E90F53": {
+    "subscribers": 39407,
+    "reviews": 469,
+    "rating": "4.0",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": null
+  },
+  "gallup-q12_PAPAHR_OCT_488243": {
+    "subscribers": 2848,
+    "reviews": 5,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 65,
+      "end": "2026-11-22T07:05:00Z"
+    }
+  },
+  "hybrid-work-environments-manage-remote-hybrid-teams_PAPAHR_OCT_672352": {
+    "subscribers": 10391,
+    "reviews": 23,
+    "rating": "4.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 41,
+      "end": "2026-11-22T07:05:00Z"
+    }
+  },
+  "learn-figma-uiux-design-masterclass-from-beginner-to-pro_27A5FA81AA5192AE4FDB": {
+    "subscribers": 48730,
+    "reviews": 1027,
+    "rating": "4.1",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": 100,
+      "rem": 9,
+      "end": "2026-11-22T08:03:00Z"
+    }
+  },
+  "php-laravel-10-for-2023-build-complete-job-portal_LARAVELJOBPORTAL85": {
+    "subscribers": 6795,
+    "reviews": 55,
+    "rating": "4.6",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": null
+  },
+  "the-complete-html-course-2023_HTMLCOURSE63": {
+    "subscribers": 28183,
+    "reviews": 503,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Web Coding",
+    "campaign": {
+      "max": 100,
+      "rem": 21,
+      "end": "2026-11-22T07:59:00Z"
+    }
+  },
+  "css-javascript-and-php-complete-course-for-beginners_D3F153A43F5193C54B79": {
+    "subscribers": 126272,
+    "reviews": 1468,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "PROPER DOT INSTITUTE",
+    "campaign": null
+  },
+  "technology-for-non-technology-decision-makers-with-ai_20THOCT": {
+    "subscribers": 792,
+    "reviews": 13,
+    "rating": "4.8",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 9,
+      "end": "2026-11-20T07:00:00Z"
+    }
+  },
+  "constructive-debates-in-the-workplace-j_20THOCT": {
+    "subscribers": 609,
+    "reviews": 20,
+    "rating": "4.8",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": null
+  },
+  "financial-services-sovereign-wealth-national-funds_20THOCT": {
+    "subscribers": 870,
+    "reviews": 19,
+    "rating": "5.0",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 44,
+      "end": "2026-11-20T07:00:00Z"
+    }
+  },
+  "ru-vxara_PAPAHR_OCT_030962": {
+    "subscribers": 389,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 37,
+      "end": "2026-11-22T07:05:00Z"
+    }
   }
 }
