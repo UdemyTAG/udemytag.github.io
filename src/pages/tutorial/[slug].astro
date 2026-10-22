@@ -1,0 +1,462 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Navbar from '../../components/Navbar.astro';
+import Footer from '../../components/Footer.astro';
+import articlesData from '../../data/articles.json';
+import coursesData from '../../data/courses.json';
+
+export async function getStaticPaths() {
+  return articlesData.map((article, index) => {
+    const prev = index > 0 ? articlesData[index - 1] : null;
+    const next = index < articlesData.length - 1 ? articlesData[index + 1] : null;
+    return {
+      params: { slug: article.slug },
+      props: { article, prev, next }
+    };
+  });
+}
+
+const { article, prev, next } = Astro.props;
+
+// Category Badge Color Palette
+const categoryColors: Record<string, string> = {
+  'Edukasi & Karir': 'bg-amber-100 text-amber-900 dark:bg-amber-950/70 dark:text-amber-300 border-amber-300 dark:border-amber-700/60',
+  'Programming & IT': 'bg-indigo-100 text-indigo-900 dark:bg-indigo-950/70 dark:text-indigo-300 border-indigo-300 dark:border-indigo-700/60',
+  'Data Science & AI': 'bg-emerald-100 text-emerald-900 dark:bg-emerald-950/70 dark:text-emerald-300 border-emerald-300 dark:border-emerald-700/60',
+  'Cyber Security & IT': 'bg-rose-100 text-rose-900 dark:bg-rose-950/70 dark:text-rose-300 border-rose-300 dark:border-rose-700/60',
+  'Desain & UI/UX': 'bg-fuchsia-100 text-fuchsia-900 dark:bg-fuchsia-950/70 dark:text-fuchsia-300 border-fuchsia-300 dark:border-fuchsia-700/60',
+};
+
+const badgeClass = categoryColors[article.category] || 'bg-slate-100 text-slate-800 dark:bg-slate-800 dark:text-slate-300 border-slate-300 dark:border-slate-700';
+
+// Generate Table of Contents from H2 headings
+const toc: { id: string; text: string }[] = [];
+article.content.split('\n').forEach((line: string) => {
+  if (line.startsWith('## ')) {
+    const text = line.replace('## ', '').trim();
+    const id = text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+    toc.push({ id, text });
+  }
+});
+
+// Related Courses matching category or general
+const relatedCategory = article.relatedCourseCategory || 'Development';
+const relatedCourses = coursesData
+  .filter((c) => (c.category || '').toLowerCase() === relatedCategory.toLowerCase() && c.isFree !== false)
+  .slice(0, 3);
+
+// Fallback if less than 3
+if (relatedCourses.length < 3) {
+  const fillers = coursesData.filter((c) => !relatedCourses.some((r) => r.id === c.id)).slice(0, 3 - relatedCourses.length);
+  relatedCourses.push(...fillers);
+}
+
+const totalActiveFree = coursesData.filter((c) => c.isFree !== false && !c.isExpired).length;
+const pageUrl = `https://udemytag.github.io/tutorial/${article.slug}/`;
+
+// Schema.org Structured Data (Google Page-One Signal)
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  'itemListElement': [
+    {
+      '@type': 'ListItem',
+      'position': 1,
+      'name': 'Beranda',
+      'item': 'https://udemytag.github.io/'
+    },
+    {
+      '@type': 'ListItem',
+      'position': 2,
+      'name': 'Tutorial & Tips',
+      'item': 'https://udemytag.github.io/tutorial/'
+    },
+    {
+      '@type': 'ListItem',
+      'position': 3,
+      'name': article.title,
+      'item': pageUrl
+    }
+  ]
+};
+
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'TechArticle',
+  'headline': article.title,
+  'description': article.excerpt,
+  'image': 'https://udemytag.github.io/og-image.png',
+  'datePublished': article.publishedAt,
+  'dateModified': article.updatedAt || article.publishedAt,
+  'author': {
+    '@type': 'Organization',
+    'name': article.author || 'Tim Riset UdemyTAG',
+    'url': 'https://udemytag.github.io/'
+  },
+  'publisher': {
+    '@type': 'Organization',
+    'name': 'UdemyTAG',
+    'logo': {
+      '@type': 'ImageObject',
+      'url': 'https://udemytag.github.io/logo-512.png'
+    }
+  },
+  'mainEntityOfPage': {
+    '@type': 'WebPage',
+    '@id': pageUrl
+  },
+  'keywords': (article.seoKeywords || []).join(', ')
+};
+
+// Markdown to HTML conversion
+function renderContent(raw: string) {
+  let text = raw;
+
+  // Code blocks ```lang ... ```
+  text = text.replace(/```([a-z]*)\n([\s\S]*?)```/g, (_m, _lang, code) => {
+    const escaped = code.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').trim();
+    return `<div class="my-5 rounded-2xl bg-slate-900 border border-slate-800 shadow-lg overflow-hidden">
+      <div class="px-4 py-2 bg-slate-800/80 border-b border-slate-700/60 flex items-center justify-between text-xs text-slate-400 font-mono">
+        <span>${_lang || 'code'}</span>
+        <span>UdemyTAG Tutorial</span>
+      </div>
+      <pre class="p-4 text-emerald-400 font-mono text-xs sm:text-sm overflow-x-auto leading-relaxed"><code>${escaped}</code></pre>
+    </div>`;
+  });
+
+  // Headings
+  text = text.replace(/^## (.*$)/gim, (_m, title) => {
+    const cleanTitle = title.trim();
+    const id = cleanTitle.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+    return `<h2 id="${id}" class="text-xl sm:text-2xl font-black text-slate-900 dark:text-white mt-10 mb-4 pt-4 border-t border-slate-200/80 dark:border-slate-800/80 scroll-mt-24 flex items-center gap-2 group">
+      <span>${cleanTitle}</span>
+      <a href="#${id}" class="opacity-0 group-hover:opacity-100 text-rose-500 transition-opacity text-sm" aria-label="Tautan ke bagian ini">#</a>
+    </h2>`;
+  });
+
+  text = text.replace(/^### (.*$)/gim, (_m, title) => {
+    return `<h3 class="text-base sm:text-lg font-extrabold text-slate-900 dark:text-white mt-6 mb-2 text-rose-700 dark:text-rose-400">${title.trim()}</h3>`;
+  });
+
+  // Dividers
+  text = text.replace(/^---$/gim, `<hr class="my-8 border-slate-200 dark:border-slate-800" />`);
+
+  // Bold & Italic
+  text = text.replace(/\*\*(.*?)\*\*/g, `<strong class="font-bold text-slate-900 dark:text-white">$1</strong>`);
+  text = text.replace(/\*(.*?)\*/g, `<em class="italic">$1</em>`);
+
+  // Links
+  text = text.replace(/\[(.*?)\]\((.*?)\)/g, `<a href="$2" class="text-rose-600 dark:text-rose-400 font-bold underline hover:text-rose-700 dark:hover:text-rose-300 transition-colors">$1</a>`);
+
+  // Paragraphs and lists
+  const sections = text.split(/\n\n+/);
+  return sections.map((sec) => {
+    const trimmed = sec.trim();
+    if (!trimmed) return '';
+    if (trimmed.startsWith('<h2') || trimmed.startsWith('<h3') || trimmed.startsWith('<div class="my-5') || trimmed.startsWith('<hr')) {
+      return trimmed;
+    }
+    if (trimmed.startsWith('* ') || trimmed.startsWith('- ') || /^\d+\.\s/.test(trimmed)) {
+      const items = trimmed.split('\n').map((li) => {
+        const clean = li.replace(/^(\* |- |\d+\.\s)/, '').trim();
+        return `<li class="ml-4 list-disc text-slate-700 dark:text-slate-300 leading-relaxed text-sm sm:text-base">${clean}</li>`;
+      }).join('\n');
+      return `<ul class="my-3 space-y-1.5">${items}</ul>`;
+    }
+    return `<p class="my-3 text-slate-700 dark:text-slate-300 leading-relaxed text-sm sm:text-base">${trimmed}</p>`;
+  }).join('\n');
+}
+
+const renderedHtml = renderContent(article.content);
+---
+
+<BaseLayout
+  title={`${article.title} | UdemyTAG`}
+  description={article.excerpt}
+  canonical={pageUrl}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+
+  <Navbar totalCourses={coursesData.length} totalActiveFree={totalActiveFree} />
+
+  <main class="flex-1 bg-slate-50 dark:bg-slate-950 transition-colors py-6 sm:py-10">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      
+      <!-- Breadcrumb Bar -->
+      <nav aria-label="Breadcrumb" class="mb-6">
+        <ol class="flex items-center flex-wrap gap-2 text-xs text-slate-500 dark:text-slate-400">
+          <li>
+            <a href="/" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors">Beranda</a>
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="text-slate-300 dark:text-slate-600">/</span>
+            <a href="/tutorial/" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors">Tutorial & Tips</a>
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="text-slate-300 dark:text-slate-600">/</span>
+            <span class="text-slate-900 dark:text-white font-semibold truncate max-w-xs sm:max-w-md">{article.title}</span>
+          </li>
+        </ol>
+      </nav>
+
+      <!-- Main Layout: Content + Aside (TOC & Related) -->
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12">
+        
+        <!-- Left Column: Article Body (8 cols) -->
+        <article class="lg:col-span-8 bg-white dark:bg-slate-900/90 rounded-3xl p-6 sm:p-10 border border-slate-200/80 dark:border-slate-800 shadow-sm" id="article-container" data-article-slug={article.slug} data-article-title={article.title} data-article-category={article.category}>
+          
+          <!-- Article Header -->
+          <header class="space-y-4 pb-6 border-b border-slate-200/80 dark:border-slate-800">
+            <div class="flex items-center flex-wrap justify-between gap-2">
+              <span class={`inline-flex items-center px-3 py-1 rounded-full text-xs font-bold border ${badgeClass}`}>
+                {article.category}
+              </span>
+              <div class="flex items-center gap-3 text-xs text-slate-500 dark:text-slate-400 font-mono">
+                <span class="flex items-center gap-1">
+                  <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <circle cx="12" cy="12" r="10" stroke-width="2"/>
+                    <polyline points="12 6 12 12 16 14" stroke-width="2"/>
+                  </svg>
+                  <span>{article.readTime} menit baca</span>
+                </span>
+                <span>•</span>
+                <span>{article.publishedAt}</span>
+              </div>
+            </div>
+
+            <h1 class="text-2xl sm:text-3xl lg:text-4xl font-black text-slate-900 dark:text-white tracking-tight leading-tight">
+              {article.title}
+            </h1>
+
+            <p class="text-sm sm:text-base text-slate-600 dark:text-slate-400 leading-relaxed font-normal">
+              {article.excerpt}
+            </p>
+
+            <!-- Author & Metadata Row -->
+            <div class="pt-2 flex items-center justify-between text-xs text-slate-500 dark:text-slate-400">
+              <div class="flex items-center gap-2">
+                <div class="w-8 h-8 rounded-full bg-rose-700 text-white font-bold flex items-center justify-center text-xs shadow-sm">
+                  TAG
+                </div>
+                <div>
+                  <div class="font-bold text-slate-900 dark:text-white">{article.author}</div>
+                  <div class="text-[11px] text-slate-500">Editor Edukasi Digital</div>
+                </div>
+              </div>
+
+              <!-- Share Buttons -->
+              <div class="flex items-center gap-1.5">
+                <button
+                  type="button"
+                  id="share-copy-btn"
+                  class="p-2 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-300 transition-colors"
+                  title="Salin tautan artikel"
+                  aria-label="Salin tautan artikel"
+                >
+                  <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/>
+                    <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>
+                  </svg>
+                </button>
+                <a
+                  href={`https://api.whatsapp.com/send?text=${encodeURIComponent(article.title + ' ' + pageUrl)}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="p-2 rounded-xl bg-emerald-50 hover:bg-emerald-100 dark:bg-emerald-950/60 dark:hover:bg-emerald-900/60 text-emerald-700 dark:text-emerald-300 transition-colors"
+                  title="Bagikan ke WhatsApp"
+                  aria-label="Bagikan ke WhatsApp"
+                >
+                  <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24">
+                    <path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91C2.13 13.66 2.59 15.36 3.45 16.86L2.05 22L7.3 20.62C8.75 21.41 10.38 21.83 12.04 21.83C17.5 21.83 21.95 17.38 21.95 11.92C21.95 9.27 20.92 6.78 19.05 4.91C17.18 3.03 14.69 2 12.04 2M12.05 3.67C14.25 3.67 16.31 4.53 17.87 6.09C19.42 7.65 20.28 9.72 20.28 11.92C20.28 16.46 16.58 20.15 12.04 20.15C10.56 20.15 9.11 19.76 7.85 19L7.55 18.83L4.43 19.65L5.26 16.61L5.06 16.29C4.24 14.99 3.8 13.47 3.8 11.91C3.81 7.37 7.5 3.67 12.05 3.67Z"/>
+                  </svg>
+                </a>
+                <a
+                  href={`https://t.me/share/url?url=${encodeURIComponent(pageUrl)}&text=${encodeURIComponent(article.title)}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="p-2 rounded-xl bg-sky-50 hover:bg-sky-100 dark:bg-sky-950/60 dark:hover:bg-sky-900/60 text-sky-700 dark:text-sky-300 transition-colors"
+                  title="Bagikan ke Telegram"
+                  aria-label="Bagikan ke Telegram"
+                >
+                  <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24">
+                    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.74-.55 2.92-1.27 4.86-2.11 5.83-2.52 2.77-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/>
+                  </svg>
+                </a>
+              </div>
+            </div>
+          </header>
+
+          <!-- Rendered Article Body -->
+          <div class="prose prose-slate dark:prose-invert max-w-none pt-6 text-slate-800 dark:text-slate-200">
+            <div set:html={renderedHtml} />
+          </div>
+
+          <!-- Target SEO Keywords Pills -->
+          {article.seoKeywords && article.seoKeywords.length > 0 && (
+            <div class="mt-10 pt-6 border-t border-slate-200/80 dark:border-slate-800">
+              <h3 class="text-xs font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 mb-3">
+                Kata Kunci Terkait (SEO Index)
+              </h3>
+              <div class="flex flex-wrap gap-2">
+                {article.seoKeywords.map((kw: string) => (
+                  <span class="inline-flex items-center px-3 py-1 rounded-lg text-xs bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700">
+                    #{kw}
+                  </span>
+                ))}
+              </div>
+            </div>
+          )}
+
+          <!-- Prev & Next Article Navigation -->
+          <div class="mt-10 pt-6 border-t border-slate-200/80 dark:border-slate-800 grid grid-cols-1 sm:grid-cols-2 gap-4">
+            {prev ? (
+              <a
+                href={`/tutorial/${prev.slug}/`}
+                class="p-4 rounded-2xl border border-slate-200 dark:border-slate-800 hover:border-rose-400 dark:hover:border-rose-500/50 hover:bg-slate-50 dark:hover:bg-slate-800/40 transition-all flex flex-col justify-between group"
+              >
+                <span class="text-[11px] font-bold text-slate-400 group-hover:text-rose-600 transition-colors">← Tutorial Sebelumnya</span>
+                <span class="text-xs sm:text-sm font-bold text-slate-900 dark:text-white mt-1 line-clamp-2">{prev.title}</span>
+              </a>
+            ) : <div />}
+
+            {next ? (
+              <a
+                href={`/tutorial/${next.slug}/`}
+                class="p-4 rounded-2xl border border-slate-200 dark:border-slate-800 hover:border-rose-400 dark:hover:border-rose-500/50 hover:bg-slate-50 dark:hover:bg-slate-800/40 transition-all flex flex-col justify-between text-right group"
+              >
+                <span class="text-[11px] font-bold text-slate-400 group-hover:text-rose-600 transition-colors">Tutorial Selanjutnya →</span>
+                <span class="text-xs sm:text-sm font-bold text-slate-900 dark:text-white mt-1 line-clamp-2">{next.title}</span>
+              </a>
+            ) : <div />}
+          </div>
+
+        </article>
+
+        <!-- Right Column: Sidebar (TOC & Related Courses) (4 cols) -->
+        <aside class="lg:col-span-4 space-y-6">
+          
+          <!-- Sticky Table of Contents -->
+          {toc.length > 0 && (
+            <div class="sticky top-20 bg-white dark:bg-slate-900/90 rounded-3xl p-6 border border-slate-200/80 dark:border-slate-800 shadow-sm space-y-3">
+              <h3 class="text-xs font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 flex items-center gap-2">
+                <svg class="w-4 h-4 text-rose-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <line x1="8" y1="6" x2="21" y2="6"/>
+                  <line x1="8" y1="12" x2="21" y2="12"/>
+                  <line x1="8" y1="18" x2="21" y2="18"/>
+                  <line x1="3" y1="6" x2="3.01" y2="6"/>
+                  <line x1="3" y1="12" x2="3.01" y2="12"/>
+                  <line x1="3" y1="18" x2="3.01" y2="18"/>
+                </svg>
+                <span>Daftar Isi Tutorial</span>
+              </h3>
+              <ul class="space-y-2 text-xs">
+                {toc.map((item, idx) => (
+                  <li>
+                    <a
+                      href={`#${item.id}`}
+                      class="text-slate-600 dark:text-slate-400 hover:text-rose-600 dark:hover:text-rose-400 hover:underline leading-relaxed block transition-colors"
+                    >
+                      <span class="text-rose-700 dark:text-rose-400 font-mono font-bold mr-1">{idx + 1}.</span> {item.text}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+
+          <!-- Related Courses Card Box -->
+          <div class="bg-gradient-to-br from-slate-900 to-slate-950 text-white rounded-3xl p-6 border border-slate-800 shadow-md space-y-4">
+            <div class="space-y-1">
+              <span class="inline-flex items-center gap-1 text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded bg-rose-600 text-white">
+                Rekomendasi Praktik
+              </span>
+              <h3 class="text-base font-black text-white">Kursus Gratis Terkait</h3>
+              <p class="text-xs text-slate-300">
+                Latih materi tutorial ini langsung dengan kursus lengkap bersertifikat resmi di Udemy:
+              </p>
+            </div>
+
+            <div class="space-y-3 pt-2">
+              {relatedCourses.map((c) => (
+                <div class="p-3 rounded-2xl bg-slate-800/80 border border-slate-700/80 hover:border-rose-500/80 transition-colors">
+                  <div class="text-[10px] text-rose-400 font-bold mb-1 uppercase tracking-wider">{c.category}</div>
+                  <h4 class="text-xs font-bold text-white line-clamp-2 leading-snug">
+                    <a href={`/course/${c.slug || c.id}/`} class="hover:text-rose-400 transition-colors">
+                      {c.title}
+                    </a>
+                  </h4>
+                  <div class="mt-2 flex items-center justify-between text-[11px] pt-1 border-t border-slate-700/50">
+                    <span class="text-emerald-400 font-bold">100% Gratis</span>
+                    <a
+                      href={c.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="inline-flex items-center gap-1 font-bold text-rose-400 hover:underline"
+                    >
+                      <span>Klaim</span>
+                      <svg class="w-3 h-3" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                        <path d="M5 12h14M12 5l7 7-7 7"/>
+                      </svg>
+                    </a>
+                  </div>
+                </div>
+              ))}
+            </div>
+
+            <a
+              href="/#katalog"
+              class="block w-full text-center py-2.5 rounded-xl bg-rose-700 hover:bg-rose-600 text-white text-xs font-extrabold transition-colors shadow"
+            >
+              Jelajahi Semua Kursus Gratis →
+            </a>
+          </div>
+
+          <!-- Back to Tutorial Catalog Link -->
+          <div class="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 text-center">
+            <a
+              href="/tutorial/"
+              class="inline-flex items-center gap-1.5 text-xs font-bold text-slate-700 dark:text-slate-300 hover:text-rose-600 dark:hover:text-rose-400 transition-colors"
+            >
+              <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M19 12H5M12 19l-7-7 7-7"/>
+              </svg>
+              <span>Kembali ke Indeks Tutorial</span>
+            </a>
+          </div>
+
+        </aside>
+
+      </div>
+
+    </div>
+  </main>
+
+  <Footer />
+
+  <!-- Script for Copy Link & Telemetry -->
+  <script is:inline>
+    document.addEventListener('DOMContentLoaded', () => {
+      const shareBtn = document.getElementById('share-copy-btn');
+      if (shareBtn) {
+        shareBtn.addEventListener('click', async () => {
+          try {
+            await navigator.clipboard.writeText(window.location.href);
+            if (window.showToast) {
+              window.showToast('Tautan artikel berhasil disalin!');
+            }
+          } catch (_) {}
+        });
+      }
+
+      // Track article view in telemetry
+      const articleEl = document.getElementById('article-container');
+      if (articleEl && window.UdemyTelemetry) {
+        const slug = articleEl.getAttribute('data-article-slug');
+        const title = articleEl.getAttribute('data-article-title');
+        const category = articleEl.getAttribute('data-article-category');
+        window.UdemyTelemetry.trackArticleView({ slug, title, category });
+      }
+    });
+  </script>
+</BaseLayout>

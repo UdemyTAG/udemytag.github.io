@@ -4,6 +4,7 @@ import path from 'path';
 const distDir = path.resolve('dist');
 const publicDir = path.resolve('public');
 const coursesPath = path.resolve('src/data/courses.json');
+const articlesPath = path.resolve('src/data/articles.json');
 
 // 1. Sinkronisasi sitemap.xml
 const sitemap0Dist = path.join(distDir, 'sitemap-0.xml');
@@ -18,23 +19,40 @@ if (fs.existsSync(sitemap0Dist)) {
   console.log('Notice: sitemap-0.xml not yet generated in dist');
 }
 
-// 2. Generate llms-full.txt yang memuat seluruh kursus terindeks untuk AI Agents & LLMs
+// Load articles if exists
+let articles = [];
+if (fs.existsSync(articlesPath)) {
+  try {
+    articles = JSON.parse(fs.readFileSync(articlesPath, 'utf-8'));
+  } catch (_) {}
+}
+
+// 2. Generate llms-full.txt yang memuat seluruh kursus & artikel tutorial untuk AI Agents & LLMs
 try {
   if (fs.existsSync(coursesPath)) {
     const rawData = fs.readFileSync(coursesPath, 'utf-8');
     const courses = JSON.parse(rawData);
 
-    let fullContent = `# UdemyTAG - Indeks Lengkap Kupon Kursus Udemy 100% Gratis
+    let fullContent = `# UdemyTAG - Indeks Lengkap Kupon Kursus Udemy 100% Gratis & Tutorial Edukasi
 
-> Seluruh katalog kursus legal Udemy gratis dengan sertifikat kelulusan resmi dan akses seumur hidup.
+> Seluruh katalog kursus legal Udemy gratis dengan sertifikat kelulusan resmi dan akses seumur hidup, serta tutorial teknologi terkurasi.
 
 ## Navigasi
 - [UdemyTAG Home](https://udemytag.github.io/): Beranda direktori kupon diskon
+- [Indeks Tutorial & Tips](https://udemytag.github.io/tutorial/): Kumpulan panduan belajar programming, AI, dan cyber security
+- [Dashboard Web Analytics](https://udemytag.github.io/analytics/): Metrik performa real-time & transparansi data kupon
 - [Peta Situs (Sitemap)](https://udemytag.github.io/sitemap.xml): Peta situs lengkap
 - [Ringkasan Ringkas AI (llms.txt)](https://udemytag.github.io/llms.txt): Dokumen pengantar untuk model bahasa besar
 
-## Daftar Lengkap Kursus Terverifikasi (${courses.length} Kursus)
+## Artikel Tutorial & Panduan Teknologi Terverifikasi (${articles.length} Tutorial)
 `;
+
+    articles.forEach((art, idx) => {
+      const url = `https://udemytag.github.io/tutorial/${art.slug}/`;
+      fullContent += `${idx + 1}. [${art.title}](${url}): ${art.excerpt} | Kategori: ${art.category} | Durasi Baca: ${art.readTime} Menit | Tanggal: ${art.publishedAt}\n`;
+    });
+
+    fullContent += `\n## Daftar Lengkap Kursus Terverifikasi (${courses.length} Kursus)\n`;
 
     courses.forEach((c, idx) => {
       const slug = c.slug || c.id;
@@ -49,7 +67,7 @@ try {
     if (fs.existsSync(distDir)) {
       fs.writeFileSync(llmsFullDist, fullContent, 'utf-8');
     }
-    console.log(`✓ Successfully generated llms-full.txt with ${courses.length} courses`);
+    console.log(`✓ Successfully generated llms-full.txt with ${courses.length} courses & ${articles.length} articles`);
   }
 
   // 3. Pastikan llms.txt tersalin ke dist jika dist ada
@@ -65,7 +83,23 @@ try {
     const rawData = fs.readFileSync(coursesPath, 'utf-8');
     const courses = JSON.parse(rawData);
 
-    const rssItems = courses.slice(0, 50).map(c => {
+    // Combine articles first, then courses
+    const articleRssItems = articles.map(a => {
+      const url = `https://udemytag.github.io/tutorial/${a.slug}/`;
+      const cleanDesc = (a.excerpt || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+      const cleanTitle = (a.title || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+      const pubDate = new Date(a.publishedAt || Date.now()).toUTCString();
+      return `    <item>
+      <title>[Tutorial] ${cleanTitle}</title>
+      <link>${url}</link>
+      <guid isPermaLink="true">${url}</guid>
+      <description>${cleanDesc}</description>
+      <category>${a.category || 'Tutorial'}</category>
+      <pubDate>${pubDate}</pubDate>
+    </item>`;
+    });
+
+    const courseRssItems = courses.slice(0, 45).map(c => {
       const slug = c.slug || c.id;
       const courseUrl = `https://udemytag.github.io/course/${slug}/`;
       const pubDate = new Date().toUTCString();
@@ -80,17 +114,19 @@ try {
       <category>${c.category || 'Development'}</category>
       <pubDate>${pubDate}</pubDate>
     </item>`;
-    }).join('\n');
+    });
+
+    const allRssItems = [...articleRssItems, ...courseRssItems].join('\n');
 
     const rssXml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>UdemyTAG - Kupon Kursus Udemy 100% Gratis Bersertifikat</title>
+    <title>UdemyTAG - Kupon Kursus Udemy 100% Gratis & Tutorial Teknologi</title>
     <link>https://udemytag.github.io/</link>
-    <description>Koleksi kupon diskon 100% dan kursus gratis Udemy resmi bersertifikat terbaru 2026.</description>
+    <description>Koleksi kupon diskon 100% kursus gratis Udemy resmi bersertifikat dan tutorial teknologi terbaru 2026.</description>
     <language>id-ID</language>
     <atom:link href="https://udemytag.github.io/rss.xml" rel="self" type="application/rss+xml"/>
-${rssItems}
+${allRssItems}
   </channel>
 </rss>`;
 
@@ -100,21 +136,23 @@ ${rssItems}
     if (fs.existsSync(distDir)) {
       fs.writeFileSync(rssDist, rssXml, 'utf-8');
     }
-    console.log(`✓ Successfully generated rss.xml with ${Math.min(courses.length, 50)} items`);
+    console.log(`✓ Successfully generated rss.xml with ${articleRssItems.length} articles & ${courseRssItems.length} courses`);
 
     // 5. Generate GitHub High-Authority Backlink Catalog (DA 96 Anchor Link Network)
-    let awesomeMd = `# 🎓 Awesome Free Udemy Courses with Certificate - UdemyTAG Catalog
+    let awesomeMd = `# 🎓 Awesome Free Udemy Courses with Certificate & Tech Tutorials - UdemyTAG
 
-> **Direktori Kurasi Kursus Udemy Gratis Bersertifikat Resmi (Domain Authority Backlink Hub)**
-> Sumber utama: [UdemyTAG Official Website](https://udemytag.github.io/)
+> **Direktori Kurasi Kursus Udemy Gratis Bersertifikat Resmi & Pusat Panduan Belajar Digital (Domain Authority Backlink Hub)**
+> Sumber utama: [UdemyTAG Official Website](https://udemytag.github.io/) | [Pusat Tutorial](https://udemytag.github.io/tutorial/) | [Dashboard Web Analytics](https://udemytag.github.io/analytics/)
 
-Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certificate of Completion*) dan hak akses seumur hidup (*lifetime access*).
+Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certificate of Completion*), hak akses seumur hidup (*lifetime access*), serta tutorial teknologi praktis.
 
 ---
 
 ## 🚀 Tautan Cepat & Kategori Unggulan
 
 - 🌟 **[Beranda Direktori Kursus Udemy Gratis Bersertifikat](https://udemytag.github.io/)**
+- 📚 **[Pusat Artikel & Tutorial Belajar Teknologi](https://udemytag.github.io/tutorial/)**
+- 📊 **[Dashboard Web Analytics Real-time](https://udemytag.github.io/analytics/)**
 - 🐍 **[Kursus Python Gratis Bersertifikat](https://udemytag.github.io/?cat=development#katalog)**
 - 💻 **[Kursus Web Development & Coding Gratis](https://udemytag.github.io/?cat=development#katalog)**
 - 🔒 **[Kursus Cyber Security & IT Software Gratis](https://udemytag.github.io/?cat=it%20&%20software#katalog)**
@@ -122,6 +160,19 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 - 🎨 **[Kursus Desain Grafis & UI/UX Figma Gratis](https://udemytag.github.io/?cat=design#katalog)**
 - ❓ **[Panduan & FAQ Klaim Kupon Diskon 100%](https://udemytag.github.io/#faq)**
 
+---
+
+## 📝 Artikel Tutorial & Panduan Terpopuler
+
+| No | Judul Tutorial | Kategori | Waktu Baca | Tautan Baca Langsung |
+| :-: | :--- | :--- | :-: | :--- |
+`;
+
+    articles.forEach((art, idx) => {
+      awesomeMd += `| ${idx + 1} | **${art.title}** | \`${art.category}\` | ⏱️ ${art.readTime} Menit | [Baca di UdemyTAG](https://udemytag.github.io/tutorial/${art.slug}/) |\n`;
+    });
+
+    awesomeMd += `
 ---
 
 ## 📚 Daftar Kursus Gratis Aktif Terbaru (Update Otomatis)
@@ -143,7 +194,7 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
     if (fs.existsSync(distDir)) {
       fs.writeFileSync(path.join(distDir, 'AWESOME_UDEMY_COURSES.md'), awesomeMd, 'utf-8');
     }
-    console.log(`✓ Successfully generated AWESOME_UDEMY_COURSES.md with 40 direct authority backlinks`);
+    console.log(`✓ Successfully generated AWESOME_UDEMY_COURSES.md with ${articles.length} tutorials and 40 direct course backlinks`);
   }
 } catch (err) {
   console.error('Error generating authority assets in postbuild:', err);

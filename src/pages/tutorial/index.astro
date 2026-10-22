@@ -1,0 +1,327 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Navbar from '../../components/Navbar.astro';
+import Footer from '../../components/Footer.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import articlesData from '../../data/articles.json';
+import coursesData from '../../data/courses.json';
+
+// Unique categories with counts
+const categories = [
+  'Semua',
+  'Edukasi & Karir',
+  'Programming & IT',
+  'Data Science & AI',
+  'Cyber Security & IT',
+  'Desain & UI/UX'
+];
+
+const categoryCounts: Record<string, number> = {
+  'Semua': articlesData.length
+};
+
+articlesData.forEach((art) => {
+  categoryCounts[art.category] = (categoryCounts[art.category] || 0) + 1;
+});
+
+const totalActiveFree = coursesData.filter((c) => c.isFree !== false && !c.isExpired).length;
+
+// SEO Schemas
+const pageBreadcrumbs = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  'itemListElement': [
+    {
+      '@type': 'ListItem',
+      'position': 1,
+      'name': 'Beranda',
+      'item': 'https://udemytag.github.io/'
+    },
+    {
+      '@type': 'ListItem',
+      'position': 2,
+      'name': 'Tutorial & Tips',
+      'item': 'https://udemytag.github.io/tutorial/'
+    }
+  ]
+};
+
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  'name': 'Kumpulan Tutorial & Tips Singkat Teknologi & Kursus Udemy | UdemyTAG',
+  'description': 'Koleksi artikel tutorial, panduan roadmap web development, Python, Prompt Engineering AI, Cyber Security, dan strategi sertifikat gratis Udemy.',
+  'url': 'https://udemytag.github.io/tutorial/',
+  'hasPart': articlesData.map((art) => ({
+    '@type': 'TechArticle',
+    'headline': art.title,
+    'url': `https://udemytag.github.io/tutorial/${art.slug}/`,
+    'description': art.excerpt,
+    'datePublished': art.publishedAt
+  }))
+};
+---
+
+<BaseLayout
+  title="Tutorial & Tips Singkat Seputar Coding, AI, Cyber Security & Kursus Udemy | UdemyTAG"
+  description="Kumpulan artikel tutorial dan tips singkat seputar pemrograman, web development, Python, kecerdasan buatan (AI), keamanan siber, dan panduan klaim sertifikat Udemy gratis."
+  canonical="https://udemytag.github.io/tutorial/"
+>
+  <script type="application/ld+json" set:html={JSON.stringify(pageBreadcrumbs)} />
+  <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
+
+  <Navbar totalCourses={coursesData.length} totalActiveFree={totalActiveFree} />
+
+  <main class="flex-1 bg-slate-50 dark:bg-slate-950 transition-colors">
+    
+    <!-- Hero / Header Section -->
+    <header class="border-b border-slate-200/80 dark:border-slate-800/80 bg-white dark:bg-slate-900/60 py-10 sm:py-16">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <!-- Breadcrumb Navigation -->
+        <nav aria-label="Breadcrumb" class="mb-4">
+          <ol class="flex items-center gap-2 text-xs text-slate-500 dark:text-slate-400">
+            <li>
+              <a href="/" class="hover:text-rose-600 dark:hover:text-rose-400 transition-colors">Beranda</a>
+            </li>
+            <li class="flex items-center gap-2">
+              <span class="text-slate-300 dark:text-slate-600">/</span>
+              <span class="text-slate-900 dark:text-white font-semibold">Tutorial & Tips</span>
+            </li>
+          </ol>
+        </nav>
+
+        <div class="max-w-3xl">
+          <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-bold bg-rose-100 dark:bg-rose-950/70 text-rose-700 dark:text-rose-300 border border-rose-200 dark:border-rose-800/80 mb-3">
+            <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/>
+              <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>
+            </svg>
+            <span>Pusat Pengetahuan & Panduan</span>
+          </div>
+          <h1 class="text-2xl sm:text-4xl font-black text-slate-900 dark:text-white tracking-tight leading-tight">
+            Tutorial & Tips Singkat Teknologi
+          </h1>
+          <p class="text-sm sm:text-base text-slate-600 dark:text-slate-400 mt-2 leading-relaxed">
+            Panduan praktis, roadmap belajar terarah, serta tips memaksimalkan kursus gratis bersertifikat resmi untuk akselerasi karir digital Anda.
+          </p>
+        </div>
+
+        <!-- Search Bar & Instant Filter Toolbar -->
+        <div class="mt-8 space-y-4">
+          <div class="relative max-w-xl">
+            <input
+              type="text"
+              id="tutorial-search"
+              placeholder="Cari tutorial (misal: Python, Web Dev, Prompt AI, OWASP)..."
+              class="w-full pl-11 pr-4 py-3 rounded-2xl text-xs sm:text-sm bg-slate-50 dark:bg-slate-800/90 border border-slate-200 dark:border-slate-700/80 text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-rose-500 shadow-inner"
+            />
+            <svg class="w-5 h-5 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2 pointer-events-none" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"/>
+              <path d="m21 21-4.35-4.35"/>
+            </svg>
+          </div>
+
+          <!-- Category Pill Filter Tabs -->
+          <div class="flex items-center gap-2 overflow-x-auto pb-1 scrollbar-none" id="category-tabs">
+            {categories.map((cat, idx) => (
+              <button
+                type="button"
+                data-category={cat}
+                class={`category-tab-btn px-3.5 py-1.5 rounded-xl text-xs font-bold whitespace-nowrap transition-all ${
+                  idx === 0 
+                    ? 'bg-rose-700 text-white shadow-sm' 
+                    : 'bg-white dark:bg-slate-800/80 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-rose-400 dark:hover:border-rose-500'
+                }`}
+              >
+                <span>{cat}</span>
+                <span class="ml-1.5 text-[10px] px-1.5 py-0.2 rounded-full opacity-75 font-mono">
+                  {categoryCounts[cat] || 0}
+                </span>
+              </button>
+            ))}
+          </div>
+        </div>
+
+      </div>
+    </header>
+
+    <!-- Articles Section Catalog -->
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 sm:py-14">
+      
+      <!-- Counter Status -->
+      <div class="flex items-center justify-between text-xs text-slate-500 dark:text-slate-400 mb-6">
+        <span>Menampilkan <strong id="articles-count" class="text-slate-900 dark:text-white">{articlesData.length}</strong> tutorial</span>
+        <a href="/#katalog" class="text-rose-600 dark:text-rose-400 font-bold hover:underline">
+          Lihat Katalog Kursus Gratis →
+        </a>
+      </div>
+
+      <!-- Articles Grid -->
+      <div id="articles-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {articlesData.map((article) => (
+          <div 
+            class="article-item" 
+            data-category={article.category}
+            data-title={article.title.toLowerCase()}
+            data-excerpt={article.excerpt.toLowerCase()}
+            data-keywords={(article.seoKeywords || []).join(' ').toLowerCase()}
+          >
+            <ArticleCard article={article} />
+          </div>
+        ))}
+      </div>
+
+      <!-- Empty State -->
+      <div id="tutorial-empty-state" class="hidden py-16 text-center max-w-md mx-auto">
+        <div class="w-14 h-14 mx-auto mb-3 rounded-2xl bg-slate-100 dark:bg-slate-800 text-slate-400 flex items-center justify-center">
+          <svg class="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+          </svg>
+        </div>
+        <h3 class="text-base font-bold text-slate-900 dark:text-white">
+          Tidak ada tutorial yang cocok
+        </h3>
+        <p class="text-xs text-slate-500 dark:text-slate-400 mt-1 mb-4">
+          Coba kata kunci pencarian yang lain atau pilih kategori 'Semua'.
+        </p>
+        <button
+          id="reset-tutorial-search"
+          type="button"
+          class="px-4 py-2 rounded-xl text-xs font-bold bg-rose-700 text-white shadow hover:bg-rose-600 transition-colors"
+        >
+          Reset Pencarian
+        </button>
+      </div>
+
+      <!-- Bottom Promotion Banner: Explore Free Courses -->
+      <div class="mt-14 p-6 sm:p-8 rounded-3xl bg-gradient-to-r from-slate-900 via-rose-950 to-slate-900 text-white shadow-xl border border-rose-900/40 flex flex-col md:flex-row items-center justify-between gap-6">
+        <div class="space-y-1 text-center md:text-left">
+          <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-[11px] font-bold bg-rose-500/20 text-rose-300 border border-rose-500/30">
+            🔥 Terverifikasi 100% Gratis
+          </span>
+          <h2 class="text-xl sm:text-2xl font-black tracking-tight">
+            Ingin Langsung Praktik dengan Kursus Lengkap?
+          </h2>
+          <p class="text-xs sm:text-sm text-slate-300 max-w-xl leading-relaxed">
+            Klaim kupon diskon 100% dari ribuan instruktur Udemy resmi di seluruh dunia. Dapatkan sertifikat kelulusan resmi tanpa biaya sepeser pun.
+          </p>
+        </div>
+        <a
+          href="/#katalog"
+          class="inline-flex items-center gap-2 px-6 py-3 rounded-2xl bg-rose-600 hover:bg-rose-500 text-white text-xs sm:text-sm font-extrabold shadow-lg shadow-rose-600/30 hover:shadow-rose-600/50 transition-all flex-shrink-0 active:scale-95"
+        >
+          <span>Buka Katalog Kupon Kursus</span>
+          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+          </svg>
+        </a>
+      </div>
+
+    </section>
+
+  </main>
+
+  <Footer />
+
+  <!-- Client-side Interactive Filter Script -->
+  <script is:inline>
+    document.addEventListener('DOMContentLoaded', () => {
+      const searchInput = document.getElementById('tutorial-search');
+      const tabButtons = document.querySelectorAll('.category-tab-btn');
+      const articleItems = document.querySelectorAll('.article-item');
+      const counterSpan = document.getElementById('articles-count');
+      const emptyState = document.getElementById('tutorial-empty-state');
+      const resetBtn = document.getElementById('reset-tutorial-search');
+
+      let currentCat = 'Semua';
+      let currentQuery = '';
+
+      // Check URL parameters (e.g. ?cat=Programming+%26+IT or ?q=python)
+      const params = new URLSearchParams(window.location.search);
+      const urlCat = params.get('cat');
+      const urlQuery = params.get('q');
+
+      if (urlCat) {
+        currentCat = urlCat;
+      }
+      if (urlQuery && searchInput) {
+        searchInput.value = urlQuery;
+        currentQuery = urlQuery.toLowerCase();
+      }
+
+      function updateActiveTab() {
+        tabButtons.forEach((btn) => {
+          const btnCat = btn.getAttribute('data-category');
+          if (btnCat === currentCat) {
+            btn.className = 'category-tab-btn px-3.5 py-1.5 rounded-xl text-xs font-bold whitespace-nowrap transition-all bg-rose-700 text-white shadow-sm';
+          } else {
+            btn.className = 'category-tab-btn px-3.5 py-1.5 rounded-xl text-xs font-bold whitespace-nowrap transition-all bg-white dark:bg-slate-800/80 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-rose-400 dark:hover:border-rose-500';
+          }
+        });
+      }
+
+      function filterArticles() {
+        let visibleCount = 0;
+
+        articleItems.forEach((item) => {
+          const cat = item.getAttribute('data-category') || '';
+          const title = item.getAttribute('data-title') || '';
+          const excerpt = item.getAttribute('data-excerpt') || '';
+          const keywords = item.getAttribute('data-keywords') || '';
+
+          const matchCat = (currentCat === 'Semua') || (cat.toLowerCase() === currentCat.toLowerCase());
+          const matchQuery = !currentQuery || 
+            title.includes(currentQuery) || 
+            excerpt.includes(currentQuery) || 
+            keywords.includes(currentQuery);
+
+          if (matchCat && matchQuery) {
+            item.classList.remove('hidden');
+            visibleCount++;
+          } else {
+            item.classList.add('hidden');
+          }
+        });
+
+        if (counterSpan) counterSpan.textContent = visibleCount.toString();
+
+        if (visibleCount === 0) {
+          emptyState?.classList.remove('hidden');
+        } else {
+          emptyState?.classList.add('hidden');
+        }
+      }
+
+      // Tab click events
+      tabButtons.forEach((btn) => {
+        btn.addEventListener('click', () => {
+          currentCat = btn.getAttribute('data-category') || 'Semua';
+          updateActiveTab();
+          filterArticles();
+        });
+      });
+
+      // Search input events
+      if (searchInput) {
+        searchInput.addEventListener('input', (e) => {
+          currentQuery = (e.target.value || '').trim().toLowerCase();
+          filterArticles();
+        });
+      }
+
+      // Reset button
+      resetBtn?.addEventListener('click', () => {
+        currentCat = 'Semua';
+        currentQuery = '';
+        if (searchInput) searchInput.value = '';
+        updateActiveTab();
+        filterArticles();
+      });
+
+      // Initial filter run
+      updateActiveTab();
+      filterArticles();
+    });
+  </script>
+</BaseLayout>

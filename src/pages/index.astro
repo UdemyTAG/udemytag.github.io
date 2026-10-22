@@ -6,6 +6,7 @@ import CourseCard from '../components/CourseCard.astro';
 import SearchBar from '../components/SearchBar.astro';
 import CategoryFilter from '../components/CategoryFilter.astro';
 import Footer from '../components/Footer.astro';
+import ArticlesSection from '../components/ArticlesSection.astro';
 import coursesData from '../data/courses.json';
 
 // Urutan kategori baku
@@ -150,6 +151,9 @@ const totalSubscribers = coursesData.reduce((acc, c) => acc + (c.subscribers || 
       </div>
 
     </section>
+
+    <!-- Artikel & Tutorial Section -->
+    <ArticlesSection maxItems={3} />
 
     <!-- SEO Guide Section: Nilai Tambah & Edukasi (Google Helpful Content & Page One Signal) -->
     <section class="border-t border-slate-200/80 dark:border-slate-800 bg-slate-100/50 dark:bg-slate-900/40 py-10 sm:py-16">
