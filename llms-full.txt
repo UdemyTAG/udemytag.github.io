@@ -1,11 +1,21 @@
-# UdemyTAG - Indeks Lengkap Kupon Kursus Udemy 100% Gratis
+# UdemyTAG - Indeks Lengkap Kupon Kursus Udemy 100% Gratis & Tutorial Edukasi
 
-> Seluruh katalog kursus legal Udemy gratis dengan sertifikat kelulusan resmi dan akses seumur hidup.
+> Seluruh katalog kursus legal Udemy gratis dengan sertifikat kelulusan resmi dan akses seumur hidup, serta tutorial teknologi terkurasi.
 
 ## Navigasi
 - [UdemyTAG Home](https://udemytag.github.io/): Beranda direktori kupon diskon
+- [Indeks Tutorial & Tips](https://udemytag.github.io/tutorial/): Kumpulan panduan belajar programming, AI, dan cyber security
+- [Dashboard Web Analytics](https://udemytag.github.io/analytics/): Metrik performa real-time & transparansi data kupon
 - [Peta Situs (Sitemap)](https://udemytag.github.io/sitemap.xml): Peta situs lengkap
 - [Ringkasan Ringkas AI (llms.txt)](https://udemytag.github.io/llms.txt): Dokumen pengantar untuk model bahasa besar
+
+## Artikel Tutorial & Panduan Teknologi Terverifikasi (6 Tutorial)
+1. [Cara Mendapatkan Kursus Udemy Gratis Bersertifikat Resmi 2026 (Panduan Kupon 100% Off)](https://udemytag.github.io/tutorial/cara-klaim-kursus-udemy-gratis-bersertifikat-resmi/): Panduan langkah demi langkah cara klaim kursus Udemy berbayar menjadi gratis 100% dengan kupon legal instruktur, lengkap dengan sertifikat kelulusan resmi dan akses seumur hidup. | Kategori: Edukasi & Karir | Durasi Baca: 5 Menit | Tanggal: 2026-10-20
+2. [Roadmap Belajar Web Development dari Nol Hingga Siap Kerja (HTML, CSS, JS, React & Astro)](https://udemytag.github.io/tutorial/roadmap-belajar-web-development-dari-nol-sampai-siap-kerja/): Panduan panduan lengkap kurikulum belajar web development modern dari dasar. Urutan belajar yang terstruktur, efisien, dan paling diminati industri teknologi saat ini. | Kategori: Programming & IT | Durasi Baca: 7 Menit | Tanggal: 2026-10-18
+3. [Tutorial Python untuk Pemula: 7 Konsep Dasar yang Wajib Dikuasai Sebelum Belajar AI](https://udemytag.github.io/tutorial/tutorial-python-pemula-7-konsep-dasar-sebelum-belajar-ai/): Kuasai 7 fondasi penting pemrograman Python untuk pemula. Langkah awal paling tepat sebelum melangkah ke Machine Learning, Data Science, dan Artificial Intelligence. | Kategori: Data Science & AI | Durasi Baca: 6 Menit | Tanggal: 2026-10-15
+4. [Panduan Prompt Engineering: Trik Menulis Perintah ChatGPT, Claude & Gemini untuk Hasil Maksimal](https://udemytag.github.io/tutorial/panduan-prompt-engineering-menulis-perintah-chatgpt-gemini-claude/): Pelajari teknik prompt engineering praktis untuk mendapatkan jawaban AI yang presisi, mendalam, dan bebas halusinasi. Rumus prompt profesional untuk coding, analisis, dan kepenulisan. | Kategori: Data Science & AI | Durasi Baca: 6 Menit | Tanggal: 2026-10-12
+5. [Belajar Cyber Security Otodidak: Langkah Awal Menjadi Ethical Hacker & Bug Hunter](https://udemytag.github.io/tutorial/belajar-cyber-security-otodidak-langkah-awal-ethical-hacker/): Panduan jalur belajar keamanan siber secara mandiri dan legal. Kuasai networking, Linux fundamentals, web security (OWASP Top 10), dan persiapan sertifikasi industri internasional. | Kategori: Cyber Security & IT | Durasi Baca: 8 Menit | Tanggal: 2026-10-10
+6. [UI/UX Design Tips: 5 Aturan Emas Membuat Desain Web Modern, Elegan & Ramah Mobile](https://udemytag.github.io/tutorial/5-aturan-emas-desain-ui-ux-website-modern-mobile-friendly/): Trik merancang antarmuka website yang bersih, kontras tinggi, dan nyaman digunakan di ponsel pintar. Terapkan prinsip visual hierarchy, tipografi seimbang, dan micro-interaction. | Kategori: Desain & UI/UX | Durasi Baca: 5 Menit | Tanggal: 2026-10-08
 
 ## Daftar Lengkap Kursus Terverifikasi (75 Kursus)
 1. [SMART Goals Parenting](https://udemytag.github.io/course/smart-goals-parenting/): 5 Skills to Parenting Healthier and Easier. Bye-Bye Power Struggles! | Kategori: Development | Instruktur: Helen Hicks, Baba Oyewole | Rating: 4.8/5.0
