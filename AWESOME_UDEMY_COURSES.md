@@ -38,13 +38,13 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 
 | No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
 | :-: | :--- | :--- | :-: | :--- |
-| 1 | **Promoting Special Education Inclusion in Schools** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/promoting-special-education-inclusion-in-schools/) |
-| 2 | **American English Consonants for Chinese Professionals** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/american-english-consonants-for-chinese-professionals/) |
-| 3 | **Deloitte’s 2026 Global Human Capital Trends Report - PapaHR** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/deloitte-s-2026-global-human-capital-trends-report-papahr/) |
-| 4 | **Adobe Illustrator for T-Shirt Design: From Sketch to Print** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-illustrator-for-t-shirt-design-from-sketch-to-print/) |
-| 5 | **Employee Wellbeing Program: Culture, Benefits, Metrics [EN]** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/employee-wellbeing-program-culture-benefits-metrics-en/) |
-| 6 | **Hybrid Work Environments: Manage Remote & Hybrid Teams [EN]** | `Development` | ⭐ 4.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/hybrid-work-environments-manage-remote-hybrid-teams-en/) |
-| 7 | **The Complete HTML Course** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-html-course/) |
+| 1 | **The Certified Global CEO Masterclass: Leading at the Top** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-certified-global-ceo-masterclass-leading-at-the-top/) |
+| 2 | **Promoting Special Education Inclusion in Schools** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/promoting-special-education-inclusion-in-schools/) |
+| 3 | **American English Consonants for Chinese Professionals** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/american-english-consonants-for-chinese-professionals/) |
+| 4 | **Deloitte’s 2026 Global Human Capital Trends Report - PapaHR** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/deloitte-s-2026-global-human-capital-trends-report-papahr/) |
+| 5 | **Adobe Illustrator for T-Shirt Design: From Sketch to Print** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-illustrator-for-t-shirt-design-from-sketch-to-print/) |
+| 6 | **Employee Wellbeing Program: Culture, Benefits, Metrics [EN]** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/employee-wellbeing-program-culture-benefits-metrics-en/) |
+| 7 | **Hybrid Work Environments: Manage Remote & Hybrid Teams [EN]** | `Development` | ⭐ 4.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/hybrid-work-environments-manage-remote-hybrid-teams-en/) |
 | 8 | **Financial Services: Sovereign Wealth & National Funds** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-sovereign-wealth-national-funds/) |
 | 9 | **SMART Goals Parenting** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/smart-goals-parenting/) |
 | 10 | **Project Management: Post Mortems** | `Business` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/project-management-post-mortems/) |
