@@ -1,6 +1,72 @@
 [
   {
-    "id": "course-8",
+    "id": "course-1",
+    "slug": "inclusive-leadership-lead-diverse-and-global-teams",
+    "title": "Inclusive Leadership: Lead Diverse and Global Teams",
+    "url": "https://www.udemy.com/course/diversity-and-inclusion-for-hr/?couponCode=PAPAHR_OCT_602916",
+    "image": "https://img-c.udemycdn.com/course/240x135/6612441_ccda_3.jpg",
+    "category": "Development",
+    "coupon": "PAPAHR_OCT_602916",
+    "instructor": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "originalPrice": "$19.99",
+    "discountPrice": "Free",
+    "rating": "5.0",
+    "subscribers": 2999,
+    "reviews": 5,
+    "isFree": true,
+    "isExpired": false,
+    "claimedCount": 61,
+    "quota": 100,
+    "remainingSlots": 39,
+    "description": "inclusive leadership | leading diverse teams | cultural intelligence | unconscious bias | emotional intelligence | DEITotal:",
+    "expiryDate": "23/10/2026 18:19:10"
+  },
+  {
+    "id": "course-3",
+    "slug": "hr-audit-guide-and-checklist-with-729-point-xlsx-en",
+    "title": "HR Audit Guide and Checklist with 729-Point + XLSX [EN]",
+    "url": "https://www.udemy.com/course/hr-audit-guide-and-checklist-with-729-point-xlsx-en/?couponCode=PAPAHR_OCT_287163",
+    "image": "https://img-c.udemycdn.com/course/240x135/7138617_0a5d.jpg",
+    "category": "Design",
+    "coupon": "PAPAHR_OCT_287163",
+    "instructor": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "originalPrice": "$19.99",
+    "discountPrice": "Free",
+    "rating": "5.0",
+    "subscribers": 647,
+    "reviews": 2,
+    "isFree": true,
+    "isExpired": false,
+    "claimedCount": 80,
+    "quota": 100,
+    "remainingSlots": 20,
+    "description": "HR audit | HR checklist | HR function audit | HR metrics | gap analysis | ROI | HR KPIs | improvement roadmapTotal:",
+    "expiryDate": "23/10/2026 18:19:10"
+  },
+  {
+    "id": "course-4",
+    "slug": "stakeholder-management-engagement-influence-buy-in-en",
+    "title": "Stakeholder Management: Engagement, Influence & Buy-In [EN]",
+    "url": "https://www.udemy.com/course/internal-communications/?couponCode=PAPAHR_OCT_648372",
+    "image": "https://img-c.udemycdn.com/course/240x135/6627981_0a0e_3.jpg",
+    "category": "Business",
+    "coupon": "PAPAHR_OCT_648372",
+    "instructor": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "originalPrice": "$19.99",
+    "discountPrice": "Free",
+    "rating": "5.0",
+    "subscribers": 2863,
+    "reviews": 6,
+    "isFree": true,
+    "isExpired": false,
+    "claimedCount": 85,
+    "quota": 100,
+    "remainingSlots": 15,
+    "description": "Stakeholder analysis | stakeholder mapping | stakeholder engagement plan | project communication | PMBOK 7 | influencing",
+    "expiryDate": "23/10/2026 18:19:10"
+  },
+  {
+    "id": "course-19",
     "slug": "promoting-special-education-inclusion-in-schools",
     "title": "Promoting Special Education Inclusion in Schools",
     "url": "https://www.udemy.com/course/special-education-inclusion/?couponCode=1060FCF45FE630BFD678",
@@ -22,7 +88,7 @@
     "expiryDate": "22/10/2026 23:56:03"
   },
   {
-    "id": "course-9",
+    "id": "course-20",
     "slug": "american-english-consonants-for-chinese-professionals",
     "title": "American English Consonants for Chinese Professionals",
     "url": "https://www.udemy.com/course/consonants-for-advanced-chinese-learners-of-american-english/?couponCode=REALDISCOCT26",
@@ -44,7 +110,7 @@
     "expiryDate": "22/10/2026 18:29:29"
   },
   {
-    "id": "course-11",
+    "id": "course-22",
     "slug": "deloitte-s-2026-global-human-capital-trends-report-papahr",
     "title": "Deloitte’s 2026 Global Human Capital Trends Report | PapaHR",
     "url": "https://www.udemy.com/course/deloitte-human-capital-trends-report-2026-by-papahr-overview/?couponCode=PAPAHR_OCT_316173",
@@ -66,7 +132,7 @@
     "expiryDate": "22/10/2026 18:29:29"
   },
   {
-    "id": "course-12",
+    "id": "course-23",
     "slug": "adobe-illustrator-for-t-shirt-design-from-sketch-to-print",
     "title": "Adobe Illustrator for T-Shirt Design: From Sketch to Print",
     "url": "https://www.udemy.com/course/adobe-illustrator-for-t-shirt-design-from-sketch-to-print/?couponCode=012162A9D689D58F4601",
@@ -88,7 +154,7 @@
     "expiryDate": "22/10/2026 18:29:29"
   },
   {
-    "id": "course-13",
+    "id": "course-24",
     "slug": "employee-wellbeing-program-culture-benefits-metrics-en",
     "title": "Employee Wellbeing Program: Culture, Benefits, Metrics [EN]",
     "url": "https://www.udemy.com/course/gallup-q12/?couponCode=PAPAHR_OCT_488243",
@@ -110,7 +176,7 @@
     "expiryDate": "22/10/2026 18:29:29"
   },
   {
-    "id": "course-14",
+    "id": "course-25",
     "slug": "hybrid-work-environments-manage-remote-hybrid-teams-en",
     "title": "Hybrid Work Environments: Manage Remote & Hybrid Teams [EN]",
     "url": "https://www.udemy.com/course/hybrid-work-environments-manage-remote-hybrid-teams/?couponCode=PAPAHR_OCT_672352",
@@ -132,7 +198,7 @@
     "expiryDate": "22/10/2026 18:29:29"
   },
   {
-    "id": "course-15",
+    "id": "course-26",
     "slug": "financial-services-sovereign-wealth-national-funds",
     "title": "Financial Services: Sovereign Wealth & National Funds",
     "url": "https://www.udemy.com/course/financial-services-sovereign-wealth-national-funds/?couponCode=20THOCT",
@@ -154,7 +220,7 @@
     "expiryDate": "22/10/2026 18:29:29"
   },
   {
-    "id": "course-16",
+    "id": "course-27",
     "slug": "smart-goals-parenting",
     "title": "SMART Goals Parenting",
     "url": "https://www.udemy.com/course/smart-goals-parenting/?couponCode=20THOCT",
@@ -176,7 +242,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-17",
+    "id": "course-28",
     "slug": "project-management-post-mortems",
     "title": "Project Management: Post Mortems",
     "url": "https://www.udemy.com/course/project-management-post-mortems-x/?couponCode=20THOCT",
@@ -198,7 +264,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-18",
+    "id": "course-29",
     "slug": "leadership-for-successful-project-management-and-delivery",
     "title": "Leadership for Successful Project Management and Delivery",
     "url": "https://www.udemy.com/course/leadership-for-successful-project-management-and-delivery/?couponCode=20THOCT",
@@ -220,7 +286,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-19",
+    "id": "course-30",
     "slug": "introduction-to-financial-controls",
     "title": "Introduction to Financial Controls",
     "url": "https://www.udemy.com/course/introduction-to-financial-controls/?couponCode=20THOCT",
@@ -242,7 +308,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-20",
+    "id": "course-31",
     "slug": "empathy-and-emotional-intelligence-for-project-managers",
     "title": "Empathy and Emotional Intelligence for Project Managers",
     "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=20THOCT",
@@ -264,7 +330,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-21",
+    "id": "course-32",
     "slug": "organizational-influences-project-management-lifecycle",
     "title": "Organizational Influences & Project Management Lifecycle",
     "url": "https://www.udemy.com/course/organizational-influences-project-management-lifecycle-qi/?couponCode=20THOCT",
@@ -286,7 +352,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-22",
+    "id": "course-33",
     "slug": "financial-services-introduction-to-etfs",
     "title": "Financial Services: Introduction to ETFs",
     "url": "https://www.udemy.com/course/financial-services-introduction-to-etfs/?couponCode=20THOCT",
@@ -308,7 +374,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-23",
+    "id": "course-34",
     "slug": "financial-services-overview-of-central-banks",
     "title": "Financial Services - Overview of Central Banks",
     "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=20THOCT",
@@ -330,7 +396,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-24",
+    "id": "course-35",
     "slug": "managing-social-anxiety-in-the-workplace",
     "title": "Managing Social Anxiety in the Workplace",
     "url": "https://www.udemy.com/course/managing-social-anxiety-in-the-workplace/?couponCode=20THOCT",
@@ -352,7 +418,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-25",
+    "id": "course-36",
     "slug": "financial-services-overview-of-retail-banking",
     "title": "Financial Services - Overview of Retail Banking",
     "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=20THOCT",
@@ -374,7 +440,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-26",
+    "id": "course-37",
     "slug": "workplace-productivity-supporting-others-through-change",
     "title": "Workplace Productivity - Supporting Others Through Change",
     "url": "https://www.udemy.com/course/workplace-productivity-supporting-others-through-change/?couponCode=20THOCT",
@@ -396,7 +462,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-27",
+    "id": "course-38",
     "slug": "mental-health-for-the-workplace",
     "title": "Mental Health for the Workplace",
     "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=20THOCT",
@@ -418,7 +484,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-28",
+    "id": "course-39",
     "slug": "emotional-intelligence-in-leadership",
     "title": "Emotional Intelligence in Leadership",
     "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=20THOCT",
@@ -440,7 +506,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-29",
+    "id": "course-40",
     "slug": "financial-services-overview-of-commodities",
     "title": "Financial Services: Overview of Commodities",
     "url": "https://www.udemy.com/course/financial-services-overview-of-commodities/?couponCode=20THOCT",
@@ -462,7 +528,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-30",
+    "id": "course-41",
     "slug": "workplace-productivity-coping-with-the-anxiety-of-leadership",
     "title": "Workplace Productivity-Coping with the Anxiety of Leadership",
     "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=20THOCT",
@@ -484,7 +550,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-31",
+    "id": "course-42",
     "slug": "financial-services-basics-of-business-corporate-banking",
     "title": "Financial Services - Basics of Business & Corporate Banking",
     "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=20THOCT",
@@ -506,7 +572,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-32",
+    "id": "course-43",
     "slug": "financial-services-funds-flow-optimization-concepts",
     "title": "Financial Services - Funds Flow Optimization Concepts",
     "url": "https://www.udemy.com/course/financial-services-funds-flow-optimization-concepts/?couponCode=20THOCT",
@@ -528,7 +594,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-33",
+    "id": "course-44",
     "slug": "financial-services-basics-of-regulation-compliance",
     "title": "Financial Services - Basics of Regulation & Compliance",
     "url": "https://www.udemy.com/course/financial-services-basics-of-regulation-compliance/?couponCode=20THOCT",
@@ -550,7 +616,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-34",
+    "id": "course-45",
     "slug": "financial-stewardship-for-decision-makers-and-leaders",
     "title": "Financial Stewardship for Decision Makers and Leaders",
     "url": "https://www.udemy.com/course/financial-stewardship-for-decision-makers-and-leaders/?couponCode=20THOCT",
@@ -572,7 +638,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-35",
+    "id": "course-46",
     "slug": "audit-administration-effective-communication-in-audit",
     "title": "Audit Administration - Effective Communication in Audit",
     "url": "https://www.udemy.com/course/audit-administration-effective-communication-in-audit/?couponCode=20THOCT",
@@ -594,7 +660,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-36",
+    "id": "course-47",
     "slug": "financial-services-understanding-interest-rates",
     "title": "Financial Services - Understanding Interest Rates",
     "url": "https://www.udemy.com/course/financial-services-understanding-interest-rates/?couponCode=20THOCT",
@@ -616,7 +682,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-37",
+    "id": "course-48",
     "slug": "employee-wellbeing-toolkit",
     "title": "Employee Wellbeing Toolkit",
     "url": "https://www.udemy.com/course/employee-wellbeing-toolkit/?couponCode=20THOCT",
@@ -638,7 +704,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-38",
+    "id": "course-49",
     "slug": "principles-of-effective-communication",
     "title": "Principles of Effective Communication",
     "url": "https://www.udemy.com/course/principles-of-effective-communication/?couponCode=20THOCT",
@@ -660,7 +726,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-39",
+    "id": "course-50",
     "slug": "financial-services-financial-wellbeing-for-employees",
     "title": "Financial Services: Financial Wellbeing for Employees",
     "url": "https://www.udemy.com/course/financial-services-financial-wellbeing-for-employees/?couponCode=20THOCT",
@@ -682,7 +748,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-40",
+    "id": "course-51",
     "slug": "authentic-leadership",
     "title": "Authentic Leadership",
     "url": "https://www.udemy.com/course/authentic-leadership-t/?couponCode=20THOCT",
@@ -704,7 +770,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-41",
+    "id": "course-52",
     "slug": "currency-management-for-small-businesses-corporates",
     "title": "Currency Management for Small Businesses & Corporates",
     "url": "https://www.udemy.com/course/currency-management-for-small-businesses-corporates/?couponCode=20THOCT",
@@ -726,7 +792,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-42",
+    "id": "course-53",
     "slug": "prioritization-techniques-for-decision-makers-and-leaders",
     "title": "Prioritization Techniques for Decision Makers and Leaders",
     "url": "https://www.udemy.com/course/prioritization-techniques-for-decision-makers-and-leaders/?couponCode=20THOCT",
@@ -748,7 +814,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-43",
+    "id": "course-54",
     "slug": "intentional-leadership",
     "title": "Intentional Leadership",
     "url": "https://www.udemy.com/course/intentional-leadership/?couponCode=20THOCT",
@@ -770,7 +836,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-44",
+    "id": "course-55",
     "slug": "workplace-stress-management-strategies",
     "title": "Workplace Stress Management Strategies",
     "url": "https://www.udemy.com/course/workplace-stress-management-strategies/?couponCode=20THOCT",
@@ -792,7 +858,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-45",
+    "id": "course-56",
     "slug": "visualization-techniques-for-decision-makers-and-leaders",
     "title": "Visualization techniques for Decision Makers and Leaders",
     "url": "https://www.udemy.com/course/visualization-techniques-for-decision-makers-and-leaders/?couponCode=20THOCT",
@@ -814,7 +880,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-46",
+    "id": "course-57",
     "slug": "introduction-to-risk-management-in-financial-services",
     "title": "Introduction to Risk Management in Financial Services",
     "url": "https://www.udemy.com/course/introduction-to-risk-management-in-financial-services/?couponCode=20THOCT",
@@ -836,7 +902,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-47",
+    "id": "course-58",
     "slug": "introduction-to-financial-products-services",
     "title": "Introduction to Financial Products & Services",
     "url": "https://www.udemy.com/course/introduction-to-financial-products-services-i/?couponCode=20THOCT",
@@ -858,7 +924,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-48",
+    "id": "course-59",
     "slug": "developing-successful-professional-relationships",
     "title": "Developing successful Professional Relationships",
     "url": "https://www.udemy.com/course/developing-successful-professional-relationships/?couponCode=20THOCT",
@@ -880,7 +946,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-49",
+    "id": "course-60",
     "slug": "audit-administration-audit-sampling",
     "title": "Audit Administration - Audit Sampling",
     "url": "https://www.udemy.com/course/audit-administration-audit-sampling/?couponCode=20THOCT",
@@ -902,7 +968,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-50",
+    "id": "course-61",
     "slug": "introduction-to-risk-management-decision-makers-leaders",
     "title": "Introduction to Risk Management - Decision Makers & Leaders",
     "url": "https://www.udemy.com/course/introduction-to-risk-management-decision-makers-leaders/?couponCode=20THOCT",
@@ -924,7 +990,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-51",
+    "id": "course-62",
     "slug": "productivity-focus-concentration-performance-strategies",
     "title": "Productivity - Focus, Concentration & Performance Strategies",
     "url": "https://www.udemy.com/course/productivity-focus-concentration-performance-strategies/?couponCode=20THOCT",
@@ -946,51 +1012,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-53",
-    "slug": "mastering-c-language-c-programming-for-beginners",
-    "title": "Mastering C++ Language - C++ Programming For Beginners",
-    "url": "https://www.udemy.com/course/mastering-c-plus-language-c-programming-for-beginners/?couponCode=B8214DD3EF8CF1835EB2",
-    "image": "https://img-c.udemycdn.com/course/240x135/5623458_170b_3.jpg",
-    "category": "Development",
-    "coupon": "B8214DD3EF8CF1835EB2",
-    "instructor": "Sara Academy",
-    "originalPrice": "$19.99",
-    "discountPrice": "Free",
-    "rating": "4.0",
-    "subscribers": 32325,
-    "reviews": 371,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 55,
-    "quota": 100,
-    "remainingSlots": 45,
-    "description": "Learn Mastering C++ Programming Language Only for Beginners. Join the Comprehensive C++ Masterclass!",
-    "expiryDate": "21/10/2026 18:29:07"
-  },
-  {
-    "id": "course-54",
-    "slug": "css-the-complete-guide-to-css-for-beginners",
-    "title": "CSS - The Complete Guide to CSS for Beginners",
-    "url": "https://www.udemy.com/course/css-the-complete-guide-to-css-zero-to-hero/?couponCode=F1A2B958675CF6710ACB",
-    "image": "https://img-c.udemycdn.com/course/240x135/5636428_79ca_2.jpg",
-    "category": "Development",
-    "coupon": "F1A2B958675CF6710ACB",
-    "instructor": "Sara Academy",
-    "originalPrice": "$19.99",
-    "discountPrice": "Free",
-    "rating": "4.3",
-    "subscribers": 29649,
-    "reviews": 312,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 50,
-    "quota": 100,
-    "remainingSlots": 50,
-    "description": "A Complete CSS Programming Course for Beginners to Advanced. Create Colorful, Interactive and Accessible CSS Websites!",
-    "expiryDate": "21/10/2026 18:29:07"
-  },
-  {
-    "id": "course-55",
+    "id": "course-63",
     "slug": "cpo-chief-product-officer-from-manager-to-c-level-en",
     "title": "CPO: Chief Product Officer: from Manager to C-Level [EN]",
     "url": "https://www.udemy.com/course/cpo-chief-product-officer-from-manager-to-c-level-en/?couponCode=PAPAHR_OCT_592804",
@@ -1012,29 +1034,7 @@
     "expiryDate": "21/10/2026 18:29:07"
   },
   {
-    "id": "course-56",
-    "slug": "people-partner-hr-certification-program-for-future-hrbp-en",
-    "title": "People Partner HR certification program for future HRBP [EN]",
-    "url": "https://www.udemy.com/course/become-a-certified-people-partner-your-path-to-a-rewarding/?couponCode=PAPAHR_OCT_676622",
-    "image": "https://img-c.udemycdn.com/course/240x135/6305507_0e25_6.jpg",
-    "category": "Development",
-    "coupon": "PAPAHR_OCT_676622",
-    "instructor": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
-    "originalPrice": "$54.99",
-    "discountPrice": "Free",
-    "rating": "4.2",
-    "subscribers": 10726,
-    "reviews": 94,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 45,
-    "quota": 100,
-    "remainingSlots": 55,
-    "description": "Development & Career Growth | Human Resources | Business Partner | Employee Relations | HRPP | Leadership | Enablement",
-    "expiryDate": "21/10/2026 18:29:07"
-  },
-  {
-    "id": "course-57",
+    "id": "course-64",
     "slug": "people-management-mba-build-lead-high-performing-teams-en",
     "title": "People Management MBA Build Lead High Performing Teams [EN]",
     "url": "https://www.udemy.com/course/people-management-mba-build-and-lead-high-performing-teams/?couponCode=PAPAHR_OCT_872457",
@@ -1056,7 +1056,7 @@
     "expiryDate": "21/10/2026 18:29:07"
   },
   {
-    "id": "course-58",
+    "id": "course-65",
     "slug": "b2b-marketing-icp-content-demand-and-sales-en",
     "title": "B2B Marketing: ICP, Content, Demand and Sales [EN]",
     "url": "https://www.udemy.com/course/gamedev-recruiter/?couponCode=PAPAHR_OCT_574836",
@@ -1078,7 +1078,7 @@
     "expiryDate": "21/10/2026 18:29:07"
   },
   {
-    "id": "course-59",
+    "id": "course-66",
     "slug": "advanced-capcut-masterclass-complete-video-editing-guide",
     "title": "Advanced CapCut Masterclass: Complete Video Editing Guide",
     "url": "https://www.udemy.com/course/advanced-capcut-masterclass-complete-video-editing-guide/?couponCode=7D3072F2930302F94686",
@@ -1100,7 +1100,7 @@
     "expiryDate": "21/10/2026 18:29:07"
   },
   {
-    "id": "course-60",
+    "id": "course-67",
     "slug": "blogging-and-influencer-marketing",
     "title": "Blogging and Influencer Marketing",
     "url": "https://www.udemy.com/course/blogging-and-influencer-marketing/?couponCode=7BAC320B99F9F297276F",
@@ -1122,7 +1122,7 @@
     "expiryDate": "21/10/2026 18:29:07"
   },
   {
-    "id": "course-61",
+    "id": "course-68",
     "slug": "ai-visual-design-with-adobe-firefly",
     "title": "AI Visual Design with Adobe Firefly",
     "url": "https://www.udemy.com/course/ai-visual-design-with-adobe-firefly/?couponCode=CC8042645298CC8C0F39",
@@ -1144,7 +1144,7 @@
     "expiryDate": "21/10/2026 18:29:07"
   },
   {
-    "id": "course-63",
+    "id": "course-70",
     "slug": "ai-to-empower-your-marketing-team",
     "title": "AI to Empower your Marketing Team",
     "url": "https://www.udemy.com/course/ai-to-empower-your-marketing-team/?couponCode=7B4E3FAFF179BC2753F0",
@@ -1166,7 +1166,7 @@
     "expiryDate": "21/10/2026 18:29:07"
   },
   {
-    "id": "course-64",
+    "id": "course-71",
     "slug": "playing-with-binary",
     "title": "Playing with Binary",
     "url": "https://www.udemy.com/course/playing-with-binary/?couponCode=380A7C02BB876E08FA83",
@@ -1188,7 +1188,7 @@
     "expiryDate": "21/10/2026 18:29:07"
   },
   {
-    "id": "course-65",
+    "id": "course-72",
     "slug": "ai-powered-seo-audit-diagnose-optimize-and-rank-fast",
     "title": "AI-Powered SEO Audit: Diagnose, Optimize and Rank Fast",
     "url": "https://www.udemy.com/course/ai-powered-seo-audit/?couponCode=180295DA354FDD19305D",
@@ -1210,7 +1210,7 @@
     "expiryDate": "21/10/2026 18:29:07"
   },
   {
-    "id": "course-66",
+    "id": "course-73",
     "slug": "rewrite-your-reality-10x-your-writing-skills-effortlessly",
     "title": "Rewrite Your Reality: 10x Your Writing Skills Effortlessly",
     "url": "https://www.udemy.com/course/rewrite-your-reality-10x-your-writing-skills-effortlessly/?couponCode=F5899E930D25E938ED98",
@@ -1232,29 +1232,7 @@
     "expiryDate": "21/10/2026 18:29:07"
   },
   {
-    "id": "course-67",
-    "slug": "wordpress-elementor-course-develop-site-without-coding",
-    "title": "Wordpress Elementor Course: Develop Site Without Coding",
-    "url": "https://www.udemy.com/course/wordpress-elementor-course-develop-site-without-coding/?couponCode=C025B9BB2C0BAE3287AA",
-    "image": "https://img-c.udemycdn.com/course/240x135/4595742_4e09_2.jpg",
-    "category": "Development",
-    "coupon": "C025B9BB2C0BAE3287AA",
-    "instructor": "Stephen Koel Soren",
-    "originalPrice": "$54.99",
-    "discountPrice": "Free",
-    "rating": "4.5",
-    "subscribers": 40587,
-    "reviews": 296,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 65,
-    "quota": 100,
-    "remainingSlots": 35,
-    "description": "Develop Website With Zero Coding Knowledge by Elementor and Wordpress",
-    "expiryDate": "21/10/2026 18:29:07"
-  },
-  {
-    "id": "course-68",
+    "id": "course-74",
     "slug": "b2b-outbound-lead-generation-mastery",
     "title": "B2B Outbound Lead Generation Mastery",
     "url": "https://www.udemy.com/course/b2b-outbound-lead-generation-mastery/?couponCode=A31BDB91BFDBFF9E8E32",
@@ -1276,95 +1254,315 @@
     "expiryDate": "21/10/2026 18:29:07"
   },
   {
-    "id": "course-1",
-    "slug": "python-and-flask-demonstrations-practice-course",
-    "title": "Python And Flask  Demonstrations Practice Course",
-    "url": "https://www.udemy.com/course/python-and-flask-only-demonstration-course/?couponCode=0B540B6DF3C040C06623",
-    "image": "https://img-c.udemycdn.com/course/240x135/3526008_d891_5.jpg",
-    "category": "Development",
-    "coupon": "0B540B6DF3C040C06623",
-    "instructor": "Horizon Tech",
-    "originalPrice": "$44.99",
-    "discountPrice": "$44.99",
-    "rating": "4.5",
-    "subscribers": 233213,
-    "reviews": 1665,
-    "isFree": false,
-    "isExpired": true,
-    "claimedCount": 100,
-    "quota": 100,
-    "remainingSlots": 0,
-    "description": "This course is a Great Practice to both fundamental python programming concepts and the Flask Framework by demonstration",
-    "expiryDate": "23/10/2026 11:10:24"
-  },
-  {
     "id": "course-2",
-    "slug": "the-complete-sql-bootcamp-a-step-by-step-approach",
-    "title": "The Complete SQL Bootcamp: A Step-by-Step Approach",
-    "url": "https://www.udemy.com/course/the-complete-sql-bootcamp-a-step-by-step-approach/?couponCode=5DEAA61B8210ADEBC459",
-    "image": "https://img-c.udemycdn.com/course/240x135/6201007_b527_2.jpg",
+    "slug": "bim-structural-steel-detailing-course-zero-to-hero",
+    "title": "BIM | Structural Steel Detailing Course | Zero to Hero",
+    "url": "https://www.udemy.com/course/bim-structural-steel-detailing-course-zero-to-hero/?couponCode=F48CB0D4329C08367DF7",
+    "image": "https://img-c.udemycdn.com/course/240x135/7026721_ca96_2.jpg",
     "category": "Development",
-    "coupon": "5DEAA61B8210ADEBC459",
-    "instructor": "Bantu Ngxola, xxjordan Code",
-    "originalPrice": "$49.99",
-    "discountPrice": "$49.99",
-    "rating": "4.6",
-    "subscribers": 5070,
-    "reviews": 255,
-    "isFree": false,
-    "isExpired": true,
-    "claimedCount": 100,
-    "quota": 100,
-    "remainingSlots": 0,
-    "description": "Master SQL with this hands-on master class",
-    "expiryDate": "23/10/2026 11:10:24"
-  },
-  {
-    "id": "course-3",
-    "slug": "online-safety-cybersecurity-health-scam-prevention",
-    "title": "Online Safety: Cybersecurity, Health & Scam Prevention",
-    "url": "https://www.udemy.com/course/online-safety-cybersecurity-health-scam-prevention/?couponCode=C335522470347FD14818",
-    "image": "https://img-c.udemycdn.com/course/240x135/6819361_1993_2.jpg",
-    "category": "IT & Software",
-    "coupon": "C335522470347FD14818",
-    "instructor": "Sadia Islam Rimi",
+    "coupon": "F48CB0D4329C08367DF7",
+    "instructor": "Ashish Pandit",
     "originalPrice": "$19.99",
     "discountPrice": "$19.99",
-    "rating": "4.4",
-    "subscribers": 3278,
-    "reviews": 15,
+    "rating": "3.1",
+    "subscribers": 1869,
+    "reviews": 6,
     "isFree": false,
     "isExpired": true,
     "claimedCount": 100,
     "quota": 100,
     "remainingSlots": 0,
-    "description": "Basic Online Safety guide to cyber hygiene, GP services, prescriptions, online banking, budgeting and benefits",
-    "expiryDate": "23/10/2026 11:10:24"
-  },
-  {
-    "id": "course-4",
-    "slug": "ai-in-healthcare-a-z-guide-on-tech-applications-ethics",
-    "title": "AI in Healthcare: A-Z Guide on Tech, Applications & Ethics",
-    "url": "https://www.udemy.com/course/ai-in-healthcare-a-z-guide-on-tech-applications-ethics/?couponCode=9EAF34227E8FADF204E5",
-    "image": "https://img-c.udemycdn.com/course/240x135/6905893_f165.jpg",
-    "category": "Design",
-    "coupon": "9EAF34227E8FADF204E5",
-    "instructor": "Neyamul Hasan, M.Pharm",
-    "originalPrice": "$19.99",
-    "discountPrice": "$19.99",
-    "rating": "4.3",
-    "subscribers": 6097,
-    "reviews": 42,
-    "isFree": false,
-    "isExpired": true,
-    "claimedCount": 100,
-    "quota": 100,
-    "remainingSlots": 0,
-    "description": "Learn how AI is transforming diagnostics, drug discovery, and surgery, and explore its ethics, challenges, and future",
-    "expiryDate": "23/10/2026 11:10:24"
+    "description": "Structural Steel Detailing",
+    "expiryDate": "23/10/2026 18:19:10"
   },
   {
     "id": "course-5",
+    "slug": "internal-audit-risk-controls-and-the-audit-process-en",
+    "title": "Internal Audit: Risk, Controls and the Audit Process [EN]",
+    "url": "https://www.udemy.com/course/ai-performance-management/?couponCode=PAPAHR_OCT_196893",
+    "image": "https://img-c.udemycdn.com/course/240x135/6609815_a95c_3.jpg",
+    "category": "Development",
+    "coupon": "PAPAHR_OCT_196893",
+    "instructor": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "originalPrice": "$19.99",
+    "discountPrice": "$19.99",
+    "rating": "5.0",
+    "subscribers": 3049,
+    "reviews": 5,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "This course contains the use of artificial intelligence.Most audit findings are accurate and change nothing.",
+    "expiryDate": "23/10/2026 18:19:10"
+  },
+  {
+    "id": "course-6",
+    "slug": "php-laravel-build-real-estate-management-system",
+    "title": "PHP Laravel: Build Real Estate Management System",
+    "url": "https://www.udemy.com/course/php-laravel-2023-build-real-estate-management-system/?couponCode=LARAREALESTATE74",
+    "image": "https://img-c.udemycdn.com/course/240x135/5415040_56e7_4.jpg",
+    "category": "Business",
+    "coupon": "LARAREALESTATE74",
+    "instructor": "Web Coding",
+    "originalPrice": "$64.99",
+    "discountPrice": "$64.99",
+    "rating": "4.1",
+    "subscribers": 26881,
+    "reviews": 157,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Build Real Estate Property Listing Project with Laravel 10 MySQL and Bootstrap and Build up your Web Development Skills",
+    "expiryDate": "23/10/2026 18:19:10"
+  },
+  {
+    "id": "course-7",
+    "slug": "the-complete-claude-code-masterclass-2026",
+    "title": "The Complete Claude Code Masterclass [2026]",
+    "url": "https://www.udemy.com/course/mastering-claude-code/?couponCode=JULYLOWPRICE",
+    "image": "https://img-c.udemycdn.com/course/240x135/7161621_4332_3.jpg",
+    "category": "Development",
+    "coupon": "JULYLOWPRICE",
+    "instructor": "Learning Technologies [105000+ Students]",
+    "originalPrice": "$39.99",
+    "discountPrice": "$39.99",
+    "rating": "4.0",
+    "subscribers": 2457,
+    "reviews": 45,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Learn Claude AI from Scratch → Build Real-World AI Apps,  Automate Workflows, and Become an AI Expert in 2026",
+    "expiryDate": "23/10/2026 18:19:10"
+  },
+  {
+    "id": "course-8",
+    "slug": "php-codeigniter-4-build-food-ordering-ecommerce-store-2026",
+    "title": "PHP CodeIgniter 4: Build Food Ordering Ecommerce Store 2026",
+    "url": "https://www.udemy.com/course/php-codeigniter-4-build-food-ordering-ecommerce-store-2025/?couponCode=CIFOODSTORE58",
+    "image": "https://img-c.udemycdn.com/course/240x135/6702095_d345_3.jpg",
+    "category": "Design",
+    "coupon": "CIFOODSTORE58",
+    "instructor": "Web Coding",
+    "originalPrice": "$19.99",
+    "discountPrice": "$19.99",
+    "rating": "4.5",
+    "subscribers": 1589,
+    "reviews": 8,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Learn to Build a Complete Food Ordering eCommerce Website Using PHP CodeIgniter 4, MySQL, Bootstrap and PayPal",
+    "expiryDate": "23/10/2026 18:19:10"
+  },
+  {
+    "id": "course-9",
+    "slug": "become-master-in-microsoft-power-automate-for-cloud",
+    "title": "Become Master in Microsoft Power Automate for Cloud",
+    "url": "https://www.udemy.com/course/learn-rpa-microsoft-power-automate-step-by-step/?couponCode=JULYLOWPRICE",
+    "image": "https://img-c.udemycdn.com/course/240x135/6660207_2ec6_6.jpg",
+    "category": "IT & Software",
+    "coupon": "JULYLOWPRICE",
+    "instructor": "Learning Technologies [105000+ Students]",
+    "originalPrice": "$19.99",
+    "discountPrice": "$19.99",
+    "rating": "4.7",
+    "subscribers": 3465,
+    "reviews": 191,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Power Automate for Cloud with Agentic Automation + Power Automate for Desktop + PL - 500 Question & AnswerTotal:",
+    "expiryDate": "23/10/2026 18:19:10"
+  },
+  {
+    "id": "course-10",
+    "slug": "learn-pl-500-power-automate-rpa-developer-associate",
+    "title": "Learn PL-500 Power Automate RPA Developer Associate",
+    "url": "https://www.udemy.com/course/pl-500-microsoft-power-automate-rpa-developer-bootcamp/?couponCode=JULYLOWPRICE",
+    "image": "https://img-c.udemycdn.com/course/240x135/5422868_f866_9.jpg",
+    "category": "Development",
+    "coupon": "JULYLOWPRICE",
+    "instructor": "Learning Technologies [105000+ Students]",
+    "originalPrice": "$64.99",
+    "discountPrice": "$64.99",
+    "rating": "4.1",
+    "subscribers": 5461,
+    "reviews": 609,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "PL-500 Concepts with 100 + Q&A theoretically & Practically to Microsoft Power Automate RPA Developer Certification exam",
+    "expiryDate": "23/10/2026 18:19:10"
+  },
+  {
+    "id": "course-11",
+    "slug": "microsoft-copilot-studio-future-of-ai-agents-2026",
+    "title": "Microsoft Copilot Studio : Future of AI Agents [2026]",
+    "url": "https://www.udemy.com/course/mastering-microsoft-copilot-studio-future-of-ai-agents/?couponCode=JULYLOWPRICE",
+    "image": "https://img-c.udemycdn.com/course/240x135/7009905_dc6e_2.jpg",
+    "category": "Development",
+    "coupon": "JULYLOWPRICE",
+    "instructor": "Learning Technologies [105000+ Students]",
+    "originalPrice": "$19.99",
+    "discountPrice": "$19.99",
+    "rating": "4.2",
+    "subscribers": 2445,
+    "reviews": 123,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Become master in Microsoft Copilot Studio, Microsoft Copilot Studio: Low-Code AI Agent DevelopmentTotal:",
+    "expiryDate": "23/10/2026 18:19:10"
+  },
+  {
+    "id": "course-12",
+    "slug": "claude-certified-developer-foundations-ccdv-f-exam-prep-26",
+    "title": "Claude Certified Developer Foundations (CCDV-F) Exam Prep 26",
+    "url": "https://www.udemy.com/course/claude-certified-developer-foundations-ccdv-f-certification/?couponCode=OCTFREE02",
+    "image": "https://img-c.udemycdn.com/course/240x135/7359769_a26d_5.jpg",
+    "category": "Development",
+    "coupon": "OCTFREE02",
+    "instructor": "Learning Technologies [105000+ Students]",
+    "originalPrice": "$34.99",
+    "discountPrice": "$34.99",
+    "rating": "3.7",
+    "subscribers": 1318,
+    "reviews": 16,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Claude Certified Developer – Foundations (CCDV-F) Exam Prep 2026: CCDV-F 2026 Exam Prep: Master Claude Development",
+    "expiryDate": "23/10/2026 18:19:10"
+  },
+  {
+    "id": "course-13",
+    "slug": "become-rpa-master-in-microsoft-power-automate-desktop",
+    "title": "Become RPA Master in Microsoft Power Automate Desktop",
+    "url": "https://www.udemy.com/course/microsoft-power-automate-desktop-tutorials-for-beginners/?couponCode=BESTLOWPRICE",
+    "image": "https://img-c.udemycdn.com/course/240x135/3964608_269d_6.jpg",
+    "category": "Development",
+    "coupon": "BESTLOWPRICE",
+    "instructor": "Learning Technologies [105000+ Students]",
+    "originalPrice": "$84.99",
+    "discountPrice": "$84.99",
+    "rating": "4.3",
+    "subscribers": 18109,
+    "reviews": 2579,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "This Course is designed with 31+ hours & 4 live Projects to learn MS Power Automate Desktop to Automate repetitive Tasks",
+    "expiryDate": "23/10/2026 18:19:10"
+  },
+  {
+    "id": "course-14",
+    "slug": "rpa-microsoft-power-automate-desktop-intelligent-automation",
+    "title": "RPA:Microsoft Power Automate Desktop:Intelligent Automation",
+    "url": "https://www.udemy.com/course/power-automate-desktop-course-intelligent-automation/?couponCode=OCTFREE03",
+    "image": "https://img-c.udemycdn.com/course/240x135/4249192_4d74_7.jpg",
+    "category": "Development",
+    "coupon": "OCTFREE03",
+    "instructor": "Learning Technologies [105000+ Students]",
+    "originalPrice": "$54.99",
+    "discountPrice": "$54.99",
+    "rating": "4.5",
+    "subscribers": 11077,
+    "reviews": 377,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Learn Intelligent Cognitive actions with Microsoft Power Automate Desktop",
+    "expiryDate": "23/10/2026 18:19:10"
+  },
+  {
+    "id": "course-15",
+    "slug": "microsoft-copilot-studio-ms-foundry-claude-code-demo",
+    "title": "Microsoft Copilot Studio +MS Foundry + Claude Code (Demo)",
+    "url": "https://www.udemy.com/course/ai-agents-copilot-studio-azure-foundry-microsoft-foundry/?couponCode=OCTFREE02",
+    "image": "https://img-c.udemycdn.com/course/240x135/6978899_34aa_2.jpg",
+    "category": "Development",
+    "coupon": "OCTFREE02",
+    "instructor": "Learning Technologies [105000+ Students]",
+    "originalPrice": "Free",
+    "discountPrice": "Free",
+    "rating": "4.4",
+    "subscribers": 5012,
+    "reviews": 62,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Building AI Agents With Microsoft Copilot Studio , Microsoft Foundry , Microsoft Agent Framework  and Claude Code",
+    "expiryDate": "23/10/2026 18:19:10"
+  },
+  {
+    "id": "course-16",
+    "slug": "blue-prism-foundation-course-step-by-step",
+    "title": "Blue Prism Foundation Course Step By Step",
+    "url": "https://www.udemy.com/course/blue-prism-beginners-course-step-by-step/?couponCode=JULYLOWPRICE",
+    "image": "https://img-c.udemycdn.com/course/240x135/4817670_0b9b.jpg",
+    "category": "Development",
+    "coupon": "JULYLOWPRICE",
+    "instructor": "Learning Technologies [105000+ Students]",
+    "originalPrice": "$54.99",
+    "discountPrice": "$54.99",
+    "rating": "4.6",
+    "subscribers": 10177,
+    "reviews": 70,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Blue Prism is used to automate repetitive tasks & manual processes to execute repetitive and mundane works",
+    "expiryDate": "23/10/2026 18:19:10"
+  },
+  {
+    "id": "course-17",
+    "slug": "complete-guide-to-rpa-solution-architecture",
+    "title": "Complete Guide to RPA Solution Architecture",
+    "url": "https://www.udemy.com/course/become-rpa-solution-architect-in-30-days/?couponCode=OCTFREE03",
+    "image": "https://img-c.udemycdn.com/course/240x135/6844181_19af_2.jpg",
+    "category": "Design",
+    "coupon": "OCTFREE03",
+    "instructor": "Learning Technologies [105000+ Students]",
+    "originalPrice": "$19.99",
+    "discountPrice": "$19.99",
+    "rating": "4.5",
+    "subscribers": 6502,
+    "reviews": 32,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Become RPA Solution Architect in 30 Days",
+    "expiryDate": "23/10/2026 18:19:10"
+  },
+  {
+    "id": "course-18",
     "slug": "microsoft-excel-data-analysis-with-chart-and-graph",
     "title": "Microsoft Excel Data Analysis with Chart and Graph",
     "url": "https://www.udemy.com/course/microsoft-excel-data-analysis-with-chart-and-graph/?couponCode=9F3BB54B5C8AEC384D00",
@@ -1386,51 +1584,7 @@
     "expiryDate": "23/10/2026 11:10:24"
   },
   {
-    "id": "course-6",
-    "slug": "ai-agents-2026-automate-everything-with-n8n-ai-automation",
-    "title": "AI Agents 2026: Automate Everything with n8n & AI Automation",
-    "url": "https://www.udemy.com/course/ai-agents-automate-everything-with-n8n-ai-automation/?couponCode=270D3D141A2AB10A846A",
-    "image": "https://img-c.udemycdn.com/course/240x135/7112519_f17c_3.jpg",
-    "category": "Development",
-    "coupon": "270D3D141A2AB10A846A",
-    "instructor": "Muhammad Riaz Uddin",
-    "originalPrice": "$34.99",
-    "discountPrice": "$34.99",
-    "rating": "2.0",
-    "subscribers": 772,
-    "reviews": 2,
-    "isFree": false,
-    "isExpired": true,
-    "claimedCount": 100,
-    "quota": 100,
-    "remainingSlots": 0,
-    "description": "Create Next-Gen AI Agents and Automate Business Processes Using n8n and Cutting Edge AI Automation Techniques.Total:",
-    "expiryDate": "23/10/2026 11:10:24"
-  },
-  {
-    "id": "course-7",
-    "slug": "ultimate-guide-to-canva-t-shirt-design-mastery-in-t-shirt",
-    "title": "Ultimate Guide to Canva T-Shirt Design: Mastery in T-Shirt",
-    "url": "https://www.udemy.com/course/ultimate-guide-to-canva-t-shirt-design-mastery-in-t-shirt/?couponCode=44B9F6A7B803E1AE13A1",
-    "image": "https://img-c.udemycdn.com/course/240x135/6051745_d095.jpg",
-    "category": "Design",
-    "coupon": "44B9F6A7B803E1AE13A1",
-    "instructor": "James Joab Soren, Hudson Dynamic Lab",
-    "originalPrice": "$19.99",
-    "discountPrice": "$19.99",
-    "rating": "3.9",
-    "subscribers": 21526,
-    "reviews": 91,
-    "isFree": false,
-    "isExpired": true,
-    "claimedCount": 100,
-    "quota": 100,
-    "remainingSlots": 0,
-    "description": "Effortless Design, Professional Results: T-Shirts Made Easy",
-    "expiryDate": "23/10/2026 4:22:24"
-  },
-  {
-    "id": "course-10",
+    "id": "course-21",
     "slug": "bootcamp-az-900-microsoft-azure-fundamentals-course",
     "title": "Bootcamp AZ-900: Microsoft Azure Fundamentals Course",
     "url": "https://www.udemy.com/course/bootcamp-az-900-microsoft-azure-fundamentals/?couponCode=C12E7F7101185CF49E67",
@@ -1452,29 +1606,7 @@
     "expiryDate": "22/10/2026 18:29:29"
   },
   {
-    "id": "course-52",
-    "slug": "the-beginner-s-guide-to-adobe-premiere-pro-edit-like-a-pro",
-    "title": "The Beginner's Guide to Adobe Premiere Pro: Edit Like a Pro",
-    "url": "https://www.udemy.com/course/the-beginners-guide-to-adobe-premiere-pro-edit-like-a-pro/?couponCode=0889D44A9B3332E2FE3A",
-    "image": "https://img-c.udemycdn.com/course/240x135/5860314_8851.jpg",
-    "category": "Design",
-    "coupon": "0889D44A9B3332E2FE3A",
-    "instructor": "James Joab Soren, Hudson Dynamic Lab",
-    "originalPrice": "$34.99",
-    "discountPrice": "$34.99",
-    "rating": "4.3",
-    "subscribers": 27978,
-    "reviews": 125,
-    "isFree": false,
-    "isExpired": true,
-    "claimedCount": 100,
-    "quota": 100,
-    "remainingSlots": 0,
-    "description": "The Beginner's Guide to Adobe Premiere Pro: Edit Like a Pro, No Prior Experience Needed",
-    "expiryDate": "21/10/2026 18:29:07"
-  },
-  {
-    "id": "course-62",
+    "id": "course-69",
     "slug": "ai-powered-tutorial-creation-make-videos-with-trupeer",
     "title": "AI-Powered Tutorial Creation: Make Videos with Trupeer",
     "url": "https://www.udemy.com/course/ai-powered-tutorial-creation-make-videos-with-trupeer/?couponCode=A55E97055589555786A4",

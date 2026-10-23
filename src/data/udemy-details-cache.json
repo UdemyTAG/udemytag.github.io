@@ -6186,5 +6186,218 @@
       "rem": null,
       "end": "2026-10-24T07:00:00Z"
     }
+  },
+  "diversity-and-inclusion-for-hr_PAPAHR_OCT_602916": {
+    "subscribers": 2999,
+    "reviews": 5,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 39,
+      "end": "2026-11-23T07:05:00Z"
+    }
+  },
+  "bim-structural-steel-detailing-course-zero-to-hero_F48CB0D4329C08367DF7": {
+    "subscribers": 1869,
+    "reviews": 6,
+    "rating": "3.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Ashish Pandit",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "hr-audit-guide-and-checklist-with-729-point-xlsx-en_PAPAHR_OCT_287163": {
+    "subscribers": 647,
+    "reviews": 2,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 20,
+      "end": "2026-11-23T07:05:00Z"
+    }
+  },
+  "internal-communications_PAPAHR_OCT_648372": {
+    "subscribers": 2863,
+    "reviews": 6,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 15,
+      "end": "2026-11-23T07:05:00Z"
+    }
+  },
+  "ai-performance-management_PAPAHR_OCT_196893": {
+    "subscribers": 3049,
+    "reviews": 5,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "php-laravel-2023-build-real-estate-management-system_LARAREALESTATE74": {
+    "subscribers": 26881,
+    "reviews": 157,
+    "rating": "4.1",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "mastering-claude-code_JULYLOWPRICE": {
+    "subscribers": 2457,
+    "reviews": 45,
+    "rating": "4.0",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "php-codeigniter-4-build-food-ordering-ecommerce-store-2025_CIFOODSTORE58": {
+    "subscribers": 1589,
+    "reviews": 8,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "learn-rpa-microsoft-power-automate-step-by-step_JULYLOWPRICE": {
+    "subscribers": 3465,
+    "reviews": 191,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "pl-500-microsoft-power-automate-rpa-developer-bootcamp_JULYLOWPRICE": {
+    "subscribers": 5461,
+    "reviews": 609,
+    "rating": "4.1",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "mastering-microsoft-copilot-studio-future-of-ai-agents_JULYLOWPRICE": {
+    "subscribers": 2445,
+    "reviews": 123,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "claude-certified-developer-foundations-ccdv-f-certification_OCTFREE02": {
+    "subscribers": 1318,
+    "reviews": 16,
+    "rating": "3.7",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": null
+  },
+  "microsoft-power-automate-desktop-tutorials-for-beginners_BESTLOWPRICE": {
+    "subscribers": 18109,
+    "reviews": 2579,
+    "rating": "4.3",
+    "price": "$84.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "power-automate-desktop-course-intelligent-automation_OCTFREE03": {
+    "subscribers": 11077,
+    "reviews": 377,
+    "rating": "4.5",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "ai-agents-copilot-studio-azure-foundry-microsoft-foundry_OCTFREE02": {
+    "subscribers": 5012,
+    "reviews": 62,
+    "rating": "4.4",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": null
+  },
+  "blue-prism-beginners-course-step-by-step_JULYLOWPRICE": {
+    "subscribers": 10177,
+    "reviews": 70,
+    "rating": "4.6",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "become-rpa-solution-architect-in-30-days_OCTFREE03": {
+    "subscribers": 6502,
+    "reviews": 32,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
   }
 }
