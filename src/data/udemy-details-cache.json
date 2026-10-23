@@ -6399,5 +6399,66 @@
       "rem": null,
       "end": "2026-10-24T07:00:00Z"
     }
+  },
+  "product-owner-certification_221026_FREE": {
+    "subscribers": 40167,
+    "reviews": 3128,
+    "rating": "4.4",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Paul Ashun",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "agile-project-management-certification_231026_FREE": {
+    "subscribers": 49932,
+    "reviews": 4501,
+    "rating": "4.7",
+    "price": "$74.99",
+    "isFree": false,
+    "instructors": "Paul Ashun",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "bootcamp-az-900-microsoft-azure-fundamentals_C11E7F7151185CF49E67": {
+    "subscribers": 8257,
+    "reviews": 162,
+    "rating": "4.5",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Codaming • 300k+ Learners Worldwide, Dinesh Kumar, Vedika Singh",
+    "campaign": null
+  },
+  "ai-content-generation-audio-video-image-text-with-google-adobe-chatgpt_69B66FCDA303A59D27F0": {
+    "subscribers": 10831,
+    "reviews": 50,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Neyamul Hasan, M.Pharm",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "adobe-photoshop-ultimate-guide-to-photo-editing-and-design_E64BDE3E2D9E073F4B2A": {
+    "subscribers": 1632,
+    "reviews": 3,
+    "rating": "1.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": 100,
+      "rem": 55,
+      "end": "2026-11-19T06:56:00Z"
+    }
   }
 }
