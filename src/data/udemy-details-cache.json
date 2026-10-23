@@ -6460,5 +6460,135 @@
       "rem": 55,
       "end": "2026-11-19T06:56:00Z"
     }
+  },
+  "essential-workplace-first-aid-skills-for-employee-safety_700327A59037215AB828": {
+    "subscribers": 750,
+    "reviews": 8,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Gilman Ahmed Chowdhury",
+    "campaign": {
+      "max": 100,
+      "rem": 13,
+      "end": "2026-10-30T17:19:00Z"
+    }
+  },
+  "iso-overview-understanding-core-standards-9000-31000_A84CB941DFB97D9D7A9E": {
+    "subscribers": 2622,
+    "reviews": 23,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Global Skills Network",
+    "campaign": {
+      "max": 100,
+      "rem": 41,
+      "end": "2026-10-30T17:20:00Z"
+    }
+  },
+  "gdpr-compliance-eu-data-privacy-rights_8314BD35E48AC36DCA50": {
+    "subscribers": 863,
+    "reviews": 9,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Global Skills Network",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "handling-sensitive-information-in-caregiving_1E9B2D10B785E829D8DA": {
+    "subscribers": 2103,
+    "reviews": 8,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Global Skills Network",
+    "campaign": {
+      "max": 100,
+      "rem": 63,
+      "end": "2026-10-30T17:20:00Z"
+    }
+  },
+  "the-art-of-herbalism-from-roots-to-remedies_E1C19094449AB4FE4ABE": {
+    "subscribers": 4211,
+    "reviews": 11,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Global Skills Network",
+    "campaign": {
+      "max": 100,
+      "rem": 41,
+      "end": "2026-10-30T17:21:00Z"
+    }
+  },
+  "supporting-autism-dyslexia-in-early-childhood-education_18B0F91DDD288E7E9F25": {
+    "subscribers": 2527,
+    "reviews": 16,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Global Skills Network",
+    "campaign": {
+      "max": 100,
+      "rem": 67,
+      "end": "2026-10-30T17:21:00Z"
+    }
+  },
+  "ai-leadership-adaptive-intelligence-for-the-future-of-work_FREE-OCT-AI": {
+    "subscribers": 318,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Chandan Lal Patary",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "creative-thinking-mastery-problem-solving-innovation_FREE-OCT-CREATE": {
+    "subscribers": 619,
+    "reviews": 2,
+    "rating": "3.3",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Chandan Lal Patary",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "classroom-management-with-child-psychology-safeguarding_D121492179FA20E017E1": {
+    "subscribers": 2559,
+    "reviews": 10,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Global Skills Network",
+    "campaign": {
+      "max": 100,
+      "rem": 54,
+      "end": "2026-10-30T17:20:00Z"
+    }
+  },
+  "impact-coaching-for-personal-transformation_FREE-OCT-COACH": {
+    "subscribers": 510,
+    "reviews": 2,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Chandan Lal Patary",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
   }
 }
