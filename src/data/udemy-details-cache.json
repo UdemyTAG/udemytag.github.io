@@ -6121,5 +6121,70 @@
     "isFree": false,
     "instructors": "Sadia Islam Rimi",
     "campaign": null
+  },
+  "python-and-flask-only-demonstration-course_0B540B6DF3C040C06623": {
+    "subscribers": 233213,
+    "reviews": 1665,
+    "rating": "4.5",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Horizon Tech",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "the-complete-sql-bootcamp-a-step-by-step-approach_5DEAA61B8210ADEBC459": {
+    "subscribers": 5070,
+    "reviews": 255,
+    "rating": "4.6",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Bantu Ngxola, xxjordan Code",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "ai-in-healthcare-a-z-guide-on-tech-applications-ethics_9EAF34227E8FADF204E5": {
+    "subscribers": 6097,
+    "reviews": 42,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Neyamul Hasan, M.Pharm",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "microsoft-excel-data-analysis-with-chart-and-graph_9F3BB54B5C8AEC384D00": {
+    "subscribers": 2021,
+    "reviews": 11,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
+  },
+  "ai-agents-automate-everything-with-n8n-ai-automation_270D3D141A2AB10A846A": {
+    "subscribers": 772,
+    "reviews": 2,
+    "rating": "2.0",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-24T07:00:00Z"
+    }
   }
 }
