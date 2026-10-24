@@ -6800,5 +6800,150 @@
       "rem": 47,
       "end": "2026-11-07T23:38:00Z"
     }
+  },
+  "data-structures-and-algorithms-in-practice-learn-by-coding_D6106E5F52F7FCD5D53F": {
+    "subscribers": 4243,
+    "reviews": 14,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "salesforce-fundamentals-a-complete-guide-for-beginners_FF16C063D6269EB783B4": {
+    "subscribers": 28143,
+    "reviews": 210,
+    "rating": "3.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": null
+  },
+  "microsoft-word-mastery-essential-skill-for-job-and-business_E44FF5840E1A0CB18E98": {
+    "subscribers": 27264,
+    "reviews": 372,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": null
+  },
+  "capcut-ninja-mastering-video-editing-basics-to-advanced_52989A7AB7813315BB95": {
+    "subscribers": 35176,
+    "reviews": 270,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": null
+  },
+  "excel-word-powerpoint-in-one-course-become-office-ready_031D2217F3C4FA7F051F": {
+    "subscribers": 1170,
+    "reviews": 11,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": 100,
+      "rem": 26,
+      "end": "2026-11-19T06:57:00Z"
+    }
+  },
+  "learn-filmora-video-editing-masterclass-from-beginner-to-pro_14CE31C20F64722288FD": {
+    "subscribers": 31197,
+    "reviews": 115,
+    "rating": "4.2",
+    "price": "$29.99",
+    "isFree": true,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": 100,
+      "rem": 2,
+      "end": "2026-11-24T06:30:00Z"
+    }
+  },
+  "pgd-fire-safety-management_6352E8D0D673C9853390": {
+    "subscribers": 2198,
+    "reviews": 44,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 51,
+      "end": "2026-11-24T08:25:00Z"
+    }
+  },
+  "adobe-premiere-pro-cc-video-editing-course-beginners-to-professional_967948F6F636E8DB5DFE": {
+    "subscribers": 136209,
+    "reviews": 1330,
+    "rating": "4.4",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Stephen Koel Soren",
+    "campaign": null
+  },
+  "adobe-photoshop-cc-principal-essential-course-for-beginners_CFCE68991FCDE1288796": {
+    "subscribers": 113146,
+    "reviews": 1099,
+    "rating": "4.5",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 58,
+      "end": "2026-11-24T07:15:00Z"
+    }
+  },
+  "professional-adobe-photoshop-cc-course-with-advance-training_DB501A803DC3EF9CAC5A": {
+    "subscribers": 209015,
+    "reviews": 2136,
+    "rating": "4.0",
+    "price": "$74.99",
+    "isFree": true,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 3,
+      "end": "2026-11-24T07:15:00Z"
+    }
+  },
+  "ms-office-with-ai-word-excel-powerpoint-with-chatgpt_11F1627D6984E4E8B8EB": {
+    "subscribers": 11983,
+    "reviews": 131,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": null
+  },
+  "ms-office-with-canva-word-excel-powerpoint-canva-all-in-one_0CA6499DECBA1C3A788F": {
+    "subscribers": 9980,
+    "reviews": 103,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sustoab Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 10,
+      "end": "2026-11-24T06:34:00Z"
+    }
+  },
+  "strategic-scm_3D44FFCF8E57EE33BB31": {
+    "subscribers": 3683,
+    "reviews": 38,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 24,
+      "end": "2026-11-24T08:28:00Z"
+    }
   }
 }
