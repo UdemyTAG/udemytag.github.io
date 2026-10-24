@@ -6945,5 +6945,27 @@
       "rem": 24,
       "end": "2026-11-24T08:28:00Z"
     }
+  },
+  "fire-safety-and-risk-management_54234336C5AF8606181B": {
+    "subscribers": 763,
+    "reviews": 6,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
+  },
+  "procurement-and-vendor-management_15D94CAB16F6248D50F5": {
+    "subscribers": 765,
+    "reviews": 3,
+    "rating": "2.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 45,
+      "end": "2026-11-24T20:05:00Z"
+    }
   }
 }

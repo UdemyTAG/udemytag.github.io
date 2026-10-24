@@ -1,6 +1,50 @@
 [
   {
     "id": "course-1",
+    "slug": "people-management-mba-build-lead-high-performing-teams-en",
+    "title": "People Management MBA Build Lead High Performing Teams [EN]",
+    "url": "https://www.udemy.com/course/people-management-mba-build-and-lead-high-performing-teams/?couponCode=PAPAHR_OCT_872457",
+    "image": "https://img-c.udemycdn.com/course/240x135/6667249_f7ab.jpg",
+    "category": "Business",
+    "coupon": "PAPAHR_OCT_872457",
+    "instructor": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "originalPrice": "$19.99",
+    "discountPrice": "Free",
+    "rating": "4.7",
+    "subscribers": 5725,
+    "reviews": 45,
+    "isFree": true,
+    "isExpired": false,
+    "claimedCount": 94,
+    "quota": 100,
+    "remainingSlots": 6,
+    "description": "Team building | Motivation | Leadership styles | Retention | Feedback | Performance | Remote management | KPIs",
+    "expiryDate": "25/10/2026 3:30:39"
+  },
+  {
+    "id": "course-3",
+    "slug": "professional-diploma-in-procurement-and-vendor-management",
+    "title": "Professional Diploma in Procurement and Vendor Management",
+    "url": "https://www.udemy.com/course/procurement-and-vendor-management/?couponCode=15D94CAB16F6248D50F5",
+    "image": "https://img-c.udemycdn.com/course/240x135/6470485_248c_2.jpg",
+    "category": "Business",
+    "coupon": "15D94CAB16F6248D50F5",
+    "instructor": "Md. Aliful Islam",
+    "originalPrice": "$19.99",
+    "discountPrice": "Free",
+    "rating": "2.6",
+    "subscribers": 765,
+    "reviews": 3,
+    "isFree": true,
+    "isExpired": false,
+    "claimedCount": 55,
+    "quota": 100,
+    "remainingSlots": 45,
+    "description": "Master Procurement, Purchasing & Supplier Relationship Management with Proven StrategiesTotal:",
+    "expiryDate": "25/10/2026 3:30:39"
+  },
+  {
+    "id": "course-4",
     "slug": "rewrite-your-reality-10x-your-writing-skills-effortlessly",
     "title": "Rewrite Your Reality: 10x Your Writing Skills Effortlessly",
     "url": "https://www.udemy.com/course/rewrite-your-reality-10x-your-writing-skills-effortlessly/?couponCode=F5899E930D25E938ED98",
@@ -22,7 +66,7 @@
     "expiryDate": "24/10/2026 22:40:45"
   },
   {
-    "id": "course-2",
+    "id": "course-5",
     "slug": "b2b-outbound-lead-generation-mastery",
     "title": "B2B Outbound Lead Generation Mastery",
     "url": "https://www.udemy.com/course/b2b-outbound-lead-generation-mastery/?couponCode=A31BDB91BFDBFF9E8E32",
@@ -44,7 +88,7 @@
     "expiryDate": "24/10/2026 22:40:45"
   },
   {
-    "id": "course-3",
+    "id": "course-6",
     "slug": "ai-visual-design-with-adobe-firefly",
     "title": "AI Visual Design with Adobe Firefly",
     "url": "https://www.udemy.com/course/ai-visual-design-with-adobe-firefly/?couponCode=CC8042645298CC8C0F39",
@@ -66,7 +110,7 @@
     "expiryDate": "24/10/2026 22:40:45"
   },
   {
-    "id": "course-4",
+    "id": "course-7",
     "slug": "playing-with-binary",
     "title": "Playing with Binary",
     "url": "https://www.udemy.com/course/playing-with-binary/?couponCode=380A7C02BB876E08FA83",
@@ -88,7 +132,7 @@
     "expiryDate": "24/10/2026 22:40:45"
   },
   {
-    "id": "course-5",
+    "id": "course-8",
     "slug": "smart-goals-parenting",
     "title": "SMART Goals Parenting",
     "url": "https://www.udemy.com/course/smart-goals-parenting/?couponCode=20THOCT",
@@ -110,7 +154,7 @@
     "expiryDate": "24/10/2026 22:40:45"
   },
   {
-    "id": "course-6",
+    "id": "course-9",
     "slug": "leadership-for-successful-project-management-and-delivery",
     "title": "Leadership for Successful Project Management and Delivery",
     "url": "https://www.udemy.com/course/leadership-for-successful-project-management-and-delivery/?couponCode=20THOCT",
@@ -132,7 +176,7 @@
     "expiryDate": "24/10/2026 22:40:45"
   },
   {
-    "id": "course-7",
+    "id": "course-10",
     "slug": "project-management-post-mortems",
     "title": "Project Management: Post Mortems",
     "url": "https://www.udemy.com/course/project-management-post-mortems-x/?couponCode=20THOCT",
@@ -154,51 +198,7 @@
     "expiryDate": "24/10/2026 22:40:45"
   },
   {
-    "id": "course-10",
-    "slug": "excel-word-powerpoint-in-one-course-become-office-ready",
-    "title": "Excel, Word & PowerPoint in One Course: Become Office Ready",
-    "url": "https://www.udemy.com/course/excel-word-powerpoint-in-one-course-become-office-ready/?couponCode=031D2217F3C4FA7F051F",
-    "image": "https://img-c.udemycdn.com/course/240x135/7044763_ef4b.jpg",
-    "category": "Business",
-    "coupon": "031D2217F3C4FA7F051F",
-    "instructor": "Muhammad Riaz Uddin",
-    "originalPrice": "$19.99",
-    "discountPrice": "Free",
-    "rating": "4.3",
-    "subscribers": 1170,
-    "reviews": 11,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 74,
-    "quota": 100,
-    "remainingSlots": 26,
-    "description": "Complete Microsoft Office Training Covering Excel, Word and PowerPoint for Beginners to AdvancedTotal:",
-    "expiryDate": "24/10/2026 17:38:38"
-  },
-  {
-    "id": "course-11",
-    "slug": "learn-filmora-video-editing-masterclass-from-beginner-to-pro",
-    "title": "Learn Filmora Video Editing Masterclass From Beginner to Pro",
-    "url": "https://www.udemy.com/course/learn-filmora-video-editing-masterclass-from-beginner-to-pro/?couponCode=14CE31C20F64722288FD",
-    "image": "https://img-c.udemycdn.com/course/240x135/5939154_0cfd_2.jpg",
-    "category": "Design",
-    "coupon": "14CE31C20F64722288FD",
-    "instructor": "James Joab Soren, Hudson Dynamic Lab",
-    "originalPrice": "$29.99",
-    "discountPrice": "Free",
-    "rating": "4.2",
-    "subscribers": 31197,
-    "reviews": 115,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 98,
-    "quota": 100,
-    "remainingSlots": 2,
-    "description": "Filmora Editing for Beginners: Master the Basics and Become a Pro Video Creator",
-    "expiryDate": "24/10/2026 17:38:38"
-  },
-  {
-    "id": "course-12",
+    "id": "course-13",
     "slug": "postgraduate-diploma-in-fire-safety-management-pgdfsm",
     "title": "Postgraduate Diploma in Fire Safety Management (PGDFSM)",
     "url": "https://www.udemy.com/course/pgd-fire-safety-management/?couponCode=6352E8D0D673C9853390",
@@ -220,7 +220,7 @@
     "expiryDate": "24/10/2026 17:38:38"
   },
   {
-    "id": "course-13",
+    "id": "course-14",
     "slug": "adobe-photoshop-cc-fundamentals-and-essentials-training",
     "title": "Adobe Photoshop CC Fundamentals and Essentials Training",
     "url": "https://www.udemy.com/course/adobe-photoshop-cc-principal-essential-course-for-beginners/?couponCode=CFCE68991FCDE1288796",
@@ -242,7 +242,7 @@
     "expiryDate": "24/10/2026 17:38:38"
   },
   {
-    "id": "course-14",
+    "id": "course-15",
     "slug": "professional-adobe-photoshop-cc-course-with-advance-training",
     "title": "Professional Adobe Photoshop CC Course With Advance Training",
     "url": "https://www.udemy.com/course/professional-adobe-photoshop-cc-course-with-advance-training/?couponCode=DB501A803DC3EF9CAC5A",
@@ -265,28 +265,6 @@
   },
   {
     "id": "course-16",
-    "slug": "ms-office-with-canva-word-excel-powerpoint-canva-all-in-one",
-    "title": "MS Office With Canva Word Excel PowerPoint Canva All  in One",
-    "url": "https://www.udemy.com/course/ms-office-with-canva-word-excel-powerpoint-canva-all-in-one/?couponCode=0CA6499DECBA1C3A788F",
-    "image": "https://img-c.udemycdn.com/course/240x135/6831471_3ff0.jpg",
-    "category": "Business",
-    "coupon": "0CA6499DECBA1C3A788F",
-    "instructor": "Sustoab Soren",
-    "originalPrice": "$19.99",
-    "discountPrice": "Free",
-    "rating": "4.4",
-    "subscribers": 9980,
-    "reviews": 103,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 90,
-    "quota": 100,
-    "remainingSlots": 10,
-    "description": "All-in-One Microsoft Office and Canva Course – Learn to Use Word, Excel, PowerPoint, and Canva for Design",
-    "expiryDate": "24/10/2026 17:38:38"
-  },
-  {
-    "id": "course-17",
     "slug": "professional-diploma-in-strategic-supply-chain-management",
     "title": "Professional Diploma in Strategic Supply Chain Management",
     "url": "https://www.udemy.com/course/strategic-scm/?couponCode=3D44FFCF8E57EE33BB31",
@@ -308,7 +286,7 @@
     "expiryDate": "24/10/2026 17:38:38"
   },
   {
-    "id": "course-18",
+    "id": "course-17",
     "slug": "financial-accounting-bookkeeping-beginners-to-advanced",
     "title": "Financial Accounting & Bookkeeping: Beginners to Advanced.",
     "url": "https://www.udemy.com/course/financial-accounting-bookkeeping-beginners-to-advanced/?couponCode=78204AE27753E1B0D621",
@@ -330,7 +308,7 @@
     "expiryDate": "24/10/2026 11:02:33"
   },
   {
-    "id": "course-19",
+    "id": "course-18",
     "slug": "nutrition-strategies-for-fighting-cancer",
     "title": "Nutrition Strategies for Fighting Cancer",
     "url": "https://www.udemy.com/course/nutrition-strategies-to-fight-cancer/?couponCode=49FE37356E97650046B2",
@@ -352,7 +330,7 @@
     "expiryDate": "24/10/2026 11:02:33"
   },
   {
-    "id": "course-21",
+    "id": "course-20",
     "slug": "raw-diet-mastery-embrace-natural-nutrition-for-optimal-heal",
     "title": "Raw Diet Mastery: Embrace Natural Nutrition for Optimal Heal",
     "url": "https://www.udemy.com/course/raw-diet-mastery-embrace-natural-nutrition-for-optimal-heal/?couponCode=E5820849831B979387DF",
@@ -374,7 +352,7 @@
     "expiryDate": "24/10/2026 11:02:33"
   },
   {
-    "id": "course-22",
+    "id": "course-21",
     "slug": "timeless-wisdom-for-modern-women-a-practical-guide",
     "title": "Timeless Wisdom for Modern Women: A Practical Guide",
     "url": "https://www.udemy.com/course/timeless-wisdom-for-modern-women-a-practical-guide/?couponCode=F5E1341C96109D071C14",
@@ -396,7 +374,7 @@
     "expiryDate": "24/10/2026 11:02:33"
   },
   {
-    "id": "course-23",
+    "id": "course-22",
     "slug": "certified-blueprint-for-personal-and-professional-mastery",
     "title": "Certified Blueprint for Personal and Professional Mastery",
     "url": "https://www.udemy.com/course/certified-blueprint-for-personal-and-professional-success-mastery/?couponCode=BE0542DDD86F4EAB58D1",
@@ -418,7 +396,7 @@
     "expiryDate": "24/10/2026 11:02:33"
   },
   {
-    "id": "course-24",
+    "id": "course-23",
     "slug": "mastering-electrotherapy-in-rehabilitation-pain-management",
     "title": "Mastering Electrotherapy in Rehabilitation & Pain Management",
     "url": "https://www.udemy.com/course/mastering-electrotherapy-in-rehabilitation-pain-management/?couponCode=21A778E3D7278FE96D17",
@@ -440,7 +418,7 @@
     "expiryDate": "24/10/2026 11:02:33"
   },
   {
-    "id": "course-25",
+    "id": "course-24",
     "slug": "physiotherapy-core-concepts-and-practical-applications",
     "title": "Physiotherapy: Core Concepts and Practical Applications",
     "url": "https://www.udemy.com/course/physiotherapy-core-concepts-and-practical-applications/?couponCode=0D2262BEEFB6B8F1A582",
@@ -462,7 +440,7 @@
     "expiryDate": "24/10/2026 11:02:33"
   },
   {
-    "id": "course-26",
+    "id": "course-25",
     "slug": "the-art-of-living-mastering-a-balanced-and-fulfilled-life",
     "title": "The Art of Living: Mastering a Balanced and Fulfilled Life",
     "url": "https://www.udemy.com/course/the-art-of-living-mastering-a-balanced-and-fulfilled-life/?couponCode=56094039B07055F8DBEE",
@@ -484,7 +462,7 @@
     "expiryDate": "24/10/2026 11:02:33"
   },
   {
-    "id": "course-27",
+    "id": "course-26",
     "slug": "foundations-of-bacteriology-understanding-microbial-life",
     "title": "Foundations of Bacteriology: Understanding Microbial Life",
     "url": "https://www.udemy.com/course/foundations-of-bacteriology-understanding-microbial-life/?couponCode=B6F4B97164E39E485E7F",
@@ -506,7 +484,7 @@
     "expiryDate": "24/10/2026 11:02:33"
   },
   {
-    "id": "course-28",
+    "id": "course-27",
     "slug": "accredited-child-psychology-comprehensive-guide",
     "title": "Accredited Child Psychology Comprehensive Guide",
     "url": "https://www.udemy.com/course/accredited-child-psychology-comprehensive-guide/?couponCode=7B3D464984506882F1E2",
@@ -528,7 +506,7 @@
     "expiryDate": "24/10/2026 11:02:33"
   },
   {
-    "id": "course-29",
+    "id": "course-28",
     "slug": "accredited-narcissist-recovery-course",
     "title": "Accredited Narcissist Recovery Course",
     "url": "https://www.udemy.com/course/accredited-narcissist-recovery-course/?couponCode=5027AF7B2B22AB2C430F",
@@ -550,7 +528,7 @@
     "expiryDate": "24/10/2026 11:02:33"
   },
   {
-    "id": "course-30",
+    "id": "course-29",
     "slug": "workplace-safety-essentials-fire-safety-first-aid-training",
     "title": "Workplace Safety Essentials: Fire Safety, First Aid Training",
     "url": "https://www.udemy.com/course/essential-workplace-first-aid-skills-for-employee-safety/?couponCode=700327A59037215AB828",
@@ -572,7 +550,7 @@
     "expiryDate": "24/10/2026 4:13:29"
   },
   {
-    "id": "course-31",
+    "id": "course-30",
     "slug": "complete-iso-standards-in-1-hour-iso-9000-to-iso-31000",
     "title": "Complete ISO Standards in 1 Hour: ISO 9000 to ISO 31000",
     "url": "https://www.udemy.com/course/iso-overview-understanding-core-standards-9000-31000/?couponCode=A84CB941DFB97D9D7A9E",
@@ -594,7 +572,7 @@
     "expiryDate": "24/10/2026 4:13:29"
   },
   {
-    "id": "course-32",
+    "id": "course-31",
     "slug": "handling-sensitive-information-in-caregiving",
     "title": "Handling Sensitive Information in Caregiving",
     "url": "https://www.udemy.com/course/handling-sensitive-information-in-caregiving/?couponCode=1E9B2D10B785E829D8DA",
@@ -616,7 +594,7 @@
     "expiryDate": "24/10/2026 4:13:29"
   },
   {
-    "id": "course-33",
+    "id": "course-32",
     "slug": "the-art-of-herbalism-from-roots-to-remedies",
     "title": "The Art of Herbalism: From Roots to Remedies",
     "url": "https://www.udemy.com/course/the-art-of-herbalism-from-roots-to-remedies/?couponCode=E1C19094449AB4FE4ABE",
@@ -638,7 +616,7 @@
     "expiryDate": "24/10/2026 4:13:29"
   },
   {
-    "id": "course-34",
+    "id": "course-33",
     "slug": "supporting-autism-dyslexia-in-early-childhood-education",
     "title": "Supporting Autism & Dyslexia in Early Childhood Education",
     "url": "https://www.udemy.com/course/supporting-autism-dyslexia-in-early-childhood-education/?couponCode=18B0F91DDD288E7E9F25",
@@ -660,7 +638,7 @@
     "expiryDate": "24/10/2026 4:13:29"
   },
   {
-    "id": "course-37",
+    "id": "course-36",
     "slug": "adobe-photoshop-ultimate-guide-to-photo-editing-and-design",
     "title": "Adobe Photoshop: Ultimate Guide to Photo Editing and Design",
     "url": "https://www.udemy.com/course/adobe-photoshop-ultimate-guide-to-photo-editing-and-design/?couponCode=E64BDE3E2D9E073F4B2A",
@@ -682,7 +660,7 @@
     "expiryDate": "23/10/2026 23:47:51"
   },
   {
-    "id": "course-38",
+    "id": "course-37",
     "slug": "inclusive-leadership-lead-diverse-and-global-teams",
     "title": "Inclusive Leadership: Lead Diverse and Global Teams",
     "url": "https://www.udemy.com/course/diversity-and-inclusion-for-hr/?couponCode=PAPAHR_OCT_602916",
@@ -704,7 +682,7 @@
     "expiryDate": "23/10/2026 18:19:10"
   },
   {
-    "id": "course-40",
+    "id": "course-39",
     "slug": "american-english-consonants-for-chinese-professionals",
     "title": "American English Consonants for Chinese Professionals",
     "url": "https://www.udemy.com/course/consonants-for-advanced-chinese-learners-of-american-english/?couponCode=REALDISCOCT26",
@@ -726,7 +704,7 @@
     "expiryDate": "22/10/2026 18:29:29"
   },
   {
-    "id": "course-41",
+    "id": "course-40",
     "slug": "adobe-illustrator-for-t-shirt-design-from-sketch-to-print",
     "title": "Adobe Illustrator for T-Shirt Design: From Sketch to Print",
     "url": "https://www.udemy.com/course/adobe-illustrator-for-t-shirt-design-from-sketch-to-print/?couponCode=012162A9D689D58F4601",
@@ -748,7 +726,7 @@
     "expiryDate": "22/10/2026 18:29:29"
   },
   {
-    "id": "course-42",
+    "id": "course-41",
     "slug": "introduction-to-financial-controls",
     "title": "Introduction to Financial Controls",
     "url": "https://www.udemy.com/course/introduction-to-financial-controls/?couponCode=20THOCT",
@@ -770,7 +748,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-43",
+    "id": "course-42",
     "slug": "empathy-and-emotional-intelligence-for-project-managers",
     "title": "Empathy and Emotional Intelligence for Project Managers",
     "url": "https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=20THOCT",
@@ -792,7 +770,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-44",
+    "id": "course-43",
     "slug": "organizational-influences-project-management-lifecycle",
     "title": "Organizational Influences & Project Management Lifecycle",
     "url": "https://www.udemy.com/course/organizational-influences-project-management-lifecycle-qi/?couponCode=20THOCT",
@@ -814,7 +792,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-45",
+    "id": "course-44",
     "slug": "financial-services-introduction-to-etfs",
     "title": "Financial Services: Introduction to ETFs",
     "url": "https://www.udemy.com/course/financial-services-introduction-to-etfs/?couponCode=20THOCT",
@@ -836,7 +814,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-46",
+    "id": "course-45",
     "slug": "financial-services-overview-of-central-banks",
     "title": "Financial Services - Overview of Central Banks",
     "url": "https://www.udemy.com/course/financial-services-overview-of-central-banks/?couponCode=20THOCT",
@@ -858,7 +836,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-47",
+    "id": "course-46",
     "slug": "managing-social-anxiety-in-the-workplace",
     "title": "Managing Social Anxiety in the Workplace",
     "url": "https://www.udemy.com/course/managing-social-anxiety-in-the-workplace/?couponCode=20THOCT",
@@ -880,7 +858,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-48",
+    "id": "course-47",
     "slug": "financial-services-overview-of-retail-banking",
     "title": "Financial Services - Overview of Retail Banking",
     "url": "https://www.udemy.com/course/financial-services-overview-of-retail-banking/?couponCode=20THOCT",
@@ -902,7 +880,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-49",
+    "id": "course-48",
     "slug": "workplace-productivity-supporting-others-through-change",
     "title": "Workplace Productivity - Supporting Others Through Change",
     "url": "https://www.udemy.com/course/workplace-productivity-supporting-others-through-change/?couponCode=20THOCT",
@@ -924,7 +902,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-50",
+    "id": "course-49",
     "slug": "mental-health-for-the-workplace",
     "title": "Mental Health for the Workplace",
     "url": "https://www.udemy.com/course/mental-health-for-the-workplace/?couponCode=20THOCT",
@@ -946,7 +924,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-51",
+    "id": "course-50",
     "slug": "emotional-intelligence-in-leadership",
     "title": "Emotional Intelligence in Leadership",
     "url": "https://www.udemy.com/course/emotional-intelligence-in-leadership-y/?couponCode=20THOCT",
@@ -968,7 +946,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-52",
+    "id": "course-51",
     "slug": "financial-services-overview-of-commodities",
     "title": "Financial Services: Overview of Commodities",
     "url": "https://www.udemy.com/course/financial-services-overview-of-commodities/?couponCode=20THOCT",
@@ -990,7 +968,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-53",
+    "id": "course-52",
     "slug": "workplace-productivity-coping-with-the-anxiety-of-leadership",
     "title": "Workplace Productivity-Coping with the Anxiety of Leadership",
     "url": "https://www.udemy.com/course/workplace-productivity-coping-with-the-anxiety-of-leadership/?couponCode=20THOCT",
@@ -1012,7 +990,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-54",
+    "id": "course-53",
     "slug": "financial-services-basics-of-business-corporate-banking",
     "title": "Financial Services - Basics of Business & Corporate Banking",
     "url": "https://www.udemy.com/course/financial-services-basics-of-business-corporate-banking/?couponCode=20THOCT",
@@ -1034,7 +1012,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-55",
+    "id": "course-54",
     "slug": "financial-services-funds-flow-optimization-concepts",
     "title": "Financial Services - Funds Flow Optimization Concepts",
     "url": "https://www.udemy.com/course/financial-services-funds-flow-optimization-concepts/?couponCode=20THOCT",
@@ -1056,7 +1034,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-56",
+    "id": "course-55",
     "slug": "financial-services-basics-of-regulation-compliance",
     "title": "Financial Services - Basics of Regulation & Compliance",
     "url": "https://www.udemy.com/course/financial-services-basics-of-regulation-compliance/?couponCode=20THOCT",
@@ -1078,7 +1056,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-57",
+    "id": "course-56",
     "slug": "financial-stewardship-for-decision-makers-and-leaders",
     "title": "Financial Stewardship for Decision Makers and Leaders",
     "url": "https://www.udemy.com/course/financial-stewardship-for-decision-makers-and-leaders/?couponCode=20THOCT",
@@ -1100,7 +1078,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-58",
+    "id": "course-57",
     "slug": "audit-administration-effective-communication-in-audit",
     "title": "Audit Administration - Effective Communication in Audit",
     "url": "https://www.udemy.com/course/audit-administration-effective-communication-in-audit/?couponCode=20THOCT",
@@ -1122,7 +1100,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-59",
+    "id": "course-58",
     "slug": "financial-services-understanding-interest-rates",
     "title": "Financial Services - Understanding Interest Rates",
     "url": "https://www.udemy.com/course/financial-services-understanding-interest-rates/?couponCode=20THOCT",
@@ -1144,7 +1122,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-60",
+    "id": "course-59",
     "slug": "employee-wellbeing-toolkit",
     "title": "Employee Wellbeing Toolkit",
     "url": "https://www.udemy.com/course/employee-wellbeing-toolkit/?couponCode=20THOCT",
@@ -1166,7 +1144,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-61",
+    "id": "course-60",
     "slug": "principles-of-effective-communication",
     "title": "Principles of Effective Communication",
     "url": "https://www.udemy.com/course/principles-of-effective-communication/?couponCode=20THOCT",
@@ -1188,7 +1166,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-62",
+    "id": "course-61",
     "slug": "financial-services-financial-wellbeing-for-employees",
     "title": "Financial Services: Financial Wellbeing for Employees",
     "url": "https://www.udemy.com/course/financial-services-financial-wellbeing-for-employees/?couponCode=20THOCT",
@@ -1210,7 +1188,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-63",
+    "id": "course-62",
     "slug": "authentic-leadership",
     "title": "Authentic Leadership",
     "url": "https://www.udemy.com/course/authentic-leadership-t/?couponCode=20THOCT",
@@ -1232,7 +1210,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-64",
+    "id": "course-63",
     "slug": "currency-management-for-small-businesses-corporates",
     "title": "Currency Management for Small Businesses & Corporates",
     "url": "https://www.udemy.com/course/currency-management-for-small-businesses-corporates/?couponCode=20THOCT",
@@ -1254,7 +1232,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-65",
+    "id": "course-64",
     "slug": "prioritization-techniques-for-decision-makers-and-leaders",
     "title": "Prioritization Techniques for Decision Makers and Leaders",
     "url": "https://www.udemy.com/course/prioritization-techniques-for-decision-makers-and-leaders/?couponCode=20THOCT",
@@ -1276,7 +1254,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-66",
+    "id": "course-65",
     "slug": "intentional-leadership",
     "title": "Intentional Leadership",
     "url": "https://www.udemy.com/course/intentional-leadership/?couponCode=20THOCT",
@@ -1298,7 +1276,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-67",
+    "id": "course-66",
     "slug": "workplace-stress-management-strategies",
     "title": "Workplace Stress Management Strategies",
     "url": "https://www.udemy.com/course/workplace-stress-management-strategies/?couponCode=20THOCT",
@@ -1320,7 +1298,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-68",
+    "id": "course-67",
     "slug": "visualization-techniques-for-decision-makers-and-leaders",
     "title": "Visualization techniques for Decision Makers and Leaders",
     "url": "https://www.udemy.com/course/visualization-techniques-for-decision-makers-and-leaders/?couponCode=20THOCT",
@@ -1342,7 +1320,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-69",
+    "id": "course-68",
     "slug": "introduction-to-risk-management-in-financial-services",
     "title": "Introduction to Risk Management in Financial Services",
     "url": "https://www.udemy.com/course/introduction-to-risk-management-in-financial-services/?couponCode=20THOCT",
@@ -1364,7 +1342,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-70",
+    "id": "course-69",
     "slug": "introduction-to-financial-products-services",
     "title": "Introduction to Financial Products & Services",
     "url": "https://www.udemy.com/course/introduction-to-financial-products-services-i/?couponCode=20THOCT",
@@ -1386,7 +1364,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-71",
+    "id": "course-70",
     "slug": "developing-successful-professional-relationships",
     "title": "Developing successful Professional Relationships",
     "url": "https://www.udemy.com/course/developing-successful-professional-relationships/?couponCode=20THOCT",
@@ -1408,7 +1386,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-72",
+    "id": "course-71",
     "slug": "audit-administration-audit-sampling",
     "title": "Audit Administration - Audit Sampling",
     "url": "https://www.udemy.com/course/audit-administration-audit-sampling/?couponCode=20THOCT",
@@ -1430,7 +1408,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-73",
+    "id": "course-72",
     "slug": "introduction-to-risk-management-decision-makers-leaders",
     "title": "Introduction to Risk Management - Decision Makers & Leaders",
     "url": "https://www.udemy.com/course/introduction-to-risk-management-decision-makers-leaders/?couponCode=20THOCT",
@@ -1452,7 +1430,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-74",
+    "id": "course-73",
     "slug": "productivity-focus-concentration-performance-strategies",
     "title": "Productivity - Focus, Concentration & Performance Strategies",
     "url": "https://www.udemy.com/course/productivity-focus-concentration-performance-strategies/?couponCode=20THOCT",
@@ -1474,7 +1452,29 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-8",
+    "id": "course-2",
+    "slug": "postgraduate-diploma-in-fire-safety-risk-management",
+    "title": "Postgraduate Diploma in Fire Safety & Risk Management",
+    "url": "https://www.udemy.com/course/fire-safety-and-risk-management/?couponCode=54234336C5AF8606181B",
+    "image": "https://img-c.udemycdn.com/course/240x135/7092627_7d2c_3.jpg",
+    "category": "Business",
+    "coupon": "54234336C5AF8606181B",
+    "instructor": "Md. Aliful Islam",
+    "originalPrice": "$19.99",
+    "discountPrice": "$19.99",
+    "rating": "3.8",
+    "subscribers": 763,
+    "reviews": 6,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Master Fire Prevention, Fire Risk Assessment, Safety Regulations, Emergency Planning and Fire Protection StrategiesTotal:",
+    "expiryDate": "25/10/2026 3:30:39"
+  },
+  {
+    "id": "course-11",
     "slug": "microsoft-word-mastery-essential-skill-for-job-and-business",
     "title": "Microsoft Word Mastery: Essential Skill for Job and Business",
     "url": "https://www.udemy.com/course/microsoft-word-mastery-essential-skill-for-job-and-business/?couponCode=E44FF5840E1A0CB18E98",
@@ -1496,7 +1496,7 @@
     "expiryDate": "24/10/2026 17:38:38"
   },
   {
-    "id": "course-9",
+    "id": "course-12",
     "slug": "capcut-ninja-mastering-video-editing-basics-to-advanced",
     "title": "Capcut Ninja: Mastering Video Editing Basics to Advanced",
     "url": "https://www.udemy.com/course/capcut-ninja-mastering-video-editing-basics-to-advanced/?couponCode=52989A7AB7813315BB95",
@@ -1518,29 +1518,7 @@
     "expiryDate": "24/10/2026 17:38:38"
   },
   {
-    "id": "course-15",
-    "slug": "ms-office-with-ai-word-excel-powerpoint-with-chatgpt",
-    "title": "MS Office With AI - Word Excel PowerPoint with ChatGPT",
-    "url": "https://www.udemy.com/course/ms-office-with-ai-word-excel-powerpoint-with-chatgpt/?couponCode=11F1627D6984E4E8B8EB",
-    "image": "https://img-c.udemycdn.com/course/240x135/6792989_b739.jpg",
-    "category": "Business",
-    "coupon": "11F1627D6984E4E8B8EB",
-    "instructor": "Sustoab Soren",
-    "originalPrice": "$19.99",
-    "discountPrice": "$19.99",
-    "rating": "3.9",
-    "subscribers": 11983,
-    "reviews": 131,
-    "isFree": false,
-    "isExpired": true,
-    "claimedCount": 100,
-    "quota": 100,
-    "remainingSlots": 0,
-    "description": "Master Microsoft Word, Excel, PowerPoint, and Google Sheets with AI tools like ChatGPT to Save time, Automate tasks",
-    "expiryDate": "24/10/2026 17:38:38"
-  },
-  {
-    "id": "course-20",
+    "id": "course-19",
     "slug": "microsoft-copilot-studio-ms-foundry-claude-code-demo",
     "title": "Microsoft Copilot Studio +MS Foundry + Claude Code (Demo)",
     "url": "https://www.udemy.com/course/ai-agents-copilot-studio-azure-foundry-microsoft-foundry/?couponCode=A7F2C4C407B74EDD406A",
@@ -1562,7 +1540,7 @@
     "expiryDate": "24/10/2026 11:02:33"
   },
   {
-    "id": "course-35",
+    "id": "course-34",
     "slug": "product-management-certification-agile-product-owner-scrum",
     "title": "Product Management Certification+Agile Product Owner+Scrum",
     "url": "https://www.udemy.com/course/product-owner-certification/?couponCode=221026_FREE",
@@ -1584,7 +1562,7 @@
     "expiryDate": "23/10/2026 23:47:51"
   },
   {
-    "id": "course-36",
+    "id": "course-35",
     "slug": "bootcamp-az-900-microsoft-azure-fundamentals-course",
     "title": "Bootcamp AZ-900: Microsoft Azure Fundamentals Course",
     "url": "https://www.udemy.com/course/bootcamp-az-900-microsoft-azure-fundamentals/?couponCode=C11E7F7151185CF49E67",
@@ -1606,7 +1584,7 @@
     "expiryDate": "23/10/2026 23:47:51"
   },
   {
-    "id": "course-39",
+    "id": "course-38",
     "slug": "php-laravel-build-real-estate-management-system",
     "title": "PHP Laravel: Build Real Estate Management System",
     "url": "https://www.udemy.com/course/php-laravel-2023-build-real-estate-management-system/?couponCode=LARAREALESTATE74",
