@@ -6590,5 +6590,215 @@
       "rem": null,
       "end": "2026-10-24T07:00:00Z"
     }
+  },
+  "complete-sql-bootcamp-with-mysql-php-python_SQLOCT26": {
+    "subscribers": 300452,
+    "reviews": 3165,
+    "rating": "4.5",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Creative Online School",
+    "campaign": null
+  },
+  "financial-accounting-bookkeeping-beginners-to-advanced_78204AE27753E1B0D621": {
+    "subscribers": 10454,
+    "reviews": 204,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Financial Analysts, Controlling Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 25,
+      "end": "2026-11-23T22:47:00Z"
+    }
+  },
+  "urban-waste-management_FC878A8CC50F2675D943": {
+    "subscribers": 931,
+    "reviews": 20,
+    "rating": "4.7",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Green Courses",
+    "campaign": null
+  },
+  "nutrition-strategies-to-fight-cancer_49FE37356E97650046B2": {
+    "subscribers": 1952,
+    "reviews": 16,
+    "rating": "4.3",
+    "price": "$74.99",
+    "isFree": true,
+    "instructors": "Dr. Himani Vashishta",
+    "campaign": {
+      "max": 100,
+      "rem": 10,
+      "end": "2026-10-26T13:17:00Z"
+    }
+  },
+  "ai-agents-copilot-studio-azure-foundry-microsoft-foundry_A7F2C4C407B74EDD406A": {
+    "subscribers": 5068,
+    "reviews": 62,
+    "rating": "4.4",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": null
+  },
+  "the-secret-to-being-a-human-magnet-make-anyone-love-you_8D2E92C43DFCF6264F00": {
+    "subscribers": 2195,
+    "reviews": 4,
+    "rating": "5.0",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Dr. Himani Vashishta",
+    "campaign": null
+  },
+  "raw-diet-mastery-embrace-natural-nutrition-for-optimal-heal_E5820849831B979387DF": {
+    "subscribers": 2969,
+    "reviews": 18,
+    "rating": "4.5",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Dr. Himani Vashishta",
+    "campaign": {
+      "max": 100,
+      "rem": 20,
+      "end": "2026-11-23T16:56:00Z"
+    }
+  },
+  "mastering-communication-social-skills-a-3-weeks-journey_2D02C06AF1E622530D52": {
+    "subscribers": 2890,
+    "reviews": 17,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Dr. Himani Vashishta",
+    "campaign": null
+  },
+  "timeless-wisdom-for-modern-women-a-practical-guide_F5E1341C96109D071C14": {
+    "subscribers": 2660,
+    "reviews": 8,
+    "rating": "4.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Dr. Himani Vashishta",
+    "campaign": {
+      "max": 100,
+      "rem": 44,
+      "end": "2026-11-23T16:53:00Z"
+    }
+  },
+  "certified-blueprint-for-personal-and-professional-success-mastery_BE0542DDD86F4EAB58D1": {
+    "subscribers": 2344,
+    "reviews": 10,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Dr. Himani Vashishta",
+    "campaign": {
+      "max": 100,
+      "rem": 19,
+      "end": "2026-11-23T16:57:00Z"
+    }
+  },
+  "mastering-your-first-year-in-network-marketing-certificate_A209506F8BF0224E51B5": {
+    "subscribers": 3101,
+    "reviews": 6,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Dr. Himani Vashishta",
+    "campaign": {
+      "max": 100,
+      "rem": 18,
+      "end": "2026-11-23T16:53:00Z"
+    }
+  },
+  "mastering-electrotherapy-in-rehabilitation-pain-management_21A778E3D7278FE96D17": {
+    "subscribers": 2515,
+    "reviews": 47,
+    "rating": "4.2",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Dr. Himani Vashishta",
+    "campaign": {
+      "max": 100,
+      "rem": 42,
+      "end": "2026-11-23T16:52:00Z"
+    }
+  },
+  "python-complete-course-for-beginners-h_9D9226C5846E97505624": {
+    "subscribers": 277838,
+    "reviews": 4434,
+    "rating": "4.3",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Horizon Tech",
+    "campaign": null
+  },
+  "physiotherapy-core-concepts-and-practical-applications_0D2262BEEFB6B8F1A582": {
+    "subscribers": 2737,
+    "reviews": 17,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Dr. Himani Vashishta",
+    "campaign": {
+      "max": 100,
+      "rem": 52,
+      "end": "2026-11-07T23:39:00Z"
+    }
+  },
+  "the-art-of-living-mastering-a-balanced-and-fulfilled-life_56094039B07055F8DBEE": {
+    "subscribers": 3026,
+    "reviews": 19,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Dr. Himani Vashishta",
+    "campaign": {
+      "max": 100,
+      "rem": 34,
+      "end": "2026-11-08T10:13:00Z"
+    }
+  },
+  "foundations-of-bacteriology-understanding-microbial-life_B6F4B97164E39E485E7F": {
+    "subscribers": 2398,
+    "reviews": 12,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Dr. Himani Vashishta",
+    "campaign": {
+      "max": 100,
+      "rem": 52,
+      "end": "2026-11-07T23:38:00Z"
+    }
+  },
+  "accredited-child-psychology-comprehensive-guide_7B3D464984506882F1E2": {
+    "subscribers": 3451,
+    "reviews": 28,
+    "rating": "4.6",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Dr. Himani Vashishta",
+    "campaign": {
+      "max": 100,
+      "rem": 42,
+      "end": "2026-11-07T14:22:00Z"
+    }
+  },
+  "accredited-narcissist-recovery-course_5027AF7B2B22AB2C430F": {
+    "subscribers": 2067,
+    "reviews": 23,
+    "rating": "4.3",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Dr. Himani Vashishta",
+    "campaign": {
+      "max": 100,
+      "rem": 47,
+      "end": "2026-11-07T23:38:00Z"
+    }
   }
 }
