@@ -1,6 +1,50 @@
 [
   {
     "id": "course-1",
+    "slug": "cpo-chief-product-officer-from-manager-to-c-level-en",
+    "title": "CPO: Chief Product Officer: from Manager to C-Level [EN]",
+    "url": "https://www.udemy.com/course/cpo-chief-product-officer-from-manager-to-c-level-en/?couponCode=PAPAHR_OCT_592804",
+    "image": "https://img-c.udemycdn.com/course/240x135/7044527_4a29.jpg",
+    "category": "Development",
+    "coupon": "PAPAHR_OCT_592804",
+    "instructor": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "originalPrice": "$19.99",
+    "discountPrice": "Free",
+    "rating": "4.4",
+    "subscribers": 1547,
+    "reviews": 6,
+    "isFree": true,
+    "isExpired": false,
+    "claimedCount": 84,
+    "quota": 100,
+    "remainingSlots": 16,
+    "description": "Product strategy | product portfolio management | growth metrics | product leadership | path to becoming a CPOTotal:",
+    "expiryDate": "25/10/2026 6:01:34"
+  },
+  {
+    "id": "course-2",
+    "slug": "people-partner-hr-certification-program-for-future-hrbp-en",
+    "title": "People Partner HR certification program for future HRBP [EN]",
+    "url": "https://www.udemy.com/course/become-a-certified-people-partner-your-path-to-a-rewarding/?couponCode=PAPAHR_OCT_676622",
+    "image": "https://img-c.udemycdn.com/course/240x135/6305507_0e25_6.jpg",
+    "category": "Development",
+    "coupon": "PAPAHR_OCT_676622",
+    "instructor": "PapaHR ★ 170K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "originalPrice": "$54.99",
+    "discountPrice": "Free",
+    "rating": "4.2",
+    "subscribers": 10726,
+    "reviews": 94,
+    "isFree": true,
+    "isExpired": false,
+    "claimedCount": 45,
+    "quota": 100,
+    "remainingSlots": 55,
+    "description": "Development & Career Growth | Human Resources | Business Partner | Employee Relations | HRPP | Leadership | Enablement",
+    "expiryDate": "25/10/2026 6:01:34"
+  },
+  {
+    "id": "course-3",
     "slug": "people-management-mba-build-lead-high-performing-teams-en",
     "title": "People Management MBA Build Lead High Performing Teams [EN]",
     "url": "https://www.udemy.com/course/people-management-mba-build-and-lead-high-performing-teams/?couponCode=PAPAHR_OCT_872457",
@@ -22,7 +66,7 @@
     "expiryDate": "25/10/2026 3:30:39"
   },
   {
-    "id": "course-3",
+    "id": "course-5",
     "slug": "professional-diploma-in-procurement-and-vendor-management",
     "title": "Professional Diploma in Procurement and Vendor Management",
     "url": "https://www.udemy.com/course/procurement-and-vendor-management/?couponCode=15D94CAB16F6248D50F5",
@@ -44,7 +88,7 @@
     "expiryDate": "25/10/2026 3:30:39"
   },
   {
-    "id": "course-4",
+    "id": "course-6",
     "slug": "rewrite-your-reality-10x-your-writing-skills-effortlessly",
     "title": "Rewrite Your Reality: 10x Your Writing Skills Effortlessly",
     "url": "https://www.udemy.com/course/rewrite-your-reality-10x-your-writing-skills-effortlessly/?couponCode=F5899E930D25E938ED98",
@@ -66,7 +110,7 @@
     "expiryDate": "24/10/2026 22:40:45"
   },
   {
-    "id": "course-5",
+    "id": "course-7",
     "slug": "b2b-outbound-lead-generation-mastery",
     "title": "B2B Outbound Lead Generation Mastery",
     "url": "https://www.udemy.com/course/b2b-outbound-lead-generation-mastery/?couponCode=A31BDB91BFDBFF9E8E32",
@@ -88,7 +132,7 @@
     "expiryDate": "24/10/2026 22:40:45"
   },
   {
-    "id": "course-6",
+    "id": "course-8",
     "slug": "ai-visual-design-with-adobe-firefly",
     "title": "AI Visual Design with Adobe Firefly",
     "url": "https://www.udemy.com/course/ai-visual-design-with-adobe-firefly/?couponCode=CC8042645298CC8C0F39",
@@ -110,7 +154,7 @@
     "expiryDate": "24/10/2026 22:40:45"
   },
   {
-    "id": "course-7",
+    "id": "course-9",
     "slug": "playing-with-binary",
     "title": "Playing with Binary",
     "url": "https://www.udemy.com/course/playing-with-binary/?couponCode=380A7C02BB876E08FA83",
@@ -132,7 +176,7 @@
     "expiryDate": "24/10/2026 22:40:45"
   },
   {
-    "id": "course-8",
+    "id": "course-10",
     "slug": "smart-goals-parenting",
     "title": "SMART Goals Parenting",
     "url": "https://www.udemy.com/course/smart-goals-parenting/?couponCode=20THOCT",
@@ -154,7 +198,7 @@
     "expiryDate": "24/10/2026 22:40:45"
   },
   {
-    "id": "course-9",
+    "id": "course-11",
     "slug": "leadership-for-successful-project-management-and-delivery",
     "title": "Leadership for Successful Project Management and Delivery",
     "url": "https://www.udemy.com/course/leadership-for-successful-project-management-and-delivery/?couponCode=20THOCT",
@@ -176,7 +220,7 @@
     "expiryDate": "24/10/2026 22:40:45"
   },
   {
-    "id": "course-10",
+    "id": "course-12",
     "slug": "project-management-post-mortems",
     "title": "Project Management: Post Mortems",
     "url": "https://www.udemy.com/course/project-management-post-mortems-x/?couponCode=20THOCT",
@@ -198,7 +242,7 @@
     "expiryDate": "24/10/2026 22:40:45"
   },
   {
-    "id": "course-13",
+    "id": "course-15",
     "slug": "postgraduate-diploma-in-fire-safety-management-pgdfsm",
     "title": "Postgraduate Diploma in Fire Safety Management (PGDFSM)",
     "url": "https://www.udemy.com/course/pgd-fire-safety-management/?couponCode=6352E8D0D673C9853390",
@@ -220,7 +264,7 @@
     "expiryDate": "24/10/2026 17:38:38"
   },
   {
-    "id": "course-14",
+    "id": "course-16",
     "slug": "adobe-photoshop-cc-fundamentals-and-essentials-training",
     "title": "Adobe Photoshop CC Fundamentals and Essentials Training",
     "url": "https://www.udemy.com/course/adobe-photoshop-cc-principal-essential-course-for-beginners/?couponCode=CFCE68991FCDE1288796",
@@ -242,7 +286,7 @@
     "expiryDate": "24/10/2026 17:38:38"
   },
   {
-    "id": "course-15",
+    "id": "course-17",
     "slug": "professional-adobe-photoshop-cc-course-with-advance-training",
     "title": "Professional Adobe Photoshop CC Course With Advance Training",
     "url": "https://www.udemy.com/course/professional-adobe-photoshop-cc-course-with-advance-training/?couponCode=DB501A803DC3EF9CAC5A",
@@ -264,29 +308,7 @@
     "expiryDate": "24/10/2026 17:38:38"
   },
   {
-    "id": "course-16",
-    "slug": "professional-diploma-in-strategic-supply-chain-management",
-    "title": "Professional Diploma in Strategic Supply Chain Management",
-    "url": "https://www.udemy.com/course/strategic-scm/?couponCode=3D44FFCF8E57EE33BB31",
-    "image": "https://img-c.udemycdn.com/course/240x135/6482983_b140_2.jpg",
-    "category": "Business",
-    "coupon": "3D44FFCF8E57EE33BB31",
-    "instructor": "Md. Aliful Islam",
-    "originalPrice": "$19.99",
-    "discountPrice": "Free",
-    "rating": "4.1",
-    "subscribers": 3683,
-    "reviews": 38,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 76,
-    "quota": 100,
-    "remainingSlots": 24,
-    "description": "Master Strategic Supply Chain Management: Optimize Logistics, Procurement and Risk for Business Growth",
-    "expiryDate": "24/10/2026 17:38:38"
-  },
-  {
-    "id": "course-17",
+    "id": "course-18",
     "slug": "financial-accounting-bookkeeping-beginners-to-advanced",
     "title": "Financial Accounting & Bookkeeping: Beginners to Advanced.",
     "url": "https://www.udemy.com/course/financial-accounting-bookkeeping-beginners-to-advanced/?couponCode=78204AE27753E1B0D621",
@@ -308,7 +330,7 @@
     "expiryDate": "24/10/2026 11:02:33"
   },
   {
-    "id": "course-18",
+    "id": "course-19",
     "slug": "nutrition-strategies-for-fighting-cancer",
     "title": "Nutrition Strategies for Fighting Cancer",
     "url": "https://www.udemy.com/course/nutrition-strategies-to-fight-cancer/?couponCode=49FE37356E97650046B2",
@@ -327,28 +349,6 @@
     "quota": 100,
     "remainingSlots": 10,
     "description": "Integrative Nutrition Strategies for Cancer Care - Nutrition Support During Cancer Treatment",
-    "expiryDate": "24/10/2026 11:02:33"
-  },
-  {
-    "id": "course-20",
-    "slug": "raw-diet-mastery-embrace-natural-nutrition-for-optimal-heal",
-    "title": "Raw Diet Mastery: Embrace Natural Nutrition for Optimal Heal",
-    "url": "https://www.udemy.com/course/raw-diet-mastery-embrace-natural-nutrition-for-optimal-heal/?couponCode=E5820849831B979387DF",
-    "image": "https://img-c.udemycdn.com/course/240x135/6155465_ce7f_2.jpg",
-    "category": "Development",
-    "coupon": "E5820849831B979387DF",
-    "instructor": "Dr. Himani Vashishta",
-    "originalPrice": "$34.99",
-    "discountPrice": "Free",
-    "rating": "4.5",
-    "subscribers": 2969,
-    "reviews": 18,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 80,
-    "quota": 100,
-    "remainingSlots": 20,
-    "description": "Harness the Power of Natural Foods for a Healthier, More Vibrant You",
     "expiryDate": "24/10/2026 11:02:33"
   },
   {
@@ -1452,7 +1452,7 @@
     "expiryDate": "21/10/2026 23:56:25"
   },
   {
-    "id": "course-2",
+    "id": "course-4",
     "slug": "postgraduate-diploma-in-fire-safety-risk-management",
     "title": "Postgraduate Diploma in Fire Safety & Risk Management",
     "url": "https://www.udemy.com/course/fire-safety-and-risk-management/?couponCode=54234336C5AF8606181B",
@@ -1474,7 +1474,7 @@
     "expiryDate": "25/10/2026 3:30:39"
   },
   {
-    "id": "course-11",
+    "id": "course-13",
     "slug": "microsoft-word-mastery-essential-skill-for-job-and-business",
     "title": "Microsoft Word Mastery: Essential Skill for Job and Business",
     "url": "https://www.udemy.com/course/microsoft-word-mastery-essential-skill-for-job-and-business/?couponCode=E44FF5840E1A0CB18E98",
@@ -1496,7 +1496,7 @@
     "expiryDate": "24/10/2026 17:38:38"
   },
   {
-    "id": "course-12",
+    "id": "course-14",
     "slug": "capcut-ninja-mastering-video-editing-basics-to-advanced",
     "title": "Capcut Ninja: Mastering Video Editing Basics to Advanced",
     "url": "https://www.udemy.com/course/capcut-ninja-mastering-video-editing-basics-to-advanced/?couponCode=52989A7AB7813315BB95",
@@ -1518,7 +1518,7 @@
     "expiryDate": "24/10/2026 17:38:38"
   },
   {
-    "id": "course-19",
+    "id": "course-20",
     "slug": "microsoft-copilot-studio-ms-foundry-claude-code-demo",
     "title": "Microsoft Copilot Studio +MS Foundry + Claude Code (Demo)",
     "url": "https://www.udemy.com/course/ai-agents-copilot-studio-azure-foundry-microsoft-foundry/?couponCode=A7F2C4C407B74EDD406A",
