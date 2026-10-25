@@ -38,20 +38,20 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 
 | No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
 | :-: | :--- | :--- | :-: | :--- |
-| 1 | **CPO: Chief Product Officer: from Manager to C-Level [EN]** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/cpo-chief-product-officer-from-manager-to-c-level-en/) |
-| 2 | **People Partner HR certification program for future HRBP [EN]** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/people-partner-hr-certification-program-for-future-hrbp-en/) |
-| 3 | **People Management MBA Build Lead High Performing Teams [EN]** | `Business` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/people-management-mba-build-lead-high-performing-teams-en/) |
-| 4 | **Professional Diploma in Procurement and Vendor Management** | `Business` | ⭐ 2.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/professional-diploma-in-procurement-and-vendor-management/) |
-| 5 | **Rewrite Your Reality: 10x Your Writing Skills Effortlessly** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/rewrite-your-reality-10x-your-writing-skills-effortlessly/) |
-| 6 | **B2B Outbound Lead Generation Mastery** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/b2b-outbound-lead-generation-mastery/) |
-| 7 | **AI Visual Design with Adobe Firefly** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-visual-design-with-adobe-firefly/) |
-| 8 | **Playing with Binary** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/playing-with-binary/) |
-| 9 | **SMART Goals Parenting** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/smart-goals-parenting/) |
-| 10 | **Leadership for Successful Project Management and Delivery** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/leadership-for-successful-project-management-and-delivery/) |
-| 11 | **Project Management: Post Mortems** | `Business` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/project-management-post-mortems/) |
-| 12 | **Postgraduate Diploma in Fire Safety Management (PGDFSM)** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/postgraduate-diploma-in-fire-safety-management-pgdfsm/) |
-| 13 | **Adobe Photoshop CC Fundamentals and Essentials Training** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-photoshop-cc-fundamentals-and-essentials-training/) |
-| 14 | **Professional Adobe Photoshop CC Course With Advance Training** | `Design` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/professional-adobe-photoshop-cc-course-with-advance-training/) |
+| 1 | **CSS - The Complete Guide to CSS for Beginners** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/css-the-complete-guide-to-css-for-beginners/) |
+| 2 | **CPO: Chief Product Officer: from Manager to C-Level [EN]** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/cpo-chief-product-officer-from-manager-to-c-level-en/) |
+| 3 | **People Partner HR certification program for future HRBP [EN]** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/people-partner-hr-certification-program-for-future-hrbp-en/) |
+| 4 | **People Management MBA Build Lead High Performing Teams [EN]** | `Business` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/people-management-mba-build-lead-high-performing-teams-en/) |
+| 5 | **Professional Diploma in Procurement and Vendor Management** | `Business` | ⭐ 2.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/professional-diploma-in-procurement-and-vendor-management/) |
+| 6 | **Rewrite Your Reality: 10x Your Writing Skills Effortlessly** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/rewrite-your-reality-10x-your-writing-skills-effortlessly/) |
+| 7 | **B2B Outbound Lead Generation Mastery** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/b2b-outbound-lead-generation-mastery/) |
+| 8 | **AI Visual Design with Adobe Firefly** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-visual-design-with-adobe-firefly/) |
+| 9 | **Playing with Binary** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/playing-with-binary/) |
+| 10 | **SMART Goals Parenting** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/smart-goals-parenting/) |
+| 11 | **Leadership for Successful Project Management and Delivery** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/leadership-for-successful-project-management-and-delivery/) |
+| 12 | **Project Management: Post Mortems** | `Business` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/project-management-post-mortems/) |
+| 13 | **Postgraduate Diploma in Fire Safety Management (PGDFSM)** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/postgraduate-diploma-in-fire-safety-management-pgdfsm/) |
+| 14 | **Adobe Photoshop CC Fundamentals and Essentials Training** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-photoshop-cc-fundamentals-and-essentials-training/) |
 | 15 | **Financial Accounting & Bookkeeping: Beginners to Advanced.** | `Business` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-accounting-bookkeeping-beginners-to-advanced/) |
 | 16 | **Nutrition Strategies for Fighting Cancer** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/nutrition-strategies-for-fighting-cancer/) |
 | 17 | **Timeless Wisdom for Modern Women: A Practical Guide** | `Design` | ⭐ 4.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/timeless-wisdom-for-modern-women-a-practical-guide/) |
