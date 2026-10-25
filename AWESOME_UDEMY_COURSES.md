@@ -68,8 +68,8 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 | 28 | **The Art of Herbalism: From Roots to Remedies** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-art-of-herbalism-from-roots-to-remedies/) |
 | 29 | **Supporting Autism & Dyslexia in Early Childhood Education** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/supporting-autism-dyslexia-in-early-childhood-education/) |
 | 30 | **Adobe Photoshop: Ultimate Guide to Photo Editing and Design** | `Design` | ⭐ 1.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-photoshop-ultimate-guide-to-photo-editing-and-design/) |
-| 31 | **Inclusive Leadership: Lead Diverse and Global Teams** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/inclusive-leadership-lead-diverse-and-global-teams/) |
-| 32 | **Adobe Illustrator for T-Shirt Design: From Sketch to Print** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-illustrator-for-t-shirt-design-from-sketch-to-print/) |
+| 31 | **Save Time and Create Smarter: AI Tools for Non-Tech Creators** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/save-time-and-create-smarter-ai-tools-for-non-tech-creators/) |
+| 32 | **Smartphone Detox for Kids: A 7-Day Family Challenge** | `Development` | ⭐ 1.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/smartphone-detox-for-kids-a-7-day-family-challenge/) |
 | 33 | **Programming Bootcamp with Python, JavaScript, C++, PHP MySql** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/programming-bootcamp-with-python-javascript-c-php-mysql/) |
 | 34 | **Python: Zero to Professional** | `Development` | ⭐ 3.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/python-zero-to-professional/) |
 | 35 | **AI Foundations** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-foundations/) |

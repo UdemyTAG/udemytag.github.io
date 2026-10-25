@@ -7443,5 +7443,23 @@
     "isFree": false,
     "instructors": "Rahul Anand",
     "campaign": null
+  },
+  "ai-tools-for-non-tech-creators_4B42A08B239D7D2B9275": {
+    "subscribers": 3431,
+    "reviews": 8,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
+  },
+  "smartphone-detox-for-kids_59020E264D166659C457": {
+    "subscribers": 2661,
+    "reviews": 2,
+    "rating": "1.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
   }
 }
