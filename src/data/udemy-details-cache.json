@@ -7385,5 +7385,63 @@
       "rem": 76,
       "end": "2026-11-25T06:12:00Z"
     }
+  },
+  "programming-bootcamp-with-web-and-application-development_4118F5222F95C8E34692": {
+    "subscribers": 15530,
+    "reviews": 129,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "adobe-illustrator-cc-for-learning-graphics-design_1D66C9A4E95D9E7DD7F0": {
+    "subscribers": 35243,
+    "reviews": 236,
+    "rating": "4.1",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 11,
+      "end": "2026-11-25T06:13:00Z"
+    }
+  },
+  "python-zero-to-professional_FREEOCT2026": {
+    "subscribers": 534,
+    "reviews": 3,
+    "rating": "3.6",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Rahul Anand",
+    "campaign": null
+  },
+  "ai-foundation-for-beginners_FREE25OCT2026": {
+    "subscribers": 498,
+    "reviews": 21,
+    "rating": "4.3",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Rahul Anand",
+    "campaign": null
+  },
+  "python-django-full-stack-development-build-modern-web-app_C801CFF7F2B2EB954645": {
+    "subscribers": 20017,
+    "reviews": 227,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "introduction-to-rag_FREEOCT252026": {
+    "subscribers": 378,
+    "reviews": 1,
+    "rating": "5.0",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Rahul Anand",
+    "campaign": null
   }
 }
