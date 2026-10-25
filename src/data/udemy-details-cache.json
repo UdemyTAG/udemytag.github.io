@@ -6967,5 +6967,423 @@
       "rem": 45,
       "end": "2026-11-24T20:05:00Z"
     }
+  },
+  "mastering-microsoft-powerpoint-create-stunning-presentation_23C5940E095ABF0A0D4D": {
+    "subscribers": 11486,
+    "reviews": 81,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": 100,
+      "rem": 14,
+      "end": "2026-11-25T04:08:00Z"
+    }
+  },
+  "microsoft-excel-data-analysis-with-formulas-and-vba_507EA4BA772FF4C44E2F": {
+    "subscribers": 13219,
+    "reviews": 145,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "google-slides-full-guide-to-creating-impactful-presentation_4540A4E13B8EE2E10D4C": {
+    "subscribers": 9847,
+    "reviews": 26,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "microsoft-office-excel-word-powerpoint-and-teams-for-pro_CE78E51FA090F5E3ECBE": {
+    "subscribers": 14350,
+    "reviews": 174,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "canva-for-social-media-zero-to-hero-graphic-design-in-canva_D64C4D66D9A0BB44378C": {
+    "subscribers": 12552,
+    "reviews": 141,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "flask-framework-complete-course-for-beginners_1B9E11C9E5FDCB3CB643": {
+    "subscribers": 292563,
+    "reviews": 2194,
+    "rating": "4.5",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Horizon Tech",
+    "campaign": null
+  },
+  "microsoft-power-automate-desktop-tutorials-for-beginners_FEB14-2026": {
+    "subscribers": 18117,
+    "reviews": 2583,
+    "rating": "4.3",
+    "price": "$84.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": null
+  },
+  "javascript-and-php-programming-complete-course_23AB409560BB2094DDC7": {
+    "subscribers": 115453,
+    "reviews": 1213,
+    "rating": "4.3",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "PROPER DOT INSTITUTE",
+    "campaign": null
+  },
+  "cssbootstrapjavascriptreact-overview-course-for-beginners_1CF547B6D97483BEE10C": {
+    "subscribers": 64255,
+    "reviews": 1159,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "PROPER DOT INSTITUTE",
+    "campaign": null
+  },
+  "css-bootstrap-javascript-web-development-course_8A883F5A9F9453734FDD": {
+    "subscribers": 119526,
+    "reviews": 1970,
+    "rating": "4.4",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "PROPER DOT INSTITUTE",
+    "campaign": {
+      "max": 100,
+      "rem": 1,
+      "end": "2026-11-22T08:27:00Z"
+    }
+  },
+  "mastering-microsoft-copilot-studio-future-of-ai-agents_FEB14-2026": {
+    "subscribers": 2450,
+    "reviews": 124,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": null
+  },
+  "microsoft-power-automate-desktop-course-zero-to-expert-2_783F39A1D0CDB4A70A7C": {
+    "subscribers": 14315,
+    "reviews": 300,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": null
+  },
+  "ab-100-microsoft-agentic-ai-business-solutions-architect-i_MAY2026100FREE": {
+    "subscribers": 1335,
+    "reviews": 9,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": null
+  },
+  "microsoft-power-automate-with-ai-builder_77THREPUBLICDAY": {
+    "subscribers": 15312,
+    "reviews": 182,
+    "rating": "4.1",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": null
+  },
+  "power-automate-desktop-course-intelligent-automation_E8C51F3C27EA98FE100C": {
+    "subscribers": 11078,
+    "reviews": 377,
+    "rating": "4.5",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": null
+  },
+  "become-rpa-solution-architect-in-30-days_SANKRANTHI2026": {
+    "subscribers": 6502,
+    "reviews": 32,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": null
+  },
+  "pl-500-microsoft-power-automate-rpa-developer-bootcamp_FEB14-2026": {
+    "subscribers": 5461,
+    "reviews": 609,
+    "rating": "4.1",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": null
+  },
+  "learn-rpa-microsoft-power-automate-step-by-step_FEB14-2026": {
+    "subscribers": 3468,
+    "reviews": 192,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": null
+  },
+  "php-master-php-for-back-end-web-development-with-mysql_AA066A71D6838E73873A": {
+    "subscribers": 2185,
+    "reviews": 1,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": 100,
+      "rem": 22,
+      "end": "2026-11-19T06:58:00Z"
+    }
+  },
+  "excel-data-analysis-for-professionals-and-analysts_15EED8CBFFD382BFE362": {
+    "subscribers": 2698,
+    "reviews": 31,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "adobe-illustrator-course-for-beginner_FC03D9C1801D85EF2E6A": {
+    "subscribers": 51140,
+    "reviews": 557,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Ben Kemp, Zechariah Tech",
+    "campaign": null
+  },
+  "learn-blockchain-and-cryotp-from-beginning_FBC3461BC3F1713FE0B0": {
+    "subscribers": 48487,
+    "reviews": 421,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Zechariah Tech",
+    "campaign": null
+  },
+  "the-complete-full-stack-web-development-masterclass-2026_22130F110EBD4BBA1445": {
+    "subscribers": 3964,
+    "reviews": 19,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "advanced-powerpoint-course-for-professional-and-job-success_7AC479E6BC79B80A5169": {
+    "subscribers": 49730,
+    "reviews": 566,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Zechariah Tech",
+    "campaign": null
+  },
+  "canva-for-graphic-design-social-media-marketing_60E05CBBAC948A187A31": {
+    "subscribers": 3807,
+    "reviews": 29,
+    "rating": "3.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "python-data-science-and-machine-learning-made-easy_FB6C624EA4092E07BC4D": {
+    "subscribers": 5013,
+    "reviews": 22,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "html-css-made-easy-web-design-front-end-web-development_DF0CE45827706B4AA0A0": {
+    "subscribers": 4021,
+    "reviews": 19,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "learn-kotlin-for-android-android-app-development-bootcamp_E87CEAB626E2CD059742": {
+    "subscribers": 3843,
+    "reviews": 8,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "pivot-tables-microsoft-excel-pivot-table-and-data-analysis_2C684539C185721C70D7": {
+    "subscribers": 3886,
+    "reviews": 28,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "pivot-tables-in-microsoft-excel-pivot-table-data-analysis_1FCA014CA88F2BCF1E21": {
+    "subscribers": 3556,
+    "reviews": 13,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "advanced-excel-course-for-job-and-real-world_E2DD39AC0A96F3C757FC": {
+    "subscribers": 60483,
+    "reviews": 808,
+    "rating": "3.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Zechariah Tech",
+    "campaign": null
+  },
+  "graphics-design-and-video-editing-course-for-beginner_7AEFE652B9A335DBC000": {
+    "subscribers": 50098,
+    "reviews": 332,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Ben Kemp, Zechariah Tech",
+    "campaign": null
+  },
+  "graphics-design-videoediting-course_220361DFBFD17478D2D8": {
+    "subscribers": 47069,
+    "reviews": 390,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Nerding I/O, Zechariah Tech",
+    "campaign": null
+  },
+  "master-ms-word-excel-powerpoint-and-google-doc-google-sheets_7AEBEA844A9E015D6746": {
+    "subscribers": 5087,
+    "reviews": 45,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": null
+  },
+  "canva-social-media-video-editing-masterclass-edit-like-a-pro_E6595F2C687A171BE10B": {
+    "subscribers": 12074,
+    "reviews": 77,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sustoab Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 31,
+      "end": "2026-11-25T08:02:00Z"
+    }
+  },
+  "capcut-with-canva-graphic-design-video-editing-masterclass_7E6375461D5F3B2703C6": {
+    "subscribers": 12790,
+    "reviews": 84,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sustoab Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 25,
+      "end": "2026-11-25T08:02:00Z"
+    }
+  },
+  "canva-for-graphics-design-and-video-editing-masterclass_AF7FA2205E0154DEA2D8": {
+    "subscribers": 40843,
+    "reviews": 557,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "learn-ui-ux-design-adobe-xd-figma-uiuxdesign_945A085524E2652465A2": {
+    "subscribers": 40887,
+    "reviews": 723,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 27,
+      "end": "2026-11-25T06:13:00Z"
+    }
+  },
+  "uiux-design-masterclass-with-adobe-xd-from-beginner-to-pro_FCB3A106D695A87AED08": {
+    "subscribers": 39927,
+    "reviews": 341,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": 100,
+      "rem": 9,
+      "end": "2026-11-25T08:21:00Z"
+    }
+  },
+  "diversity-equity-inclusion-building-inclusive-workplaces_363628DC003FDB7A9633": {
+    "subscribers": 6375,
+    "reviews": 28,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": 100,
+      "rem": 75,
+      "end": "2026-11-25T08:20:00Z"
+    }
+  },
+  "learn-davinci-resolve-the-complete-video-editing-bootcamp_68993B388646658E17E2": {
+    "subscribers": 33330,
+    "reviews": 169,
+    "rating": "3.6",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": 100,
+      "rem": 47,
+      "end": "2026-11-25T08:21:00Z"
+    }
+  },
+  "professional-graphics-design-video-editing-course-with-project_406AF6F55195B50C39D7": {
+    "subscribers": 30865,
+    "reviews": 151,
+    "rating": "4.2",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 76,
+      "end": "2026-11-25T06:12:00Z"
+    }
   }
 }
