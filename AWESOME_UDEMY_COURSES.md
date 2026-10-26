@@ -38,45 +38,45 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 
 | No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
 | :-: | :--- | :--- | :-: | :--- |
-| 1 | **Adobe Illustrator CC for Learning Graphics Design** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-illustrator-cc-for-learning-graphics-design/) |
-| 2 | **Mastering Microsoft PowerPoint: Create Stunning Presentation** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-microsoft-powerpoint-create-stunning-presentation/) |
-| 3 | **CSS, Bootstrap ,JavaScript, Web Development Course** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/css-bootstrap-javascript-web-development-course/) |
-| 4 | **PHP - Master PHP for Back End Web Development with MySQL** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/php-master-php-for-back-end-web-development-with-mysql/) |
-| 5 | **Canva Social Media Video Editing MasterClass Edit Like a Pro** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/canva-social-media-video-editing-masterclass-edit-like-a-pro/) |
-| 6 | **Capcut With Canva Graphic Design Video Editing Masterclass** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/capcut-with-canva-graphic-design-video-editing-masterclass/) |
-| 7 | **Learn UI UX Design Adobe XD : Learn User Experience Design** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-ui-ux-design-adobe-xd-learn-user-experience-design/) |
-| 8 | **UI/UX Design Masterclass with Adobe XD: From Beginner to Pro** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/ui-ux-design-masterclass-with-adobe-xd-from-beginner-to-pro/) |
-| 9 | **Diversity Equity Inclusion Building Inclusive Workplaces** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/diversity-equity-inclusion-building-inclusive-workplaces/) |
-| 10 | **Learn DaVinci Resolve: The Complete Video Editing Bootcamp** | `Design` | ⭐ 3.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-davinci-resolve-the-complete-video-editing-bootcamp/) |
-| 11 | **Professional Project Based Graphics Design & Video Editing** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/professional-project-based-graphics-design-video-editing/) |
-| 12 | **Professional Diploma in Procurement and Vendor Management** | `Business` | ⭐ 2.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/professional-diploma-in-procurement-and-vendor-management/) |
-| 13 | **Postgraduate Diploma in Fire Safety Management (PGDFSM)** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/postgraduate-diploma-in-fire-safety-management-pgdfsm/) |
-| 14 | **Adobe Photoshop CC Fundamentals and Essentials Training** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-photoshop-cc-fundamentals-and-essentials-training/) |
-| 15 | **Financial Accounting & Bookkeeping: Beginners to Advanced.** | `Business` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-accounting-bookkeeping-beginners-to-advanced/) |
-| 16 | **Nutrition Strategies for Fighting Cancer** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/nutrition-strategies-for-fighting-cancer/) |
-| 17 | **Timeless Wisdom for Modern Women: A Practical Guide** | `Design` | ⭐ 4.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/timeless-wisdom-for-modern-women-a-practical-guide/) |
-| 18 | **Certified Blueprint for Personal and Professional Mastery** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-blueprint-for-personal-and-professional-mastery/) |
-| 19 | **Mastering Electrotherapy in Rehabilitation & Pain Management** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-electrotherapy-in-rehabilitation-pain-management/) |
-| 20 | **Physiotherapy: Core Concepts and Practical Applications** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/physiotherapy-core-concepts-and-practical-applications/) |
-| 21 | **The Art of Living: Mastering a Balanced and Fulfilled Life** | `Personal Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-art-of-living-mastering-a-balanced-and-fulfilled-life/) |
-| 22 | **Foundations of Bacteriology: Understanding Microbial Life** | `Personal Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/foundations-of-bacteriology-understanding-microbial-life/) |
-| 23 | **Accredited Child Psychology Comprehensive Guide** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/accredited-child-psychology-comprehensive-guide/) |
-| 24 | **Accredited Narcissist Recovery Course** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/accredited-narcissist-recovery-course/) |
-| 25 | **Workplace Safety Essentials: Fire Safety, First Aid Training** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-safety-essentials-fire-safety-first-aid-training/) |
-| 26 | **Complete ISO Standards in 1 Hour: ISO 9000 to ISO 31000** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-iso-standards-in-1-hour-iso-9000-to-iso-31000/) |
-| 27 | **Handling Sensitive Information in Caregiving** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/handling-sensitive-information-in-caregiving/) |
-| 28 | **The Art of Herbalism: From Roots to Remedies** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-art-of-herbalism-from-roots-to-remedies/) |
-| 29 | **Supporting Autism & Dyslexia in Early Childhood Education** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/supporting-autism-dyslexia-in-early-childhood-education/) |
-| 30 | **Adobe Photoshop: Ultimate Guide to Photo Editing and Design** | `Design` | ⭐ 1.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-photoshop-ultimate-guide-to-photo-editing-and-design/) |
-| 31 | **Save Time and Create Smarter: AI Tools for Non-Tech Creators** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/save-time-and-create-smarter-ai-tools-for-non-tech-creators/) |
-| 32 | **Smartphone Detox for Kids: A 7-Day Family Challenge** | `Development` | ⭐ 1.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/smartphone-detox-for-kids-a-7-day-family-challenge/) |
-| 33 | **Programming Bootcamp with Python, JavaScript, C++, PHP MySql** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/programming-bootcamp-with-python-javascript-c-php-mysql/) |
-| 34 | **Python: Zero to Professional** | `Development` | ⭐ 3.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/python-zero-to-professional/) |
-| 35 | **AI Foundations** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-foundations/) |
-| 36 | **Python Django Full Stack Development: Build Modern Web App** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/python-django-full-stack-development-build-modern-web-app/) |
-| 37 | **Introduction to RAG - Retrieval Augmented Generation** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/introduction-to-rag-retrieval-augmented-generation/) |
-| 38 | **Microsoft Excel Data Analysis with Formulas and VBA** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/microsoft-excel-data-analysis-with-formulas-and-vba/) |
-| 39 | **Google Slides: Full Guide to Creating Impactful Presentation** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/google-slides-full-guide-to-creating-impactful-presentation/) |
-| 40 | **Microsoft Office: Excel, Word, PowerPoint and Teams for Pro** | `Business` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/microsoft-office-excel-word-powerpoint-and-teams-for-pro/) |
+| 1 | **AI Visual Design with Adobe Firefly** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-visual-design-with-adobe-firefly/) |
+| 2 | **Playing with Binary** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/playing-with-binary/) |
+| 3 | **Rewrite Your Reality: 10x Your Writing Skills Effortlessly** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/rewrite-your-reality-10x-your-writing-skills-effortlessly/) |
+| 4 | **B2B Outbound Lead Generation Mastery** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/b2b-outbound-lead-generation-mastery/) |
+| 5 | **SMART Goals Parenting** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/smart-goals-parenting/) |
+| 6 | **Project Management: Post Mortems** | `Business` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/project-management-post-mortems/) |
+| 7 | **Leadership for Successful Project Management and Delivery** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/leadership-for-successful-project-management-and-delivery/) |
+| 8 | **Empathy and Emotional Intelligence for Project Managers** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/empathy-and-emotional-intelligence-for-project-managers/) |
+| 9 | **Introduction to Financial Controls** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/introduction-to-financial-controls/) |
+| 10 | **Organizational Influences & Project Management Lifecycle** | `Business` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/organizational-influences-project-management-lifecycle/) |
+| 11 | **Financial Services: Introduction to ETFs** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-introduction-to-etfs/) |
+| 12 | **Managing Social Anxiety in the Workplace** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/managing-social-anxiety-in-the-workplace/) |
+| 13 | **Financial Services - Overview of Central Banks** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-overview-of-central-banks/) |
+| 14 | **Workplace Productivity - Supporting Others Through Change** | `Personal Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-productivity-supporting-others-through-change/) |
+| 15 | **Mental Health for the Workplace** | `Personal Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/mental-health-for-the-workplace/) |
+| 16 | **Emotional Intelligence in Leadership** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/emotional-intelligence-in-leadership/) |
+| 17 | **Financial Services - Overview of Retail Banking** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-overview-of-retail-banking/) |
+| 18 | **Financial Services: Overview of Commodities** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-overview-of-commodities/) |
+| 19 | **Workplace Productivity-Coping with the Anxiety of Leadership** | `Personal Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-productivity-coping-with-the-anxiety-of-leadership/) |
+| 20 | **Financial Services - Basics of Business & Corporate Banking** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-basics-of-business-corporate-banking/) |
+| 21 | **Financial Services - Funds Flow Optimization Concepts** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-funds-flow-optimization-concepts/) |
+| 22 | **Financial Services - Basics of Regulation & Compliance** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-basics-of-regulation-compliance/) |
+| 23 | **Financial Stewardship for Decision Makers and Leaders** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-stewardship-for-decision-makers-and-leaders/) |
+| 24 | **Financial Services - Understanding Interest Rates** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-understanding-interest-rates/) |
+| 25 | **Audit Administration - Effective Communication in Audit** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/audit-administration-effective-communication-in-audit/) |
+| 26 | **Employee Wellbeing Toolkit** | `Development` | ⭐ 4.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/employee-wellbeing-toolkit/) |
+| 27 | **Financial Services: Financial Wellbeing for Employees** | `Development` | ⭐ 4.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-financial-wellbeing-for-employees/) |
+| 28 | **Authentic Leadership** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/authentic-leadership/) |
+| 29 | **Intentional Leadership** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/intentional-leadership/) |
+| 30 | **Workplace Stress Management Strategies** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-stress-management-strategies/) |
+| 31 | **Prioritization Techniques for Decision Makers and Leaders** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/prioritization-techniques-for-decision-makers-and-leaders/) |
+| 32 | **Currency Management for Small Businesses & Corporates** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/currency-management-for-small-businesses-corporates/) |
+| 33 | **Visualization techniques for Decision Makers and Leaders** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/visualization-techniques-for-decision-makers-and-leaders/) |
+| 34 | **Introduction to Financial Products & Services** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/introduction-to-financial-products-services/) |
+| 35 | **Developing successful Professional Relationships** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/developing-successful-professional-relationships/) |
+| 36 | **Data Structures and Algorithms: Complete Developer’s Guide** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/data-structures-and-algorithms-complete-developer-s-guide/) |
+| 37 | **Ethology for veterinerian an introduction** | `Development` | ⭐ 3.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/ethology-for-veterinerian-an-introduction/) |
+| 38 | **Clinical Embryology: A Practical Approach** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/clinical-embryology-a-practical-approach/) |
+| 39 | **Medical ethics for medical students health care professional** | `Personal Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/medical-ethics-for-medical-students-health-care-professional/) |
+| 40 | **All about  vaccine and vaccnation** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/all-about-vaccine-and-vaccnation/) |
 
 *Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*
