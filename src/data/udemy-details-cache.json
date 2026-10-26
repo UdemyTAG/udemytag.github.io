@@ -7851,5 +7851,123 @@
       "rem": null,
       "end": "2026-10-29T07:00:00Z"
     }
+  },
+  "javascript-coding-interview-questions-with-solutions_2F6BDA2BA76CFC44FD43": {
+    "subscribers": 19745,
+    "reviews": 69,
+    "rating": "4.0",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Interview Practice Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "complete-video-editing-course-for-freelancers-from-scratch_ABA92B2C25759D066E92": {
+    "subscribers": 10537,
+    "reviews": 48,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "ARUNNACHALAM SHANMUGARAAJAN",
+    "campaign": {
+      "max": 100,
+      "rem": 9,
+      "end": "2026-11-26T12:58:00Z"
+    }
+  },
+  "hands-on-labs-model-context-protocol_FREEOCT282026": {
+    "subscribers": 669,
+    "reviews": 3,
+    "rating": "4.3",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Rahul Anand",
+    "campaign": null
+  },
+  "ai-foundation-introduction-to-mcp_FREEOCT262026": {
+    "subscribers": 1248,
+    "reviews": 28,
+    "rating": "4.0",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Rahul Anand",
+    "campaign": null
+  },
+  "word-stress-of-american-english_REALDISCOCT26": {
+    "subscribers": 21865,
+    "reviews": 269,
+    "rating": "4.7",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Sheila Lebedenko",
+    "campaign": {
+      "max": 100,
+      "rem": 49,
+      "end": "2026-11-26T18:59:00Z"
+    }
+  },
+  "fundamentals1_D6E47B9C83E9EA3E4A4A": {
+    "subscribers": 5500,
+    "reviews": 62,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Erioluwa Olajide",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "vowels-for-advanced-chinese-learners-of-american-english_REALDISOCT26": {
+    "subscribers": 10707,
+    "reviews": 85,
+    "rating": "4.7",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "Sheila Lebedenko",
+    "campaign": {
+      "max": 100,
+      "rem": 57,
+      "end": "2026-11-26T18:58:00Z"
+    }
+  },
+  "oncology-understanding-cancer-biology-diagnosis-treatments_7D25FC00E2B17AD7CBDF": {
+    "subscribers": 2683,
+    "reviews": 26,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 59,
+      "end": "2026-10-30T02:20:00Z"
+    }
+  },
+  "digrepman_20D95A1E56B0A2A94CCB": {
+    "subscribers": 4916,
+    "reviews": 27,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Erioluwa Olajide",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "introduction-to-rag_FREEOCT262026": {
+    "subscribers": 704,
+    "reviews": 1,
+    "rating": "5.0",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Rahul Anand",
+    "campaign": null
   }
 }
