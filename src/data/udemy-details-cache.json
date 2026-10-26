@@ -7461,5 +7461,395 @@
     "isFree": false,
     "instructors": "Md. Aliful Islam",
     "campaign": null
+  },
+  "python-with-machine-learning-start-building-ai-models-today_1E20C6E38B150F66FE3F": {
+    "subscribers": 3780,
+    "reviews": 16,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "data-structures-and-algorithms-complete-developers-guide_1230FB5455B92D7D8056": {
+    "subscribers": 4612,
+    "reviews": 22,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": 100,
+      "rem": 24,
+      "end": "2026-11-19T06:58:00Z"
+    }
+  },
+  "chatgpt-earning-money-with-chatgpt-easy-way-for-beginners_16AD763AB1FFA6698A2E": {
+    "subscribers": 62871,
+    "reviews": 531,
+    "rating": "3.8",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Web Oral",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "excel-formulas-functions-beginner-to-expert-course_7AF21B49A7382916F354": {
+    "subscribers": 75403,
+    "reviews": 1001,
+    "rating": "4.3",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Web Oral",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "ethology-for-veterinerian-an-introduction_0880DCFF06D2008797FC": {
+    "subscribers": 2462,
+    "reviews": 18,
+    "rating": "3.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 37,
+      "end": "2026-10-30T02:23:00Z"
+    }
+  },
+  "clinical-embryology-a-practical-approach_A1A0A3E79B30E5047EE0": {
+    "subscribers": 2309,
+    "reviews": 3,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 17,
+      "end": "2026-10-30T03:27:00Z"
+    }
+  },
+  "medical-ethics-for-medical-students-health-care-professional_0A0D2585ADF8B05A257C": {
+    "subscribers": 2536,
+    "reviews": 32,
+    "rating": "3.7",
+    "price": "$27.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 31,
+      "end": "2026-10-30T02:28:00Z"
+    }
+  },
+  "abc-of-eye-health-comprehensive-introduction-to-ophthalmolog_C9371EDCAD1B61EF6F83": {
+    "subscribers": 2218,
+    "reviews": 17,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "all-about-vaccine-and-vaccnation_8DBC4B8E414E076BE381": {
+    "subscribers": 5652,
+    "reviews": 32,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 16,
+      "end": "2026-10-30T00:50:00Z"
+    }
+  },
+  "web-design-for-beginner-to-advanced_F0CCD67387D3F2925804": {
+    "subscribers": 44603,
+    "reviews": 700,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Manuel Tudu",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "genetic-from-mendal-to-era-of-microchip-molecular-genetic_5B0EE621A58CC656471E": {
+    "subscribers": 7498,
+    "reviews": 50,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "abc-of-ear-nose-and-throat-ent-disorders_F1AC8395E8EDA0BC700A": {
+    "subscribers": 2675,
+    "reviews": 15,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "adobe-premiere-pro-101-learn-editing-effects-transitions_024222EA63EE1059E063": {
+    "subscribers": 3517,
+    "reviews": 8,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Logic Labs",
+    "campaign": {
+      "max": 100,
+      "rem": 47,
+      "end": "2026-11-22T04:20:00Z"
+    }
+  },
+  "python-for-excel-automation-master-data-processing-reporting_59A853058549F0A97EB6": {
+    "subscribers": 3583,
+    "reviews": 12,
+    "rating": "3.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "statistical-concepts-explained-and-applied-in-r_BCBF5F31D04FBE9B754C": {
+    "subscribers": 22848,
+    "reviews": 96,
+    "rating": "4.3",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "Lavinia Bleoca",
+    "campaign": {
+      "max": 100,
+      "rem": 36,
+      "end": "2026-11-26T06:01:00Z"
+    }
+  },
+  "numpy-scipy-matplotlib-pandas-ufunc-machine-learning_239AAD7D680588ACC052": {
+    "subscribers": 3621,
+    "reviews": 17,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "grok-mastery-programming-ai-and-problem-solving-skills_17F160DD90D050C5EB34": {
+    "subscribers": 5784,
+    "reviews": 5,
+    "rating": "3.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "python-programming-for-pcep-beginner-to-certified_6744101F6825285EE2BD": {
+    "subscribers": 3691,
+    "reviews": 23,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "mastering-c-plus-language-c-programming-for-beginners_0DA7BDF5D554EA8147A3": {
+    "subscribers": 32425,
+    "reviews": 372,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "php-master-class-the-complete-php-developer-course_E643CB5F032EB26169A2": {
+    "subscribers": 36842,
+    "reviews": 274,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "css-the-complete-guide-to-css-zero-to-hero_AB35D4070BA2DE543463": {
+    "subscribers": 29749,
+    "reviews": 312,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "mastering-google-docs-complete-google-docs-course_718353E4CFC6FD7308AF": {
+    "subscribers": 18502,
+    "reviews": 131,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "t-shirt-design-mastery-illustrator-photoshop-and-canva_D3DCD5D68CDEDF770364": {
+    "subscribers": 8698,
+    "reviews": 39,
+    "rating": "3.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": 10,
+      "rem": 4,
+      "end": "2026-10-30T04:15:00Z"
+    }
+  },
+  "social-media-graphics-design-and-video-editing-with-canva_ECE1346079442742DE5A": {
+    "subscribers": 17042,
+    "reviews": 165,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": 100,
+      "rem": 63,
+      "end": "2026-11-25T04:14:00Z"
+    }
+  },
+  "agile-project-management-scrum_261026_FREE": {
+    "subscribers": 58043,
+    "reviews": 756,
+    "rating": "4.4",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Paul Ashun",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "mastering-c-learn-building-games-application-softwares_90152165B5E6C6A1161B": {
+    "subscribers": 21668,
+    "reviews": 162,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "advanced-capcut-course-learn-professional-video-editing_F7155B57AF0C2807A5F2": {
+    "subscribers": 26556,
+    "reviews": 221,
+    "rating": "4.0",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "magnetic-properties-of-solids_08AD4D9BCD246457E736": {
+    "subscribers": 563,
+    "reviews": 35,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sana Muhammad din",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "master-python-for-data-science-machine-learning-automation_B9F9A124C79899A803E6": {
+    "subscribers": 9813,
+    "reviews": 72,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "electrical-properties-of-solids_0D6A53E8129D49FB7119": {
+    "subscribers": 590,
+    "reviews": 40,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sana Muhammad din",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
   }
 }
