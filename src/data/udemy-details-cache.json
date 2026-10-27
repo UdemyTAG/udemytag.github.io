@@ -8533,5 +8533,941 @@
       "rem": null,
       "end": "2026-10-29T07:00:00Z"
     }
+  },
+  "elisa-principals-and-applications-for-professionals_EB5CD631E1BE18E48144": {
+    "subscribers": 4178,
+    "reviews": 57,
+    "rating": "3.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 44,
+      "end": "2026-10-30T01:39:00Z"
+    }
+  },
+  "medical-genetics-n_D22A6CCD771449F00F4E": {
+    "subscribers": 4605,
+    "reviews": 12,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 66,
+      "end": "2026-10-30T01:38:00Z"
+    }
+  },
+  "hematology-theory-and-practice-for-medical-students_D9490E098FA88B610369": {
+    "subscribers": 3598,
+    "reviews": 19,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 51,
+      "end": "2026-10-30T01:41:00Z"
+    }
+  },
+  "ai-masteclass-chatgpt-gemini-midjourney-stable-diffusion_940F17BB102424C46027": {
+    "subscribers": 29448,
+    "reviews": 181,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "advanced-capcut-from-beginner-to-motion-graphics-master_8B7AB0908D3B356DF7B8": {
+    "subscribers": 30573,
+    "reviews": 263,
+    "rating": "4.0",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "java-training-complete-course-2022_D86090B2A13A6070C8CD": {
+    "subscribers": 91253,
+    "reviews": 1668,
+    "rating": "4.3",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Crunch Coding Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "java-and-php-complete-course_34AD0CE7FABD2AD064BE": {
+    "subscribers": 78885,
+    "reviews": 620,
+    "rating": "4.5",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Crunch Coding Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 14,
+      "end": "2026-11-27T10:47:00Z"
+    }
+  },
+  "java-training-crash-course-2022_02E8500607372131E21A": {
+    "subscribers": 63146,
+    "reviews": 1058,
+    "rating": "4.3",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Crunch Coding Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "javascript-and-php-and-python-programming-complete-course_97B0753684194284EB84": {
+    "subscribers": 123485,
+    "reviews": 1094,
+    "rating": "4.3",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "PROPER DOT INSTITUTE",
+    "campaign": {
+      "max": 100,
+      "rem": 17,
+      "end": "2026-11-27T10:59:00Z"
+    }
+  },
+  "c-training-crash-course-2022_1340F719F73AA9A5B477": {
+    "subscribers": 57529,
+    "reviews": 646,
+    "rating": "4.3",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Crunch Coding Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 18,
+      "end": "2026-11-27T10:47:00Z"
+    }
+  },
+  "css-javascript-and-python-complete-course_7B4E53AC215D89F2C269": {
+    "subscribers": 129091,
+    "reviews": 1469,
+    "rating": "4.7",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "PROPER DOT INSTITUTE",
+    "campaign": {
+      "max": 100,
+      "rem": 6,
+      "end": "2026-11-22T08:28:00Z"
+    }
+  },
+  "css-and-javascript-complete-course-for-beginners_9110AB62C3CDC2C4F453": {
+    "subscribers": 138685,
+    "reviews": 2241,
+    "rating": "4.1",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "PROPER DOT INSTITUTE",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "the-complete-social-media-video-editing-masterclass_9EE1A3EA672E81611BDA": {
+    "subscribers": 34641,
+    "reviews": 506,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "your-words-powerful-tools_27THOCT26": {
+    "subscribers": 44227,
+    "reviews": 262,
+    "rating": "4.6",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 88,
+      "end": "2026-11-27T07:00:00Z"
+    }
+  },
+  "gratitude-w_27THOCT26": {
+    "subscribers": 22532,
+    "reviews": 236,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 91,
+      "end": "2026-11-27T07:00:00Z"
+    }
+  },
+  "time-management-productivity-decision-making-tools-aids_27THOCT26": {
+    "subscribers": 52909,
+    "reviews": 631,
+    "rating": "4.3",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 84,
+      "end": "2026-11-27T07:00:00Z"
+    }
+  },
+  "vigilant-leadership_27THOCT26": {
+    "subscribers": 39311,
+    "reviews": 991,
+    "rating": "4.5",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 94,
+      "end": "2026-11-27T07:00:00Z"
+    }
+  },
+  "investing-in-africa-key-factors-for-investors-to-consider_27THOCT26": {
+    "subscribers": 22891,
+    "reviews": 37,
+    "rating": "4.6",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 93,
+      "end": "2026-11-27T07:00:00Z"
+    }
+  },
+  "leadership-through-tough-times_27THOCT26": {
+    "subscribers": 28050,
+    "reviews": 215,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 95,
+      "end": "2026-11-27T07:00:00Z"
+    }
+  },
+  "purpose-driven-leadership-t_27THOCT26": {
+    "subscribers": 28469,
+    "reviews": 158,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Timothy Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 89,
+      "end": "2026-11-27T07:00:00Z"
+    }
+  },
+  "how-to-transform-your-life-practical-ways_27THOCT26": {
+    "subscribers": 33692,
+    "reviews": 120,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 85,
+      "end": "2026-11-27T07:00:00Z"
+    }
+  },
+  "fundamentals-of-successful-leadership-leading-with-impact_27THOCT26": {
+    "subscribers": 57358,
+    "reviews": 2624,
+    "rating": "4.6",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 89,
+      "end": "2026-11-27T07:00:00Z"
+    }
+  },
+  "personal-growth-affirmations-and-taking-action_27THOCT26": {
+    "subscribers": 33881,
+    "reviews": 163,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 89,
+      "end": "2026-11-27T07:00:00Z"
+    }
+  },
+  "leadership-leading-a-community_27THOCT26": {
+    "subscribers": 51330,
+    "reviews": 959,
+    "rating": "4.4",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 89,
+      "end": "2026-11-27T07:00:00Z"
+    }
+  },
+  "financial-services-private-banking-wealth-management_27THOCT26": {
+    "subscribers": 1182,
+    "reviews": 37,
+    "rating": "4.3",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 69,
+      "end": "2026-11-27T07:00:00Z"
+    }
+  },
+  "economics-for-everyone-in-a-digital-first-world_27THOCT26": {
+    "subscribers": 1137,
+    "reviews": 38,
+    "rating": "4.7",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Timothy Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 51,
+      "end": "2026-11-27T07:00:00Z"
+    }
+  },
+  "figjam-mastery-from-visual-brainstorms-to-product-launches_EA5309ECD6971E4F2D1C": {
+    "subscribers": 7639,
+    "reviews": 41,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support, Skillademia Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 37,
+      "end": "2026-11-27T12:24:00Z"
+    }
+  },
+  "facebook-marketing-course-for-beginners_A1FE25600E5DB23119CD": {
+    "subscribers": 104694,
+    "reviews": 1160,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Vlad Bogutskiy, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 77,
+      "end": "2026-11-27T12:20:00Z"
+    }
+  },
+  "facebook-ads-run-your-first-ad-campaign_4F72CF5F57CE73719EC0": {
+    "subscribers": 63762,
+    "reviews": 694,
+    "rating": "4.4",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 71,
+      "end": "2026-11-27T12:18:00Z"
+    }
+  },
+  "facebook-ads-improvement-make-your-ads-breathtaking_D607F180FB5B3FE8C1A4": {
+    "subscribers": 33047,
+    "reviews": 250,
+    "rating": "4.5",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Daryna Proshak, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 71,
+      "end": "2026-11-27T12:19:00Z"
+    }
+  },
+  "facebook-ads-launch-pro-advertising-campaigns_C304525E3C9613CB95BF": {
+    "subscribers": 73520,
+    "reviews": 1224,
+    "rating": "4.4",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Vlad Bogutskiy, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 57,
+      "end": "2026-11-27T12:17:00Z"
+    }
+  },
+  "email-marketing-for-beginners-course_6AEA4EFD6ECBDDA9062A": {
+    "subscribers": 97242,
+    "reviews": 1339,
+    "rating": "4.5",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, SendPulse Academy, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 72,
+      "end": "2026-11-27T12:13:00Z"
+    }
+  },
+  "effective-cold-email-outreach-from-strategy-to-execution_C6A8AE9D605CD4FBFB4D": {
+    "subscribers": 15428,
+    "reviews": 120,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 66,
+      "end": "2026-11-27T12:12:00Z"
+    }
+  },
+  "email-sms-marketing-system-for-ecommerce_3163CAC08CE3C9C90280": {
+    "subscribers": 738,
+    "reviews": 15,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 32,
+      "end": "2026-11-27T12:14:00Z"
+    }
+  },
+  "etsy-promotion_604356E0FD4D67DE41FF": {
+    "subscribers": 52674,
+    "reviews": 312,
+    "rating": "4.2",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Yuliiya Hubanova, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 84,
+      "end": "2026-11-27T12:15:00Z"
+    }
+  },
+  "docker-deep-dive-build-ship-and-run-containers_F536F43EDDD0C32743BE": {
+    "subscribers": 20802,
+    "reviews": 159,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Oleksii Osypenko, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 36,
+      "end": "2026-11-27T12:11:00Z"
+    }
+  },
+  "discover-google-gemini-for-marketing-success_DF0CA4D470A92CD731F8": {
+    "subscribers": 32331,
+    "reviews": 231,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 59,
+      "end": "2026-11-27T12:11:00Z"
+    }
+  },
+  "deep-dive-into-openai-models-master-o3-o4-mini-beyond_540D71D369A007CDBE0A": {
+    "subscribers": 18422,
+    "reviews": 155,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 47,
+      "end": "2026-11-27T12:02:00Z"
+    }
+  },
+  "design-ai-products_88C18C17952C07C7890A": {
+    "subscribers": 5962,
+    "reviews": 240,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "digital-marketing-automation-one-step-ahead-of-competitors_22811D1BE13A1AB19A02": {
+    "subscribers": 50887,
+    "reviews": 517,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 51,
+      "end": "2026-11-27T12:08:00Z"
+    }
+  },
+  "digital-retail-marketing-ai-data-growth_B4D467DD72E6D2EF5E49": {
+    "subscribers": 2614,
+    "reviews": 43,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 50,
+      "end": "2026-11-27T12:09:00Z"
+    }
+  },
+  "deepseek-r1-for-business-and-marketing-harness-ai-insights_7B71C396510E5C966F84": {
+    "subscribers": 31250,
+    "reviews": 399,
+    "rating": "4.7",
+    "price": "$64.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 36,
+      "end": "2026-11-27T11:57:00Z"
+    }
+  },
+  "design-with-canva-ai-a-scalable-workflow-for-creators_A298AD0C8EA20C7963CF": {
+    "subscribers": 15439,
+    "reviews": 167,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 38,
+      "end": "2026-11-27T12:03:00Z"
+    }
+  },
+  "deepseek-ai-for-business-build-a-strategy-with-ai-insights_3D14166472C9DB619D1A": {
+    "subscribers": 18751,
+    "reviews": 224,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 53,
+      "end": "2026-11-27T11:59:00Z"
+    }
+  },
+  "dall-e-101-a-comprehensive-guide-to-creating-art-with-ai_F81D0AF55FADB948344D": {
+    "subscribers": 19290,
+    "reviews": 99,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 58,
+      "end": "2026-11-27T11:55:00Z"
+    }
+  },
+  "data-analysis-and-data-visualization-with-microsoft-copilot_433BE78F9F406CAA6330": {
+    "subscribers": 20752,
+    "reviews": 746,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 13,
+      "end": "2026-11-27T11:56:00Z"
+    }
+  },
+  "figma-practical-design_0CCA27D21867D32E7AC0": {
+    "subscribers": 116384,
+    "reviews": 3385,
+    "rating": "4.4",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Željko Milivojević, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "c-basics-from-zero-to-first-applications_4CA4D930081E348E8677": {
+    "subscribers": 42507,
+    "reviews": 552,
+    "rating": "4.4",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Roman Malyi, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 58,
+      "end": "2026-11-27T11:55:00Z"
+    }
+  },
+  "cursor-ai-for-beginners-ai-coding-crash-course_EAAD5DA5BE0279193186": {
+    "subscribers": 22081,
+    "reviews": 879,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Dmytro Vasyliev, Anton Voroniuk Support, Dmytro Vasyliev Support",
+    "campaign": {
+      "max": 100,
+      "rem": 11,
+      "end": "2026-11-27T11:49:00Z"
+    }
+  },
+  "complete-agentkit-guide-hands-on-ai-agents-for-any-workflow_2E276804E254E0DDDA62": {
+    "subscribers": 2294,
+    "reviews": 34,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Codestars • over 2.7 million students worldwide!, Anton Voroniuk• 1.250.000+ Students, Dmytro Vasyliev, Anton Voroniuk Support, Dmytro Vasyliev Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "wordpress-and-hosting-for-beginners_192F916C149A2A82F68A": {
+    "subscribers": 76694,
+    "reviews": 586,
+    "rating": "3.7",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 63,
+      "end": "2026-11-27T09:26:00Z"
+    }
+  },
+  "creating-websites-with-hostinger-ai_ABAA5752A19DCC0A76C6": {
+    "subscribers": 1005,
+    "reviews": 29,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "craft-marketing-strategy-with-your-ai-copilot_8D4C36F6CD614BB59F3A": {
+    "subscribers": 13121,
+    "reviews": 98,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 61,
+      "end": "2026-11-27T09:24:00Z"
+    }
+  },
+  "github-copilot-for-beginners-ai-coding-crash-course_A3322A7AFA1E4628B9B5": {
+    "subscribers": 27551,
+    "reviews": 2473,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Dmytro Vasyliev, Anton Voroniuk Support, Dmytro Vasyliev Support",
+    "campaign": {
+      "max": 100,
+      "rem": 15,
+      "end": "2026-11-27T13:12:00Z"
+    }
+  },
+  "complete-notion-ai-guide-productivity-prompts-templates_84A014091F8808B57821": {
+    "subscribers": 3136,
+    "reviews": 46,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "complete-freelance-mba-2024-digitalize-service-businesses_D190B37A562DD7103712": {
+    "subscribers": 32651,
+    "reviews": 293,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "David-Benjamin Brakha, Anton Voroniuk• 1.250.000+ Students",
+    "campaign": {
+      "max": 100,
+      "rem": 66,
+      "end": "2026-11-27T08:08:00Z"
+    }
+  },
+  "digital-marketing-strategy-from-scratch-course_DB2977B1FC42B62B1999": {
+    "subscribers": 234529,
+    "reviews": 4264,
+    "rating": "4.5",
+    "price": "$79.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support, Vlad Bogutskiy, Oleksii Serhiienko, Artem Kolomiiets, Yuliiya Hubanova, Hanna Ivanova, Burach Ivan",
+    "campaign": {
+      "max": 100,
+      "rem": 57,
+      "end": "2026-11-27T13:09:00Z"
+    }
+  },
+  "google-ads-for-beginners-how-to-drive-sales-with-ppc_A94847BEEF0874F26E25": {
+    "subscribers": 95037,
+    "reviews": 789,
+    "rating": "4.6",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support, Burach Ivan",
+    "campaign": {
+      "max": 100,
+      "rem": 60,
+      "end": "2026-11-27T13:19:00Z"
+    }
+  },
+  "claude-for-sales-teams-from-first-prompt-to-closed-deals_8E96EC9E9D0A90BF9A84": {
+    "subscribers": 1094,
+    "reviews": 61,
+    "rating": "4.2",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Thalita Milan | Marketing Automation & HubSpot expert, Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "generative-ai-for-sales_4905423E6C47A1061A40": {
+    "subscribers": 9712,
+    "reviews": 534,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support, Olena Kleiner",
+    "campaign": {
+      "max": 100,
+      "rem": 42,
+      "end": "2026-11-27T13:10:00Z"
+    }
+  },
+  "genai-readiness-implementation-transformation_5D6A4565AC902A649F8D": {
+    "subscribers": 3997,
+    "reviews": 29,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vasco Patrício, Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 36,
+      "end": "2026-11-27T12:46:00Z"
+    }
+  },
+  "geo-generating-engine-optimization-how-to-rank-in-chatgpt_C8AE7CE0433FABABF2CA": {
+    "subscribers": 9388,
+    "reviews": 75,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 42,
+      "end": "2026-11-27T12:41:00Z"
+    }
+  },
+  "from-prompt-to-photorealism-midjourney-image-creation-guide_B1238A16805B1F6E5976": {
+    "subscribers": 13799,
+    "reviews": 98,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support, Anna Podvoiska",
+    "campaign": {
+      "max": 100,
+      "rem": 48,
+      "end": "2026-11-27T12:35:00Z"
+    }
+  },
+  "generative-ai-in-customer-support_B01C10C6CBCD97B81B49": {
+    "subscribers": 6707,
+    "reviews": 38,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 41,
+      "end": "2026-11-27T12:49:00Z"
+    }
+  },
+  "genai-for-content-creation-and-multimedia-campaigns_15A54EB6F1E21209F46C": {
+    "subscribers": 11513,
+    "reviews": 108,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 18,
+      "end": "2026-11-27T12:44:00Z"
+    }
+  },
+  "full-stack-development-for-beginner-react-nextjs-nodejs_618BB149A78BF24E6168": {
+    "subscribers": 18847,
+    "reviews": 263,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Dmytro Vasyliev, Anton Voroniuk Support, Dmytro Vasyliev Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "from-prompt-engineering-to-agent-engineering_D05AD5BD42FB8A75FBBC": {
+    "subscribers": 59610,
+    "reviews": 3469,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support, Eugene Vyborov, Thalita Milan | Marketing Automation & HubSpot expert, Diogo Alves de Resende",
+    "campaign": {
+      "max": 100,
+      "rem": 12,
+      "end": "2026-11-27T12:34:00Z"
+    }
+  },
+  "google-my-business-how-to-master-powerful-tool-for-company_34E236C5D2FE43C71EC8": {
+    "subscribers": 58265,
+    "reviews": 459,
+    "rating": "4.2",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Artem Kolomiiets, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 59,
+      "end": "2026-11-27T13:38:00Z"
+    }
+  },
+  "google-antigravity-for-beginners-ai-coding-crash-course_A19AD2E9D2925C23D0F6": {
+    "subscribers": 6968,
+    "reviews": 90,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Dmytro Vasyliev, Anton Voroniuk Support, Dmytro Vasyliev Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "design-smarter-using-figma-ai-from-idea-to-handoff_B91C21BB88AF12F30350": {
+    "subscribers": 14744,
+    "reviews": 582,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support, Željko Milivojević",
+    "campaign": {
+      "max": 100,
+      "rem": 38,
+      "end": "2026-11-27T12:27:00Z"
+    }
+  },
+  "google-gemini-for-project-management_E7A1E186D236D207E6D1": {
+    "subscribers": 6545,
+    "reviews": 164,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 9,
+      "end": "2026-11-27T13:32:00Z"
+    }
+  },
+  "google-gemini-for-marketers-strategy-and-ai-thinking_877861C7D0A233AE5B50": {
+    "subscribers": 2604,
+    "reviews": 32,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
   }
 }
