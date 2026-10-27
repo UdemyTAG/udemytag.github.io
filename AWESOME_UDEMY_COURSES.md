@@ -38,45 +38,45 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 
 | No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
 | :-: | :--- | :--- | :-: | :--- |
-| 1 | **Ultimate Guide to Canva T-Shirt Design: Mastery in T-Shirt** | `Design` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/ultimate-guide-to-canva-t-shirt-design-mastery-in-t-shirt/) |
-| 2 | **AI for Product Management & Innovation** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-for-product-management-innovation/) |
-| 3 | **SAFe 6.0 Fundamentals: Scaled Agile Framework (SAFe) Basics** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/safe-6-0-fundamentals-scaled-agile-framework-safe-basics/) |
-| 4 | **Adobe Premiere Pro CC Essential Video Editing Zero To Hero** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/) |
-| 5 | **DeepSeek AI Masterclass: AI Search, Insights & Productivity** | `Personal Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/deepseek-ai-masterclass-ai-search-insights-productivity/) |
-| 6 | **Master HTML for Modern Web Design: Front End Web Development** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-html-for-modern-web-design-front-end-web-development/) |
-| 7 | **Microsoft Excel Formulas and Functions: Beginner to Advanced** | `Business` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/microsoft-excel-formulas-and-functions-beginner-to-advanced/) |
-| 8 | **PHP CodeIgniter 4 for Beginners: Build Full Blog System** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/php-codeigniter-4-for-beginners-build-full-blog-system/) |
-| 9 | **Professional Diploma in Leadership** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/professional-diploma-in-leadership/) |
-| 10 | **horse colic  what can we do** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/horse-colic-what-can-we-do/) |
-| 11 | **Back pain  between fact and fiction** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/back-pain-between-fact-and-fiction/) |
-| 12 | **Equine Masterclass Unlocking the Secrets of Horse care** | `Design` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/equine-masterclass-unlocking-the-secrets-of-horse-care/) |
-| 13 | **Introductory Biology for medical professional** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/introductory-biology-for-medical-professional/) |
-| 14 | **emergency medicine for medical professionals** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/emergency-medicine-for-medical-professionals/) |
-| 15 | **From Milk to Magic: The Transformative Power of Cheesemaking** | `Development` | ⭐ 3.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/from-milk-to-magic-the-transformative-power-of-cheesemaking/) |
-| 16 | **Complete Filmora 13 Video Editing Course : From Zero to Hero** | `Design` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-filmora-13-video-editing-course-from-zero-to-hero/) |
-| 17 | **Word Stress of American English** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/word-stress-of-american-english/) |
-| 18 | **American English Vowels for Chinese Professionals** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/american-english-vowels-for-chinese-professionals/) |
-| 19 | **oncology understanding cancer biology diagnosis treatments** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/oncology-understanding-cancer-biology-diagnosis-treatments/) |
-| 20 | **Authentic Leadership** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/authentic-leadership/) |
-| 21 | **Intentional Leadership** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/intentional-leadership/) |
-| 22 | **Workplace Stress Management Strategies** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-stress-management-strategies/) |
-| 23 | **Prioritization Techniques for Decision Makers and Leaders** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/prioritization-techniques-for-decision-makers-and-leaders/) |
-| 24 | **Currency Management for Small Businesses & Corporates** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/currency-management-for-small-businesses-corporates/) |
-| 25 | **Visualization techniques for Decision Makers and Leaders** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/visualization-techniques-for-decision-makers-and-leaders/) |
-| 26 | **Developing successful Professional Relationships** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/developing-successful-professional-relationships/) |
-| 27 | **Ethology for veterinerian an introduction** | `Development` | ⭐ 3.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/ethology-for-veterinerian-an-introduction/) |
-| 28 | **Medical ethics for medical students health care professional** | `Personal Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/medical-ethics-for-medical-students-health-care-professional/) |
-| 29 | **All about  vaccine and vaccnation** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/all-about-vaccine-and-vaccnation/) |
-| 30 | **Adobe Premiere Pro 101: Learn Editing, Effects & Transitions** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-premiere-pro-101-learn-editing-effects-transitions/) |
-| 31 | **Social Media Graphics Design and Video Editing with Canva** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/social-media-graphics-design-and-video-editing-with-canva/) |
-| 32 | **Diversity Equity Inclusion Building Inclusive Workplaces** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/diversity-equity-inclusion-building-inclusive-workplaces/) |
-| 33 | **CapCut Video Editing Bootcamp for Social Media and Creators** | `Design` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/capcut-video-editing-bootcamp-for-social-media-and-creators/) |
-| 34 | **All In One Video Editing Master In CapCut Premiere Pro Canva** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/all-in-one-video-editing-master-in-capcut-premiere-pro-canva/) |
-| 35 | **Multipurpose Canva Design Bootcamp From Beginner to Pro** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/multipurpose-canva-design-bootcamp-from-beginner-to-pro/) |
-| 36 | **Social Media Video Editing with Canva: From Beginner to Pro** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/social-media-video-editing-with-canva-from-beginner-to-pro/) |
-| 37 | **Social Media Graphics Design Masterclass with Adobe & Canva** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/social-media-graphics-design-masterclass-with-adobe-canva/) |
-| 38 | **Agile Coach Certification** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/agile-coach-certification/) |
-| 39 | **SAFe Product Management** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/safe-product-management/) |
-| 40 | **AI for Scrum Masters** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-for-scrum-masters/) |
+| 1 | **ELISA principals and applications for professionals** | `Development` | ⭐ 3.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/elisa-principals-and-applications-for-professionals/) |
+| 2 | **medical genetics learn abnormal human variations** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/medical-genetics-learn-abnormal-human-variations/) |
+| 3 | **hematology theory and practice  for medical students** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/hematology-theory-and-practice-for-medical-students/) |
+| 4 | **Java And PHP Complete Course For Java And PHP Beginners** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/java-and-php-complete-course-for-java-and-php-beginners/) |
+| 5 | **JavaScript And PHP And Python Programming Complete Course** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/javascript-and-php-and-python-programming-complete-course/) |
+| 6 | **C++ Training Crash Course for C++ Beginners** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/c-training-crash-course-for-c-beginners/) |
+| 7 | **CSS, JavaScript And Python Complete Course** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/css-javascript-and-python-complete-course/) |
+| 8 | **Your WORDS, Powerful Tools** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/your-words-powerful-tools/) |
+| 9 | **Gratitude** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/gratitude/) |
+| 10 | **Time Management, Productivity, Decision Making Tools &  Aids** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/time-management-productivity-decision-making-tools-aids/) |
+| 11 | **Vigilant Leadership** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/vigilant-leadership/) |
+| 12 | **Investing in Africa - Key factors for Investors to consider** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/investing-in-africa-key-factors-for-investors-to-consider/) |
+| 13 | **Leadership Through Tough Times** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/leadership-through-tough-times/) |
+| 14 | **Purpose Driven Leadership** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/purpose-driven-leadership/) |
+| 15 | **How to Transform Your Life - practical ways** | `Personal Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/how-to-transform-your-life-practical-ways/) |
+| 16 | **Fundamentals of  Successful Leadership - Leading with Impact** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/fundamentals-of-successful-leadership-leading-with-impact/) |
+| 17 | **Personal Growth - Affirmations and Taking Action** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/personal-growth-affirmations-and-taking-action/) |
+| 18 | **Leadership - Leading a Community** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/leadership-leading-a-community/) |
+| 19 | **Financial Services: Private Banking & Wealth Management** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-private-banking-wealth-management/) |
+| 20 | **Economics for Everyone in a Digital First World** | `Business` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/economics-for-everyone-in-a-digital-first-world/) |
+| 21 | **FigJam Mastery: From Visual Brainstorms to Product Launches** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/figjam-mastery-from-visual-brainstorms-to-product-launches/) |
+| 22 | **Facebook Marketing 2024. Promote Your Business on Facebook!** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/facebook-marketing-2024-promote-your-business-on-facebook/) |
+| 23 | **Facebook Ads: Run Your First Ad Campaign** | `Marketing` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/facebook-ads-run-your-first-ad-campaign/) |
+| 24 | **Facebook Ads Improvement: Make Your Ads Breathtaking** | `Marketing` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/facebook-ads-improvement-make-your-ads-breathtaking/) |
+| 25 | **Facebook Ads 2025: Launch Your Best Advertising Campaign** | `Marketing` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/facebook-ads-2025-launch-your-best-advertising-campaign/) |
+| 26 | **Email Marketing. Increase Sales With Email Marketing!** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/email-marketing-increase-sales-with-email-marketing/) |
+| 27 | **Effective Cold Email Outreach: From Strategy to Execution** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/effective-cold-email-outreach-from-strategy-to-execution/) |
+| 28 | **Email & SMS Marketing System for eCommerce** | `Business` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/email-sms-marketing-system-for-ecommerce/) |
+| 29 | **Etsy: The Ultimate Guide to Boosting Your Business** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/etsy-the-ultimate-guide-to-boosting-your-business/) |
+| 30 | **Docker Deep Dive: Build, Ship, and Run Containers** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/docker-deep-dive-build-ship-and-run-containers/) |
+| 31 | **Discover Google Gemini for Marketing Success** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/discover-google-gemini-for-marketing-success/) |
+| 32 | **Deep Dive into OpenAI Models: Master o3, o4-mini & Beyond** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/deep-dive-into-openai-models-master-o3-o4-mini-beyond/) |
+| 33 | **Digital Marketing Automation: One Step Ahead of Competitors** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/digital-marketing-automation-one-step-ahead-of-competitors/) |
+| 34 | **Digital Retail Marketing: AI, Data & Growth** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/digital-retail-marketing-ai-data-growth/) |
+| 35 | **DeepSeek R1 for Business and Marketing: Harness AI Insights** | `Business` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/deepseek-r1-for-business-and-marketing-harness-ai-insights/) |
+| 36 | **Design with Canva & AI: A Scalable Workflow for Creators** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/design-with-canva-ai-a-scalable-workflow-for-creators/) |
+| 37 | **DeepSeek AI for Business: Build a Strategy with AI Insights** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/deepseek-ai-for-business-build-a-strategy-with-ai-insights/) |
+| 38 | **DALL-E 101: A Comprehensive Guide to Creating Art with AI** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/dall-e-101-a-comprehensive-guide-to-creating-art-with-ai/) |
+| 39 | **Data Analysis and Data Visualization with Microsoft Copilot** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/data-analysis-and-data-visualization-with-microsoft-copilot/) |
+| 40 | **C# Basics: From Zero to First Applications** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/c-basics-from-zero-to-first-applications/) |
 
 *Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*
