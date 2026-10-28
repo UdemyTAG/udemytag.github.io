@@ -10246,5 +10246,929 @@
       "rem": null,
       "end": "2026-10-29T07:00:00Z"
     }
+  },
+  "principles-of-chemical-processes-material-energy-balance_EF3986CDB5BE2F775B49": {
+    "subscribers": 5929,
+    "reviews": 73,
+    "rating": "4.2",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 44,
+      "end": "2026-11-28T13:25:00Z"
+    }
+  },
+  "certified-energy-management-professional-cemp_0166D5BF6C92BE21D54D": {
+    "subscribers": 3666,
+    "reviews": 193,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "ACCREVIA International",
+    "campaign": {
+      "max": 100,
+      "rem": 35,
+      "end": "2026-11-28T13:01:00Z"
+    }
+  },
+  "economics-basics-to-advanced-level_FA5B5137B40D219C1649": {
+    "subscribers": 12253,
+    "reviews": 82,
+    "rating": "3.5",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "certified-industrial-hygiene-professional-cihp_71F973C3C0A9A00FB6CA": {
+    "subscribers": 559,
+    "reviews": 22,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "ACCREVIA International",
+    "campaign": {
+      "max": 100,
+      "rem": 33,
+      "end": "2026-11-28T13:00:00Z"
+    }
+  },
+  "the-complete-course-of-fluid-mechanics-for-engineers-2021_28C5028899A114BCA2E4": {
+    "subscribers": 14179,
+    "reviews": 142,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 39,
+      "end": "2026-11-28T13:25:00Z"
+    }
+  },
+  "advanced-fluid-mechanics-with-engineering-applications_82F14C481EF8099A51CB": {
+    "subscribers": 9496,
+    "reviews": 132,
+    "rating": "4.1",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 14,
+      "end": "2026-11-28T13:24:00Z"
+    }
+  },
+  "fundamentals-of-manufacturing-materials-processes-systems_EEF7DE47325F68D6A4DA": {
+    "subscribers": 8448,
+    "reviews": 44,
+    "rating": "4.0",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 36,
+      "end": "2026-11-28T13:24:00Z"
+    }
+  },
+  "business-communication-and-ethics-designed-in-year-2022_044D641EB07A4207B223": {
+    "subscribers": 10973,
+    "reviews": 1087,
+    "rating": "4.5",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 23,
+      "end": "2026-11-28T13:24:00Z"
+    }
+  },
+  "engineering-economics-take-decision-between-alternatives_134A3138824006232C43": {
+    "subscribers": 9249,
+    "reviews": 44,
+    "rating": "4.3",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "certification-in-welding-technology-for-processing-engineers_63A39377F9AA29D745F8": {
+    "subscribers": 9428,
+    "reviews": 198,
+    "rating": "4.1",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 46,
+      "end": "2026-11-28T13:24:00Z"
+    }
+  },
+  "certification-in-fundamentals-of-metal-forming-processes_915A431B966649C8E311": {
+    "subscribers": 6848,
+    "reviews": 83,
+    "rating": "4.4",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 46,
+      "end": "2026-11-28T13:24:00Z"
+    }
+  },
+  "internal-combustion-engines-ice-2022_A07F6B7222C68B3D6A69": {
+    "subscribers": 9473,
+    "reviews": 178,
+    "rating": "4.3",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 31,
+      "end": "2026-11-28T13:23:00Z"
+    }
+  },
+  "fundamentals-of-manufacturing-processes-for-engineers_C2C703A69EA0FC40A18F": {
+    "subscribers": 9514,
+    "reviews": 268,
+    "rating": "4.1",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 42,
+      "end": "2026-11-28T13:23:00Z"
+    }
+  },
+  "fundamentals-of-advanced-metal-machining-techniques_B520D9E77F4A96E48618": {
+    "subscribers": 6905,
+    "reviews": 48,
+    "rating": "3.8",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 59,
+      "end": "2026-11-28T13:23:00Z"
+    }
+  },
+  "metal-forming-processes-bulk-deformationsheet-metalworking_BC1B0A83075D37FE6700": {
+    "subscribers": 6862,
+    "reviews": 24,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 61,
+      "end": "2026-11-28T13:23:00Z"
+    }
+  },
+  "plastic-molding-fundamentals-spe-certification-program_1F8BD276A4014693F74C": {
+    "subscribers": 6507,
+    "reviews": 68,
+    "rating": "3.6",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 46,
+      "end": "2026-11-28T13:23:00Z"
+    }
+  },
+  "metal-casting-techniques-materials-and-product-design-afs_90AD838E2760FD38EF58": {
+    "subscribers": 6540,
+    "reviews": 39,
+    "rating": "3.8",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 53,
+      "end": "2026-11-28T13:23:00Z"
+    }
+  },
+  "fundamentals-of-heat-masstransfer-basic-to-advance-level_06D0601528FCAD47DC04": {
+    "subscribers": 6170,
+    "reviews": 32,
+    "rating": "4.1",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 38,
+      "end": "2026-11-28T13:23:00Z"
+    }
+  },
+  "introduction-to-project-management-project-integration-23_0A505FB64D53D3F3F7FC": {
+    "subscribers": 9523,
+    "reviews": 97,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "metallurgy-of-welding-for-engineers-2023_24EE700A67B49E497A95": {
+    "subscribers": 6005,
+    "reviews": 65,
+    "rating": "3.2",
+    "price": "$64.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 48,
+      "end": "2026-11-28T13:22:00Z"
+    }
+  },
+  "project-risk-management-pmp-certification-2023_909EA7FBAD6D019C3335": {
+    "subscribers": 9691,
+    "reviews": 127,
+    "rating": "4.4",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 26,
+      "end": "2026-11-28T13:22:00Z"
+    }
+  },
+  "combustion-of-fuels-solid-liquid-and-gaseous-fuels-2024_C08F4482E1B6626DCDA8": {
+    "subscribers": 4775,
+    "reviews": 24,
+    "rating": "3.9",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 44,
+      "end": "2026-11-28T13:22:00Z"
+    }
+  },
+  "sustainable-supply-chain-with-scor-model_C196F47A6EC7C91C531B": {
+    "subscribers": 8054,
+    "reviews": 249,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 42,
+      "end": "2026-11-28T13:22:00Z"
+    }
+  },
+  "fundamentals-of-energy-management_1DE010E04E69C8E990F1": {
+    "subscribers": 3433,
+    "reviews": 135,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 23,
+      "end": "2026-11-28T13:21:00Z"
+    }
+  },
+  "performance-management-in-organization-strategy-execution_04CC610FA08F445DD935": {
+    "subscribers": 957,
+    "reviews": 2,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 4,
+      "end": "2026-11-28T13:21:00Z"
+    }
+  },
+  "hse-certification-iso-14001-ohsas-18001_D99DBBB4FDE762106FD2": {
+    "subscribers": 6684,
+    "reviews": 374,
+    "rating": "4.2",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 27,
+      "end": "2026-11-28T13:21:00Z"
+    }
+  },
+  "intermediate-accounting_32B60947A5C0ACB7FB8B": {
+    "subscribers": 3891,
+    "reviews": 35,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 17,
+      "end": "2026-11-28T13:21:00Z"
+    }
+  },
+  "pmp-certification-cost-price-bootcamp_281026_FREE": {
+    "subscribers": 2042,
+    "reviews": 10,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Paul Ashun",
+    "campaign": {
+      "max": 100,
+      "rem": 14,
+      "end": "2026-11-28T12:01:00Z"
+    }
+  },
+  "inclusive-marketing-campaigns-that-drive-trust-growth_40237E625485288D3B44": {
+    "subscribers": 841,
+    "reviews": 66,
+    "rating": "4.4",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Diego Davila, Diego Davila Support, Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "investing-options-from-basics-to-mastery_E3CCA21491006F580F0B": {
+    "subscribers": 24150,
+    "reviews": 134,
+    "rating": "4.3",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Yanis Rubis, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 30,
+      "end": "2026-11-28T08:20:00Z"
+    }
+  },
+  "ios-development-craft-your-first-app-with-swiftui_23A295488F067CCC1892": {
+    "subscribers": 34873,
+    "reviews": 392,
+    "rating": "4.6",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Illia Postoienko, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 66,
+      "end": "2026-11-28T08:13:00Z"
+    }
+  },
+  "leonardo-ai-bootcamp-explore-visual-storytelling-with-ai_30C3EDD7A3691C0ABDA5": {
+    "subscribers": 12312,
+    "reviews": 46,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 22,
+      "end": "2026-11-28T09:51:00Z"
+    }
+  },
+  "instagram-marketing-practical-course_158FB39ABA2F01FEFEA3": {
+    "subscribers": 77406,
+    "reviews": 987,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Vlad Bogutskiy, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 52,
+      "end": "2026-11-28T08:06:00Z"
+    }
+  },
+  "claude-legal_9EEEDF619D6F90340E73": {
+    "subscribers": 992,
+    "reviews": 24,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vasco Patrício, Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 14,
+      "end": "2026-11-28T09:50:00Z"
+    }
+  },
+  "llama-4-ai-mastering-prompt-engineering_3AB6F75A1C439FF33DB3": {
+    "subscribers": 16511,
+    "reviews": 169,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 4,
+      "end": "2026-11-28T09:40:00Z"
+    }
+  },
+  "how-to-break-into-web3_6C98E3855818ADB96954": {
+    "subscribers": 19448,
+    "reviews": 80,
+    "rating": "4.2",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "3X Capital, Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 66,
+      "end": "2026-11-28T09:34:00Z"
+    }
+  },
+  "link-building-course_4F7675BCD546CD529409": {
+    "subscribers": 62802,
+    "reviews": 258,
+    "rating": "4.5",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 73,
+      "end": "2026-11-28T09:41:00Z"
+    }
+  },
+  "kling-ai-guide-how-to-make-videos-using-generative-ai_B0504E9022CCED1630A6": {
+    "subscribers": 13179,
+    "reviews": 119,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "ai-agents-copilot-studio-azure-foundry-microsoft-foundry_77THREPUBLICDAY": {
+    "subscribers": 5209,
+    "reviews": 63,
+    "rating": "4.3",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": null
+  },
+  "keyword_research_D8CF4D5D531744D5537E": {
+    "subscribers": 57497,
+    "reviews": 579,
+    "rating": "4.4",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 67,
+      "end": "2026-11-28T09:26:00Z"
+    }
+  },
+  "javascript-fast-entry-programming-for-everyone_DC2083A0122DF2248337": {
+    "subscribers": 5789,
+    "reviews": 79,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 13,
+      "end": "2026-11-28T09:25:00Z"
+    }
+  },
+  "become-master-in-uipath-world_77THREPUBLICDAY": {
+    "subscribers": 3075,
+    "reviews": 27,
+    "rating": "4.5",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [105000+ Students]",
+    "campaign": null
+  },
+  "microsoft-copilot-for-sales_A392B363F3978EE87404": {
+    "subscribers": 920,
+    "reviews": 32,
+    "rating": "4.8",
+    "price": "$11.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": null
+  },
+  "microsoft-copilot-and-designer-for-creative-work_AC6AEFB2CDEEC3E9495A": {
+    "subscribers": 743,
+    "reviews": 41,
+    "rating": "4.7",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Thalita Milan | Marketing Automation & HubSpot expert, Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "supplychainmanagement_EEE582774AE1A261DCE0": {
+    "subscribers": 2373,
+    "reviews": 215,
+    "rating": "4.4",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "2024-leadership-mastery-modern-leaders-practical-training_4236D3F45AB6661531FD": {
+    "subscribers": 12777,
+    "reviews": 74,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Daniel K'Owuoche",
+    "campaign": {
+      "max": 100,
+      "rem": 45,
+      "end": "2026-11-28T16:04:00Z"
+    }
+  },
+  "excel-guide_291132D0A3BD009588B8": {
+    "subscribers": 69891,
+    "reviews": 2304,
+    "rating": "4.0",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Denys Sokotov, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 42,
+      "end": "2026-11-28T14:14:00Z"
+    }
+  },
+  "passiveearn_C83879995E7F89F42B92": {
+    "subscribers": 6773,
+    "reviews": 62,
+    "rating": "4.2",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "microsoft-foundry-build-orchestrate-and-automate-ai-agent_9C4E7562725242BA8D8C": {
+    "subscribers": 2964,
+    "reviews": 95,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "nodejs-crash-course-build-a-rest-api-in-a-weekend_34CAE8CD77FD9EDF3D98": {
+    "subscribers": 14982,
+    "reviews": 98,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Dmytro Vasyliev, Anton Voroniuk Support, Dmytro Vasyliev Support, Anton Voroniuk• 1.250.000+ Students",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "mobile-app-design-in-figma-from-concept-to-prototype_0191987A9FDA04FE223F": {
+    "subscribers": 52475,
+    "reviews": 975,
+    "rating": "4.4",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support, Željko Milivojević",
+    "campaign": {
+      "max": 100,
+      "rem": 37,
+      "end": "2026-11-28T14:26:00Z"
+    }
+  },
+  "no-code-ai-build-apps-with-base44_C769B3692E6771B090A2": {
+    "subscribers": 551,
+    "reviews": 17,
+    "rating": "4.5",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "no-low-code-marketing-automation_D4B747E981F95C0CEB65": {
+    "subscribers": 17245,
+    "reviews": 122,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 23,
+      "end": "2026-11-28T14:31:00Z"
+    }
+  },
+  "midjourney-comprehensive_1DA9814D6AF725ACD95E": {
+    "subscribers": 52262,
+    "reviews": 323,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Eugene Voroniuk, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 68,
+      "end": "2026-11-28T14:20:00Z"
+    }
+  },
+  "nextjs-crash-course-build-a-full-stack-app-in-a-weekend_173B6D163EEA7B53BE55": {
+    "subscribers": 17222,
+    "reviews": 147,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk Support, Dmytro Vasyliev, Dmytro Vasyliev Support, Anton Voroniuk• 1.250.000+ Students",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "gnu-make-crash-course_0153E050AEF460B55FDC": {
+    "subscribers": 1695,
+    "reviews": 2,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Martijn Vissers",
+    "campaign": {
+      "max": 100,
+      "rem": 60,
+      "end": "2026-11-28T19:05:00Z"
+    }
+  },
+  "signals-in-angular-v19_D203B7D3B4FA418E32FF": {
+    "subscribers": 3530,
+    "reviews": 19,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Martijn Vissers",
+    "campaign": {
+      "max": 100,
+      "rem": 77,
+      "end": "2026-11-28T19:07:00Z"
+    }
+  },
+  "mastering-grep-sed-and-awk_4A732BE914B48BCD1A53": {
+    "subscribers": 3051,
+    "reviews": 9,
+    "rating": "3.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Martijn Vissers",
+    "campaign": {
+      "max": 100,
+      "rem": 68,
+      "end": "2026-11-28T19:06:00Z"
+    }
+  },
+  "git-vsc-essentials_1060678A36A93331C3C7": {
+    "subscribers": 8255,
+    "reviews": 168,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Martijn Vissers",
+    "campaign": {
+      "max": 100,
+      "rem": 49,
+      "end": "2026-11-28T19:06:00Z"
+    }
+  },
+  "bash-fundamentals-for-linux-users_0E00600C321F314327E8": {
+    "subscribers": 5695,
+    "reviews": 43,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Martijn Vissers",
+    "campaign": {
+      "max": 100,
+      "rem": 66,
+      "end": "2026-11-28T19:05:00Z"
+    }
+  },
+  "docker-crash-course_A5FCAE7A0D1663892B58": {
+    "subscribers": 6305,
+    "reviews": 72,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Martijn Vissers",
+    "campaign": {
+      "max": 100,
+      "rem": 55,
+      "end": "2026-11-28T19:06:00Z"
+    }
+  },
+  "prisma-orm-fundamentals_C111DE4AB3B34D03578B": {
+    "subscribers": 3317,
+    "reviews": 13,
+    "rating": "3.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Martijn Vissers",
+    "campaign": {
+      "max": 100,
+      "rem": 76,
+      "end": "2026-11-28T19:07:00Z"
+    }
+  },
+  "data-science-mastery-2025-excel-python-tableau_75AEACA0E44B9B90BA09": {
+    "subscribers": 31135,
+    "reviews": 447,
+    "rating": "4.5",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Meritshot Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "vim-fundamentals_7DAA5E6386C0A0C46159": {
+    "subscribers": 5684,
+    "reviews": 23,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Martijn Vissers",
+    "campaign": {
+      "max": 100,
+      "rem": 62,
+      "end": "2026-11-28T19:07:00Z"
+    }
+  },
+  "tmux-fundamentals_EF72E80C3DE8A4250153": {
+    "subscribers": 5560,
+    "reviews": 47,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Martijn Vissers",
+    "campaign": {
+      "max": 100,
+      "rem": 60,
+      "end": "2026-11-28T19:07:00Z"
+    }
+  },
+  "learn-gnu-nano_CE674CD9EBEF6E3EFBAC": {
+    "subscribers": 5407,
+    "reviews": 35,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Martijn Vissers",
+    "campaign": {
+      "max": 100,
+      "rem": 66,
+      "end": "2026-11-28T19:07:00Z"
+    }
+  },
+  "complete-photography-course_PHOTO9OCT26": {
+    "subscribers": 187117,
+    "reviews": 1707,
+    "rating": "3.9",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Creative Online School",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "python-for-beginners-learn-fundamentals-and-build-projects_7AC6B3DA88FC8D6B8D75": {
+    "subscribers": 42429,
+    "reviews": 421,
+    "rating": "4.3",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Meritshot Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 14,
+      "end": "2026-11-28T19:53:00Z"
+    }
+  },
+  "machine-learning-foundations-build-expert-level-ai-models_B28AD1DBCFD96C011B0A": {
+    "subscribers": 10040,
+    "reviews": 54,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Meritshot Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "mastering-social-media-marketing-brand-building-growth_1B0D5C5DB5C4D06E6BE0": {
+    "subscribers": 47006,
+    "reviews": 731,
+    "rating": "4.0",
+    "price": "$79.99",
+    "isFree": true,
+    "instructors": "Meritshot Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 18,
+      "end": "2026-11-28T19:53:00Z"
+    }
+  },
+  "communication-skills-acquire-effective-communication_7AE285DA9FF0AB248432": {
+    "subscribers": 61115,
+    "reviews": 8912,
+    "rating": "4.5",
+    "price": "$94.99",
+    "isFree": true,
+    "instructors": "Meritshot Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 37,
+      "end": "2026-11-28T19:55:00Z"
+    }
+  },
+  "data-analytics-visualization-acquire-demanded-tech-skills_0E5575FAAF727280C008": {
+    "subscribers": 57637,
+    "reviews": 983,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Meritshot Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 25,
+      "end": "2026-11-28T19:56:00Z"
+    }
   }
 }
