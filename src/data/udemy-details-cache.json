@@ -9999,5 +9999,252 @@
       "rem": 71,
       "end": "2026-11-03T05:19:00Z"
     }
+  },
+  "build-go-to-market-strategy-with-ai_3C6771810FC18F9FE609": {
+    "subscribers": 16984,
+    "reviews": 113,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 30,
+      "end": "2026-11-28T05:06:00Z"
+    }
+  },
+  "essential-adobe-photoshop-free-photoshop-crash-course_87189664E7DA5279D058": {
+    "subscribers": 68173,
+    "reviews": 700,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "ultimate-youtube-blueprint-proven-tactics-channel-success_B187AE0ECB52CEC9213B": {
+    "subscribers": 29018,
+    "reviews": 171,
+    "rating": "4.2",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "python-software-application-games-automation-development_E61B60C83EB371EA440C": {
+    "subscribers": 26118,
+    "reviews": 178,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "chatbot-marketing-course_B07FA5C682E3D5D2F054": {
+    "subscribers": 68186,
+    "reviews": 303,
+    "rating": "4.5",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Alina Dykuha, SendPulse Academy, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 28,
+      "end": "2026-11-28T05:04:00Z"
+    }
+  },
+  "build-11-javascript-application-and-web-javascript-bootcamp_795468D4EC624A21E67B": {
+    "subscribers": 23173,
+    "reviews": 181,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "javascript-master-course-from-beginner-to-expert-developer_A82A2B32FEFF1981B22F": {
+    "subscribers": 27835,
+    "reviews": 499,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "how-to-create-your-perfect-linkedin-outreach-campaign_0A2948DCE5A863C08887": {
+    "subscribers": 47861,
+    "reviews": 507,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Cole Scott, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 33,
+      "end": "2026-11-28T05:07:00Z"
+    }
+  },
+  "generate-marketing-leads-with-ai_816B044CBCC2A26E5DB3": {
+    "subscribers": 19887,
+    "reviews": 171,
+    "rating": "4.5",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "complete-uiux-design-with-canva-design-smart-interface_BBCB9C0232C2CEABD74F": {
+    "subscribers": 14047,
+    "reviews": 71,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "conversion-optimization-course_BA7D952A647E59356316": {
+    "subscribers": 53054,
+    "reviews": 166,
+    "rating": "4.3",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 55,
+      "end": "2026-11-28T05:05:00Z"
+    }
+  },
+  "excel-microsoft-excel-course-beginner-to-expert-2022_A06221AE8C061CCC7D8E": {
+    "subscribers": 86265,
+    "reviews": 2127,
+    "rating": "4.1",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Web Oral",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "the-complete-matlab-course-for-wireless-comm-engineering_AF3AEF7BF960722BFBCA": {
+    "subscribers": 16086,
+    "reviews": 137,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Dr. Khaled Ramadan",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "computer-basics-and-it-fundamentals-for-beginners_1E574FB562B46BB5D4AB": {
+    "subscribers": 6162,
+    "reviews": 22,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "WriteWow Solutions",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "diversity-equity-inclusion-building-inclusive-workplaces_0791893F6D5220644607": {
+    "subscribers": 6415,
+    "reviews": 28,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "graphic-design-masterclass-master-illustrator-photoshop_B14ADAE092D5956262A2": {
+    "subscribers": 33304,
+    "reviews": 355,
+    "rating": "3.9",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "t-shirt-design-masterclass-in-photoshop-sell-your-t-shirt_193FB953BCB251FFFB98": {
+    "subscribers": 69141,
+    "reviews": 322,
+    "rating": "4.7",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 68,
+      "end": "2026-11-28T09:08:00Z"
+    }
+  },
+  "ultimate-adobe-photoshop-cc-masterclass-basics-to-advanced_7FE90EEAE60D0F14612E": {
+    "subscribers": 210391,
+    "reviews": 2504,
+    "rating": "3.7",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 5,
+      "end": "2026-11-28T09:08:00Z"
+    }
+  },
+  "adobe-illustrator-essentials-design-like-a-pro-in-days_41DDD116C1757A8B8D98": {
+    "subscribers": 26000,
+    "reviews": 151,
+    "rating": "4.3",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
   }
 }
