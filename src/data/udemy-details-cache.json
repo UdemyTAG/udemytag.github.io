@@ -9882,5 +9882,122 @@
       "rem": 59,
       "end": "2026-11-01T16:30:00Z"
     }
+  },
+  "master-java-python-c-c-all-in-one-programming-course_A4A4379B6D9891F86D41": {
+    "subscribers": 28931,
+    "reviews": 340,
+    "rating": "4.1",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Knowledge Nest",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "php-bootcamp-the-complete-programming-course-with-mysql_C7ED5104BC36A64A2CEF": {
+    "subscribers": 20809,
+    "reviews": 119,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Knowledge Nest",
+    "campaign": {
+      "max": 100,
+      "rem": 63,
+      "end": "2026-11-14T04:05:00Z"
+    }
+  },
+  "python-mastery-the-complete-web-programming-course_C6498F69A528506EF186": {
+    "subscribers": 27425,
+    "reviews": 282,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Knowledge Nest",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "java-programming-masterclass-beginner-to-master_27AD5DF3718819F5FC05": {
+    "subscribers": 48196,
+    "reviews": 795,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "numpy-pandas-python-for-data-analysis-a-complete-guide_CED54E0E11DE4FF8A1BC": {
+    "subscribers": 30079,
+    "reviews": 417,
+    "rating": "3.9",
+    "price": "$29.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "c-c-php-java-complete-guide-to-modern-programming_316A82208D005FC19281": {
+    "subscribers": 20371,
+    "reviews": 155,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "the-complete-javascript-course-from-zero-to-expert-o_00CE3F7DC0104C486251": {
+    "subscribers": 48708,
+    "reviews": 593,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 85,
+      "end": "2026-11-24T05:06:00Z"
+    }
+  },
+  "microsoft-excel-data-analysis-become-a-data-analysis-expert_9576C8BC2B528489E986": {
+    "subscribers": 10278,
+    "reviews": 171,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Bright Path",
+    "campaign": {
+      "max": 100,
+      "rem": 69,
+      "end": "2026-11-03T05:19:00Z"
+    }
+  },
+  "microsoft-excel-formulas-and-functions-beginner-to-expert_486FFB439DE9CFB7ABCA": {
+    "subscribers": 8734,
+    "reviews": 100,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Bright Path",
+    "campaign": {
+      "max": 100,
+      "rem": 71,
+      "end": "2026-11-03T05:19:00Z"
+    }
   }
 }
