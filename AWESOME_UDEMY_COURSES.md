@@ -38,45 +38,45 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 
 | No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
 | :-: | :--- | :--- | :-: | :--- |
-| 1 | **ELISA principals and applications for professionals** | `Development` | ⭐ 3.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/elisa-principals-and-applications-for-professionals/) |
-| 2 | **medical genetics learn abnormal human variations** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/medical-genetics-learn-abnormal-human-variations/) |
-| 3 | **hematology theory and practice  for medical students** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/hematology-theory-and-practice-for-medical-students/) |
-| 4 | **Java And PHP Complete Course For Java And PHP Beginners** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/java-and-php-complete-course-for-java-and-php-beginners/) |
-| 5 | **JavaScript And PHP And Python Programming Complete Course** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/javascript-and-php-and-python-programming-complete-course/) |
-| 6 | **C++ Training Crash Course for C++ Beginners** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/c-training-crash-course-for-c-beginners/) |
-| 7 | **CSS, JavaScript And Python Complete Course** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/css-javascript-and-python-complete-course/) |
-| 8 | **Your WORDS, Powerful Tools** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/your-words-powerful-tools/) |
-| 9 | **Gratitude** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/gratitude/) |
-| 10 | **Time Management, Productivity, Decision Making Tools &  Aids** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/time-management-productivity-decision-making-tools-aids/) |
-| 11 | **Vigilant Leadership** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/vigilant-leadership/) |
-| 12 | **Investing in Africa - Key factors for Investors to consider** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/investing-in-africa-key-factors-for-investors-to-consider/) |
-| 13 | **Leadership Through Tough Times** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/leadership-through-tough-times/) |
-| 14 | **Purpose Driven Leadership** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/purpose-driven-leadership/) |
-| 15 | **How to Transform Your Life - practical ways** | `Personal Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/how-to-transform-your-life-practical-ways/) |
-| 16 | **Fundamentals of  Successful Leadership - Leading with Impact** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/fundamentals-of-successful-leadership-leading-with-impact/) |
-| 17 | **Personal Growth - Affirmations and Taking Action** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/personal-growth-affirmations-and-taking-action/) |
-| 18 | **Leadership - Leading a Community** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/leadership-leading-a-community/) |
-| 19 | **Financial Services: Private Banking & Wealth Management** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-private-banking-wealth-management/) |
-| 20 | **Economics for Everyone in a Digital First World** | `Business` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/economics-for-everyone-in-a-digital-first-world/) |
-| 21 | **FigJam Mastery: From Visual Brainstorms to Product Launches** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/figjam-mastery-from-visual-brainstorms-to-product-launches/) |
-| 22 | **Facebook Marketing 2024. Promote Your Business on Facebook!** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/facebook-marketing-2024-promote-your-business-on-facebook/) |
-| 23 | **Facebook Ads: Run Your First Ad Campaign** | `Marketing` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/facebook-ads-run-your-first-ad-campaign/) |
-| 24 | **Facebook Ads Improvement: Make Your Ads Breathtaking** | `Marketing` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/facebook-ads-improvement-make-your-ads-breathtaking/) |
-| 25 | **Facebook Ads 2025: Launch Your Best Advertising Campaign** | `Marketing` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/facebook-ads-2025-launch-your-best-advertising-campaign/) |
-| 26 | **Email Marketing. Increase Sales With Email Marketing!** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/email-marketing-increase-sales-with-email-marketing/) |
-| 27 | **Effective Cold Email Outreach: From Strategy to Execution** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/effective-cold-email-outreach-from-strategy-to-execution/) |
-| 28 | **Email & SMS Marketing System for eCommerce** | `Business` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/email-sms-marketing-system-for-ecommerce/) |
-| 29 | **Etsy: The Ultimate Guide to Boosting Your Business** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/etsy-the-ultimate-guide-to-boosting-your-business/) |
-| 30 | **Docker Deep Dive: Build, Ship, and Run Containers** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/docker-deep-dive-build-ship-and-run-containers/) |
-| 31 | **Discover Google Gemini for Marketing Success** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/discover-google-gemini-for-marketing-success/) |
-| 32 | **Deep Dive into OpenAI Models: Master o3, o4-mini & Beyond** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/deep-dive-into-openai-models-master-o3-o4-mini-beyond/) |
-| 33 | **Digital Marketing Automation: One Step Ahead of Competitors** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/digital-marketing-automation-one-step-ahead-of-competitors/) |
-| 34 | **Digital Retail Marketing: AI, Data & Growth** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/digital-retail-marketing-ai-data-growth/) |
-| 35 | **DeepSeek R1 for Business and Marketing: Harness AI Insights** | `Business` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/deepseek-r1-for-business-and-marketing-harness-ai-insights/) |
-| 36 | **Design with Canva & AI: A Scalable Workflow for Creators** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/design-with-canva-ai-a-scalable-workflow-for-creators/) |
-| 37 | **DeepSeek AI for Business: Build a Strategy with AI Insights** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/deepseek-ai-for-business-build-a-strategy-with-ai-insights/) |
-| 38 | **DALL-E 101: A Comprehensive Guide to Creating Art with AI** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/dall-e-101-a-comprehensive-guide-to-creating-art-with-ai/) |
-| 39 | **Data Analysis and Data Visualization with Microsoft Copilot** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/data-analysis-and-data-visualization-with-microsoft-copilot/) |
-| 40 | **C# Basics: From Zero to First Applications** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/c-basics-from-zero-to-first-applications/) |
+| 1 | **Professional Diploma in Office Administration Management** | `Business` | ⭐ 3.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/professional-diploma-in-office-administration-management/) |
+| 2 | **The Certified Global CEO Masterclass: Leading at the Top** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-certified-global-ceo-masterclass-leading-at-the-top/) |
+| 3 | **[Non-Technical] AI Product Manager Explorer Certificate** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/non-technical-ai-product-manager-explorer-certificate/) |
+| 4 | **Essential AI Guide: From Fundamentals to Real-World Impact** | `Design` | ⭐ 3.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-ai-guide-from-fundamentals-to-real-world-impact/) |
+| 5 | **AI Made Simple for Kids: Fun Learning with Technology** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-made-simple-for-kids-fun-learning-with-technology/) |
+| 6 | **Base44 Mastery: Build Enterprise AI Workflow Automations** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/base44-mastery-build-enterprise-ai-workflow-automations/) |
+| 7 | **Break Into AI Without a Technical Background** | `Development` | ⭐ 2.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/break-into-ai-without-a-technical-background/) |
+| 8 | **AI Fundamentals for Business** | `Business` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-fundamentals-for-business/) |
+| 9 | **Ethics, Bias & Trust in AI** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/ethics-bias-trust-in-ai/) |
+| 10 | **Data Literacy for Product Owners** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/data-literacy-for-product-owners/) |
+| 11 | **NVIDIA-Certified Professional: AI Infrastructure (NCP-AII)** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/nvidia-certified-professional-ai-infrastructure-ncp-aii/) |
+| 12 | **AB-210 Microsoft Dynamics 365 Sales AI Consultant Associate** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/ab-210-microsoft-dynamics-365-sales-ai-consultant-associate/) |
+| 13 | **Trendjacking 101: Turn Viral Moments Into Brand Growth** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/trendjacking-101-turn-viral-moments-into-brand-growth/) |
+| 14 | **NCA‑AIIO NVIDIA‑Certified Associate: AI Infrastructure & Ops** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/nca-aiio-nvidia-certified-associate-ai-infrastructure-ops/) |
+| 15 | **AI Product Manager Explorer Certificate** | `Development` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-product-manager-explorer-certificate/) |
+| 16 | **Quantum Computing for Decision Makers: Executive Essentials** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/quantum-computing-for-decision-makers-executive-essentials/) |
+| 17 | **Certified Chief Technology Officer(CTO) Mastery Program** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-chief-technology-officer-cto-mastery-program/) |
+| 18 | **MCP for Leaders: Architecting Context-Driven AI** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/mcp-for-leaders-architecting-context-driven-ai/) |
+| 19 | **Deep Dive into OpenAI Models: Master o3, o4-mini & Beyond** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/deep-dive-into-openai-models-master-o3-o4-mini-beyond/) |
+| 20 | **DeepSeek R1 for Business and Marketing: Harness AI Insights** | `Business` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/deepseek-r1-for-business-and-marketing-harness-ai-insights/) |
+| 21 | **Design with Canva & AI: A Scalable Workflow for Creators** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/design-with-canva-ai-a-scalable-workflow-for-creators/) |
+| 22 | **DeepSeek AI for Business: Build a Strategy with AI Insights** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/deepseek-ai-for-business-build-a-strategy-with-ai-insights/) |
+| 23 | **DALL-E 101: A Comprehensive Guide to Creating Art with AI** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/dall-e-101-a-comprehensive-guide-to-creating-art-with-ai/) |
+| 24 | **C# Basics: From Zero to First Applications** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/c-basics-from-zero-to-first-applications/) |
+| 25 | **Create a WordPress website with Hostinger!** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/create-a-wordpress-website-with-hostinger/) |
+| 26 | **Craft Marketing Strategy in 5 Steps With Your AI-Copilot** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/craft-marketing-strategy-in-5-steps-with-your-ai-copilot/) |
+| 27 | **Complete Freelance MBA 2024: Digitalize Service Businesses** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-freelance-mba-2024-digitalize-service-businesses/) |
+| 28 | **AI-Powered Digital Marketer. ChatGPT & 80+ AI tools to grow** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-powered-digital-marketer-chatgpt-80-ai-tools-to-grow/) |
+| 29 | **Google Ads 2025: How to Drive Sales With PPC!** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/google-ads-2025-how-to-drive-sales-with-ppc/) |
+| 30 | **Generative AI for Sales** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/generative-ai-for-sales/) |
+| 31 | **Gen AI Readiness, Implementation and Transformation** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/gen-ai-readiness-implementation-and-transformation/) |
+| 32 | **GEO: Generating Engine Optimization. How to rank in ChatGPT** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/geo-generating-engine-optimization-how-to-rank-in-chatgpt/) |
+| 33 | **From Prompt to Photorealism: Midjourney Image Creation Guide** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/from-prompt-to-photorealism-midjourney-image-creation-guide/) |
+| 34 | **Generative AI in Customer Support** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/generative-ai-in-customer-support/) |
+| 35 | **GenAI for Content Creation and Multimedia Campaigns** | `Marketing` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/genai-for-content-creation-and-multimedia-campaigns/) |
+| 36 | **From Prompt Engineering to Agent Engineering** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/from-prompt-engineering-to-agent-engineering/) |
+| 37 | **Google My Business. How to Master Powerful Tool for Company** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/google-my-business-how-to-master-powerful-tool-for-company/) |
+| 38 | **Figma AI Workflow: From Vision to Version** | `Design` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/figma-ai-workflow-from-vision-to-version/) |
+| 39 | **CSS3 and Bootstrap for Absolute Beginners : 4 courses in 1** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/css3-and-bootstrap-for-absolute-beginners-4-courses-in-1/) |
+| 40 | **AI Foundations** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-foundations/) |
 
 *Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*
