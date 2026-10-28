@@ -9469,5 +9469,418 @@
       "rem": null,
       "end": "2026-10-29T07:00:00Z"
     }
+  },
+  "officeadministrationmanagement_E51E9D42EBD73B8D3EFF": {
+    "subscribers": 2371,
+    "reviews": 157,
+    "rating": "3.4",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 3,
+      "end": "2026-11-27T18:39:00Z"
+    }
+  },
+  "learn-css-and-bootstrap-from-scratch_CSS3OCT26": {
+    "subscribers": 221761,
+    "reviews": 1792,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Creative Online School",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "ai-foundation-for-beginners_FREE27OCT2026": {
+    "subscribers": 848,
+    "reviews": 24,
+    "rating": "4.3",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Rahul Anand",
+    "campaign": null
+  },
+  "introduction-to-rag_FREEOCT272026": {
+    "subscribers": 828,
+    "reviews": 2,
+    "rating": "5.0",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Rahul Anand",
+    "campaign": null
+  },
+  "ai-foundation-introduction-to-mcp_FREEOCT272026": {
+    "subscribers": 1323,
+    "reviews": 28,
+    "rating": "4.0",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Rahul Anand",
+    "campaign": null
+  },
+  "ai-product-manager-certificate_OCTFREE01": {
+    "subscribers": 14124,
+    "reviews": 573,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 23,
+      "end": "2026-11-01T16:30:00Z"
+    }
+  },
+  "mastering-llm-evaluation-build-reliable-scalable-ai-systems_OCTFREE01": {
+    "subscribers": 13040,
+    "reviews": 63,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "essential-ai-guide-from-fundamentals-to-real-world-impact_OCTFREE01": {
+    "subscribers": 6957,
+    "reviews": 13,
+    "rating": "3.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 45,
+      "end": "2026-11-01T16:30:00Z"
+    }
+  },
+  "ai-made-simple-for-kids_OCTFREE01": {
+    "subscribers": 9092,
+    "reviews": 79,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 39,
+      "end": "2026-11-01T16:30:00Z"
+    }
+  },
+  "neural-signal-processing-applied-ai_PACKTFREE": {
+    "subscribers": 5508,
+    "reviews": 18,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "coding-the-brain-ai-machine-learning-for-bcis_OCTFREE01": {
+    "subscribers": 7562,
+    "reviews": 19,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "base44-mastery-build-enterprise-ai-workflow-automations_OCTFREE01": {
+    "subscribers": 10341,
+    "reviews": 66,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 14,
+      "end": "2026-11-01T16:30:00Z"
+    }
+  },
+  "enterprise-ai-agents-with-open-claw_OCTFREE01": {
+    "subscribers": 5155,
+    "reviews": 22,
+    "rating": "3.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "ai-operating-systems-designing-autonomous-architectures_OCTFREE01": {
+    "subscribers": 3903,
+    "reviews": 4,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Data Science Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "3-day-ai-engineering-bootcamp-become-an-ai-engineer_OCTFREE01": {
+    "subscribers": 2413,
+    "reviews": 15,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "ai-powered-job-search-land-high-paying-roles-faster-in-2026_OCTFREE01": {
+    "subscribers": 4784,
+    "reviews": 11,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "3-day-ai-product-management-bootcamp_OCTFREE01": {
+    "subscribers": 2337,
+    "reviews": 6,
+    "rating": "2.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "aws-machine-learning-engineer-associate-complete-bootcamp_OCTFREE01": {
+    "subscribers": 2171,
+    "reviews": 5,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "agentic-ai-engineering-with-claude-code_OCTFREE01": {
+    "subscribers": 2226,
+    "reviews": 13,
+    "rating": "3.8",
+    "price": "$11.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": null
+  },
+  "ai-generalist-mastery_OCTFREE01": {
+    "subscribers": 2133,
+    "reviews": 21,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "break-into-ai-without-a-technical-background_OCTFREE01": {
+    "subscribers": 2031,
+    "reviews": 4,
+    "rating": "2.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 3,
+      "end": "2026-11-01T16:30:00Z"
+    }
+  },
+  "vibe-coding-mastery-build-with-ai-ship-with-flow-in-3-days_OCTFREE01": {
+    "subscribers": 2051,
+    "reviews": 5,
+    "rating": "4.2",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "agentic-ai-bootcamp-build-autonomous-ai-systems-in-3-days_OCTFREE01": {
+    "subscribers": 2055,
+    "reviews": 3,
+    "rating": "3.2",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "build-your-ai-governance-framework-in-7-days_OCTFREE01": {
+    "subscribers": 2077,
+    "reviews": 3,
+    "rating": "4.5",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "ai-fundamentals-for-business_OCTFREE01": {
+    "subscribers": 1735,
+    "reviews": 2,
+    "rating": "4.0",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 8,
+      "end": "2026-11-01T16:30:00Z"
+    }
+  },
+  "ethics-bias-trust-in-ai_OCTFREE01": {
+    "subscribers": 1727,
+    "reviews": 2,
+    "rating": "4.7",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 14,
+      "end": "2026-11-01T16:30:00Z"
+    }
+  },
+  "data-literacy-for-product-owners_PACKTFREE": {
+    "subscribers": 1672,
+    "reviews": 3,
+    "rating": "5.0",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 4,
+      "end": "2026-11-01T16:30:00Z"
+    }
+  },
+  "quantum-computing-ai-bootcamp-build-future-ai-systems_OCTFREE01": {
+    "subscribers": 1519,
+    "reviews": 4,
+    "rating": "3.0",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "ab-210-microsoft-dynamics-365-sales-ai-consultant-associate-q_OCTFREE01": {
+    "subscribers": 814,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Arjun Vaid, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 19,
+      "end": "2026-11-01T16:30:00Z"
+    }
+  },
+  "trendjacking-101-turn-viral-moments-into-brand-growth_OCTFREE01": {
+    "subscribers": 870,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": {
+      "max": 100,
+      "rem": 2,
+      "end": "2026-11-01T16:30:00Z"
+    }
+  },
+  "ai-product-manager-explorer-certificate_OCTFREE01": {
+    "subscribers": 17390,
+    "reviews": 124,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 10,
+      "end": "2026-11-01T16:30:00Z"
+    }
+  },
+  "rag-strategy-execution-build-enterprise-knowledge-systems_OCTFREE01": {
+    "subscribers": 19670,
+    "reviews": 399,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Gourav J. Shah, School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-10-29T07:00:00Z"
+    }
+  },
+  "quantum-computing-for-decision-makers-executive-essentials_OCTFREE01": {
+    "subscribers": 13790,
+    "reviews": 327,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 59,
+      "end": "2026-11-01T16:30:00Z"
+    }
   }
 }
