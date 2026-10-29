@@ -11170,5 +11170,400 @@
       "rem": 25,
       "end": "2026-11-28T19:56:00Z"
     }
+  },
+  "html-5-with-quizzes-and-python-3-complete-course-2023_6D5CC682540C4F7A3B00": {
+    "subscribers": 47985,
+    "reviews": 387,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Horizon Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 27,
+      "end": "2026-11-29T02:25:00Z"
+    }
+  },
+  "salesforce-lwc-lightning-web-component-with-live-project_3A2C64FA64E990A2A986": {
+    "subscribers": 16666,
+    "reviews": 376,
+    "rating": "4.7",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Parag Jambhulkar",
+    "campaign": {
+      "max": 100,
+      "rem": 32,
+      "end": "2026-11-06T07:00:00Z"
+    }
+  },
+  "learn-salesforce-admin-developer-with-lwc-live-project_38243FAFC809855B37B3": {
+    "subscribers": 26800,
+    "reviews": 1280,
+    "rating": "4.5",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Parag Jambhulkar",
+    "campaign": null
+  },
+  "social-media-marketing-mastery-2025-9-social-ad-platforms_9DF454F51A82B9C89FC4": {
+    "subscribers": 10405,
+    "reviews": 310,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Tanmoy Das",
+    "campaign": null
+  },
+  "linkedin-ads-masterclass-2023-all-campaigns-features_4A315C7EA6F611FCFAB9": {
+    "subscribers": 26867,
+    "reviews": 678,
+    "rating": "4.7",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Tanmoy Das",
+    "campaign": {
+      "max": 100,
+      "rem": 12,
+      "end": "2026-11-06T02:07:00Z"
+    }
+  },
+  "learn-cpp-programming-beginner-to-advanced_503EDC76AA01C0E25556": {
+    "subscribers": 18713,
+    "reviews": 405,
+    "rating": "4.8",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Parag Jambhulkar",
+    "campaign": null
+  },
+  "facebook-ads-masterclass-2023-all-campaigns-features_0D2E7F2D85486C8A584A": {
+    "subscribers": 31316,
+    "reviews": 648,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Tanmoy Das",
+    "campaign": null
+  },
+  "the-ultimate-google-tag-manager-course-beginner-to-advanced_A003368763DBEDE8C4FF": {
+    "subscribers": 16211,
+    "reviews": 395,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Tanmoy Das",
+    "campaign": null
+  },
+  "google-ads-masterclass-2025-all-features-campaign-setups_5F29E4917E4E2AF90374": {
+    "subscribers": 10199,
+    "reviews": 264,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Digital School",
+    "campaign": null
+  },
+  "full-digital-marketing-course-2025-ppc-seo-smm-gtm-ga4_337DD47199FD5576548B": {
+    "subscribers": 12934,
+    "reviews": 494,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Digital School",
+    "campaign": null
+  },
+  "gemini-ai-complete-guide-to-googles-powerful-ai_EE5DEE54F29C2899D9D1": {
+    "subscribers": 3646,
+    "reviews": 16,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "vuejs-masterclass-build-interactive-web-apps-quickly_18DBB512009BBD2F141C": {
+    "subscribers": 3822,
+    "reviews": 3,
+    "rating": "3.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "c-bootcamp-job-ready-skills-for-net-development_A1FE2BD0EAA752C66783": {
+    "subscribers": 3475,
+    "reviews": 10,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "master-c-language-c-programming-language-for-beginners_82617C94F4253DFD1AB8": {
+    "subscribers": 31322,
+    "reviews": 693,
+    "rating": "4.0",
+    "price": "$29.99",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 69,
+      "end": "2026-11-24T05:08:00Z"
+    }
+  },
+  "deepseek-ai-masterclass-ai-search-insights-productivity_F807C4D0D978DA41D580": {
+    "subscribers": 3673,
+    "reviews": 5,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "go-programming-the-complete-guide-to-golang-development_8EA365F01B1A43CB9C3D": {
+    "subscribers": 5650,
+    "reviews": 13,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "ultimate-microsoft-excel-with-data-analysis-vba-macros_CA296912F21DEA1CE5B7": {
+    "subscribers": 14161,
+    "reviews": 134,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "python-java-master-backend-frontend-web-developments_F6CE64B833C26377FA1C": {
+    "subscribers": 30518,
+    "reviews": 272,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": null
+  },
+  "php-master-class-the-complete-php-developer-course_9A8104501D0DD98D6283": {
+    "subscribers": 36852,
+    "reviews": 274,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 83,
+      "end": "2026-11-24T05:07:00Z"
+    }
+  },
+  "excel-excel-essential-with-tips-trick-and-job-success_E80A1B27FE5FE525F4C1": {
+    "subscribers": 22563,
+    "reviews": 282,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "excel-formulas-functions-basic-to-advanced_E2474A2622B70ED8B664": {
+    "subscribers": 26664,
+    "reviews": 384,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "word-microsoft-word-from-basic-to-advanced_A3113FCF570B72E745E5": {
+    "subscribers": 12962,
+    "reviews": 113,
+    "rating": "4.2",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": 100,
+      "rem": 88,
+      "end": "2026-11-08T03:42:00Z"
+    }
+  },
+  "capcut-for-social-media-video-editing-beginner-to-pro_3AFF8F03011A45CADE23": {
+    "subscribers": 15917,
+    "reviews": 101,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "bash-shell-scripting-bootcamp-10-project-based-learning_9D60F6B09816610BB67E": {
+    "subscribers": 19659,
+    "reviews": 148,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Vivek Kumar Pandit | OSCP+",
+    "campaign": null
+  },
+  "adobe-illustrator-essentials-zero-to-hero-for-beginners_3A93066FF54D5DD549BC": {
+    "subscribers": 26432,
+    "reviews": 147,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "adobe-after-effects-from-beginner-to-motion-master_2DD2A6440CF416EC2232": {
+    "subscribers": 24904,
+    "reviews": 138,
+    "rating": "4.4",
+    "price": "$29.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "advanced-adobe-premiere-pro-add-hollywood-level-effects_BFBB69567AD2C23C8B34": {
+    "subscribers": 27206,
+    "reviews": 124,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "complete-social-media-video-editing-masterclass-zero-to-hero_CC77BBF087654CE36D4C": {
+    "subscribers": 14775,
+    "reviews": 79,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sustoab Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 11,
+      "end": "2026-11-29T07:35:00Z"
+    }
+  },
+  "capcut-canva-masterclass-graphic-design-with-video-edit_2485D6640B1DFEF913F5": {
+    "subscribers": 13608,
+    "reviews": 79,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sustoab Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 46,
+      "end": "2026-11-29T07:39:00Z"
+    }
+  },
+  "premiere-pro-cc-novice-to-expert-how-to-earn-money-by-video_D210B211577DFD530DB9": {
+    "subscribers": 82618,
+    "reviews": 371,
+    "rating": "4.3",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 82,
+      "end": "2026-11-29T08:18:00Z"
+    }
+  },
+  "implementation-of-occupational-health-and-safety-in-industry_E9076420803C71C2C801": {
+    "subscribers": 10356,
+    "reviews": 416,
+    "rating": "4.5",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "SARMAD YAHYA ASP®",
+    "campaign": null
+  },
+  "introduction-to-occupational-health-and-safety-professional_FA6D582D82EF948E9885": {
+    "subscribers": 5467,
+    "reviews": 150,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "SARMAD YAHYA ASP®",
+    "campaign": null
+  },
+  "professional-adobe-photoshop-cc-course-with-advance-training_FA632874B79208F56DD6": {
+    "subscribers": 209115,
+    "reviews": 2137,
+    "rating": "4.0",
+    "price": "$74.99",
+    "isFree": false,
+    "instructors": "Stephen Koel Soren",
+    "campaign": null
+  },
+  "ms-word-for-novice_3AAD91CB6545892B4A03": {
+    "subscribers": 57455,
+    "reviews": 916,
+    "rating": "4.4",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 78,
+      "end": "2026-11-29T08:20:00Z"
+    }
+  },
+  "codeigniter-4-for-2023-build-real-estate-management-system_CIREALESTATE89": {
+    "subscribers": 13204,
+    "reviews": 48,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Web Coding",
+    "campaign": {
+      "max": 100,
+      "rem": 21,
+      "end": "2026-11-29T08:37:00Z"
+    }
+  },
+  "pro-photo-editing-with-photoshop-illustrator-lightroom-canva_3015A47A0CA1D525C447": {
+    "subscribers": 26295,
+    "reviews": 114,
+    "rating": "4.2",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "social-media-mastery-comprehensive-social-media-success_8E05AE5D48B80E1BE5FA": {
+    "subscribers": 26116,
+    "reviews": 239,
+    "rating": "4.3",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "advanced-adobe-after-effects-become-vfx-motion-expert_72D7926EDD645E5D25D3": {
+    "subscribers": 28174,
+    "reviews": 156,
+    "rating": "4.0",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "disaster-recovery-step-by-step_9FC1BD90173B5B818477": {
+    "subscribers": 2039,
+    "reviews": 18,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Dr. Amar Massoud",
+    "campaign": null
   }
 }
