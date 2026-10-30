@@ -12064,5 +12064,243 @@
     "isFree": false,
     "instructors": "Data Science Academy, School of AI",
     "campaign": null
+  },
+  "c-programming-language-mastery-learn-c-from-scratch_3DDF2B5FA0AF79BEFB21": {
+    "subscribers": 2723,
+    "reviews": 12,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "c-modern-c-programming-language-made-easy_024C752059F6147EEDA3": {
+    "subscribers": 2603,
+    "reviews": 7,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "cracking-cpp-interview_C61B72F360F217C8D999": {
+    "subscribers": 200899,
+    "reviews": 2786,
+    "rating": "4.6",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Codaming • 300k+ Learners Worldwide, Dinesh Kumar",
+    "campaign": null
+  },
+  "microsoft-word-google-docs-master-document-creation_D93A9FAD43B56BBFA91A": {
+    "subscribers": 7451,
+    "reviews": 40,
+    "rating": "3.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "the-complete-microsoft-excel-data-analysis-bootcamp_02219336685A7FE5A9ED": {
+    "subscribers": 13123,
+    "reviews": 179,
+    "rating": "4.3",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "microsoft-excel-pivot-tables-with-formulas-functions_AD107C1C1B499BE238C9": {
+    "subscribers": 14732,
+    "reviews": 167,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "social-media-video-editing-with-canva-capcut-premiere-pro_246068363DC7B37E2DBA": {
+    "subscribers": 13613,
+    "reviews": 67,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "php-laravel-2023-build-coffee-shop-management-system_LARAVECOFFEE73": {
+    "subscribers": 24102,
+    "reviews": 146,
+    "rating": "4.6",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": null
+  },
+  "eu-pay-transparency-what-employers-must-do_A81C3F190A5CBC6DB741": {
+    "subscribers": 312,
+    "reviews": 5,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnsector LLP",
+    "campaign": null
+  },
+  "work-life-balance-for-busy-professionals_585572E197C15CB67435": {
+    "subscribers": 277,
+    "reviews": 10,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Meritshot Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 40,
+      "end": "2026-11-28T19:50:00Z"
+    }
+  },
+  "advanced-certified-scrum-master_3EFDB57B3771479DDCB6": {
+    "subscribers": 37057,
+    "reviews": 3033,
+    "rating": "4.5",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Vipesh Singla , MBA, Certified  SAFe Agile Coach, Agile Enterprise Coach London",
+    "campaign": null
+  },
+  "scrum-master-certification-exam-prep_7637FB532256C0DA6555": {
+    "subscribers": 14196,
+    "reviews": 90,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Vipesh Singla , MBA, Certified  SAFe Agile Coach",
+    "campaign": null
+  },
+  "ai-for-product-management-innovation_4BA76187213EA44108ED": {
+    "subscribers": 17059,
+    "reviews": 788,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Vipesh Singla , MBA, Certified  SAFe Agile Coach",
+    "campaign": null
+  },
+  "product-management-using-chatgpt_3DF75B31DD6C3A0979F5": {
+    "subscribers": 14314,
+    "reviews": 335,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Agile Enterprise Coach Europe, Vipesh Singla , MBA, Certified  SAFe Agile Coach",
+    "campaign": null
+  },
+  "professional-certificate-in-agile-and-scrum_2A93EB5BF4AB22A32AFB": {
+    "subscribers": 40159,
+    "reviews": 806,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "MTF Institute of Management, Technology and Finance, Vipesh Singla , MBA, Certified  SAFe Agile Coach",
+    "campaign": null
+  },
+  "build-product-management-deliverable-portfolio-using-chatgpt-aec_7F1528CD1D58790A64E0": {
+    "subscribers": 21068,
+    "reviews": 206,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Agile Enterprise Coach London",
+    "campaign": null
+  },
+  "product-owner-certification-exam-prep_41A637166FF22CE48741": {
+    "subscribers": 9652,
+    "reviews": 35,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Vipesh Singla , MBA, Certified  SAFe Agile Coach",
+    "campaign": null
+  },
+  "safe-general-overview-course-aece_E252C6298C16E1068B0B": {
+    "subscribers": 9095,
+    "reviews": 285,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Agile Enterprise Coach Europe, Vipesh Singla , MBA, Certified  SAFe Agile Coach",
+    "campaign": null
+  },
+  "agile-coach-certification-aec_D7A453DFC6EF82D9E0C6": {
+    "subscribers": 13011,
+    "reviews": 291,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Agile Enterprise Coach London",
+    "campaign": null
+  },
+  "presentations-with-chatgpt-aec_51D296E07B6FB646D58F": {
+    "subscribers": 20952,
+    "reviews": 187,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Agile Enterprise Coach London",
+    "campaign": null
+  },
+  "advertising-strategy-fundamentals-upskill-to-drive-growth_9F02F6FA64EE901B82A1": {
+    "subscribers": 6638,
+    "reviews": 65,
+    "rating": "4.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Ventseslav Hikov",
+    "campaign": null
+  },
+  "chatgpt-for-product-management-innovation-h_C00AA10FBCAF3908E0DC": {
+    "subscribers": 23650,
+    "reviews": 268,
+    "rating": "4.3",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Agile Enterprise Coach London",
+    "campaign": null
+  },
+  "overview-agile-framework_EEF4E5CF33F08E886174": {
+    "subscribers": 23332,
+    "reviews": 850,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Vipesh Singla , MBA, Certified  SAFe Agile Coach",
+    "campaign": null
+  },
+  "agile-trainer-certification-aec_B4B13963F90BC5EE72F3": {
+    "subscribers": 11886,
+    "reviews": 132,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Agile Enterprise Coach London",
+    "campaign": null
+  },
+  "esg-community-engagement-become-a-force-for-good_D5BBA6963DEE8FFF905D": {
+    "subscribers": 2383,
+    "reviews": 225,
+    "rating": "4.5",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Ventseslav Hikov",
+    "campaign": null
+  },
+  "professional-diploma-in-agile-and-scrum_C95EC9A43ADF6A10E977": {
+    "subscribers": 28078,
+    "reviews": 385,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Vipesh Singla , MBA, Certified  SAFe Agile Coach, MTF Institute of Management, Technology and Finance",
+    "campaign": null
   }
 }
