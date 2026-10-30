@@ -11985,5 +11985,84 @@
       "rem": 53,
       "end": "2026-11-27T07:00:00Z"
     }
+  },
+  "certified_generative_ai_architect_with_knowledge_graphs_OCTFREE01": {
+    "subscribers": 19505,
+    "reviews": 101,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Vivian Aranha, School of AI",
+    "campaign": null
+  },
+  "data-literacy-for-product-owners_OCTFREE01": {
+    "subscribers": 1703,
+    "reviews": 3,
+    "rating": "5.0",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 3,
+      "end": "2026-11-01T16:30:00Z"
+    }
+  },
+  "chief-technology-officercto-mastery-program_OCTFREE01": {
+    "subscribers": 20882,
+    "reviews": 433,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": null
+  },
+  "nca-aiio-nvidia-certified-associate-ai-infrastructure-and-operations_OCTFREE01": {
+    "subscribers": 7575,
+    "reviews": 53,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 54,
+      "end": "2026-11-01T16:30:00Z"
+    }
+  },
+  "ncp-aii-nvidia-certified-professional-ai-infrastructure_OCTFREE01": {
+    "subscribers": 10310,
+    "reviews": 110,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 35,
+      "end": "2026-11-01T16:30:00Z"
+    }
+  },
+  "ceo-masterclass_OCTFREE01": {
+    "subscribers": 10802,
+    "reviews": 67,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 21,
+      "end": "2026-11-01T16:30:00Z"
+    }
+  },
+  "neural-signal-processing-applied-ai_OCTFREE01": {
+    "subscribers": 5531,
+    "reviews": 19,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": null
   }
 }
