@@ -12302,5 +12302,277 @@
     "isFree": false,
     "instructors": "Vipesh Singla , MBA, Certified  SAFe Agile Coach, MTF Institute of Management, Technology and Finance",
     "campaign": null
+  },
+  "gdpr-compliance-eu-data-privacy-rights_35490FC3BA8A7128EB4A": {
+    "subscribers": 963,
+    "reviews": 10,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Global Skills Network",
+    "campaign": null
+  },
+  "supporting-autism-dyslexia-in-early-childhood-education_009B395F362F3F6B0A18": {
+    "subscribers": 2628,
+    "reviews": 31,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Global Skills Network",
+    "campaign": null
+  },
+  "ms-word-for-novice_18BB384DA0844C447FB3": {
+    "subscribers": 57498,
+    "reviews": 916,
+    "rating": "4.4",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Stephen Koel Soren",
+    "campaign": null
+  },
+  "structured-finance-basics_EXCELMOJOSF100": {
+    "subscribers": 447,
+    "reviews": 24,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Excel Mojo",
+    "campaign": null
+  },
+  "javascript-practicals-crash-course_778127F85538C2C13601": {
+    "subscribers": 134303,
+    "reviews": 1958,
+    "rating": "4.1",
+    "price": "$29.99",
+    "isFree": true,
+    "instructors": "PROPER DOT INSTITUTE",
+    "campaign": {
+      "max": 100,
+      "rem": 30,
+      "end": "2026-11-30T11:24:00Z"
+    }
+  },
+  "css-crash-course-for-beginners-g_884AD18356210637A82F": {
+    "subscribers": 117066,
+    "reviews": 1865,
+    "rating": "4.4",
+    "price": "$27.99",
+    "isFree": true,
+    "instructors": "PROPER DOT INSTITUTE",
+    "campaign": {
+      "max": 100,
+      "rem": 14,
+      "end": "2026-11-30T11:24:00Z"
+    }
+  },
+  "css-complete-course-for-beginners_A219BCB9DE38537B316D": {
+    "subscribers": 131309,
+    "reviews": 2198,
+    "rating": "4.4",
+    "price": "$27.99",
+    "isFree": true,
+    "instructors": "PROPER DOT INSTITUTE",
+    "campaign": {
+      "max": 100,
+      "rem": 68,
+      "end": "2026-11-30T11:23:00Z"
+    }
+  },
+  "15-effective-steps-for-growing-business-in-social-media_1F5A76E9D0AC979B2F38": {
+    "subscribers": 33777,
+    "reviews": 433,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Julia Wilder, Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 31,
+      "end": "2026-11-30T10:07:00Z"
+    }
+  },
+  "vercel-v0-no-code-mvp-build-ship-in-a-weekend_F32980193BC4AD87C74D": {
+    "subscribers": 10012,
+    "reviews": 95,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": null
+  },
+  "28-days-to-master-ai-art-generation-system_176CA23B6624C4967DAC": {
+    "subscribers": 10148,
+    "reviews": 80,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": null
+  },
+  "youtube-startrack-for-beginners-launch-your-channel-today_B5DEA906EF190F7E6E35": {
+    "subscribers": 34139,
+    "reviews": 131,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Andrii Salii, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 3,
+      "end": "2026-11-30T10:06:00Z"
+    }
+  },
+  "web-analytics-with-similarweb-from-basic-to-pro_1C434DB2931FB186F22E": {
+    "subscribers": 51207,
+    "reviews": 241,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 43,
+      "end": "2026-11-30T10:02:00Z"
+    }
+  },
+  "ultimate-product-management_F87ECCCC16AFCBC8458E": {
+    "subscribers": 24516,
+    "reviews": 396,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Irina Vasilenko, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 37,
+      "end": "2026-11-30T09:46:00Z"
+    }
+  },
+  "upgrade-your-social-media-presence-with-chat-gpt_1A9EAA61078A69CAF02C": {
+    "subscribers": 49357,
+    "reviews": 408,
+    "rating": "4.4",
+    "price": "$22.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 35,
+      "end": "2026-11-30T09:48:00Z"
+    }
+  },
+  "upwork-win-freelance-world_514EF9D9991CA940D65F": {
+    "subscribers": 64281,
+    "reviews": 849,
+    "rating": "4.4",
+    "price": "$29.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Oleksii Serhiienko, Anton Voroniuk Support",
+    "campaign": null
+  },
+  "unlocking-grok-ai-for-business-and-marketing_78C002D2D1757D5DA470": {
+    "subscribers": 20070,
+    "reviews": 168,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 25,
+      "end": "2026-11-30T09:47:00Z"
+    }
+  },
+  "the-power-of-ai-avatars-with-heygen_9C91C8AC4ECF1D9CEF21": {
+    "subscribers": 18527,
+    "reviews": 207,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Kateryna Shevchenko, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 20,
+      "end": "2026-11-23T11:48:00Z"
+    }
+  },
+  "the-ultimate-guide-to-learning-development-with-copilot_FB81026FAA063ACC10AB": {
+    "subscribers": 4863,
+    "reviews": 39,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Oleksii Serhiienko, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 21,
+      "end": "2026-11-30T09:44:00Z"
+    }
+  },
+  "c-and-php-complete-course-2023_0B3E9A8069C3B4BE9DAB": {
+    "subscribers": 59633,
+    "reviews": 357,
+    "rating": "4.5",
+    "price": "$29.99",
+    "isFree": true,
+    "instructors": "Crunch Coding Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 18,
+      "end": "2026-11-30T11:32:00Z"
+    }
+  },
+  "c-and-java-training-crash-course-2022_11AD203AFA964AE12C8B": {
+    "subscribers": 74093,
+    "reviews": 693,
+    "rating": "4.5",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Crunch Coding Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 9,
+      "end": "2026-11-30T11:33:00Z"
+    }
+  },
+  "the-complete-system-of-prompt-engineering_58C5AB32F063EC22CFBB": {
+    "subscribers": 9807,
+    "reviews": 209,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": null
+  },
+  "java-and-c-complete-course-for-beginners-2022_6F00093DDE1B4924EC9E": {
+    "subscribers": 84662,
+    "reviews": 755,
+    "rating": "4.3",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Crunch Coding Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 30,
+      "end": "2026-11-30T11:31:00Z"
+    }
+  },
+  "chemistry-fundamentals-1_A8073154B8F611E27857": {
+    "subscribers": 519,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Mohamed Kamal",
+    "campaign": null
+  },
+  "canva-graphic-design-and-social-media-content-mastery_038AD5A9A649D08ECE7B": {
+    "subscribers": 3257,
+    "reviews": 9,
+    "rating": "3.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
   }
 }
