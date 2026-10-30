@@ -11565,5 +11565,425 @@
     "isFree": false,
     "instructors": "Dr. Amar Massoud",
     "campaign": null
+  },
+  "online-course-creation-10-key-steps-from-idea-to-launch_F5B9223847AB53D73F53": {
+    "subscribers": 21888,
+    "reviews": 53,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 57,
+      "end": "2026-11-29T09:25:00Z"
+    }
+  },
+  "retail-management-101_9C2AD9F5509D8E7C7670": {
+    "subscribers": 7595,
+    "reviews": 60,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Academy of Genius Graduates",
+    "campaign": null
+  },
+  "secretsfromabroker_C4829CF26861687FBA78": {
+    "subscribers": 2033,
+    "reviews": 74,
+    "rating": "4.4",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Juan Carlos Fernández Alemán",
+    "campaign": null
+  },
+  "tiktok-marketing-course-for-beginners_577C1676F89FE373FF37": {
+    "subscribers": 73123,
+    "reviews": 750,
+    "rating": "4.3",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Daria Salnikova, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 51,
+      "end": "2026-11-29T10:20:00Z"
+    }
+  },
+  "shopify-complete-guide_C33603F72C9168E45CF0": {
+    "subscribers": 42886,
+    "reviews": 336,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Yuliiya Hubanova, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 10,
+      "end": "2026-11-29T10:18:00Z"
+    }
+  },
+  "reputation_management_B16BDD9F889F3C6373FD": {
+    "subscribers": 32498,
+    "reviews": 357,
+    "rating": "4.3",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 76,
+      "end": "2026-11-29T10:03:00Z"
+    }
+  },
+  "seo-strategy_D875A4154DA4EC2771FC": {
+    "subscribers": 189919,
+    "reviews": 2420,
+    "rating": "4.4",
+    "price": "$64.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support, Agnese Repule, Artem Kolomiiets",
+    "campaign": {
+      "max": 100,
+      "rem": 68,
+      "end": "2026-11-29T10:17:00Z"
+    }
+  },
+  "runway-masterclass-gen-4-aleph-act-two-ai-video-creation_CE691D11FB918D6731D0": {
+    "subscribers": 4482,
+    "reviews": 60,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 16,
+      "end": "2026-11-29T10:10:00Z"
+    }
+  },
+  "photoshop-ai-for-creatives-guide-to-generative-tools_9C0AB8F3D191EE41924E": {
+    "subscribers": 8566,
+    "reviews": 137,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 33,
+      "end": "2026-11-29T09:51:00Z"
+    }
+  },
+  "quiz-marketing-power-generate-leads-with-boosting-lead_B9A2EABEB7FCF40FD022": {
+    "subscribers": 18306,
+    "reviews": 54,
+    "rating": "4.7",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 54,
+      "end": "2026-11-29T09:57:00Z"
+    }
+  },
+  "perplexity-ai-for-marketing-business-automation_5A6E635D4886031CFF09": {
+    "subscribers": 17283,
+    "reviews": 108,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 20,
+      "end": "2026-11-29T09:49:00Z"
+    }
+  },
+  "project-management-fundamentals-guide_1212A47D8D3844492EE9": {
+    "subscribers": 55826,
+    "reviews": 1771,
+    "rating": "4.2",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 42,
+      "end": "2026-11-29T09:31:00Z"
+    }
+  },
+  "chat-gpt-for-content-creation_CBAB7B6D2C1559A467B3": {
+    "subscribers": 49392,
+    "reviews": 388,
+    "rating": "4.6",
+    "price": "$22.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 40,
+      "end": "2026-11-29T09:28:00Z"
+    }
+  },
+  "prompt-engineering-mastery-from-basics-to-advanced_C946F06941D536DF9AA3": {
+    "subscribers": 17237,
+    "reviews": 698,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": null
+  },
+  "pmp-knowledge-boost-stay-on-track-with-pmi-standards_14199B57C57261A3A168": {
+    "subscribers": 4802,
+    "reviews": 59,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 33,
+      "end": "2026-11-29T09:30:00Z"
+    }
+  },
+  "capcut-mastery-create-stunning-social-media-videos_50968FB85AFA2882811A": {
+    "subscribers": 24765,
+    "reviews": 185,
+    "rating": "4.1",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": null
+  },
+  "angularjs-essentials-from-beginner-to-advanced-developer_BECB6A9B690CE2295C69": {
+    "subscribers": 23241,
+    "reviews": 128,
+    "rating": "4.3",
+    "price": "$29.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": null
+  },
+  "canva-rockstar-design-like-a-pro-for-social-media-success_AAA79993112886143F36": {
+    "subscribers": 16689,
+    "reviews": 132,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "java-programming-language-step-by-step-learning-path_E34B7AE17614A109D8CA": {
+    "subscribers": 6580,
+    "reviews": 97,
+    "rating": "4.5",
+    "price": "$29.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "ai-digital-transformation-for-healthcare-professionals_FREEOCT1": {
+    "subscribers": 938,
+    "reviews": 9,
+    "rating": "4.8",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel",
+    "campaign": {
+      "max": 100,
+      "rem": 18,
+      "end": "2026-11-06T09:30:00Z"
+    }
+  },
+  "leadership-in-change-management-and-innovation_FREEOCT1": {
+    "subscribers": 1628,
+    "reviews": 15,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Starweaver Group, Paul Siegel, Julian Jenkins, Ritesh Vajariya, Ahmed Hassan",
+    "campaign": null
+  },
+  "introduction-to-futures-options_FREEOCT1": {
+    "subscribers": 13950,
+    "reviews": 1961,
+    "rating": "4.7",
+    "price": "$64.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Globecon Experts, Doug Carroll",
+    "campaign": {
+      "max": 100,
+      "rem": 14,
+      "end": "2026-11-06T09:30:00Z"
+    }
+  },
+  "strategic-communication-data-management-leadership_FREEOCT1": {
+    "subscribers": 2662,
+    "reviews": 21,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Eric Zackrison, Andreas Loizou, Joao Freitas",
+    "campaign": {
+      "max": 100,
+      "rem": 10,
+      "end": "2026-11-06T09:30:00Z"
+    }
+  },
+  "intelligent-business-operations_FREEOCT1": {
+    "subscribers": 3310,
+    "reviews": 23,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Vipesh Singla , MBA, Certified  SAFe Agile Coach, Joao Freitas, Joyce Wong, Manas Dasgupta",
+    "campaign": {
+      "max": 100,
+      "rem": 26,
+      "end": "2026-11-06T09:30:00Z"
+    }
+  },
+  "ai-for-product-and-process-optimization_FREEOCT1": {
+    "subscribers": 3287,
+    "reviews": 22,
+    "rating": "4.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Vipesh Singla , MBA, Certified  SAFe Agile Coach, Paul Siegel, Joyce Wong, Manas Dasgupta",
+    "campaign": {
+      "max": 100,
+      "rem": 3,
+      "end": "2026-11-06T09:30:00Z"
+    }
+  },
+  "business-writing-immersion_FREEOCT1": {
+    "subscribers": 46104,
+    "reviews": 8590,
+    "rating": "4.4",
+    "price": "$94.99",
+    "isFree": false,
+    "instructors": "Starweaver Group, Paul Siegel, Daniel Graham",
+    "campaign": null
+  },
+  "capital-market-immersion_FREEOCT1": {
+    "subscribers": 27928,
+    "reviews": 5010,
+    "rating": "4.6",
+    "price": "$94.99",
+    "isFree": false,
+    "instructors": "Starweaver Group, Paul Siegel, Globecon Experts, Doug Carroll",
+    "campaign": null
+  },
+  "credit-analysis-academy_FREEOCT1": {
+    "subscribers": 4142,
+    "reviews": 96,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Michael McDonald, Paul Siegel, Globecon Experts",
+    "campaign": {
+      "max": 100,
+      "rem": 24,
+      "end": "2026-11-06T09:30:00Z"
+    }
+  },
+  "yield-curve-dynamics_FREEOCT1": {
+    "subscribers": 6489,
+    "reviews": 695,
+    "rating": "4.7",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Globecon Experts, Doug Carroll",
+    "campaign": {
+      "max": 100,
+      "rem": 20,
+      "end": "2026-11-06T09:30:00Z"
+    }
+  },
+  "whistleblower-protection-legal-frameworks-ethics_C5571D11D256EBA9C7BE": {
+    "subscribers": 1514,
+    "reviews": 3,
+    "rating": "3.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learnsector LLP",
+    "campaign": {
+      "max": 100,
+      "rem": 19,
+      "end": "2026-11-29T12:48:00Z"
+    }
+  },
+  "the-securities-trade-lifecycle_FREEOCT1": {
+    "subscribers": 28256,
+    "reviews": 5688,
+    "rating": "4.5",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Globecon Experts, Mike Simmons",
+    "campaign": {
+      "max": 100,
+      "rem": 36,
+      "end": "2026-11-06T09:30:00Z"
+    }
+  },
+  "conquer-pmp-success-essential-guide-for-project-management_B4089A8935BA99A86578": {
+    "subscribers": 12550,
+    "reviews": 132,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": null
+  },
+  "self-discipline-will-change-your-life-for-good_27THOCT26": {
+    "subscribers": 54011,
+    "reviews": 333,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 55,
+      "end": "2026-11-27T07:00:00Z"
+    }
+  },
+  "strategic-partnerships-and-collaborations_27THOCT26": {
+    "subscribers": 50578,
+    "reviews": 1178,
+    "rating": "4.4",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 63,
+      "end": "2026-11-27T07:00:00Z"
+    }
+  },
+  "american-english-consonants-for-all_REALDIOCT26": {
+    "subscribers": 24443,
+    "reviews": 191,
+    "rating": "4.7",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Sheila Lebedenko",
+    "campaign": null
+  },
+  "fundamentals-of-financial-services_27THOCT26": {
+    "subscribers": 55164,
+    "reviews": 3460,
+    "rating": "4.4",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Timothy Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 53,
+      "end": "2026-11-27T07:00:00Z"
+    }
   }
 }
