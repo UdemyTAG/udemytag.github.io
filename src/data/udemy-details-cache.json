@@ -12605,5 +12605,104 @@
     "isFree": false,
     "instructors": "Md. Aliful Islam",
     "campaign": null
+  },
+  "water-resources-management_7BE36B6D70A746FD7028": {
+    "subscribers": 658,
+    "reviews": 5,
+    "rating": "4.8",
+    "price": "$84.99",
+    "isFree": false,
+    "instructors": "Green Courses",
+    "campaign": null
+  },
+  "python-and-django-for-beginners_D2B4C01ECF9E778F6096": {
+    "subscribers": 314203,
+    "reviews": 2946,
+    "rating": "4.4",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Horizon Tech",
+    "campaign": null
+  },
+  "ai-models-mastery-chatgpt-gemini-and-deepseek_5A0D964AD8528B1622E8": {
+    "subscribers": 3761,
+    "reviews": 12,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "mysql-database-management-create-manage-query-database_FD502F1F7A183346643B": {
+    "subscribers": 4383,
+    "reviews": 38,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "nodejs-build-fast-and-scalable-backend-applications_EF8206D3CC5058ACDA6A": {
+    "subscribers": 4887,
+    "reviews": 12,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "python-data-analysis-matplotlib-seaborn-pandas-numpy_F915032561562A1A67A9": {
+    "subscribers": 2793,
+    "reviews": 18,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "mastering-prompt-engineering-from-beginner-to-ai-expert_2A01AE14E1AA411763CE": {
+    "subscribers": 5987,
+    "reviews": 40,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "adobe-premiere-pro-101-learn-editing-effects-transitions_7730824E507A608B8936": {
+    "subscribers": 3617,
+    "reviews": 8,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "microsoft-excel-formulas-and-functions-beginner-to-advanced_FF90601419FD254D9D6B": {
+    "subscribers": 2994,
+    "reviews": 35,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "complete-guide-to-python-data-structures-and-algorithms-cour_80823F025532B2243C8C": {
+    "subscribers": 3514,
+    "reviews": 10,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "illustrator-t-shirt-design-mastery-from-concept-to-print_C19BEE2256FB71620609": {
+    "subscribers": 3024,
+    "reviews": 3,
+    "rating": "3.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
   }
 }
