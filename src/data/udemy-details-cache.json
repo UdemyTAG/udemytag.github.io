@@ -12704,5 +12704,546 @@
     "isFree": false,
     "instructors": "Logic Labs",
     "campaign": null
+  },
+  "the-complete-google-forms-course-mastering-google-forms_37CABE45ECC269870E64": {
+    "subscribers": 21894,
+    "reviews": 204,
+    "rating": "3.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": 100,
+      "rem": 1,
+      "end": "2026-11-25T04:21:00Z"
+    }
+  },
+  "powerpoint-microsoft-powerpoint-from-basic-to-advanced_B3139BFA1C017B024C0F": {
+    "subscribers": 28091,
+    "reviews": 219,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "google-sheets-the-complete-google-sheets-course_ECC69FB15FB992C43892": {
+    "subscribers": 25688,
+    "reviews": 207,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "r-programming-r-programming-language-beginners-to-pro_4F3BF6036F737A61550D": {
+    "subscribers": 32722,
+    "reviews": 200,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Knowledge Nest",
+    "campaign": {
+      "max": 100,
+      "rem": 3,
+      "end": "2026-11-14T04:08:00Z"
+    }
+  },
+  "mongodb-the-complete-mongodb-developers-course_3A6D94BB4B59150EEBCE": {
+    "subscribers": 39007,
+    "reviews": 408,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Knowledge Nest",
+    "campaign": null
+  },
+  "php-codeigniter-4-build-travel-agency-management-system_CITRAVELANDTOURS64": {
+    "subscribers": 4550,
+    "reviews": 14,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Web Coding",
+    "campaign": {
+      "max": 100,
+      "rem": 36,
+      "end": "2026-12-01T08:41:00Z"
+    }
+  },
+  "dp-900-azure-data-fundamentals-codaming_75DCA0257DACBC4A4699": {
+    "subscribers": 5058,
+    "reviews": 24,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Codaming • 300k+ Learners Worldwide, Vedika Singh, Dinesh Kumar",
+    "campaign": null
+  },
+  "linux-mastery-real-world-job-simulation-projects_360F4AA2212DB5DC06A9": {
+    "subscribers": 6731,
+    "reviews": 61,
+    "rating": "4.3",
+    "price": "$84.99",
+    "isFree": false,
+    "instructors": "Mo Khalil, CloudsArk Academy",
+    "campaign": null
+  },
+  "aml-reporting-essentials_733A95F846FA7292EBDC": {
+    "subscribers": 211,
+    "reviews": 9,
+    "rating": "4.9",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "GenMan Solutions",
+    "campaign": null
+  },
+  "human-judgment-ai_625109DF19AAA22DB4AE": {
+    "subscribers": 276,
+    "reviews": 35,
+    "rating": "4.5",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 2,
+      "end": "2026-12-01T09:41:00Z"
+    }
+  },
+  "ai-implementation_099DE4884EF7822D3BB3": {
+    "subscribers": 169,
+    "reviews": 5,
+    "rating": "4.3",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 46,
+      "end": "2026-12-01T09:38:00Z"
+    }
+  },
+  "product-design-ai_A8CF1CDEAE82982AEAE1": {
+    "subscribers": 712,
+    "reviews": 113,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "GenMan Solutions",
+    "campaign": null
+  },
+  "claude-ai-masterclass-everyone_C5FE8F019943DA6B2C0E": {
+    "subscribers": 447,
+    "reviews": 40,
+    "rating": "4.5",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "GenMan Solutions",
+    "campaign": null
+  },
+  "professional-in-human-resources-phr_B3E5D5433FDC300397B7": {
+    "subscribers": 5183,
+    "reviews": 327,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 55,
+      "end": "2026-12-01T09:52:00Z"
+    }
+  },
+  "diversity-inclusion-unconscious-bias_FD03A50150BA46C5A05F": {
+    "subscribers": 8867,
+    "reviews": 2017,
+    "rating": "4.6",
+    "price": "$27.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 60,
+      "end": "2026-12-01T09:52:00Z"
+    }
+  },
+  "hr-masterclass-genman_342D3F4B0367F951D731": {
+    "subscribers": 8303,
+    "reviews": 255,
+    "rating": "4.6",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 82,
+      "end": "2026-12-01T09:51:00Z"
+    }
+  },
+  "location-inclusive-mindsets-genman-solutions_E5C03E1AEACCD4CC3790": {
+    "subscribers": 2945,
+    "reviews": 43,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 88,
+      "end": "2026-12-01T09:51:00Z"
+    }
+  },
+  "developing-business-partnerships_8A5451C19E9CAF400EAC": {
+    "subscribers": 4884,
+    "reviews": 122,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 41,
+      "end": "2026-12-01T09:47:00Z"
+    }
+  },
+  "recruitment-talent-acquisition_A2C252C058C1D8A45FAC": {
+    "subscribers": 7118,
+    "reviews": 1195,
+    "rating": "4.5",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 78,
+      "end": "2026-12-01T09:49:00Z"
+    }
+  },
+  "inclusive-product-development-design-for-product-managers_E660620AB7CC5ECA2A3A": {
+    "subscribers": 3398,
+    "reviews": 53,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 72,
+      "end": "2026-12-01T09:45:00Z"
+    }
+  },
+  "data-security-in-the-age-of-generative-ai_13F17B38BDAACEBCB127": {
+    "subscribers": 6415,
+    "reviews": 456,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 52,
+      "end": "2026-12-01T09:44:00Z"
+    }
+  },
+  "ethical-ai-genman_8BCE7F192672F9FE7BC0": {
+    "subscribers": 10504,
+    "reviews": 1514,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 21,
+      "end": "2026-12-01T09:44:00Z"
+    }
+  },
+  "modern-hr-generative-ai_712724DECE3DD44AFC37": {
+    "subscribers": 10316,
+    "reviews": 1826,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 14,
+      "end": "2026-12-01T09:50:00Z"
+    }
+  },
+  "cybersecurity-ai-safety-awareness_22FEC54A54D5457F9CEA": {
+    "subscribers": 5590,
+    "reviews": 482,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 56,
+      "end": "2026-12-01T09:43:00Z"
+    }
+  },
+  "anti-corruption-and-anti-bribery_DD63E9BACB82DDD0706A": {
+    "subscribers": 6561,
+    "reviews": 1032,
+    "rating": "4.5",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 49,
+      "end": "2026-12-01T09:50:00Z"
+    }
+  },
+  "gen-ai-for-hr_8001E9E3A03F677C3209": {
+    "subscribers": 14633,
+    "reviews": 2937,
+    "rating": "4.5",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 30,
+      "end": "2026-12-01T09:50:00Z"
+    }
+  },
+  "reskilling-organization_ADAA2716F717AC1075E2": {
+    "subscribers": 4571,
+    "reviews": 76,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 88,
+      "end": "2026-12-01T09:47:00Z"
+    }
+  },
+  "product-monetization_E4E0B7BFEDC1956AB2EE": {
+    "subscribers": 213,
+    "reviews": 21,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 41,
+      "end": "2026-12-01T09:42:00Z"
+    }
+  },
+  "fintech-innovations_887CF13F7D6EB2A6C30D": {
+    "subscribers": 7761,
+    "reviews": 445,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 75,
+      "end": "2026-12-01T09:46:00Z"
+    }
+  },
+  "agile-kanban_FDC2C069CD0DD2E03F81": {
+    "subscribers": 118432,
+    "reviews": 2729,
+    "rating": "4.5",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 84,
+      "end": "2026-12-01T09:58:00Z"
+    }
+  },
+  "product-portfolio-management_C7D2A0F32ADEC08A7727": {
+    "subscribers": 5658,
+    "reviews": 136,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 69,
+      "end": "2026-12-01T09:46:00Z"
+    }
+  },
+  "prep-for-scrum-with-kanban-psk-i-certification-prep_DD0AC267E64F240DCFB7": {
+    "subscribers": 26684,
+    "reviews": 758,
+    "rating": "4.6",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 80,
+      "end": "2026-12-01T09:57:00Z"
+    }
+  },
+  "kanban-flow-metrics_38BD7CF80D5732F293E9": {
+    "subscribers": 25227,
+    "reviews": 154,
+    "rating": "4.3",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 39,
+      "end": "2026-12-01T09:57:00Z"
+    }
+  },
+  "agile-metrics-project-management_78355D7BB48EC2B0D8E3": {
+    "subscribers": 32333,
+    "reviews": 2475,
+    "rating": "4.6",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 8,
+      "end": "2026-12-01T09:56:00Z"
+    }
+  },
+  "project-management-basics-genman_0552609F8A4D43B4C135": {
+    "subscribers": 11834,
+    "reviews": 1197,
+    "rating": "4.6",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "GenMan Solutions",
+    "campaign": null
+  },
+  "prevention-of-insider-trading-india-regulations_7105EE77A68D119B8957": {
+    "subscribers": 3145,
+    "reviews": 534,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "GenMan Solutions",
+    "campaign": null
+  },
+  "chatgpt-for-product-management-genman_22EEF90740BA9A674949": {
+    "subscribers": 6433,
+    "reviews": 171,
+    "rating": "4.6",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 61,
+      "end": "2026-12-01T09:54:00Z"
+    }
+  },
+  "preventing-insider-trading-global_AC8FD01BA1DBD05C4FBA": {
+    "subscribers": 5014,
+    "reviews": 779,
+    "rating": "4.4",
+    "price": "$22.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 76,
+      "end": "2026-12-01T09:55:00Z"
+    }
+  },
+  "employee-recognition-program_165D92D4B391F4C1A4E7": {
+    "subscribers": 4873,
+    "reviews": 220,
+    "rating": "4.2",
+    "price": "$29.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 76,
+      "end": "2026-12-01T09:55:00Z"
+    }
+  },
+  "atlassian-confluence-masterclass_B696054E0E9A98A50384": {
+    "subscribers": 103563,
+    "reviews": 1200,
+    "rating": "4.7",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 80,
+      "end": "2026-12-01T10:01:00Z"
+    }
+  },
+  "agile-project-management-genman_9446F39DDBB5D34B893F": {
+    "subscribers": 157003,
+    "reviews": 9558,
+    "rating": "4.5",
+    "price": "$79.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 10,
+      "end": "2026-12-01T10:00:00Z"
+    }
+  },
+  "non-tech-product-management_AD21C1B839CC30A28C92": {
+    "subscribers": 11275,
+    "reviews": 424,
+    "rating": "4.7",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 54,
+      "end": "2026-12-01T09:56:00Z"
+    }
+  },
+  "scrum-genman_67E4CE8945F23D3AE3E5": {
+    "subscribers": 140204,
+    "reviews": 3289,
+    "rating": "4.5",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 81,
+      "end": "2026-12-01T09:58:00Z"
+    }
+  },
+  "jira-with-atlassian-intelligence-ai-rovo_FBC8B208AB4582F80780": {
+    "subscribers": 9989,
+    "reviews": 1073,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "GenMan Solutions",
+    "campaign": null
+  },
+  "project-managers-project-sponsors_F11706F12808206C9AFC": {
+    "subscribers": 6431,
+    "reviews": 220,
+    "rating": "4.5",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "GenMan Solutions",
+    "campaign": {
+      "max": 100,
+      "rem": 71,
+      "end": "2026-12-01T09:53:00Z"
+    }
   }
 }
