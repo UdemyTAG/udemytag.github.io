@@ -12574,5 +12574,36 @@
     "isFree": false,
     "instructors": "Logic Labs",
     "campaign": null
+  },
+  "oddjobsdiploma_4AFFBAC85C4933DD4797": {
+    "subscribers": 2793,
+    "reviews": 83,
+    "rating": "5.0",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 32,
+      "end": "2026-11-30T18:00:00Z"
+    }
+  },
+  "strategic-scm_B7295E57DF17B8B1C033": {
+    "subscribers": 3783,
+    "reviews": 42,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
+  },
+  "freelancingcareer_E5BC1E817768F5C46428": {
+    "subscribers": 11388,
+    "reviews": 94,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
   }
 }
