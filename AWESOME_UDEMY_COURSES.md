@@ -72,11 +72,11 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 | 32 | **Product Management Masterclass for Non-Technical PMs** | `Business` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/product-management-masterclass-for-non-technical-pms/) |
 | 33 | **The Complete Scrum Guide for Scrum Masters and Agile Teams** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-scrum-guide-for-scrum-masters-and-agile-teams/) |
 | 34 | **Working with Project Managers & Project Sponsors** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/working-with-project-managers-project-sponsors/) |
-| 35 | **SMART Goals Parenting** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/smart-goals-parenting/) |
-| 36 | **Empathy and Emotional Intelligence for Project Managers** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/empathy-and-emotional-intelligence-for-project-managers/) |
-| 37 | **Mental Health for the Workplace** | `Personal Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/mental-health-for-the-workplace/) |
-| 38 | **Introduction to Financial Controls** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/introduction-to-financial-controls/) |
-| 39 | **Financial Services: Introduction to ETFs** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-introduction-to-etfs/) |
-| 40 | **Financial Services - Overview of Central Banks** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-overview-of-central-banks/) |
+| 35 | **Financial Services - Understanding Interest Rates** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-understanding-interest-rates/) |
+| 36 | **How to Add Value in the Project Management Role** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/how-to-add-value-in-the-project-management-role/) |
+| 37 | **Jumpstart your Project Management career** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/jumpstart-your-project-management-career/) |
+| 38 | **ChatGPT and Generative AI in Business, Management, Marketing** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/chatgpt-and-generative-ai-in-business-management-marketing/) |
+| 39 | **The 3C’s to Become an AI-Ready Project Manager** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-3c-s-to-become-an-ai-ready-project-manager/) |
+| 40 | **Robotics and ROS 2 - Learn by Doing! Manipulators** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/robotics-and-ros-2-learn-by-doing-manipulators/) |
 
 *Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*

@@ -13245,5 +13245,59 @@
       "rem": 71,
       "end": "2026-12-01T09:53:00Z"
     }
+  },
+  "how-to-add-value-in-the-project-management-role_HAPPYHALLOWEEN": {
+    "subscribers": 17063,
+    "reviews": 76,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anju Aggarwal",
+    "campaign": null
+  },
+  "jumpstart-your-project-management-career_HAPPYHALLOWEEN": {
+    "subscribers": 28853,
+    "reviews": 303,
+    "rating": "4.3",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Anju Aggarwal",
+    "campaign": null
+  },
+  "chatgpt-and-generative-ai-in-business-management-marketing_7ACEFEB0195AA6183F7B": {
+    "subscribers": 42660,
+    "reviews": 441,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "MTF Institute of Management, Technology and Finance, Vipesh Singla , MBA, Certified  SAFe Agile Coach",
+    "campaign": null
+  },
+  "the-3cs-to-become-an-ai-ready-project-manager_HAPPYHALLOWEEN": {
+    "subscribers": 6541,
+    "reviews": 18,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anju Aggarwal",
+    "campaign": null
+  },
+  "robotics-and-ros-2-learn-by-doing-manipulators_OCTOBER-26-GROW": {
+    "subscribers": 9758,
+    "reviews": 907,
+    "rating": "4.6",
+    "price": "$79.99",
+    "isFree": false,
+    "instructors": "Antonio Brandi",
+    "campaign": null
+  },
+  "safe-general-overview-course_CC5D029E168CD4D2E1FA": {
+    "subscribers": 12409,
+    "reviews": 248,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Agile Enterprise Coach London",
+    "campaign": null
   }
 }
