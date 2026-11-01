@@ -14101,5 +14101,198 @@
     "isFree": false,
     "instructors": "Logic Labs",
     "campaign": null
+  },
+  "learn-php-for-beginners-php-crash-course-2021_PHPCOURSE135": {
+    "subscribers": 161909,
+    "reviews": 1513,
+    "rating": "4.6",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": null
+  },
+  "python-for-gis-automation_3D8280C5A4DCBBF1938C": {
+    "subscribers": 8324,
+    "reviews": 58,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Senior Assist Prof Azad Rasul",
+    "campaign": null
+  },
+  "only-for-genius-python-vs-golang-for-absolute-beginners_FREE_DEC_2026": {
+    "subscribers": 3499,
+    "reviews": 9,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Mohamed Amine Aloui, GrowYourKnowledge Training",
+    "campaign": null
+  },
+  "essentials-for-arcpy_FAA15C96A0EF20B41E52": {
+    "subscribers": 14154,
+    "reviews": 48,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Senior Assist Prof Azad Rasul",
+    "campaign": {
+      "max": 100,
+      "rem": 77,
+      "end": "2026-12-02T10:05:00Z"
+    }
+  },
+  "python-for-ai_F7B290F6AADAB31406AD": {
+    "subscribers": 14096,
+    "reviews": 197,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Senior Assist Prof Azad Rasul",
+    "campaign": {
+      "max": 100,
+      "rem": 60,
+      "end": "2026-12-02T10:04:00Z"
+    }
+  },
+  "geospatial-ai-deep-learning_860B9163D2F7D479DD92": {
+    "subscribers": 6925,
+    "reviews": 43,
+    "rating": "3.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Senior Assist Prof Azad Rasul",
+    "campaign": {
+      "max": 100,
+      "rem": 75,
+      "end": "2026-12-02T10:03:00Z"
+    }
+  },
+  "ai-for-geospatial-analysis_9F36007DF004550FAA9C": {
+    "subscribers": 27459,
+    "reviews": 188,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Senior Assist Prof Azad Rasul",
+    "campaign": {
+      "max": 100,
+      "rem": 66,
+      "end": "2026-12-02T10:06:00Z"
+    }
+  },
+  "programming-for-scientific-research_D2809D5676B47047E7D4": {
+    "subscribers": 27584,
+    "reviews": 194,
+    "rating": "4.5",
+    "price": "$27.99",
+    "isFree": true,
+    "instructors": "Senior Assist Prof Azad Rasul",
+    "campaign": {
+      "max": 100,
+      "rem": 78,
+      "end": "2026-12-02T10:06:00Z"
+    }
+  },
+  "r-for-research_2F8CAC796DC50CC0411B": {
+    "subscribers": 43962,
+    "reviews": 293,
+    "rating": "3.8",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Senior Assist Prof Azad Rasul",
+    "campaign": null
+  },
+  "python-for-researchers_8BA79EBFE9ABB19ABDE2": {
+    "subscribers": 45360,
+    "reviews": 326,
+    "rating": "4.2",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Senior Assist Prof Azad Rasul",
+    "campaign": {
+      "max": 100,
+      "rem": 63,
+      "end": "2026-12-02T10:07:00Z"
+    }
+  },
+  "mastering-django_ADAE331115BE02566EB9": {
+    "subscribers": 21083,
+    "reviews": 131,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Senior Assist Prof Azad Rasul",
+    "campaign": {
+      "max": 100,
+      "rem": 76,
+      "end": "2026-12-02T10:06:00Z"
+    }
+  },
+  "owasp-top-102025-practical-web-security-attacks_399D6DB11FABCDEE8AFD": {
+    "subscribers": 665,
+    "reviews": 10,
+    "rating": "4.6",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Cyber Twinkle, Disha Saini, Zeronyte Security",
+    "campaign": null
+  },
+  "golang-for-absolute-beginners_FREE_DEC_2026": {
+    "subscribers": 5394,
+    "reviews": 26,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Mohamed Amine Aloui, GrowYourKnowledge Training",
+    "campaign": null
+  },
+  "only-for-genius-four-handred-python-tricks-to-pass-pcep-certification_FREE_DEC_2026": {
+    "subscribers": 6382,
+    "reviews": 9,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed Amine Aloui, GrowYourKnowledge Training",
+    "campaign": {
+      "max": 100,
+      "rem": 15,
+      "end": "2026-12-02T10:11:00Z"
+    }
+  },
+  "essentials-pyqgis_34F35CA24E149E5A316E": {
+    "subscribers": 14402,
+    "reviews": 57,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Senior Assist Prof Azad Rasul",
+    "campaign": {
+      "max": 100,
+      "rem": 11,
+      "end": "2026-12-02T10:05:00Z"
+    }
+  },
+  "cyber-security-awareness-fraud-prevention-training_D9059D0D3194C8FAA629": {
+    "subscribers": 3259,
+    "reviews": 33,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Empower UK Employment Training",
+    "campaign": null
+  },
+  "safeguarding-adults-vulnerable-people-expert-training_8DA2F9A4015228381145": {
+    "subscribers": 1908,
+    "reviews": 8,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Empower UK Employment Training",
+    "campaign": {
+      "max": 100,
+      "rem": 65,
+      "end": "2026-12-02T10:29:00Z"
+    }
   }
 }
