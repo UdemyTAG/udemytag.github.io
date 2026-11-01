@@ -13930,5 +13930,176 @@
       "rem": 71,
       "end": "2026-12-01T17:11:00Z"
     }
+  },
+  "love-after-baby_2E1F1393DDE62BC142CD": {
+    "subscribers": 2667,
+    "reviews": 4,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
+  },
+  "sleep-management_C46F9BDF41EF01E3B1D2": {
+    "subscribers": 1667,
+    "reviews": 3,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
+  },
+  "procurement-and-vendor-management_CB68C03F924B99A8D4DD": {
+    "subscribers": 865,
+    "reviews": 3,
+    "rating": "2.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
+  },
+  "microsoft-power-automate-desktop-course-zero-to-expert-2_FEB14-2026": {
+    "subscribers": 14316,
+    "reviews": 301,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [106000+ Students]",
+    "campaign": null
+  },
+  "power-automate-desktop-course-intelligent-automation_FEB14-2026": {
+    "subscribers": 11086,
+    "reviews": 377,
+    "rating": "4.5",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [106000+ Students]",
+    "campaign": null
+  },
+  "ab-620-microsoft-copilot-studio-power-automate-exam-prep_JULYLOWPRICE": {
+    "subscribers": 1134,
+    "reviews": 16,
+    "rating": "4.3",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [106000+ Students]",
+    "campaign": null
+  },
+  "c-c-and-php-comprehensive-programming-bootcamp_AB2F001F848FB95414DF": {
+    "subscribers": 15079,
+    "reviews": 78,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": null
+  },
+  "ab-100-microsoft-agentic-ai-business-solutions-architect-i_JULYLOWPRICE": {
+    "subscribers": 1336,
+    "reviews": 9,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [106000+ Students]",
+    "campaign": null
+  },
+  "claude-certified-developer-foundations-ccdv-f-certification_FEB14-2026": {
+    "subscribers": 1318,
+    "reviews": 16,
+    "rating": "3.7",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [106000+ Students]",
+    "campaign": null
+  },
+  "javascript-jquery-typescript-full-stack-web-development_5B6D7DB1CFA139163380": {
+    "subscribers": 27379,
+    "reviews": 198,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": null
+  },
+  "complete-guide-in-html-css-build-responsive-website_6CA7F3FE2CF18B99A0DB": {
+    "subscribers": 40054,
+    "reviews": 690,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": null
+  },
+  "python-for-data-science-pro-the-complete-mastery-course_875B38B0BE13C3D808B7": {
+    "subscribers": 33476,
+    "reviews": 435,
+    "rating": "4.3",
+    "price": "$29.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": null
+  },
+  "grok-mastery-programming-ai-and-problem-solving-skills_BEB931284BC1D6461C14": {
+    "subscribers": 5885,
+    "reviews": 5,
+    "rating": "3.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "premiere-pro-masterclass-beginner-to-advanced-video-editing_725241D28291123C4998": {
+    "subscribers": 2928,
+    "reviews": 6,
+    "rating": "2.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "numpy-scipy-matplotlib-pandas-ufunc-machine-learning_75FA26BBE2CBB96529CF": {
+    "subscribers": 3721,
+    "reviews": 17,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "the-complete-angularjs-bootcamp-for-web-developers_BD1AED21DC16AB716E07": {
+    "subscribers": 2797,
+    "reviews": 10,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "excel-formulas-and-functions-tips-tricks-and-shortcuts_4A2A59EBF84B74253B7F": {
+    "subscribers": 3190,
+    "reviews": 17,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "master-html-for-modern-web-design-front-end-web-development_127F27444FFA3CF8BA76": {
+    "subscribers": 2940,
+    "reviews": 14,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "complete-css-web-design-course-front-end-web-development_A8D6DAFC047BF2B3177B": {
+    "subscribers": 3043,
+    "reviews": 11,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
   }
 }
