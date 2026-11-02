@@ -14294,5 +14294,138 @@
       "rem": 65,
       "end": "2026-12-02T10:29:00Z"
     }
+  },
+  "linux-mastery-real-world-job-simulation-projects_F6C39E279BB87FEE63BC": {
+    "subscribers": 6831,
+    "reviews": 61,
+    "rating": "4.3",
+    "price": "$84.99",
+    "isFree": false,
+    "instructors": "Mo Khalil, CloudsArk Academy",
+    "campaign": null
+  },
+  "digital-marketing-mastery-20_E6F9BD944A6415B3CB9B": {
+    "subscribers": 5805,
+    "reviews": 15,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Ritu Singh",
+    "campaign": null
+  },
+  "intelligence-analysis-fundamentals_81DA76DB59C0E4672B8D": {
+    "subscribers": 849,
+    "reviews": 45,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Rob F",
+    "campaign": null
+  },
+  "certified-e-course-creation-masterclass-for-coaches_1D2D3D61C03AA76FB599": {
+    "subscribers": 8739,
+    "reviews": 22,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Ritu Singh",
+    "campaign": {
+      "max": 100,
+      "rem": 61,
+      "end": "2026-12-02T09:56:00Z"
+    }
+  },
+  "google-analytics-4-fundamentals_B25D0D95FA62BD90C42B": {
+    "subscribers": 8326,
+    "reviews": 31,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Ritu Singh",
+    "campaign": {
+      "max": 100,
+      "rem": 3,
+      "end": "2026-12-02T10:02:00Z"
+    }
+  },
+  "bestseller-udemy-course-creation-masterclass-unofficial_2754528FAE3A3222769D": {
+    "subscribers": 8391,
+    "reviews": 15,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Ritu Singh",
+    "campaign": {
+      "max": 100,
+      "rem": 58,
+      "end": "2026-12-02T09:57:00Z"
+    }
+  },
+  "mexican-spanish-through-real-dialogues_B0C935F47601E052FF5B": {
+    "subscribers": 772,
+    "reviews": 4,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Samir El Khaouti",
+    "campaign": null
+  },
+  "passiveearn_620F92C19F0E57970A97": {
+    "subscribers": 6873,
+    "reviews": 62,
+    "rating": "4.2",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
+  },
+  "oddjobsdiploma_50D08086D28CA9128D4E": {
+    "subscribers": 2893,
+    "reviews": 83,
+    "rating": "5.0",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
+  },
+  "real-english-dialogue-japanese-listen-speak_F363407CA7BDE7CCC6C1": {
+    "subscribers": 644,
+    "reviews": 1,
+    "rating": "5.0",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Samir El Khaouti",
+    "campaign": {
+      "max": 100,
+      "rem": 34,
+      "end": "2026-12-02T16:27:00Z"
+    }
+  },
+  "omnichannel-sales-service-management_0D55ECE9B7141B39A79B": {
+    "subscribers": 5103,
+    "reviews": 11,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
+  },
+  "procurementandscm_2EBEDA8B635E42F54460": {
+    "subscribers": 2552,
+    "reviews": 96,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
+  },
+  "freelancingcareer_B3B45E007C3C41B81B6A": {
+    "subscribers": 11488,
+    "reviews": 94,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
   }
 }
