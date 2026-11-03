@@ -38,45 +38,45 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 
 | No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
 | :-: | :--- | :--- | :-: | :--- |
-| 1 | **Blue Prism Foundation Course Step By Step** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/blue-prism-foundation-course-step-by-step/) |
-| 2 | **Complete Guide to RPA Solution Architecture** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-guide-to-rpa-solution-architecture/) |
-| 3 | **Software architecture** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/software-architecture/) |
-| 4 | **Mastering GRASP Principles in Object-Oriented Design** | `Design` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-grasp-principles-in-object-oriented-design/) |
-| 5 | **Adobe After Effect Essential: Learn Video Motion Animation** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-after-effect-essential-learn-video-motion-animation/) |
-| 6 | **Complete Graphics Design Bootcamp Beginner to Advanced** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-graphics-design-bootcamp-beginner-to-advanced/) |
-| 7 | **Essentials User Experience Design Adobe XD UI UX Design** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/essentials-user-experience-design-adobe-xd-ui-ux-design/) |
-| 8 | **P.O.W.E.R Resume System: Proven system to get job interviews** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/p-o-w-e-r-resume-system-proven-system-to-get-job-interviews/) |
-| 9 | **Management Consulting Presentation Essential Training** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/management-consulting-presentation-essential-training/) |
-| 10 | **Management Consulting Skills Mastery** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/management-consulting-skills-mastery/) |
-| 11 | **Strategic Partnerships and Collaborations** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/strategic-partnerships-and-collaborations/) |
-| 12 | **Workplace Productivity - Supporting Others Through Change** | `Personal Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-productivity-supporting-others-through-change/) |
-| 13 | **Management Consulting Essential Training** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/management-consulting-essential-training/) |
-| 14 | **Intentional Leadership** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/intentional-leadership/) |
-| 15 | **Financial Services - Overview of Retail Banking** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-overview-of-retail-banking/) |
-| 16 | **SMART Goals Parenting** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/smart-goals-parenting/) |
-| 17 | **Empathy and Emotional Intelligence for Project Managers** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/empathy-and-emotional-intelligence-for-project-managers/) |
-| 18 | **Financial Services - Overview of Central Banks** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-overview-of-central-banks/) |
-| 19 | **Workplace Productivity-Coping with the Anxiety of Leadership** | `Personal Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-productivity-coping-with-the-anxiety-of-leadership/) |
-| 20 | **Executive Diploma in Human Resources Management (HRM)** | `Business` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/executive-diploma-in-human-resources-management-hrm/) |
-| 21 | **Professional Diploma in Procurement** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/professional-diploma-in-procurement/) |
-| 22 | **Learn Web Design using WordPress & Start Freelancing** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-web-design-using-wordpress-start-freelancing/) |
-| 23 | **Learn Graphic Design using Canva & Start Freelancing** | `Design` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-graphic-design-using-canva-start-freelancing/) |
-| 24 | **People Management MBA Build Lead High Performing Teams [EN]** | `Business` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/people-management-mba-build-lead-high-performing-teams-en/) |
-| 25 | **Build a Profitable Online Courses Business [Complete Guide]** | `Business` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/build-a-profitable-online-courses-business-complete-guide/) |
-| 26 | **Become a Successful SEO Freelancer & Start Online Businesses** | `Business` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/become-a-successful-seo-freelancer-start-online-businesses/) |
-| 27 | **Build Profitable E-Commerce Stores with WordPress & Woostify** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/build-profitable-e-commerce-stores-with-wordpress-woostify/) |
-| 28 | **Start a Profitable Affiliate Coupons Website -Passive Income** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/start-a-profitable-affiliate-coupons-website-passive-income/) |
-| 29 | **Become a Successful Affiliate Marketer [Success Blueprint]** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/become-a-successful-affiliate-marketer-success-blueprint/) |
-| 30 | **AI for Business Strategy & Planning [Masterclass]** | `Business` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-for-business-strategy-planning-masterclass/) |
-| 31 | **Create and Sell Digital Art using AI [Passive Income]** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/create-and-sell-digital-art-using-ai-passive-income/) |
-| 32 | **Build, Host & Manage WordPress Websites using AI [10Web]** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/build-host-manage-wordpress-websites-using-ai-10web/) |
-| 33 | **Learn Content Writing using AI & Start Freelancing** | `Marketing` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-content-writing-using-ai-start-freelancing/) |
-| 34 | **Print on Demand 2023: From Zero to Profitable Business** | `Business` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/print-on-demand-2023-from-zero-to-profitable-business/) |
-| 35 | **Employee Surveys: Design, Analyze & Act on Feedback [EN]** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/employee-surveys-design-analyze-act-on-feedback-en/) |
-| 36 | **Learn Content Writing using AI & Make Money Online** | `Marketing` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-content-writing-using-ai-make-money-online/) |
-| 37 | **Gestión de Procesos de Negocio (BPM) y Mapas [ES+]** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/gestion-de-procesos-de-negocio-bpm-y-mapas-es/) |
-| 38 | **Building AI Saas Apps / AI Tools with [No Code] x ChatGPT** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/building-ai-saas-apps-ai-tools-with-no-code-x-chatgpt/) |
-| 39 | **Cold Email & Lead Generation using AI [Masterclass]** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/cold-email-lead-generation-using-ai-masterclass/) |
-| 40 | **AI x ChatGPT for Productivity 101 [Masterclass]** | `Personal Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-x-chatgpt-for-productivity-101-masterclass/) |
+| 1 | **Adobe Premiere Pro Advanced Video Editing Course** | `Design` | ⭐ 3.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-premiere-pro-advanced-video-editing-course/) |
+| 2 | **Learn Blockchain and Cryptocurrency from Beginning** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-blockchain-and-cryptocurrency-from-beginning/) |
+| 3 | **Learn PHP and MySQL for Web Application and Web Development** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-php-and-mysql-for-web-application-and-web-development/) |
+| 4 | **Master Full Stack Web Development With Games and Application** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-full-stack-web-development-with-games-and-application/) |
+| 5 | **Complete Python Automation Bootcamp - Automation MasterClass** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-python-automation-bootcamp-automation-masterclass/) |
+| 6 | **Advanced Python Automation for Excel and Accounting** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-python-automation-for-excel-and-accounting/) |
+| 7 | **PHP for Beginners: PDO Crash Course** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/php-for-beginners-pdo-crash-course/) |
+| 8 | **Mastering Video Editing with AI ChatGPT for Content Creators** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-video-editing-with-ai-chatgpt-for-content-creators/) |
+| 9 | **Python Mobile App Development: Build 8+ Mobile Application** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/python-mobile-app-development-build-8-mobile-application/) |
+| 10 | **Flutter Masterclass - Your Complete Guide to App Development** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/flutter-masterclass-your-complete-guide-to-app-development/) |
+| 11 | **Hands-On Python Machine Learning with Real World Projects** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/hands-on-python-machine-learning-with-real-world-projects/) |
+| 12 | **Advanced Capcut Course Learn Professional Video Editing** | `Design` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-capcut-course-learn-professional-video-editing/) |
+| 13 | **Hands On Python Data Science - Data Science Bootcamp** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/hands-on-python-data-science-data-science-bootcamp/) |
+| 14 | **MS Excel Masterclass for Job Seekers Accounting Success** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/ms-excel-masterclass-for-job-seekers-accounting-success/) |
+| 15 | **JavaScript Fundamentals to Advanced: Full Stack Development** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/javascript-fundamentals-to-advanced-full-stack-development/) |
+| 16 | **Javascript Programming Course Build 100 Projects in 100 Days** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/javascript-programming-course-build-100-projects-in-100-days/) |
+| 17 | **30 HTML CSS & JavaScript Projects A Beginner's Guide to JS** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/30-html-css-javascript-projects-a-beginner-s-guide-to-js/) |
+| 18 | **Master JavaScript, HTML, and CSS with 30 Projects in 30 Days** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-javascript-html-and-css-with-30-projects-in-30-days/) |
+| 19 | **Build 20 JavaScript Projects in 20 Day with HTML, CSS  & JS** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/build-20-javascript-projects-in-20-day-with-html-css-js/) |
+| 20 | **20 Web Projects build 20 HTML, CSS and JavaScript projects** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/20-web-projects-build-20-html-css-and-javascript-projects/) |
+| 21 | **JavaScript Projects Course Build 20 Projects in 20 Days** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/javascript-projects-course-build-20-projects-in-20-days/) |
+| 22 | **Master Android by Building 3 Applications in Kotlin Language** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-android-by-building-3-applications-in-kotlin-language/) |
+| 23 | **Android Course Build 3 Applications from Scratch with Java** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/android-course-build-3-applications-from-scratch-with-java/) |
+| 24 | **Learn JavaScript by Creating 10 Practical Projects** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-javascript-by-creating-10-practical-projects/) |
+| 25 | **Build a Quiz App with Java on Android Studio Beginner Course** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/build-a-quiz-app-with-java-on-android-studio-beginner-course/) |
+| 26 | **Hands-On JavaScript, Crafting 10 Projects from Scratch** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/hands-on-javascript-crafting-10-projects-from-scratch/) |
+| 27 | **Master Android Application Build 3 Applications from Scratch** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-android-application-build-3-applications-from-scratch/) |
+| 28 | **Android App's Development Masterclass - Build 2 Apps - Java** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/android-app-s-development-masterclass-build-2-apps-java/) |
+| 29 | **JavaScript 20 Projects In 20 Days HTML, CSS & JavaScript** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/javascript-20-projects-in-20-days-html-css-javascript/) |
+| 30 | **The Complete ESG, Sustainability and CSR Masterclass** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-esg-sustainability-and-csr-masterclass/) |
+| 31 | **Chemistry Fundamentals** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/chemistry-fundamentals/) |
+| 32 | **The Complete Manager: Management Skills Guide for Beginners** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-manager-management-skills-guide-for-beginners/) |
+| 33 | **Cognitive & Productivity Management - Leaders, Professionals** | `Business` | ⭐ 4.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/cognitive-productivity-management-leaders-professionals/) |
+| 34 | **Financial Stewardship for Decision Makers and Leaders** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-stewardship-for-decision-makers-and-leaders/) |
+| 35 | **Chemical Processes and Equilibrium** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/chemical-processes-and-equilibrium/) |
+| 36 | **Complete Guide to RPA Solution Architecture** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-guide-to-rpa-solution-architecture/) |
+| 37 | **Mastering GRASP Principles in Object-Oriented Design** | `Design` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-grasp-principles-in-object-oriented-design/) |
+| 38 | **Adobe After Effect Essential: Learn Video Motion Animation** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-after-effect-essential-learn-video-motion-animation/) |
+| 39 | **Complete Graphics Design Bootcamp Beginner to Advanced** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-graphics-design-bootcamp-beginner-to-advanced/) |
+| 40 | **Essentials User Experience Design Adobe XD UI UX Design** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/essentials-user-experience-design-adobe-xd-ui-ux-design/) |
 
 *Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*

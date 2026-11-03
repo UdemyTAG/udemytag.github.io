@@ -15753,5 +15753,495 @@
       "rem": null,
       "end": "2026-11-05T08:00:00Z"
     }
+  },
+  "adobe-premiere-pro-advanced-video-editing-course_EDD2CFA25DF1705C72F8": {
+    "subscribers": 57452,
+    "reviews": 375,
+    "rating": "3.3",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 46,
+      "end": "2026-12-04T05:52:00Z"
+    }
+  },
+  "learn-blockchain-and-cryptocurrency-from-beginning_4029251AB56571EEAB48": {
+    "subscribers": 54565,
+    "reviews": 450,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 47,
+      "end": "2026-12-04T05:52:00Z"
+    }
+  },
+  "learn-php-and-mysql-for-web-application-and-web-development_9988212023AB59CA37F0": {
+    "subscribers": 63236,
+    "reviews": 863,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 49,
+      "end": "2026-12-04T05:52:00Z"
+    }
+  },
+  "master-full-stack-web-development-with-games-and-application_6F124F13B5387E53645A": {
+    "subscribers": 22702,
+    "reviews": 269,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 35,
+      "end": "2026-12-04T06:16:00Z"
+    }
+  },
+  "complete-python-automation-bootcamp-automation-masterclass_DC712E6A41E4CA72A0F6": {
+    "subscribers": 15470,
+    "reviews": 80,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 35,
+      "end": "2026-12-04T06:16:00Z"
+    }
+  },
+  "advanced-python-automation-for-excel-and-accounting_2E4B7A17B92F60AF7B62": {
+    "subscribers": 17390,
+    "reviews": 60,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 17,
+      "end": "2026-12-04T06:16:00Z"
+    }
+  },
+  "php-with-pdo-2021-the-ultimate-pdo-crash-course_PDOCOURSE93": {
+    "subscribers": 88605,
+    "reviews": 433,
+    "rating": "4.3",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Web Coding",
+    "campaign": {
+      "max": 100,
+      "rem": 36,
+      "end": "2026-12-04T08:17:00Z"
+    }
+  },
+  "mastering-video-editing-with-ai-chatgpt-for-content-creators_BA758ABE9725D25A025F": {
+    "subscribers": 18832,
+    "reviews": 108,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 58,
+      "end": "2026-12-04T06:17:00Z"
+    }
+  },
+  "python-mobile-app-development-build-8-mobile-application_949106EA4D6AC279EEA6": {
+    "subscribers": 19132,
+    "reviews": 129,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 60,
+      "end": "2026-12-04T06:17:00Z"
+    }
+  },
+  "flutter-masterclass-your-complete-guide-to-app-development_BDE7B635FC37BFEE0A96": {
+    "subscribers": 31281,
+    "reviews": 308,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 84,
+      "end": "2026-12-04T08:32:00Z"
+    }
+  },
+  "hands-on-python-machine-learning-with-real-world-projects_461A6FAC30FEE7EC151A": {
+    "subscribers": 35322,
+    "reviews": 524,
+    "rating": "4.2",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 70,
+      "end": "2026-12-04T08:33:00Z"
+    }
+  },
+  "advanced-capcut-course-learn-professional-video-editing_2EABE53BFDB4A3A85463": {
+    "subscribers": 26572,
+    "reviews": 221,
+    "rating": "4.0",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 81,
+      "end": "2026-12-04T08:33:00Z"
+    }
+  },
+  "microsoft-excel-pivot-tables-the-pivot-table-masterclass_50145AA17A72A6EFA656": {
+    "subscribers": 12408,
+    "reviews": 77,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-05T08:00:00Z"
+    }
+  },
+  "microsoft-excel-formulas-functions-with-charts-graphs_C6CF44820B67252EEC1C": {
+    "subscribers": 16905,
+    "reviews": 141,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-05T08:00:00Z"
+    }
+  },
+  "hands-on-python-data-science-data-science-bootcamp_50A23FF5E0996EEA3F7D": {
+    "subscribers": 31555,
+    "reviews": 428,
+    "rating": "4.2",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 61,
+      "end": "2026-12-04T08:34:00Z"
+    }
+  },
+  "ms-excel-masterclass-for-job-seekers-accounting-success_66E4EA64E72AEA8CA434": {
+    "subscribers": 24346,
+    "reviews": 505,
+    "rating": "4.4",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 72,
+      "end": "2026-12-04T08:35:00Z"
+    }
+  },
+  "javascript-fundamentals-to-advanced-full-stack-development_2C1F0EF99F88CA4ECEF4": {
+    "subscribers": 36264,
+    "reviews": 716,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 65,
+      "end": "2026-12-04T08:35:00Z"
+    }
+  },
+  "javascript-programming-course-build-100-projects-in-100-days_A09E89CB4936460AB90A": {
+    "subscribers": 4673,
+    "reviews": 26,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vijay Kumar",
+    "campaign": {
+      "max": 100,
+      "rem": 1,
+      "end": "2026-12-04T11:03:00Z"
+    }
+  },
+  "30-html-css-javascript-projects-a-beginners-guide-to-js_F69985922D75A9131BD9": {
+    "subscribers": 56170,
+    "reviews": 683,
+    "rating": "4.6",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Vijay Kumar",
+    "campaign": {
+      "max": 100,
+      "rem": 51,
+      "end": "2026-12-04T11:02:00Z"
+    }
+  },
+  "javascript-30-projects-in-30-days-course-for-beginners_E036D92B4E997CBA077D": {
+    "subscribers": 48241,
+    "reviews": 541,
+    "rating": "4.1",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Vijay Kumar",
+    "campaign": {
+      "max": 100,
+      "rem": 42,
+      "end": "2026-12-04T11:03:00Z"
+    }
+  },
+  "20-web-projects-with-html-css-and-javascript-master-js_5384230B78527ABBE512": {
+    "subscribers": 56166,
+    "reviews": 367,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vijay Kumar",
+    "campaign": {
+      "max": 100,
+      "rem": 28,
+      "end": "2026-12-04T11:01:00Z"
+    }
+  },
+  "boost-your-portfolio-with-20-html-css-javascript-projects_10F87DA3040E30762408": {
+    "subscribers": 60634,
+    "reviews": 510,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vijay Kumar",
+    "campaign": {
+      "max": 100,
+      "rem": 34,
+      "end": "2026-12-04T11:02:00Z"
+    }
+  },
+  "javascript-projects-course-build-20-projects-in-20-days_F2191EF08B4E8F0EDB1C": {
+    "subscribers": 60522,
+    "reviews": 408,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vijay Kumar",
+    "campaign": {
+      "max": 100,
+      "rem": 17,
+      "end": "2026-12-04T11:01:00Z"
+    }
+  },
+  "javascript-10-projects-in-10-days-course-for-beginners_4F61A4174665CC69BFF9": {
+    "subscribers": 60093,
+    "reviews": 415,
+    "rating": "4.3",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Vijay Kumar",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-05T08:00:00Z"
+    }
+  },
+  "master-android-by-building-3-applications-in-kotlin-language_5799EA01CB8F737E1271": {
+    "subscribers": 48717,
+    "reviews": 101,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vijay Kumar",
+    "campaign": {
+      "max": 100,
+      "rem": 30,
+      "end": "2026-12-04T10:58:00Z"
+    }
+  },
+  "android-course-build-3-applications-from-scratch-with-java_CC6D862F8A982B09752F": {
+    "subscribers": 52885,
+    "reviews": 147,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vijay Kumar",
+    "campaign": {
+      "max": 100,
+      "rem": 57,
+      "end": "2026-12-04T10:58:00Z"
+    }
+  },
+  "learn-javascript-by-creating-10-practical-projects_45C71B23E25A9A86A68D": {
+    "subscribers": 64089,
+    "reviews": 424,
+    "rating": "4.2",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Vijay Kumar",
+    "campaign": {
+      "max": 100,
+      "rem": 33,
+      "end": "2026-12-04T10:57:00Z"
+    }
+  },
+  "build-a-quiz-app-with-java-on-android-studio-beginner-course_B4CDE7635BD47D69BBF5": {
+    "subscribers": 38499,
+    "reviews": 73,
+    "rating": "4.0",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Vijay Kumar",
+    "campaign": {
+      "max": 100,
+      "rem": 50,
+      "end": "2026-12-04T11:10:00Z"
+    }
+  },
+  "mastering-javascript-by-building-10-projects-from-scratch_5C7B019AD349E3F69629": {
+    "subscribers": 63217,
+    "reviews": 343,
+    "rating": "4.2",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Vijay Kumar",
+    "campaign": {
+      "max": 100,
+      "rem": 38,
+      "end": "2026-12-04T10:57:00Z"
+    }
+  },
+  "master-android-application-build-3-applications-from-scratch_284C6F7C76B142D17F28": {
+    "subscribers": 57369,
+    "reviews": 117,
+    "rating": "4.3",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Vijay Kumar",
+    "campaign": {
+      "max": 100,
+      "rem": 42,
+      "end": "2026-12-04T10:56:00Z"
+    }
+  },
+  "android-apps-development-masterclass-build-2-apps-java_2153577EF9888A15D185": {
+    "subscribers": 72976,
+    "reviews": 273,
+    "rating": "4.7",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Vijay Kumar",
+    "campaign": {
+      "max": 100,
+      "rem": 43,
+      "end": "2026-12-04T10:56:00Z"
+    }
+  },
+  "javascript-20-projects-in-20-days-html-css-javascript_F5241235E8A518582888": {
+    "subscribers": 53072,
+    "reviews": 394,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vijay Kumar",
+    "campaign": {
+      "max": 100,
+      "rem": 30,
+      "end": "2026-12-04T11:10:00Z"
+    }
+  },
+  "the-complete-esg-sustainability-and-csr-masterclass_31A1B8E5DE21849858D1": {
+    "subscribers": 407,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Sameh Elsayed, FCCA, MSc, FMVA, DipIFR, Ross Maynard, The Business Coach Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 8,
+      "end": "2026-12-04T11:33:00Z"
+    }
+  },
+  "chemistry-fundamentals-1_2F80B5EF0B58E45A8EBA": {
+    "subscribers": 539,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed Kamal",
+    "campaign": {
+      "max": 100,
+      "rem": 3,
+      "end": "2026-12-04T12:09:00Z"
+    }
+  },
+  "the-complete-manager-management-skills-for-all-levels_D74BCCCDBDF7FA7A44A6": {
+    "subscribers": 16323,
+    "reviews": 111,
+    "rating": "4.6",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Daniel K'Owuoche",
+    "campaign": {
+      "max": 100,
+      "rem": 39,
+      "end": "2026-12-03T15:54:00Z"
+    }
+  },
+  "cracking-cpp-interview_AA1CC02861E46DA9EB5F": {
+    "subscribers": 200958,
+    "reviews": 2786,
+    "rating": "4.6",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Codaming • 300k+ Learners Worldwide, Dinesh Kumar",
+    "campaign": null
+  },
+  "cognitive-productivity-management-leaders-professionals_17THOCT26": {
+    "subscribers": 537,
+    "reviews": 31,
+    "rating": "4.9",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 10,
+      "end": "2026-11-17T07:00:00Z"
+    }
+  },
+  "chemical-processes-and-equilibrium_C9B7D742242A68312F39": {
+    "subscribers": 522,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed Kamal",
+    "campaign": {
+      "max": 100,
+      "rem": 11,
+      "end": "2026-12-04T12:09:00Z"
+    }
   }
 }
