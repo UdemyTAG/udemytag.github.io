@@ -15373,5 +15373,168 @@
     "isFree": false,
     "instructors": "Click Learning",
     "campaign": null
+  },
+  "power-resume-and-cv-writing-that-lands-job-interviews_NOV2026FREE1": {
+    "subscribers": 96335,
+    "reviews": 897,
+    "rating": "4.1",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Susmita Dutta, Ash Akshay Goel",
+    "campaign": {
+      "max": 100,
+      "rem": 65,
+      "end": "2026-12-03T11:01:00Z"
+    }
+  },
+  "english-hr_PAPAHR_NOV_716466": {
+    "subscribers": 3236,
+    "reviews": 10,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 175K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": null
+  },
+  "sourcer-x-ray-ua_PAPAHR_NOV_688494": {
+    "subscribers": 313,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 175K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": null
+  },
+  "mass-recruitment-ua_PAPAHR_NOV_484665": {
+    "subscribers": 523,
+    "reviews": 1,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 175K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": null
+  },
+  "cracking-cpp-interview_AA1CC02861E46DB9EB5F": {
+    "subscribers": 200937,
+    "reviews": 2786,
+    "rating": "4.6",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Codaming • 300k+ Learners Worldwide, Dinesh Kumar",
+    "campaign": null
+  },
+  "management-consulting-presentation-mckinsey_BCF2DFCEB7FE21E659C2": {
+    "subscribers": 80774,
+    "reviews": 3513,
+    "rating": "4.5",
+    "price": "$79.99",
+    "isFree": true,
+    "instructors": "John Burress",
+    "campaign": {
+      "max": 100,
+      "rem": 10,
+      "end": "2026-12-03T07:45:00Z"
+    }
+  },
+  "management-consulting-business-strategy_81E1A1CCBA6666C1ED12": {
+    "subscribers": 114183,
+    "reviews": 5113,
+    "rating": "4.6",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "John Burress",
+    "campaign": {
+      "max": 100,
+      "rem": 47,
+      "end": "2026-12-03T07:44:00Z"
+    }
+  },
+  "strategic-partnerships-and-collaborations_13THOCT26": {
+    "subscribers": 50676,
+    "reviews": 1184,
+    "rating": "4.4",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 25,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "management-consulting-problem-solving_D96148FB7343533443B1": {
+    "subscribers": 148571,
+    "reviews": 22427,
+    "rating": "4.5",
+    "price": "$89.99",
+    "isFree": true,
+    "instructors": "John Burress",
+    "campaign": {
+      "max": 100,
+      "rem": 52,
+      "end": "2026-12-03T07:43:00Z"
+    }
+  },
+  "build-modern-php-api_3512F2BBD4D91A466D2D": {
+    "subscribers": 67521,
+    "reviews": 351,
+    "rating": "4.1",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Pierre Henry",
+    "campaign": null
+  },
+  "create-real-world-php-webapp-from-scratch_0FE29320564D87A7677D": {
+    "subscribers": 84514,
+    "reviews": 320,
+    "rating": "4.4",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Pierre Henry",
+    "campaign": null
+  },
+  "build-a-simple-react-app-from-scratch_20FF0ED750A5609B49CD": {
+    "subscribers": 74948,
+    "reviews": 446,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Pierre Henry",
+    "campaign": null
+  },
+  "humanresourceshrm_C9BFD6BF28AD6A8F4C3D": {
+    "subscribers": 4730,
+    "reviews": 87,
+    "rating": "4.0",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 70,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "procurementdiploma_05B179605EE4DC82F5A9": {
+    "subscribers": 3734,
+    "reviews": 114,
+    "rating": "4.1",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 61,
+      "end": "2026-12-01T17:11:00Z"
+    }
+  },
+  "how-to-build-in-public_77A2F05300C860178743": {
+    "subscribers": 8080,
+    "reviews": 19,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Pierre Henry",
+    "campaign": null
   }
 }
