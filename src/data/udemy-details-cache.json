@@ -15536,5 +15536,222 @@
     "isFree": false,
     "instructors": "Pierre Henry",
     "campaign": null
+  },
+  "become-expert-in-claude-ai-2026_NOVFREE01": {
+    "subscribers": 621,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": null
+  },
+  "microsoft-power-automate-desktop-course-zero-to-expert-2_NOVFREE01": {
+    "subscribers": 14324,
+    "reviews": 301,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-05T08:00:00Z"
+    }
+  },
+  "blue-prism-beginners-course-step-by-step_NOVFREE01": {
+    "subscribers": 10181,
+    "reviews": 70,
+    "rating": "4.6",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": 100,
+      "rem": 9,
+      "end": "2026-12-03T08:00:00Z"
+    }
+  },
+  "become-rpa-solution-architect-in-30-days_NOVFREE01": {
+    "subscribers": 6508,
+    "reviews": 32,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": 100,
+      "rem": 32,
+      "end": "2026-12-03T08:00:00Z"
+    }
+  },
+  "power-automate-desktop-course-intelligent-automation_NOVFREE01": {
+    "subscribers": 11091,
+    "reviews": 379,
+    "rating": "4.5",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-05T08:00:00Z"
+    }
+  },
+  "ab-620-microsoft-copilot-studio-power-automate-exam-prep_NOVFREE01": {
+    "subscribers": 1150,
+    "reviews": 16,
+    "rating": "4.3",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-05T08:00:00Z"
+    }
+  },
+  "microsoft-power-automate-with-ai-builder_NOVFREE01": {
+    "subscribers": 15317,
+    "reviews": 183,
+    "rating": "4.1",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-05T08:00:00Z"
+    }
+  },
+  "ai-for-customer-success-learnit_OCTOBERFREE2026": {
+    "subscribers": 4493,
+    "reviews": 22,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-05T08:00:00Z"
+    }
+  },
+  "complete-elastic-stack-8-course-hands-on-project-included_D608076F6F3AE3DC02E2": {
+    "subscribers": 2291,
+    "reviews": 30,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Mo Khalil, CloudsArk Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-05T08:00:00Z"
+    }
+  },
+  "owasp-security-learnit_OCTOBERFREE2026": {
+    "subscribers": 6205,
+    "reviews": 82,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-05T08:00:00Z"
+    }
+  },
+  "grasp-learnit_OCTOBERFREE2026": {
+    "subscribers": 3885,
+    "reviews": 3,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 23,
+      "end": "2026-12-01T17:11:00Z"
+    }
+  },
+  "adobe-after-effect-essential-learn-video-motion-animation_D9D577F3D56BFB37D6D4": {
+    "subscribers": 51814,
+    "reviews": 279,
+    "rating": "4.1",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 72,
+      "end": "2026-12-04T05:52:00Z"
+    }
+  },
+  "complete-graphics-design-bootcamp-beginner-to-advanced_B5278F9A2F8E5903E94D": {
+    "subscribers": 51713,
+    "reviews": 414,
+    "rating": "4.4",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 56,
+      "end": "2026-12-04T05:52:00Z"
+    }
+  },
+  "the-complete-sql-bootcamp-a-step-by-step-approach_STUDY707": {
+    "subscribers": 5124,
+    "reviews": 257,
+    "rating": "4.6",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Bantu Ngxola, xxjordan Code",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-05T08:00:00Z"
+    }
+  },
+  "essentials-user-experience-design-adobe-xd-ui-ux-design_1EAF9C77A0DAFBB1C5CC": {
+    "subscribers": 53406,
+    "reviews": 530,
+    "rating": "4.4",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 70,
+      "end": "2026-12-04T05:52:00Z"
+    }
+  },
+  "pl-500-microsoft-power-automate-rpa-developer-bootcamp_NOVFREE01": {
+    "subscribers": 5485,
+    "reviews": 611,
+    "rating": "4.1",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-05T08:00:00Z"
+    }
+  },
+  "soa-learnit_OCTOBERFREE2026": {
+    "subscribers": 2091,
+    "reviews": 14,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-05T08:00:00Z"
+    }
   }
 }
