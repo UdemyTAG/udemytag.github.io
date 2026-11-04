@@ -1,6 +1,50 @@
 [
   {
     "id": "course-1",
+    "slug": "advanced-diploma-in-depression-counselling",
+    "title": "Advanced Diploma in Depression Counselling",
+    "url": "https://www.udemy.com/course/depressioncounselling/?couponCode=80AD7AF0089C8D20304F",
+    "image": "https://img-c.udemycdn.com/course/240x135/6267057_5414_2.jpg",
+    "category": "Development",
+    "coupon": "80AD7AF0089C8D20304F",
+    "instructor": "Md. Aliful Islam",
+    "originalPrice": "$19.99",
+    "discountPrice": "Free",
+    "rating": "4.4",
+    "subscribers": 4632,
+    "reviews": 31,
+    "isFree": true,
+    "isExpired": false,
+    "claimedCount": 29,
+    "quota": 100,
+    "remainingSlots": 71,
+    "description": "Comprehensive Training in Depression Counseling: Advanced Techniques, Diagnosis, Treatment of Depressive Disorders",
+    "expiryDate": "04/11/2026 6:03:39"
+  },
+  {
+    "id": "course-3",
+    "slug": "mastering-procurement-and-supply-chain-management",
+    "title": "Mastering Procurement and Supply Chain Management",
+    "url": "https://www.udemy.com/course/procurementandscm/?couponCode=D557CCF158A000866CAC",
+    "image": "https://img-c.udemycdn.com/course/240x135/6118667_2363_4.jpg",
+    "category": "Business",
+    "coupon": "D557CCF158A000866CAC",
+    "instructor": "Md. Aliful Islam",
+    "originalPrice": "$19.99",
+    "discountPrice": "Free",
+    "rating": "4.2",
+    "subscribers": 2562,
+    "reviews": 96,
+    "isFree": true,
+    "isExpired": false,
+    "claimedCount": 38,
+    "quota": 100,
+    "remainingSlots": 62,
+    "description": "Mastering Procurement and Supply Chain Management: From Basics to Advanced",
+    "expiryDate": "04/11/2026 6:03:39"
+  },
+  {
+    "id": "course-4",
     "slug": "adobe-premiere-pro-advanced-video-editing-course",
     "title": "Adobe Premiere Pro Advanced Video Editing Course",
     "url": "https://www.udemy.com/course/adobe-premiere-pro-advanced-video-editing-course/?couponCode=EDD2CFA25DF1705C72F8",
@@ -22,7 +66,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-2",
+    "id": "course-5",
     "slug": "learn-blockchain-and-cryptocurrency-from-beginning",
     "title": "Learn Blockchain and Cryptocurrency from Beginning",
     "url": "https://www.udemy.com/course/learn-blockchain-and-cryptocurrency-from-beginning/?couponCode=4029251AB56571EEAB48",
@@ -44,7 +88,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-3",
+    "id": "course-6",
     "slug": "learn-php-and-mysql-for-web-application-and-web-development",
     "title": "Learn PHP and MySQL for Web Application and Web Development",
     "url": "https://www.udemy.com/course/learn-php-and-mysql-for-web-application-and-web-development/?couponCode=9988212023AB59CA37F0",
@@ -66,7 +110,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-4",
+    "id": "course-7",
     "slug": "master-full-stack-web-development-with-games-and-application",
     "title": "Master Full Stack Web Development With Games and Application",
     "url": "https://www.udemy.com/course/master-full-stack-web-development-with-games-and-application/?couponCode=6F124F13B5387E53645A",
@@ -88,7 +132,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-5",
+    "id": "course-8",
     "slug": "complete-python-automation-bootcamp-automation-masterclass",
     "title": "Complete Python Automation Bootcamp - Automation MasterClass",
     "url": "https://www.udemy.com/course/complete-python-automation-bootcamp-automation-masterclass/?couponCode=DC712E6A41E4CA72A0F6",
@@ -110,7 +154,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-6",
+    "id": "course-9",
     "slug": "advanced-python-automation-for-excel-and-accounting",
     "title": "Advanced Python Automation for Excel and Accounting",
     "url": "https://www.udemy.com/course/advanced-python-automation-for-excel-and-accounting/?couponCode=2E4B7A17B92F60AF7B62",
@@ -132,7 +176,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-7",
+    "id": "course-10",
     "slug": "php-for-beginners-pdo-crash-course",
     "title": "PHP for Beginners: PDO Crash Course",
     "url": "https://www.udemy.com/course/php-with-pdo-2021-the-ultimate-pdo-crash-course/?couponCode=PDOCOURSE93",
@@ -154,7 +198,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-8",
+    "id": "course-11",
     "slug": "mastering-video-editing-with-ai-chatgpt-for-content-creators",
     "title": "Mastering Video Editing with AI ChatGPT for Content Creators",
     "url": "https://www.udemy.com/course/mastering-video-editing-with-ai-chatgpt-for-content-creators/?couponCode=BA758ABE9725D25A025F",
@@ -176,7 +220,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-9",
+    "id": "course-12",
     "slug": "python-mobile-app-development-build-8-mobile-application",
     "title": "Python Mobile App Development: Build 8+ Mobile Application",
     "url": "https://www.udemy.com/course/python-mobile-app-development-build-8-mobile-application/?couponCode=949106EA4D6AC279EEA6",
@@ -198,7 +242,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-10",
+    "id": "course-13",
     "slug": "flutter-masterclass-your-complete-guide-to-app-development",
     "title": "Flutter Masterclass - Your Complete Guide to App Development",
     "url": "https://www.udemy.com/course/flutter-masterclass-your-complete-guide-to-app-development/?couponCode=BDE7B635FC37BFEE0A96",
@@ -220,7 +264,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-11",
+    "id": "course-14",
     "slug": "hands-on-python-machine-learning-with-real-world-projects",
     "title": "Hands-On Python Machine Learning with Real World Projects",
     "url": "https://www.udemy.com/course/hands-on-python-machine-learning-with-real-world-projects/?couponCode=461A6FAC30FEE7EC151A",
@@ -242,7 +286,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-12",
+    "id": "course-15",
     "slug": "advanced-capcut-course-learn-professional-video-editing",
     "title": "Advanced Capcut Course Learn Professional Video Editing",
     "url": "https://www.udemy.com/course/advanced-capcut-course-learn-professional-video-editing/?couponCode=2EABE53BFDB4A3A85463",
@@ -264,7 +308,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-15",
+    "id": "course-16",
     "slug": "hands-on-python-data-science-data-science-bootcamp",
     "title": "Hands On Python Data Science - Data Science Bootcamp",
     "url": "https://www.udemy.com/course/hands-on-python-data-science-data-science-bootcamp/?couponCode=50A23FF5E0996EEA3F7D",
@@ -286,7 +330,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-16",
+    "id": "course-17",
     "slug": "ms-excel-masterclass-for-job-seekers-accounting-success",
     "title": "MS Excel Masterclass for Job Seekers Accounting Success",
     "url": "https://www.udemy.com/course/ms-excel-masterclass-for-job-seekers-accounting-success/?couponCode=66E4EA64E72AEA8CA434",
@@ -308,7 +352,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-17",
+    "id": "course-18",
     "slug": "javascript-fundamentals-to-advanced-full-stack-development",
     "title": "JavaScript Fundamentals to Advanced: Full Stack Development",
     "url": "https://www.udemy.com/course/javascript-fundamentals-to-advanced-full-stack-development/?couponCode=2C1F0EF99F88CA4ECEF4",
@@ -330,7 +374,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-18",
+    "id": "course-19",
     "slug": "javascript-programming-course-build-100-projects-in-100-days",
     "title": "Javascript Programming Course Build 100 Projects in 100 Days",
     "url": "https://www.udemy.com/course/javascript-programming-course-build-100-projects-in-100-days/?couponCode=A09E89CB4936460AB90A",
@@ -352,7 +396,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-19",
+    "id": "course-20",
     "slug": "30-html-css-javascript-projects-a-beginner-s-guide-to-js",
     "title": "30 HTML CSS & JavaScript Projects A Beginner's Guide to JS",
     "url": "https://www.udemy.com/course/30-html-css-javascript-projects-a-beginners-guide-to-js/?couponCode=F69985922D75A9131BD9",
@@ -374,7 +418,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-20",
+    "id": "course-21",
     "slug": "master-javascript-html-and-css-with-30-projects-in-30-days",
     "title": "Master JavaScript, HTML, and CSS with 30 Projects in 30 Days",
     "url": "https://www.udemy.com/course/javascript-30-projects-in-30-days-course-for-beginners/?couponCode=E036D92B4E997CBA077D",
@@ -396,7 +440,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-21",
+    "id": "course-22",
     "slug": "build-20-javascript-projects-in-20-day-with-html-css-js",
     "title": "Build 20 JavaScript Projects in 20 Day with HTML, CSS  & JS",
     "url": "https://www.udemy.com/course/20-web-projects-with-html-css-and-javascript-master-js/?couponCode=5384230B78527ABBE512",
@@ -418,7 +462,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-22",
+    "id": "course-23",
     "slug": "20-web-projects-build-20-html-css-and-javascript-projects",
     "title": "20 Web Projects build 20 HTML, CSS and JavaScript projects",
     "url": "https://www.udemy.com/course/boost-your-portfolio-with-20-html-css-javascript-projects/?couponCode=10F87DA3040E30762408",
@@ -440,7 +484,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-23",
+    "id": "course-24",
     "slug": "javascript-projects-course-build-20-projects-in-20-days",
     "title": "JavaScript Projects Course Build 20 Projects in 20 Days",
     "url": "https://www.udemy.com/course/javascript-projects-course-build-20-projects-in-20-days/?couponCode=F2191EF08B4E8F0EDB1C",
@@ -462,7 +506,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-25",
+    "id": "course-26",
     "slug": "master-android-by-building-3-applications-in-kotlin-language",
     "title": "Master Android by Building 3 Applications in Kotlin Language",
     "url": "https://www.udemy.com/course/master-android-by-building-3-applications-in-kotlin-language/?couponCode=5799EA01CB8F737E1271",
@@ -484,7 +528,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-26",
+    "id": "course-27",
     "slug": "android-course-build-3-applications-from-scratch-with-java",
     "title": "Android Course Build 3 Applications from Scratch with Java",
     "url": "https://www.udemy.com/course/android-course-build-3-applications-from-scratch-with-java/?couponCode=CC6D862F8A982B09752F",
@@ -506,7 +550,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-27",
+    "id": "course-28",
     "slug": "learn-javascript-by-creating-10-practical-projects",
     "title": "Learn JavaScript by Creating 10 Practical Projects",
     "url": "https://www.udemy.com/course/learn-javascript-by-creating-10-practical-projects/?couponCode=45C71B23E25A9A86A68D",
@@ -528,7 +572,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-28",
+    "id": "course-29",
     "slug": "build-a-quiz-app-with-java-on-android-studio-beginner-course",
     "title": "Build a Quiz App with Java on Android Studio Beginner Course",
     "url": "https://www.udemy.com/course/build-a-quiz-app-with-java-on-android-studio-beginner-course/?couponCode=B4CDE7635BD47D69BBF5",
@@ -550,7 +594,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-29",
+    "id": "course-30",
     "slug": "hands-on-javascript-crafting-10-projects-from-scratch",
     "title": "Hands-On JavaScript, Crafting 10 Projects from Scratch",
     "url": "https://www.udemy.com/course/mastering-javascript-by-building-10-projects-from-scratch/?couponCode=5C7B019AD349E3F69629",
@@ -572,7 +616,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-30",
+    "id": "course-31",
     "slug": "master-android-application-build-3-applications-from-scratch",
     "title": "Master Android Application Build 3 Applications from Scratch",
     "url": "https://www.udemy.com/course/master-android-application-build-3-applications-from-scratch/?couponCode=284C6F7C76B142D17F28",
@@ -594,7 +638,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-31",
+    "id": "course-32",
     "slug": "android-app-s-development-masterclass-build-2-apps-java",
     "title": "Android App's Development Masterclass - Build 2 Apps - Java",
     "url": "https://www.udemy.com/course/android-apps-development-masterclass-build-2-apps-java/?couponCode=2153577EF9888A15D185",
@@ -616,7 +660,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-32",
+    "id": "course-33",
     "slug": "javascript-20-projects-in-20-days-html-css-javascript",
     "title": "JavaScript 20 Projects In 20 Days HTML, CSS & JavaScript",
     "url": "https://www.udemy.com/course/javascript-20-projects-in-20-days-html-css-javascript/?couponCode=F5241235E8A518582888",
@@ -638,7 +682,7 @@
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
-    "id": "course-33",
+    "id": "course-34",
     "slug": "the-complete-esg-sustainability-and-csr-masterclass",
     "title": "The Complete ESG, Sustainability and CSR Masterclass",
     "url": "https://www.udemy.com/course/the-complete-esg-sustainability-and-csr-masterclass/?couponCode=31A1B8E5DE21849858D1",
@@ -657,28 +701,6 @@
     "quota": 100,
     "remainingSlots": 8,
     "description": "Master ESG, sustainability, CSR, governance, reporting, and responsible business with practical real-world examples.",
-    "expiryDate": "03/11/2026 23:54:51"
-  },
-  {
-    "id": "course-34",
-    "slug": "chemistry-fundamentals",
-    "title": "Chemistry Fundamentals",
-    "url": "https://www.udemy.com/course/chemistry-fundamentals-1/?couponCode=2F80B5EF0B58E45A8EBA",
-    "image": "https://img-c.udemycdn.com/course/240x135/6845239_8310.jpg",
-    "category": "Development",
-    "coupon": "2F80B5EF0B58E45A8EBA",
-    "instructor": "Mohamed Kamal",
-    "originalPrice": "$19.99",
-    "discountPrice": "Free",
-    "rating": "4.6",
-    "subscribers": 539,
-    "reviews": 0,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 97,
-    "quota": 100,
-    "remainingSlots": 3,
-    "description": "Build a rock-solid foundation in chemistry with clear explanations, practical examples and step by step problem-solvingTotal:",
     "expiryDate": "03/11/2026 23:54:51"
   },
   {
@@ -1188,205 +1210,29 @@
     "expiryDate": "03/11/2026 4:35:02"
   },
   {
-    "id": "course-60",
-    "slug": "gestion-de-procesos-de-negocio-bpm-y-mapas-es",
-    "title": "Gestión de Procesos de Negocio (BPM) y Mapas [ES+]",
-    "url": "https://www.udemy.com/course/gestion-de-procesos-de-negocio-bpm-y-mapas-es/?couponCode=PAPAHR_NOV_102017",
-    "image": "https://img-c.udemycdn.com/course/240x135/6687065_9cb8_2.jpg",
+    "id": "course-2",
+    "slug": "frontend-architecture-and-patterns-bootcamp",
+    "title": "Frontend architecture and patterns bootcamp",
+    "url": "https://www.udemy.com/course/frontend-architecture-and-patterns/?couponCode=37D23791389E2DFA820A",
+    "image": "https://img-c.udemycdn.com/course/240x135/5781958_4527_3.jpg",
     "category": "Development",
-    "coupon": "PAPAHR_NOV_102017",
-    "instructor": "PapaHR ★ 175K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
-    "originalPrice": "$19.99",
-    "discountPrice": "Free",
-    "rating": "4.5",
-    "subscribers": 4835,
-    "reviews": 12,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 12,
-    "quota": 100,
-    "remainingSlots": 88,
-    "description": "Diseño de Procesos | BPMN | Mapeo de Procesos | Flujos de Trabajo de RRHH | Documentación de Procesos de Negocio",
-    "expiryDate": "02/11/2026 17:46:20"
-  },
-  {
-    "id": "course-61",
-    "slug": "cold-email-lead-generation-using-ai-masterclass",
-    "title": "Cold Email & Lead Generation using AI [Masterclass]",
-    "url": "https://www.udemy.com/course/ai-cold-email/?couponCode=SUBHANALLAH1126",
-    "image": "https://img-c.udemycdn.com/course/240x135/5510406_4f13_13.jpg",
-    "category": "Development",
-    "coupon": "SUBHANALLAH1126",
-    "instructor": "Khadin Akbar, Khadin Akbar Support",
-    "originalPrice": "$19.99",
-    "discountPrice": "Free",
+    "coupon": "37D23791389E2DFA820A",
+    "instructor": "Vitor Fonseca",
+    "originalPrice": "$54.99",
+    "discountPrice": "$54.99",
     "rating": "4.6",
-    "subscribers": 35335,
-    "reviews": 372,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 64,
-    "quota": 100,
-    "remainingSlots": 36,
-    "description": "Cold Emailing and Lead Generation with AI: Learn How to Generate More Leads, Clients and Sales with Email Marketing",
-    "expiryDate": "02/11/2026 17:46:20"
-  },
-  {
-    "id": "course-63",
-    "slug": "ai-x-chatgpt-for-productivity-101-masterclass",
-    "title": "AI x ChatGPT for Productivity 101 [Masterclass]",
-    "url": "https://www.udemy.com/course/ai-productivity/?couponCode=SUBHANALLAH1126",
-    "image": "https://img-c.udemycdn.com/course/240x135/5532792_ac69_5.jpg",
-    "category": "Personal Development",
-    "coupon": "SUBHANALLAH1126",
-    "instructor": "Khadin Akbar, Khadin Akbar Support",
-    "originalPrice": "$22.99",
-    "discountPrice": "Free",
-    "rating": "3.8",
-    "subscribers": 31579,
-    "reviews": 171,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 64,
-    "quota": 100,
-    "remainingSlots": 36,
-    "description": "Learn how to use Vondy AI to explore, create & sell ChatGPT AI apps for writing, coding, productivity, and lifestyle.",
-    "expiryDate": "02/11/2026 17:46:20"
-  },
-  {
-    "id": "course-64",
-    "slug": "ai-for-bloggers-seo-content-writing-optimization",
-    "title": "AI for Bloggers: SEO, Content Writing & Optimization",
-    "url": "https://www.udemy.com/course/ai-blogging/?couponCode=SUBHANALLAH1126",
-    "image": "https://img-c.udemycdn.com/course/240x135/5625128_0fbb.jpg",
-    "category": "Marketing",
-    "coupon": "SUBHANALLAH1126",
-    "instructor": "Khadin Akbar, Khadin Akbar Support",
-    "originalPrice": "$19.99",
-    "discountPrice": "Free",
-    "rating": "4.3",
-    "subscribers": 27821,
-    "reviews": 172,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 72,
-    "quota": 100,
-    "remainingSlots": 28,
-    "description": "Learn how to use GrowthBar’s AI tools for keyword research, content generation, and SEO optimization",
-    "expiryDate": "02/11/2026 17:46:20"
-  },
-  {
-    "id": "course-65",
-    "slug": "create-sell-online-courses-using-wordpress-lms",
-    "title": "Create & Sell Online Courses using WordPress LMS",
-    "url": "https://www.udemy.com/course/wordpress-lms-course/?couponCode=SUBHANALLAH1126",
-    "image": "https://img-c.udemycdn.com/course/240x135/5689074_8c3c_5.jpg",
-    "category": "Development",
-    "coupon": "SUBHANALLAH1126",
-    "instructor": "Khadin Akbar, Khadin Akbar Support",
-    "originalPrice": "$19.99",
-    "discountPrice": "Free",
-    "rating": "4.2",
-    "subscribers": 23449,
-    "reviews": 64,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 52,
-    "quota": 100,
-    "remainingSlots": 48,
-    "description": "Create, and Sell Online Courses and Live Classes using Wordpress & Masterstudy LMS",
-    "expiryDate": "02/11/2026 17:46:20"
-  },
-  {
-    "id": "course-66",
-    "slug": "project-prioritization-and-resource-management-en",
-    "title": "Project Prioritization and Resource Management [EN]",
-    "url": "https://www.udemy.com/course/performance-review/?couponCode=PAPAHR_NOV_333551",
-    "image": "https://img-c.udemycdn.com/course/240x135/6629419_dd08_3.jpg",
-    "category": "Business",
-    "coupon": "PAPAHR_NOV_333551",
-    "instructor": "PapaHR ★ 175K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
-    "originalPrice": "$19.99",
-    "discountPrice": "Free",
-    "rating": "5.0",
-    "subscribers": 2941,
-    "reviews": 5,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 68,
-    "quota": 100,
-    "remainingSlots": 32,
-    "description": "project prioritization | resource management | capacity planning | OKR goals | KPI | workforce planning | delegation",
-    "expiryDate": "02/11/2026 17:46:20"
-  },
-  {
-    "id": "course-67",
-    "slug": "keeping-children-safe-in-education-kcsie",
-    "title": "Keeping Children Safe in Education (KCSIE)",
-    "url": "https://www.udemy.com/course/keeping-children-safe-in-education-kcsie/?couponCode=FA2B333DFF25BB782295",
-    "image": "https://img-c.udemycdn.com/course/240x135/7071277_4bbd.jpg",
-    "category": "Development",
-    "coupon": "FA2B333DFF25BB782295",
-    "instructor": "Gerald College",
-    "originalPrice": "$19.99",
-    "discountPrice": "Free",
-    "rating": "5.0",
-    "subscribers": 665,
-    "reviews": 1,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 72,
-    "quota": 100,
-    "remainingSlots": 28,
-    "description": "Practical Guidance on Safeguarding and Child Protection in Education",
-    "expiryDate": "02/11/2026 17:46:20"
-  },
-  {
-    "id": "course-13",
-    "slug": "microsoft-excel-pivot-tables-the-pivot-table-masterclass",
-    "title": "Microsoft Excel Pivot Tables: The Pivot Table Masterclass",
-    "url": "https://www.udemy.com/course/microsoft-excel-pivot-tables-the-pivot-table-masterclass/?couponCode=50145AA17A72A6EFA656",
-    "image": "https://img-c.udemycdn.com/course/240x135/5990836_ab6f_3.jpg",
-    "category": "Business",
-    "coupon": "50145AA17A72A6EFA656",
-    "instructor": "Click Learning",
-    "originalPrice": "$19.99",
-    "discountPrice": "$19.99",
-    "rating": "4.4",
-    "subscribers": 12408,
-    "reviews": 77,
+    "subscribers": 9601,
+    "reviews": 520,
     "isFree": false,
     "isExpired": true,
     "claimedCount": 100,
     "quota": 100,
     "remainingSlots": 0,
-    "description": "Learn How to Use Microsoft Excel Pivot Tables in Simple Step-by-Step Tutorials",
-    "expiryDate": "03/11/2026 23:54:51"
+    "description": "Ultimate guide to learn frontend architectures and patterns, its pros and cons, and the best: all in Javascript!",
+    "expiryDate": "04/11/2026 6:03:39"
   },
   {
-    "id": "course-14",
-    "slug": "microsoft-excel-formulas-functions-with-charts-graphs",
-    "title": "Microsoft Excel: Formulas & Functions with Charts & Graphs",
-    "url": "https://www.udemy.com/course/microsoft-excel-formulas-functions-with-charts-graphs/?couponCode=C6CF44820B67252EEC1C",
-    "image": "https://img-c.udemycdn.com/course/240x135/5992188_a650_2.jpg",
-    "category": "Business",
-    "coupon": "C6CF44820B67252EEC1C",
-    "instructor": "Click Learning",
-    "originalPrice": "$19.99",
-    "discountPrice": "$19.99",
-    "rating": "4.3",
-    "subscribers": 16905,
-    "reviews": 141,
-    "isFree": false,
-    "isExpired": true,
-    "claimedCount": 100,
-    "quota": 100,
-    "remainingSlots": 0,
-    "description": "Microsoft Excel Formulas and Functions, Logical, Index, Match, Vlookup, Hlookup, Charts and  Many More...",
-    "expiryDate": "03/11/2026 23:54:51"
-  },
-  {
-    "id": "course-24",
+    "id": "course-25",
     "slug": "javascript-10-projects-in-10-days-course-for-beginners",
     "title": "JavaScript 10 Projects in 10 Days Course for Beginners",
     "url": "https://www.udemy.com/course/javascript-10-projects-in-10-days-course-for-beginners/?couponCode=4F61A4174665CC69BFF9",
@@ -1450,27 +1296,5 @@
     "remainingSlots": 0,
     "description": "Master Claude AI, Claude AI Masterclass 2026, Full Claude AI Course 2026 , The Complete Claude Masterclass(2026)",
     "expiryDate": "03/11/2026 13:01:16"
-  },
-  {
-    "id": "course-62",
-    "slug": "build-train-sell-ai-chatbots-no-code-x-chat-gpt",
-    "title": "Build, Train & Sell AI Chatbots [No-code x Chat GPT]",
-    "url": "https://www.udemy.com/course/ai-chatbots/?couponCode=SUBHANALLAH1126",
-    "image": "https://img-c.udemycdn.com/course/240x135/5613378_ec4f_6.jpg",
-    "category": "Design",
-    "coupon": "SUBHANALLAH1126",
-    "instructor": "Khadin Akbar, Khadin Akbar Support",
-    "originalPrice": "$64.99",
-    "discountPrice": "$64.99",
-    "rating": "4.5",
-    "subscribers": 34956,
-    "reviews": 504,
-    "isFree": false,
-    "isExpired": true,
-    "claimedCount": 100,
-    "quota": 100,
-    "remainingSlots": 0,
-    "description": "Learn how to build, train and sell AI chatbots with no coding using HappyChat and Chat GPT",
-    "expiryDate": "02/11/2026 17:46:20"
   }
 ]

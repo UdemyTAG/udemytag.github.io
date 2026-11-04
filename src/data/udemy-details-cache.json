@@ -16243,5 +16243,44 @@
       "rem": 11,
       "end": "2026-12-04T12:09:00Z"
     }
+  },
+  "depressioncounselling_80AD7AF0089C8D20304F": {
+    "subscribers": 4632,
+    "reviews": 31,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 71,
+      "end": "2026-12-01T17:09:00Z"
+    }
+  },
+  "frontend-architecture-and-patterns_37D23791389E2DFA820A": {
+    "subscribers": 9601,
+    "reviews": 520,
+    "rating": "4.6",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Vitor Fonseca",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-05T08:00:00Z"
+    }
+  },
+  "procurementandscm_D557CCF158A000866CAC": {
+    "subscribers": 2562,
+    "reviews": 96,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 62,
+      "end": "2026-12-01T17:15:00Z"
+    }
   }
 }
