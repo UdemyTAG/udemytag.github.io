@@ -38,45 +38,45 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 
 | No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
 | :-: | :--- | :--- | :-: | :--- |
-| 1 | **How to Transition to Product Management (And Succeed)** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/how-to-transition-to-product-management-and-succeed/) |
-| 2 | **Adobe Firefly - Master Generative AI Art Content Creation** | `Marketing` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-firefly-master-generative-ai-art-content-creation/) |
-| 3 | **Python Complete Course And Flask Framework, HTML Essentials** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/python-complete-course-and-flask-framework-html-essentials/) |
-| 4 | **NumPy Programming Mastery: Learn Python for Data Analysis** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/numpy-programming-mastery-learn-python-for-data-analysis/) |
-| 5 | **Control Your Subconscious Mind: Neuroscience Hidden Secrets** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/control-your-subconscious-mind-neuroscience-hidden-secrets/) |
-| 6 | **Complete JavaScript Programming: From Novice to Expert** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-javascript-programming-from-novice-to-expert/) |
-| 7 | **Learn HTML and CSS from Beginning to Advanced** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-html-and-css-from-beginning-to-advanced/) |
-| 8 | **Advanced Wordpress Course for Professionals** | `Development` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-wordpress-course-for-professionals/) |
-| 9 | **NumPy, SciPy, Matplotlib & Pandas A-Z: Machine Learning** | `Development` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/numpy-scipy-matplotlib-pandas-a-z-machine-learning/) |
-| 10 | **Python, Java and PHP Essentials: Complete Coding Bootcamp** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/python-java-and-php-essentials-complete-coding-bootcamp/) |
-| 11 | **Essential Microsoft PowerPoint Course for Everyone** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-microsoft-powerpoint-course-for-everyone/) |
-| 12 | **Advanced Diploma in Depression Counselling** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-diploma-in-depression-counselling/) |
-| 13 | **Mastering Procurement and Supply Chain Management** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-procurement-and-supply-chain-management/) |
-| 14 | **Adobe Premiere Pro Advanced Video Editing Course** | `Design` | ⭐ 3.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-premiere-pro-advanced-video-editing-course/) |
-| 15 | **Learn Blockchain and Cryptocurrency from Beginning** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-blockchain-and-cryptocurrency-from-beginning/) |
-| 16 | **Learn PHP and MySQL for Web Application and Web Development** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-php-and-mysql-for-web-application-and-web-development/) |
-| 17 | **Master Full Stack Web Development With Games and Application** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-full-stack-web-development-with-games-and-application/) |
-| 18 | **Complete Python Automation Bootcamp - Automation MasterClass** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-python-automation-bootcamp-automation-masterclass/) |
-| 19 | **Advanced Python Automation for Excel and Accounting** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-python-automation-for-excel-and-accounting/) |
-| 20 | **PHP for Beginners: PDO Crash Course** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/php-for-beginners-pdo-crash-course/) |
-| 21 | **Mastering Video Editing with AI ChatGPT for Content Creators** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-video-editing-with-ai-chatgpt-for-content-creators/) |
-| 22 | **Python Mobile App Development: Build 8+ Mobile Application** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/python-mobile-app-development-build-8-mobile-application/) |
-| 23 | **Flutter Masterclass - Your Complete Guide to App Development** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/flutter-masterclass-your-complete-guide-to-app-development/) |
-| 24 | **Hands-On Python Machine Learning with Real World Projects** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/hands-on-python-machine-learning-with-real-world-projects/) |
-| 25 | **Advanced Capcut Course Learn Professional Video Editing** | `Design` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-capcut-course-learn-professional-video-editing/) |
-| 26 | **Hands On Python Data Science - Data Science Bootcamp** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/hands-on-python-data-science-data-science-bootcamp/) |
-| 27 | **MS Excel Masterclass for Job Seekers Accounting Success** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/ms-excel-masterclass-for-job-seekers-accounting-success/) |
-| 28 | **JavaScript Fundamentals to Advanced: Full Stack Development** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/javascript-fundamentals-to-advanced-full-stack-development/) |
-| 29 | **Javascript Programming Course Build 100 Projects in 100 Days** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/javascript-programming-course-build-100-projects-in-100-days/) |
-| 30 | **30 HTML CSS & JavaScript Projects A Beginner's Guide to JS** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/30-html-css-javascript-projects-a-beginner-s-guide-to-js/) |
-| 31 | **Master JavaScript, HTML, and CSS with 30 Projects in 30 Days** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-javascript-html-and-css-with-30-projects-in-30-days/) |
-| 32 | **Build 20 JavaScript Projects in 20 Day with HTML, CSS  & JS** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/build-20-javascript-projects-in-20-day-with-html-css-js/) |
-| 33 | **20 Web Projects build 20 HTML, CSS and JavaScript projects** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/20-web-projects-build-20-html-css-and-javascript-projects/) |
-| 34 | **JavaScript Projects Course Build 20 Projects in 20 Days** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/javascript-projects-course-build-20-projects-in-20-days/) |
-| 35 | **Master Android by Building 3 Applications in Kotlin Language** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-android-by-building-3-applications-in-kotlin-language/) |
-| 36 | **Android Course Build 3 Applications from Scratch with Java** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/android-course-build-3-applications-from-scratch-with-java/) |
-| 37 | **Learn JavaScript by Creating 10 Practical Projects** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-javascript-by-creating-10-practical-projects/) |
-| 38 | **Build a Quiz App with Java on Android Studio Beginner Course** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/build-a-quiz-app-with-java-on-android-studio-beginner-course/) |
-| 39 | **Hands-On JavaScript, Crafting 10 Projects from Scratch** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/hands-on-javascript-crafting-10-projects-from-scratch/) |
-| 40 | **Master Android Application Build 3 Applications from Scratch** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-android-application-build-3-applications-from-scratch/) |
+| 1 | **Adobe Illustrator Course for Graphics Design** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-illustrator-course-for-graphics-design/) |
+| 2 | **Adobe Photoshop Course from Basic to Advacned for Graphics** | `Design` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-photoshop-course-from-basic-to-advacned-for-graphics/) |
+| 3 | **Essential Adobe Lightroom Course for Photo Editing** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-adobe-lightroom-course-for-photo-editing/) |
+| 4 | **Build 11  JavaScript Application and Web JavaScript BootCamp** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/build-11-javascript-application-and-web-javascript-bootcamp/) |
+| 5 | **Python Software, Application, Games, Automation  Development** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/python-software-application-games-automation-development/) |
+| 6 | **PHP with MySQL: Build 5 PHP and MySQL Projects** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/php-with-mysql-build-5-php-and-mysql-projects/) |
+| 7 | **JavaScript Master Course From Beginner to Expert Developer** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/javascript-master-course-from-beginner-to-expert-developer/) |
+| 8 | **Become a Hydra Expert: Advanced Brute Forcing Techniques** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/become-a-hydra-expert-advanced-brute-forcing-techniques/) |
+| 9 | **Build 8 Python Apps Games and Web Application Python Master** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/build-8-python-apps-games-and-web-application-python-master/) |
+| 10 | **Build 8 Python Web and Application Python From Zero to Hero** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/build-8-python-web-and-application-python-from-zero-to-hero/) |
+| 11 | **Complete Advanced Canva for Video Editing for Social Media** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-advanced-canva-for-video-editing-for-social-media/) |
+| 12 | **Recruitment Marketing: Funnels, Sourcing, Conversion [EN]** | `Business` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/recruitment-marketing-funnels-sourcing-conversion-en/) |
+| 13 | **Managing Managers: Leading Leaders and Scaling a Team [EN]** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/managing-managers-leading-leaders-and-scaling-a-team-en/) |
+| 14 | **360 Degree Feedback Competency Assessment Full HR Guide [EN]** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/360-degree-feedback-competency-assessment-full-hr-guide-en/) |
+| 15 | **Sales Management: Coach Your Team and Pipeline, 260+ Tools** | `Business` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/sales-management-coach-your-team-and-pipeline-260-tools/) |
+| 16 | **Diseño Organizacional: Estructuras Ágiles y Escalables [ES+]** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/diseno-organizacional-estructuras-agiles-y-escalables-es/) |
+| 17 | **EVP Architect: Employer Value Proposition [EN]** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/evp-architect-employer-value-proposition-en/) |
+| 18 | **Exit Interview Analysis: Survey and Turnover Metrics [EN]** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/exit-interview-analysis-survey-and-turnover-metrics-en/) |
+| 19 | **Logo Design Essentials: Photoshop & Illustrator** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/logo-design-essentials-photoshop-illustrator/) |
+| 20 | **AI Masteclass - ChatGPT Gemini Midjourney Stable Diffusion** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-masteclass-chatgpt-gemini-midjourney-stable-diffusion/) |
+| 21 | **Stress Management at Work: Fix the Causes of Burnout [EN]** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/stress-management-at-work-fix-the-causes-of-burnout-en/) |
+| 22 | **Instagram Marketing Bootcamp: From Zero to Hero** | `Business` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/instagram-marketing-bootcamp-from-zero-to-hero/) |
+| 23 | **Advanced Capcut: From Beginner to Motion Graphics Master** | `Design` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-capcut-from-beginner-to-motion-graphics-master/) |
+| 24 | **The Complete Social Media Video Editing Masterclass** | `Design` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-social-media-video-editing-masterclass/) |
+| 25 | **Instructional Design: Training That Changes Work, 330+ Tools** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/instructional-design-training-that-changes-work-330-tools/) |
+| 26 | **How to Transition to Product Management (And Succeed)** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/how-to-transition-to-product-management-and-succeed/) |
+| 27 | **NumPy Programming Mastery: Learn Python for Data Analysis** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/numpy-programming-mastery-learn-python-for-data-analysis/) |
+| 28 | **Control Your Subconscious Mind: Neuroscience Hidden Secrets** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/control-your-subconscious-mind-neuroscience-hidden-secrets/) |
+| 29 | **Complete JavaScript Programming: From Novice to Expert** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-javascript-programming-from-novice-to-expert/) |
+| 30 | **Learn HTML and CSS from Beginning to Advanced** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-html-and-css-from-beginning-to-advanced/) |
+| 31 | **Advanced Wordpress Course for Professionals** | `Development` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-wordpress-course-for-professionals/) |
+| 32 | **Essential Microsoft PowerPoint Course for Everyone** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-microsoft-powerpoint-course-for-everyone/) |
+| 33 | **Advanced Diploma in Depression Counselling** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-diploma-in-depression-counselling/) |
+| 34 | **Mastering Procurement and Supply Chain Management** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-procurement-and-supply-chain-management/) |
+| 35 | **AI -Ethics, Governance & Other Considerations for Businesses** | `Business` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-ethics-governance-other-considerations-for-businesses/) |
+| 36 | **Recon Ninja: Advanced Info Gathering for Ethical Hackers** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/recon-ninja-advanced-info-gathering-for-ethical-hackers/) |
+| 37 | **Excel - Learn Excel Course From Beginners to Advanced** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/excel-learn-excel-course-from-beginners-to-advanced/) |
+| 38 | **Mastering Microsoft PowerPoint: Create Stunning Presentation** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-microsoft-powerpoint-create-stunning-presentation/) |
+| 39 | **Social Media Video Editing with Canva, Capcut & Premiere Pro** | `Design` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/social-media-video-editing-with-canva-capcut-premiere-pro/) |
+| 40 | **Google Sheets - The Complete Google Sheets Course** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/google-sheets-the-complete-google-sheets-course/) |
 
 *Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*
