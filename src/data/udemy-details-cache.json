@@ -17362,5 +17362,167 @@
       "rem": 83,
       "end": "2026-12-05T17:02:00Z"
     }
+  },
+  "sleep-management_E77717A65207ED5D7D48": {
+    "subscribers": 1677,
+    "reviews": 3,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 40,
+      "end": "2026-12-01T16:59:00Z"
+    }
+  },
+  "sap-s4hana-cloud-s4-erp_CE8D59D3F7457D60AEEE": {
+    "subscribers": 21508,
+    "reviews": 963,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Verna Li, Chloe Moore, Fredrick Higgins",
+    "campaign": {
+      "max": 100,
+      "rem": 27,
+      "end": "2026-12-06T01:36:00Z"
+    }
+  },
+  "smartphone-detox-for-kids_955BA59DDEAEE92925FF": {
+    "subscribers": 2671,
+    "reviews": 2,
+    "rating": "1.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 63,
+      "end": "2026-12-01T17:00:00Z"
+    }
+  },
+  "fire-safety-and-risk-management_768F379BE869828BA0DD": {
+    "subscribers": 773,
+    "reviews": 6,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 34,
+      "end": "2026-12-01T16:58:00Z"
+    }
+  },
+  "sap-ariba-sourcing_AE358A2200078BCCFA57": {
+    "subscribers": 13310,
+    "reviews": 675,
+    "rating": "4.7",
+    "price": "$74.99",
+    "isFree": true,
+    "instructors": "Verna Li, Simon Richardson, Fredrick Higgins",
+    "campaign": {
+      "max": 100,
+      "rem": 43,
+      "end": "2026-12-06T01:36:00Z"
+    }
+  },
+  "sap-s4hana-erp_FED2035A981092826311": {
+    "subscribers": 164992,
+    "reviews": 22279,
+    "rating": "4.6",
+    "price": "$89.99",
+    "isFree": false,
+    "instructors": "Michael Todd, Fredrick Higgins",
+    "campaign": null
+  },
+  "sap-bi-bo_4B82238437C7CC502926": {
+    "subscribers": 122568,
+    "reviews": 2259,
+    "rating": "4.7",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Fredrick Higgins",
+    "campaign": {
+      "max": 100,
+      "rem": 10,
+      "end": "2026-12-06T01:35:00Z"
+    }
+  },
+  "sap-commerce-cloud-hybris_E750EF8D0ED99927B9CC": {
+    "subscribers": 21801,
+    "reviews": 599,
+    "rating": "4.6",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Verna Li, Chloe Moore, Fredrick Higgins",
+    "campaign": {
+      "max": 100,
+      "rem": 38,
+      "end": "2026-12-06T01:36:00Z"
+    }
+  },
+  "sap-analytics-cloud-sac_98A4A79B2F13768CED2F": {
+    "subscribers": 147685,
+    "reviews": 6446,
+    "rating": "4.6",
+    "price": "$74.99",
+    "isFree": true,
+    "instructors": "Fredrick Higgins, Michael Todd",
+    "campaign": {
+      "max": 100,
+      "rem": 17,
+      "end": "2026-12-06T01:35:00Z"
+    }
+  },
+  "build-modern-php-api_CFBC3BAD119DBCC74FCB": {
+    "subscribers": 67532,
+    "reviews": 351,
+    "rating": "4.1",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Pierre Henry",
+    "campaign": {
+      "max": 100,
+      "rem": 64,
+      "end": "2026-12-06T01:26:00Z"
+    }
+  },
+  "python-for-data-science-the-complete-data-science-bootcamp_C33626096112557CB72A": {
+    "subscribers": 3037,
+    "reviews": 21,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "the-complete-full-stack-web-development-masterclass-2026_6072E8CE19142796687E": {
+    "subscribers": 3968,
+    "reviews": 20,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "excel-data-analysis-for-professionals-and-analysts_0DD8E7893CB3FFBD0BC0": {
+    "subscribers": 2698,
+    "reviews": 33,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "php-master-php-for-back-end-web-development-with-mysql_6EAD8AE54288F432BC82": {
+    "subscribers": 2222,
+    "reviews": 1,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
   }
 }
