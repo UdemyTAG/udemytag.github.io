@@ -18395,5 +18395,319 @@
       "rem": 49,
       "end": "2026-12-01T17:12:00Z"
     }
+  },
+  "python-complete-course-for-beginners-h_CB3ED4FE1BBB83B03F0B": {
+    "subscribers": 277848,
+    "reviews": 4435,
+    "rating": "4.3",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Horizon Tech",
+    "campaign": null
+  },
+  "php-with-mysql-2023-build-7-php-and-mysql-projects_PHP7PROJECTS79": {
+    "subscribers": 44068,
+    "reviews": 211,
+    "rating": "4.4",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Web Coding",
+    "campaign": {
+      "max": 100,
+      "rem": 48,
+      "end": "2026-12-07T08:32:00Z"
+    }
+  },
+  "chief-sales-officer-b2b-b2c_PAPAHR_NOV_098126": {
+    "subscribers": 3138,
+    "reviews": 7,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 175K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 18,
+      "end": "2026-12-07T07:05:00Z"
+    }
+  },
+  "ai-performance-management_PAPAHR_NOV_741502": {
+    "subscribers": 3110,
+    "reviews": 5,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 175K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 25,
+      "end": "2026-12-07T07:05:00Z"
+    }
+  },
+  "organizational-development-transform-teams-and-strategy-od_PAPAHR_NOV_580304": {
+    "subscribers": 7230,
+    "reviews": 45,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 175K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 25,
+      "end": "2026-12-07T07:05:00Z"
+    }
+  },
+  "pdp-master-70-20-10-employee-development-plan-en_PAPAHR_NOV_689135": {
+    "subscribers": 609,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 175K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 36,
+      "end": "2026-12-07T07:05:00Z"
+    }
+  },
+  "job-grading-ru_PAPAHR_NOV_086974": {
+    "subscribers": 2947,
+    "reviews": 7,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 175K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 17,
+      "end": "2026-12-07T07:05:00Z"
+    }
+  },
+  "pl-500-microsoft-power-automate-rpa-developer-bootcamp_NOVFREE03": {
+    "subscribers": 5574,
+    "reviews": 611,
+    "rating": "4.0",
+    "price": "$64.99",
+    "isFree": true,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": 100,
+      "rem": 75,
+      "end": "2026-12-03T08:00:00Z"
+    }
+  },
+  "linkedin-boolean-x-ray-ai_PAPAHR_NOV_630328": {
+    "subscribers": 3060,
+    "reviews": 4,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 175K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 27,
+      "end": "2026-12-07T07:05:00Z"
+    }
+  },
+  "kpi-development_PAPAHR_NOV_537623": {
+    "subscribers": 2872,
+    "reviews": 1,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 175K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 30,
+      "end": "2026-12-07T07:05:00Z"
+    }
+  },
+  "chro-become-a-strategic-chief-human-resources-officer-en_PAPAHR_NOV_401190": {
+    "subscribers": 2160,
+    "reviews": 12,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 175K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 24,
+      "end": "2026-12-07T07:05:00Z"
+    }
+  },
+  "mastering-microsoft-copilot-studio-future-of-ai-agents_NOVFREE03": {
+    "subscribers": 2598,
+    "reviews": 131,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": 100,
+      "rem": 66,
+      "end": "2026-12-03T08:00:00Z"
+    }
+  },
+  "microsoft-power-automate-desktop-tutorials-for-beginners_NOVFREE03": {
+    "subscribers": 18262,
+    "reviews": 2592,
+    "rating": "4.5",
+    "price": "$84.99",
+    "isFree": true,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": 100,
+      "rem": 66,
+      "end": "2026-12-03T08:00:00Z"
+    }
+  },
+  "chatgpt-earning-money-with-chatgpt-easy-way-for-beginners_D836B52BD654955C1AE8": {
+    "subscribers": 62881,
+    "reviews": 531,
+    "rating": "3.8",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Web Oral",
+    "campaign": null
+  },
+  "microsoft-power-automate-desktop-course-zero-to-expert-2_NOVFREE03": {
+    "subscribers": 14417,
+    "reviews": 301,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": 100,
+      "rem": 84,
+      "end": "2026-12-03T08:00:00Z"
+    }
+  },
+  "senior-recruiter-ua_PAPAHR_NOV_956019": {
+    "subscribers": 402,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 175K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": null
+  },
+  "mastering-claude-code_NOVFREE03": {
+    "subscribers": 2559,
+    "reviews": 46,
+    "rating": "4.1",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": 100,
+      "rem": 60,
+      "end": "2026-12-03T08:00:00Z"
+    }
+  },
+  "claude-certified-developer-foundations-ccdv-f-certification_NOVFREE03": {
+    "subscribers": 1420,
+    "reviews": 18,
+    "rating": "3.9",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": 100,
+      "rem": 79,
+      "end": "2026-12-03T08:00:00Z"
+    }
+  },
+  "power-automate-desktop-course-intelligent-automation_NOVFREE03": {
+    "subscribers": 11189,
+    "reviews": 379,
+    "rating": "4.5",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": 100,
+      "rem": 82,
+      "end": "2026-12-03T08:00:00Z"
+    }
+  },
+  "become-expert-in-claude-ai-2026_NOVFREE03": {
+    "subscribers": 907,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": null
+  },
+  "blue-prism-beginners-course-step-by-step_NOVFREE03": {
+    "subscribers": 10279,
+    "reviews": 70,
+    "rating": "4.6",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": 100,
+      "rem": 90,
+      "end": "2026-12-03T08:00:00Z"
+    }
+  },
+  "ab-100-microsoft-agentic-ai-business-solutions-architect-i_NOVFREE03": {
+    "subscribers": 1439,
+    "reviews": 9,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": 100,
+      "rem": 72,
+      "end": "2026-12-03T08:00:00Z"
+    }
+  },
+  "become-rpa-solution-architect-in-30-days_NOVFREE03": {
+    "subscribers": 6603,
+    "reviews": 32,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": 100,
+      "rem": 93,
+      "end": "2026-12-03T08:00:00Z"
+    }
+  },
+  "ab-620-microsoft-copilot-studio-power-automate-exam-prep_NOVFREE03": {
+    "subscribers": 1237,
+    "reviews": 16,
+    "rating": "4.3",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": 100,
+      "rem": 87,
+      "end": "2026-12-03T08:00:00Z"
+    }
+  },
+  "become-master-in-uipath-world_NOVFREE03": {
+    "subscribers": 3216,
+    "reviews": 28,
+    "rating": "4.5",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": null
+  },
+  "ai-agents-copilot-studio-azure-foundry-microsoft-foundry_NOVFREE03": {
+    "subscribers": 5478,
+    "reviews": 66,
+    "rating": "4.4",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": null
   }
 }
