@@ -17875,5 +17875,44 @@
     "isFree": false,
     "instructors": "Edutainment UK",
     "campaign": null
+  },
+  "mini-course-on-effective-communications-skills_DBE53F7427D81E28F50E": {
+    "subscribers": 24198,
+    "reviews": 294,
+    "rating": "4.1",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Daniel K'Owuoche",
+    "campaign": {
+      "max": 100,
+      "rem": 11,
+      "end": "2026-12-06T16:54:00Z"
+    }
+  },
+  "build-a-simple-react-app-from-scratch_B4AE61D137B90FD6E6FF": {
+    "subscribers": 74958,
+    "reviews": 446,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Pierre Henry",
+    "campaign": {
+      "max": 100,
+      "rem": 34,
+      "end": "2026-12-06T07:42:00Z"
+    }
+  },
+  "mastering-innovation-competitions-hackathon-crowdsourcing_ACCD960C29E87447655B": {
+    "subscribers": 15772,
+    "reviews": 62,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Aadhithya .",
+    "campaign": {
+      "max": 100,
+      "rem": 21,
+      "end": "2026-12-06T16:14:00Z"
+    }
   }
 }
