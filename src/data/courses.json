@@ -1,6 +1,50 @@
 [
   {
+    "id": "course-1",
+    "slug": "gof-design-patterns-complete-course-with-java-examples",
+    "title": "GoF Design Patterns - Complete Course with Java Examples",
+    "url": "https://www.udemy.com/course/gof-design-patterns-learnit/?couponCode=OCTOBERFREE22026",
+    "image": "https://img-c.udemycdn.com/course/240x135/4107958_3268.jpg",
+    "category": "Development",
+    "coupon": "OCTOBERFREE22026",
+    "instructor": "Andrii Piatakha, Learn IT University",
+    "originalPrice": "$54.99",
+    "discountPrice": "Free",
+    "rating": "4.5",
+    "subscribers": 96310,
+    "reviews": 621,
+    "isFree": true,
+    "isExpired": false,
+    "claimedCount": 18,
+    "quota": 100,
+    "remainingSlots": 82,
+    "description": "Software Design Patterns in OOP with Java examples. Architecture principles and clean code design in OOP applications",
+    "expiryDate": "07/11/2026 7:45:55"
+  },
+  {
     "id": "course-2",
+    "slug": "customer-service-with-chatgpt-ai-driven-customer-care",
+    "title": "Customer Service with ChatGPT: AI-Driven Customer Care",
+    "url": "https://www.udemy.com/course/customer-service-with-chatgpt-learnit/?couponCode=OCTOBERFREE22026",
+    "image": "https://img-c.udemycdn.com/course/240x135/5985862_7482_3.jpg",
+    "category": "Development",
+    "coupon": "OCTOBERFREE22026",
+    "instructor": "Andrii Piatakha",
+    "originalPrice": "$39.99",
+    "discountPrice": "Free",
+    "rating": "4.7",
+    "subscribers": 17365,
+    "reviews": 91,
+    "isFree": true,
+    "isExpired": false,
+    "claimedCount": 24,
+    "quota": 100,
+    "remainingSlots": 76,
+    "description": "Strategies, Case Studies, and Practical Applications: Implementing AI-Powered ChatGPT for Seamless Customer Interactions",
+    "expiryDate": "07/11/2026 7:45:55"
+  },
+  {
+    "id": "course-4",
     "slug": "2024-leadership-mastery-modern-leaders-practical-training",
     "title": "2024 Leadership Mastery: Modern Leaders' Practical Training",
     "url": "https://www.udemy.com/course/2024-leadership-mastery-modern-leaders-practical-training/?couponCode=647506308E3B6B935FA6",
@@ -22,7 +66,7 @@
     "expiryDate": "07/11/2026 3:46:04"
   },
   {
-    "id": "course-4",
+    "id": "course-5",
     "slug": "love-after-baby-reconnecting-as-a-couple-post-parenthood",
     "title": "Love After Baby: Reconnecting as a Couple Post-Parenthood",
     "url": "https://www.udemy.com/course/love-after-baby/?couponCode=8815B0EBBE81C0E3D150",
@@ -44,7 +88,7 @@
     "expiryDate": "07/11/2026 3:46:04"
   },
   {
-    "id": "course-6",
+    "id": "course-7",
     "slug": "php-with-mysql-build-7-php-and-mysql-projects",
     "title": "PHP with MySQL: Build 7 PHP and MySQL Projects",
     "url": "https://www.udemy.com/course/php-with-mysql-2023-build-7-php-and-mysql-projects/?couponCode=PHP7PROJECTS79",
@@ -66,7 +110,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-7",
+    "id": "course-8",
     "slug": "go-to-market-strategy-product-marketing-and-revenue",
     "title": "Go-to-Market Strategy: Product Marketing and Revenue",
     "url": "https://www.udemy.com/course/chief-sales-officer-b2b-b2c/?couponCode=PAPAHR_NOV_098126",
@@ -88,7 +132,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-8",
+    "id": "course-9",
     "slug": "internal-audit-risk-controls-and-the-audit-process-en",
     "title": "Internal Audit: Risk, Controls and the Audit Process [EN]",
     "url": "https://www.udemy.com/course/ai-performance-management/?couponCode=PAPAHR_NOV_741502",
@@ -110,7 +154,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-9",
+    "id": "course-10",
     "slug": "organizational-development-transform-teams-strategy-en",
     "title": "Organizational Development: Transform Teams + Strategy [EN]",
     "url": "https://www.udemy.com/course/organizational-development-transform-teams-and-strategy-od/?couponCode=PAPAHR_NOV_580304",
@@ -132,7 +176,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-10",
+    "id": "course-11",
     "slug": "pdp-master-70-20-10-employee-development-plan-en",
     "title": "PDP Master: 70-20-10 Employee Development Plan [EN]",
     "url": "https://www.udemy.com/course/pdp-master-70-20-10-employee-development-plan-en/?couponCode=PAPAHR_NOV_689135",
@@ -154,7 +198,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-11",
+    "id": "course-12",
     "slug": "promotion-and-internal-mobility-get-promoted-at-work",
     "title": "Promotion and Internal Mobility: Get Promoted at Work",
     "url": "https://www.udemy.com/course/job-grading-ru/?couponCode=PAPAHR_NOV_086974",
@@ -176,7 +220,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-12",
+    "id": "course-13",
     "slug": "learn-pl-500-power-automate-rpa-developer-associate",
     "title": "Learn PL-500 Power Automate RPA Developer Associate",
     "url": "https://www.udemy.com/course/pl-500-microsoft-power-automate-rpa-developer-bootcamp/?couponCode=NOVFREE03",
@@ -198,7 +242,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-13",
+    "id": "course-14",
     "slug": "project-manager-interview-questions-cases-and-pmbok",
     "title": "Project Manager Interview: Questions, Cases and PMBOK",
     "url": "https://www.udemy.com/course/linkedin-boolean-x-ray-ai/?couponCode=PAPAHR_NOV_630328",
@@ -220,7 +264,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-14",
+    "id": "course-15",
     "slug": "data-driven-management-kpis-analytics-and-decisions",
     "title": "Data-Driven Management: KPIs, Analytics and Decisions",
     "url": "https://www.udemy.com/course/kpi-development/?couponCode=PAPAHR_NOV_537623",
@@ -242,7 +286,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-15",
+    "id": "course-16",
     "slug": "chro-become-a-strategic-chief-human-resources-officer-en",
     "title": "CHRO: Become a Strategic Chief Human Resources Officer [EN]",
     "url": "https://www.udemy.com/course/chro-become-a-strategic-chief-human-resources-officer-en/?couponCode=PAPAHR_NOV_401190",
@@ -264,7 +308,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-16",
+    "id": "course-17",
     "slug": "microsoft-copilot-studio-future-of-ai-agents-2026",
     "title": "Microsoft Copilot Studio : Future of AI Agents [2026]",
     "url": "https://www.udemy.com/course/mastering-microsoft-copilot-studio-future-of-ai-agents/?couponCode=NOVFREE03",
@@ -286,7 +330,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-17",
+    "id": "course-18",
     "slug": "become-rpa-master-in-microsoft-power-automate-desktop",
     "title": "Become RPA Master in Microsoft Power Automate Desktop",
     "url": "https://www.udemy.com/course/microsoft-power-automate-desktop-tutorials-for-beginners/?couponCode=NOVFREE03",
@@ -308,7 +352,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-18",
+    "id": "course-19",
     "slug": "microsoft-power-automate-desktop-zero-to-expert-part-2",
     "title": "Microsoft Power Automate Desktop - Zero to Expert : Part 2",
     "url": "https://www.udemy.com/course/microsoft-power-automate-desktop-course-zero-to-expert-2/?couponCode=NOVFREE03",
@@ -1012,7 +1056,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-1",
+    "id": "course-3",
     "slug": "ai-for-image-video-and-music-creation",
     "title": "AI for Image, Video and Music Creation",
     "url": "https://www.udemy.com/course/ai-for-image-video-and-music-creation/?couponCode=C68F5DD2DE64D0303D85",
@@ -1034,29 +1078,7 @@
     "expiryDate": "07/11/2026 3:46:04"
   },
   {
-    "id": "course-3",
-    "slug": "professional-in-employee-relations-and-engagement",
-    "title": "Professional in Employee Relations and Engagement",
-    "url": "https://www.udemy.com/course/professional-in-employee-relations-and-engagement/?couponCode=4A2F0F81B9A7D2576116",
-    "image": "https://img-c.udemycdn.com/course/240x135/7358597_c068_5.jpg",
-    "category": "Development",
-    "coupon": "4A2F0F81B9A7D2576116",
-    "instructor": "MTF INSTITUTE SCHOOL OF PROFESSIONAL EDUCATION",
-    "originalPrice": "$39.99",
-    "discountPrice": "$39.99",
-    "rating": "4.6",
-    "subscribers": 110,
-    "reviews": 0,
-    "isFree": false,
-    "isExpired": true,
-    "claimedCount": 100,
-    "quota": 100,
-    "remainingSlots": 0,
-    "description": "Employee Relations and Engagement",
-    "expiryDate": "07/11/2026 3:46:04"
-  },
-  {
-    "id": "course-5",
+    "id": "course-6",
     "slug": "python-complete-course-for-beginners",
     "title": "Python Complete Course For Beginners",
     "url": "https://www.udemy.com/course/python-complete-course-for-beginners-h/?couponCode=CB3ED4FE1BBB83B03F0B",
@@ -1075,28 +1097,6 @@
     "quota": 100,
     "remainingSlots": 0,
     "description": "This course is a depth introduction to both fundamental python programming concepts and the Python programming language.",
-    "expiryDate": "06/11/2026 21:00:18"
-  },
-  {
-    "id": "course-19",
-    "slug": "small-business-finance-budget-pay-and-profitability",
-    "title": "Small Business Finance: Budget, Pay and Profitability",
-    "url": "https://www.udemy.com/course/senior-recruiter-ua/?couponCode=PAPAHR_NOV_956019",
-    "image": "https://img-c.udemycdn.com/course/240x135/6943589_4938_2.jpg",
-    "category": "Business",
-    "coupon": "PAPAHR_NOV_956019",
-    "instructor": "PapaHR ★ 175K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
-    "originalPrice": "$19.99",
-    "discountPrice": "$19.99",
-    "rating": "4.6",
-    "subscribers": 402,
-    "reviews": 0,
-    "isFree": false,
-    "isExpired": true,
-    "claimedCount": 100,
-    "quota": 100,
-    "remainingSlots": 0,
-    "description": "small business finance | budgeting | payroll budget | salary ranges | employee benefits | job grading | profitability",
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
