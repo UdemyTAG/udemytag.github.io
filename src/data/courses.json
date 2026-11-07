@@ -1,6 +1,50 @@
 [
   {
     "id": "course-2",
+    "slug": "2024-leadership-mastery-modern-leaders-practical-training",
+    "title": "2024 Leadership Mastery: Modern Leaders' Practical Training",
+    "url": "https://www.udemy.com/course/2024-leadership-mastery-modern-leaders-practical-training/?couponCode=647506308E3B6B935FA6",
+    "image": "https://img-c.udemycdn.com/course/240x135/5887620_22a6_4.jpg",
+    "category": "Development",
+    "coupon": "647506308E3B6B935FA6",
+    "instructor": "Daniel K'Owuoche",
+    "originalPrice": "$19.99",
+    "discountPrice": "Free",
+    "rating": "4.5",
+    "subscribers": 12877,
+    "reviews": 74,
+    "isFree": true,
+    "isExpired": false,
+    "claimedCount": 36,
+    "quota": 100,
+    "remainingSlots": 64,
+    "description": "Boost leadership with a tailored masterclass. Learn strategies for effective leadership in today's fast-paced world.",
+    "expiryDate": "07/11/2026 3:46:04"
+  },
+  {
+    "id": "course-4",
+    "slug": "love-after-baby-reconnecting-as-a-couple-post-parenthood",
+    "title": "Love After Baby: Reconnecting as a Couple Post-Parenthood",
+    "url": "https://www.udemy.com/course/love-after-baby/?couponCode=8815B0EBBE81C0E3D150",
+    "image": "https://img-c.udemycdn.com/course/240x135/6675457_e6eb_2.jpg",
+    "category": "Development",
+    "coupon": "8815B0EBBE81C0E3D150",
+    "instructor": "Md. Aliful Islam",
+    "originalPrice": "$19.99",
+    "discountPrice": "Free",
+    "rating": "4.4",
+    "subscribers": 2677,
+    "reviews": 4,
+    "isFree": true,
+    "isExpired": false,
+    "claimedCount": 26,
+    "quota": 100,
+    "remainingSlots": 74,
+    "description": "Reconnect Emotionally and Romantically After Baby: Strengthen Intimacy and Bond as a Couple Post-Parenthood",
+    "expiryDate": "07/11/2026 3:46:04"
+  },
+  {
+    "id": "course-6",
     "slug": "php-with-mysql-build-7-php-and-mysql-projects",
     "title": "PHP with MySQL: Build 7 PHP and MySQL Projects",
     "url": "https://www.udemy.com/course/php-with-mysql-2023-build-7-php-and-mysql-projects/?couponCode=PHP7PROJECTS79",
@@ -22,7 +66,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-3",
+    "id": "course-7",
     "slug": "go-to-market-strategy-product-marketing-and-revenue",
     "title": "Go-to-Market Strategy: Product Marketing and Revenue",
     "url": "https://www.udemy.com/course/chief-sales-officer-b2b-b2c/?couponCode=PAPAHR_NOV_098126",
@@ -44,7 +88,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-4",
+    "id": "course-8",
     "slug": "internal-audit-risk-controls-and-the-audit-process-en",
     "title": "Internal Audit: Risk, Controls and the Audit Process [EN]",
     "url": "https://www.udemy.com/course/ai-performance-management/?couponCode=PAPAHR_NOV_741502",
@@ -66,7 +110,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-5",
+    "id": "course-9",
     "slug": "organizational-development-transform-teams-strategy-en",
     "title": "Organizational Development: Transform Teams + Strategy [EN]",
     "url": "https://www.udemy.com/course/organizational-development-transform-teams-and-strategy-od/?couponCode=PAPAHR_NOV_580304",
@@ -88,7 +132,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-6",
+    "id": "course-10",
     "slug": "pdp-master-70-20-10-employee-development-plan-en",
     "title": "PDP Master: 70-20-10 Employee Development Plan [EN]",
     "url": "https://www.udemy.com/course/pdp-master-70-20-10-employee-development-plan-en/?couponCode=PAPAHR_NOV_689135",
@@ -110,7 +154,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-7",
+    "id": "course-11",
     "slug": "promotion-and-internal-mobility-get-promoted-at-work",
     "title": "Promotion and Internal Mobility: Get Promoted at Work",
     "url": "https://www.udemy.com/course/job-grading-ru/?couponCode=PAPAHR_NOV_086974",
@@ -132,7 +176,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-8",
+    "id": "course-12",
     "slug": "learn-pl-500-power-automate-rpa-developer-associate",
     "title": "Learn PL-500 Power Automate RPA Developer Associate",
     "url": "https://www.udemy.com/course/pl-500-microsoft-power-automate-rpa-developer-bootcamp/?couponCode=NOVFREE03",
@@ -154,7 +198,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-9",
+    "id": "course-13",
     "slug": "project-manager-interview-questions-cases-and-pmbok",
     "title": "Project Manager Interview: Questions, Cases and PMBOK",
     "url": "https://www.udemy.com/course/linkedin-boolean-x-ray-ai/?couponCode=PAPAHR_NOV_630328",
@@ -176,7 +220,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-10",
+    "id": "course-14",
     "slug": "data-driven-management-kpis-analytics-and-decisions",
     "title": "Data-Driven Management: KPIs, Analytics and Decisions",
     "url": "https://www.udemy.com/course/kpi-development/?couponCode=PAPAHR_NOV_537623",
@@ -198,7 +242,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-11",
+    "id": "course-15",
     "slug": "chro-become-a-strategic-chief-human-resources-officer-en",
     "title": "CHRO: Become a Strategic Chief Human Resources Officer [EN]",
     "url": "https://www.udemy.com/course/chro-become-a-strategic-chief-human-resources-officer-en/?couponCode=PAPAHR_NOV_401190",
@@ -220,7 +264,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-12",
+    "id": "course-16",
     "slug": "microsoft-copilot-studio-future-of-ai-agents-2026",
     "title": "Microsoft Copilot Studio : Future of AI Agents [2026]",
     "url": "https://www.udemy.com/course/mastering-microsoft-copilot-studio-future-of-ai-agents/?couponCode=NOVFREE03",
@@ -242,7 +286,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-13",
+    "id": "course-17",
     "slug": "become-rpa-master-in-microsoft-power-automate-desktop",
     "title": "Become RPA Master in Microsoft Power Automate Desktop",
     "url": "https://www.udemy.com/course/microsoft-power-automate-desktop-tutorials-for-beginners/?couponCode=NOVFREE03",
@@ -264,7 +308,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-15",
+    "id": "course-18",
     "slug": "microsoft-power-automate-desktop-zero-to-expert-part-2",
     "title": "Microsoft Power Automate Desktop - Zero to Expert : Part 2",
     "url": "https://www.udemy.com/course/microsoft-power-automate-desktop-course-zero-to-expert-2/?couponCode=NOVFREE03",
@@ -286,7 +330,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-17",
+    "id": "course-20",
     "slug": "the-complete-claude-code-masterclass-2026",
     "title": "The Complete Claude Code Masterclass [2026]",
     "url": "https://www.udemy.com/course/mastering-claude-code/?couponCode=NOVFREE03",
@@ -308,7 +352,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-18",
+    "id": "course-21",
     "slug": "claude-certified-developer-foundations-ccdv-f-exam-prep-26",
     "title": "Claude Certified Developer Foundations (CCDV-F) Exam Prep 26",
     "url": "https://www.udemy.com/course/claude-certified-developer-foundations-ccdv-f-certification/?couponCode=NOVFREE03",
@@ -330,7 +374,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-19",
+    "id": "course-22",
     "slug": "rpa-microsoft-power-automate-desktop-intelligent-automation",
     "title": "RPA:Microsoft Power Automate Desktop:Intelligent Automation",
     "url": "https://www.udemy.com/course/power-automate-desktop-course-intelligent-automation/?couponCode=NOVFREE03",
@@ -352,7 +396,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-21",
+    "id": "course-24",
     "slug": "blue-prism-foundation-course-step-by-step",
     "title": "Blue Prism Foundation Course Step By Step",
     "url": "https://www.udemy.com/course/blue-prism-beginners-course-step-by-step/?couponCode=NOVFREE03",
@@ -374,7 +418,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-22",
+    "id": "course-25",
     "slug": "ab-100-microsoft-agentic-ai-business-solutions-architect",
     "title": "AB-100: Microsoft Agentic AI Business Solutions Architect",
     "url": "https://www.udemy.com/course/ab-100-microsoft-agentic-ai-business-solutions-architect-i/?couponCode=NOVFREE03",
@@ -396,7 +440,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-23",
+    "id": "course-26",
     "slug": "complete-guide-to-rpa-solution-architecture",
     "title": "Complete Guide to RPA Solution Architecture",
     "url": "https://www.udemy.com/course/become-rpa-solution-architect-in-30-days/?couponCode=NOVFREE03",
@@ -418,7 +462,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-24",
+    "id": "course-27",
     "slug": "ab-620-microsoft-copilot-studio-power-automate-exam-prep",
     "title": "AB-620 : Microsoft Copilot Studio & Power Automate Exam Prep",
     "url": "https://www.udemy.com/course/ab-620-microsoft-copilot-studio-power-automate-exam-prep/?couponCode=NOVFREE03",
@@ -440,271 +484,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-27",
-    "slug": "learn-to-code-in-python-3-programming-beginner-to-advanced",
-    "title": "Learn to Code in Python 3: Programming beginner to advanced",
-    "url": "https://www.udemy.com/course/learn-python-programming-a-step-by-step-course-to-beginners/?couponCode=OCTOBERFREE22026",
-    "image": "https://img-c.udemycdn.com/course/240x135/1495788_1aaa_2.jpg",
-    "category": "Development",
-    "coupon": "OCTOBERFREE22026",
-    "instructor": "Ivan Lourenço Gomes, Learn IT University, Andrii Piatakha",
-    "originalPrice": "$69.99",
-    "discountPrice": "Free",
-    "rating": "4.5",
-    "subscribers": 334415,
-    "reviews": 13725,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 53,
-    "quota": 100,
-    "remainingSlots": 47,
-    "description": "Python3 programming made easy with exercises, challenges and lots of real life examples. Learn to code today!",
-    "expiryDate": "06/11/2026 12:55:31"
-  },
-  {
-    "id": "course-28",
-    "slug": "improving-software-development-productivity",
-    "title": "Improving software development productivity",
-    "url": "https://www.udemy.com/course/improving-software-development-productivity/?couponCode=OCTOBERFREE22026",
-    "image": "https://img-c.udemycdn.com/course/240x135/4325468_3029_3.jpg",
-    "category": "Personal Development",
-    "coupon": "OCTOBERFREE22026",
-    "instructor": "ANDRII SVIATOBATKO",
-    "originalPrice": "$54.99",
-    "discountPrice": "Free",
-    "rating": "4.0",
-    "subscribers": 84292,
-    "reviews": 439,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 12,
-    "quota": 100,
-    "remainingSlots": 88,
-    "description": "Improving software development productivity. Practical techniques.",
-    "expiryDate": "06/11/2026 12:55:31"
-  },
-  {
-    "id": "course-29",
-    "slug": "selenium-in-c-setup-simple-test-automation-framework",
-    "title": "Selenium in C# - Setup Simple Test Automation Framework",
-    "url": "https://www.udemy.com/course/selenium-in-c-sharp-taf-for-beginners-learnit/?couponCode=OCTOBERFREE22026",
-    "image": "https://img-c.udemycdn.com/course/240x135/3905344_d222_2.jpg",
-    "category": "Development",
-    "coupon": "OCTOBERFREE22026",
-    "instructor": "Tigran Ter-Karapetyants, Learn IT University",
-    "originalPrice": "$64.99",
-    "discountPrice": "Free",
-    "rating": "4.4",
-    "subscribers": 92209,
-    "reviews": 519,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 16,
-    "quota": 100,
-    "remainingSlots": 84,
-    "description": "Learn Selenium from scratch and build Test Automation framework with minimum set of tools: C#, NuGet, NUnit, Selenium",
-    "expiryDate": "06/11/2026 12:55:31"
-  },
-  {
     "id": "course-30",
-    "slug": "master-any-language-with-chatgpt-boost-your-language-skills",
-    "title": "Master Any Language with ChatGPT: Boost Your Language Skills",
-    "url": "https://www.udemy.com/course/master-any-language-with-chatgpt-boost-your-language-skills/?couponCode=OCTOBERFREE22026",
-    "image": "https://img-c.udemycdn.com/course/240x135/5280736_63a3.jpg",
-    "category": "Personal Development",
-    "coupon": "OCTOBERFREE22026",
-    "instructor": "Ellen Chamilothoris",
-    "originalPrice": "$34.99",
-    "discountPrice": "Free",
-    "rating": "4.3",
-    "subscribers": 55433,
-    "reviews": 555,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 50,
-    "quota": 100,
-    "remainingSlots": 50,
-    "description": "Unlock Your Full Foreign Language Potential with Cutting-Edge ChatGPT Technology: Speaking, Writing, Listening, Grammar,",
-    "expiryDate": "06/11/2026 12:55:31"
-  },
-  {
-    "id": "course-31",
-    "slug": "mastering-english-idioms-essential-for-esl-communication",
-    "title": "Mastering English Idioms: Essential for ESL Communication",
-    "url": "https://www.udemy.com/course/mastering-idioms/?couponCode=OCTOBERFREE22026",
-    "image": "https://img-c.udemycdn.com/course/240x135/5253394_2f88_2.jpg",
-    "category": "Development",
-    "coupon": "OCTOBERFREE22026",
-    "instructor": "Ellen Chamilothoris, Andrii Piatakha",
-    "originalPrice": "$29.99",
-    "discountPrice": "Free",
-    "rating": "4.6",
-    "subscribers": 49267,
-    "reviews": 411,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 22,
-    "quota": 100,
-    "remainingSlots": 78,
-    "description": "Unlock the Power of Idioms in English Conversation and Writing with Essential Techniques and Real-Life Examples",
-    "expiryDate": "06/11/2026 12:55:31"
-  },
-  {
-    "id": "course-32",
-    "slug": "customer-success-with-chatgpt-ai-innovate-client-relations",
-    "title": "Customer Success with ChatGPT(AI): Innovate Client Relations",
-    "url": "https://www.udemy.com/course/customer-success-with-chatgpt-learnit/?couponCode=OCTOBERFREE22026",
-    "image": "https://img-c.udemycdn.com/course/240x135/6040960_2c57_2.jpg",
-    "category": "Development",
-    "coupon": "OCTOBERFREE22026",
-    "instructor": "Andrii Piatakha",
-    "originalPrice": "$19.99",
-    "discountPrice": "Free",
-    "rating": "4.3",
-    "subscribers": 18083,
-    "reviews": 63,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 30,
-    "quota": 100,
-    "remainingSlots": 70,
-    "description": "Optimize Customer Success with ChatGPT: Implementing AI Strategies for Enhanced Client Relations and Business Growth",
-    "expiryDate": "06/11/2026 12:55:31"
-  },
-  {
-    "id": "course-33",
-    "slug": "information-security-crash-course-quick-steps-to-safety",
-    "title": "Information Security Crash Course: Quick Steps to Safety",
-    "url": "https://www.udemy.com/course/information-security-learnit/?couponCode=OCTOBERFREE22026",
-    "image": "https://img-c.udemycdn.com/course/240x135/6289239_190f.jpg",
-    "category": "Design",
-    "coupon": "OCTOBERFREE22026",
-    "instructor": "Andrii Piatakha",
-    "originalPrice": "$19.99",
-    "discountPrice": "Free",
-    "rating": "4.6",
-    "subscribers": 24251,
-    "reviews": 197,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 57,
-    "quota": 100,
-    "remainingSlots": 43,
-    "description": "Learn key cybersecurity principles, secure coding, data protection, encryption, and lots more to safeguard systems",
-    "expiryDate": "06/11/2026 12:55:31"
-  },
-  {
-    "id": "course-34",
-    "slug": "tdd-ci-cd-pair-programming-other-xp-practices-for-devs",
-    "title": "TDD, CI/CD, Pair Programming & Other XP Practices for Devs",
-    "url": "https://www.udemy.com/course/xp-techniques-learnit/?couponCode=OCTOBERFREE22026",
-    "image": "https://img-c.udemycdn.com/course/240x135/6522469_877f.jpg",
-    "category": "Development",
-    "coupon": "OCTOBERFREE22026",
-    "instructor": "Andrii Piatakha",
-    "originalPrice": "$19.99",
-    "discountPrice": "Free",
-    "rating": "4.3",
-    "subscribers": 13687,
-    "reviews": 43,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 33,
-    "quota": 100,
-    "remainingSlots": 67,
-    "description": "Master Extreme Programming techniques to write cleaner, faster, and more reliable code in Agile teams",
-    "expiryDate": "06/11/2026 12:55:31"
-  },
-  {
-    "id": "course-35",
-    "slug": "functional-programming-lambdas-method-references-streams",
-    "title": "Functional Programming + Lambdas, Method References, Streams",
-    "url": "https://www.udemy.com/course/functional-programming-learnit/?couponCode=OCTOBERFREE22026",
-    "image": "https://img-c.udemycdn.com/course/240x135/3686036_3cfd_2.jpg",
-    "category": "Development",
-    "coupon": "OCTOBERFREE22026",
-    "instructor": "Andrii Piatakha, Learn IT University",
-    "originalPrice": "$54.99",
-    "discountPrice": "Free",
-    "rating": "4.1",
-    "subscribers": 133446,
-    "reviews": 353,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 15,
-    "quota": 100,
-    "remainingSlots": 85,
-    "description": "Learn amazing features in Java with functional programming, lambda functions, method references and Stream API",
-    "expiryDate": "06/11/2026 12:55:31"
-  },
-  {
-    "id": "course-36",
-    "slug": "java-collections-framework-generics-lambdas-stream-api",
-    "title": "Java Collections Framework + Generics, Lambdas & Stream API",
-    "url": "https://www.udemy.com/course/java-collections-framework-learnit/?couponCode=OCTOBERFREE22026",
-    "image": "https://img-c.udemycdn.com/course/240x135/3619180_1265_2.jpg",
-    "category": "Development",
-    "coupon": "OCTOBERFREE22026",
-    "instructor": "Andrii Piatakha, Learn IT University",
-    "originalPrice": "$64.99",
-    "discountPrice": "Free",
-    "rating": "4.5",
-    "subscribers": 186200,
-    "reviews": 1179,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 20,
-    "quota": 100,
-    "remainingSlots": 80,
-    "description": "Learn Java Collections Framework from scratch to PRO level with practical exercises",
-    "expiryDate": "06/11/2026 12:55:31"
-  },
-  {
-    "id": "course-37",
-    "slug": "customer-service-with-chatgpt-ai-driven-customer-care",
-    "title": "Customer Service with ChatGPT: AI-Driven Customer Care",
-    "url": "https://www.udemy.com/course/customer-service-with-chatgpt-learnit/?couponCode=OCTOBERFREE22026",
-    "image": "https://img-c.udemycdn.com/course/240x135/5985862_7482_3.jpg",
-    "category": "Development",
-    "coupon": "OCTOBERFREE22026",
-    "instructor": "Andrii Piatakha",
-    "originalPrice": "$39.99",
-    "discountPrice": "Free",
-    "rating": "4.7",
-    "subscribers": 17365,
-    "reviews": 91,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 24,
-    "quota": 100,
-    "remainingSlots": 76,
-    "description": "Strategies, Case Studies, and Practical Applications: Implementing AI-Powered ChatGPT for Seamless Customer Interactions",
-    "expiryDate": "06/11/2026 12:55:31"
-  },
-  {
-    "id": "course-38",
-    "slug": "gof-design-patterns-complete-course-with-java-examples",
-    "title": "GoF Design Patterns - Complete Course with Java Examples",
-    "url": "https://www.udemy.com/course/gof-design-patterns-learnit/?couponCode=OCTOBERFREE22026",
-    "image": "https://img-c.udemycdn.com/course/240x135/4107958_3268.jpg",
-    "category": "Development",
-    "coupon": "OCTOBERFREE22026",
-    "instructor": "Andrii Piatakha, Learn IT University",
-    "originalPrice": "$54.99",
-    "discountPrice": "Free",
-    "rating": "4.5",
-    "subscribers": 96310,
-    "reviews": 621,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 18,
-    "quota": 100,
-    "remainingSlots": 82,
-    "description": "Software Design Patterns in OOP with Java examples. Architecture principles and clean code design in OOP applications",
-    "expiryDate": "06/11/2026 12:55:31"
-  },
-  {
-    "id": "course-39",
     "slug": "qa-metrics-kpis-testing-defect-tracking-automation",
     "title": "QA Metrics & KPIs: Testing, Defect Tracking & Automation",
     "url": "https://www.udemy.com/course/qa-metrics-kpis-learnit/?couponCode=OCTOBERFREE22026",
@@ -726,7 +506,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-40",
+    "id": "course-31",
     "slug": "uml-the-most-complete-guide-with-real-life-examples",
     "title": "UML: The Most Complete Guide with Real-Life Examples",
     "url": "https://www.udemy.com/course/uml-learnit/?couponCode=OCTOBERFREE22026",
@@ -748,7 +528,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-41",
+    "id": "course-32",
     "slug": "junit-5-mockito-powermock-tdd-bdd-attd",
     "title": "JUnit 5, Mockito, PowerMock, TDD, BDD & ATTD",
     "url": "https://www.udemy.com/course/testing-for-developers/?couponCode=OCTOBERFREE22026",
@@ -770,7 +550,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-42",
+    "id": "course-33",
     "slug": "chatgpt-complete-guide-openai-api-ai-tools-chatgpt-4",
     "title": "ChatGPT Complete Guide: OpenAI API, AI Tools, ChatGPT 4",
     "url": "https://www.udemy.com/course/gpt-learnit/?couponCode=OCTOBERFREE22026",
@@ -792,7 +572,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-43",
+    "id": "course-34",
     "slug": "resilience-patterns-in-microservice-architecture-hands-on",
     "title": "Resilience Patterns in Microservice Architecture: Hands-On",
     "url": "https://www.udemy.com/course/resilience-patterns-microservice-architecture-learnit/?couponCode=OCTOBERFREE22026",
@@ -814,7 +594,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-44",
+    "id": "course-35",
     "slug": "defect-management-qa-reporting-metrics-kpis",
     "title": "Defect Management & QA Reporting: Metrics & KPIs",
     "url": "https://www.udemy.com/course/test-metrics-kpis-learnit/?couponCode=OCTOBERFREE22026",
@@ -836,7 +616,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-45",
+    "id": "course-36",
     "slug": "software-architecture-and-clean-code-design-in-oop",
     "title": "Software Architecture and Clean Code Design in OOP",
     "url": "https://www.udemy.com/course/software-architecture-learnit/?couponCode=OCTOBERFREE22026",
@@ -858,7 +638,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-46",
+    "id": "course-37",
     "slug": "object-oriented-programming-basics-to-advance-java-oop",
     "title": "Object Oriented Programming - Basics to Advance (Java OOP)",
     "url": "https://www.udemy.com/course/oop-learnit/?couponCode=OCTOBERFREE22026",
@@ -880,7 +660,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-47",
+    "id": "course-38",
     "slug": "secure-coding-security-best-practices-in-web-applications",
     "title": "Secure Coding: Security Best Practices in Web Applications",
     "url": "https://www.udemy.com/course/secure-coding-web-apps-learnit/?couponCode=OCTOBERFREE22026",
@@ -902,7 +682,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-48",
+    "id": "course-39",
     "slug": "java-ee-web-development-http-server-servlet-html-css-jsp",
     "title": "Java EE, Web Development: HTTP, Server,Servlet,HTML/CSS,JSP",
     "url": "https://www.udemy.com/course/web-development-learnit/?couponCode=OCTOBERFREE22026",
@@ -924,7 +704,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-49",
+    "id": "course-40",
     "slug": "extreme-programming-xp-techniques-for-agile-development",
     "title": "Extreme Programming (XP): Techniques for Agile Development",
     "url": "https://www.udemy.com/course/xp-programming-learnit/?couponCode=OCTOBERFREE22026",
@@ -946,7 +726,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-50",
+    "id": "course-41",
     "slug": "resilience4j-with-spring-boot-build-fault-tolerant-systems",
     "title": "Resilience4j with Spring Boot: Build Fault-Tolerant Systems",
     "url": "https://www.udemy.com/course/resilience4j-spring-boot-learnit/?couponCode=OCTOBERFREE22026",
@@ -968,7 +748,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-51",
+    "id": "course-42",
     "slug": "oracle-java-se-21-developer-professional-1z0-830",
     "title": "Oracle Java SE 21 Developer Professional: 1Z0-830",
     "url": "https://www.udemy.com/course/oracle-certification-java-21-learnit/?couponCode=OCTOBERFREE22026",
@@ -990,7 +770,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-52",
+    "id": "course-43",
     "slug": "ai-cybersecurity-solutions-overview-of-applied-ai-security",
     "title": "AI Cybersecurity Solutions: Overview of Applied AI Security",
     "url": "https://www.udemy.com/course/ai-cybersecurity-learnit/?couponCode=OCTOBERFREE22026",
@@ -1012,7 +792,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-53",
+    "id": "course-44",
     "slug": "data-driven-quality-assurance-quality-control-metrics-kpi",
     "title": "Data-Driven Quality Assurance & Quality Control: Metrics/KPI",
     "url": "https://www.udemy.com/course/qa-qc-metrics-kpis-learnit/?couponCode=OCTOBERFREE22026",
@@ -1034,7 +814,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-54",
+    "id": "course-45",
     "slug": "oracle-java-se-17-developer-professional-1z0-829-exam",
     "title": "Oracle Java SE 17 Developer Professional: 1Z0-829 Exam",
     "url": "https://www.udemy.com/course/oracle-java-17-ocp-certification-learnit/?couponCode=OCTOBERFREE22026",
@@ -1056,7 +836,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-55",
+    "id": "course-46",
     "slug": "securing-ai-applications-from-threats-to-controls",
     "title": "Securing AI Applications: From Threats to Controls",
     "url": "https://www.udemy.com/course/securing-ai-applications-learnit/?couponCode=OCTOBERFREE22026",
@@ -1078,7 +858,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-56",
+    "id": "course-47",
     "slug": "ai-for-program-managers-practical-skills-and-automation",
     "title": "AI for Program Managers: Practical Skills and Automation",
     "url": "https://www.udemy.com/course/ai-for-program-managers-learnit/?couponCode=OCTOBERFREE22026",
@@ -1100,7 +880,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-57",
+    "id": "course-48",
     "slug": "ai-security-fundamentals-risks-frameworks-tools",
     "title": "AI Security Fundamentals: Risks, Frameworks & Tools",
     "url": "https://www.udemy.com/course/ai-security-learnit/?couponCode=OCTOBERFREE22026",
@@ -1122,29 +902,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-58",
-    "slug": "premiere-pro-masterclass-beginner-to-advanced-video-editing",
-    "title": "Premiere Pro Masterclass: Beginner to Advanced Video Editing",
-    "url": "https://www.udemy.com/course/premiere-pro-masterclass-beginner-to-advanced-video-editing/?couponCode=B15AF5C9D28FBD5184EE",
-    "image": "https://img-c.udemycdn.com/course/240x135/6879693_736f.jpg",
-    "category": "Design",
-    "coupon": "B15AF5C9D28FBD5184EE",
-    "instructor": "Logic Labs",
-    "originalPrice": "$19.99",
-    "discountPrice": "Free",
-    "rating": "2.7",
-    "subscribers": 2938,
-    "reviews": 6,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 75,
-    "quota": 100,
-    "remainingSlots": 25,
-    "description": "Learn Professional Video Editing, Color Correction, Effects & Transitions Using Adobe Premiere Pro From Start To Finish.",
-    "expiryDate": "06/11/2026 12:55:31"
-  },
-  {
-    "id": "course-59",
+    "id": "course-49",
     "slug": "american-english-vowels-for-indian-it-professionals",
     "title": "American English Vowels for Indian IT Professionals",
     "url": "https://www.udemy.com/course/american-english-vowels-for-indian-it-professionals/?couponCode=REALDISNOVEM26",
@@ -1166,7 +924,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-60",
+    "id": "course-50",
     "slug": "secure-coding-in-spring-boot-real-world-coding-guide",
     "title": "Secure Coding in Spring Boot: Real-World Coding Guide",
     "url": "https://www.udemy.com/course/secure-coding-spring-boot-learnit/?couponCode=OCTOBERFREE22026",
@@ -1188,7 +946,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-61",
+    "id": "course-51",
     "slug": "microsoft-office-all-in-one-excel-word-and-powerpoint",
     "title": "Microsoft Office All-in-One: Excel, Word and PowerPoint",
     "url": "https://www.udemy.com/course/microsoft-office-microsoft-excel/?couponCode=27C0761D38916DB02E37",
@@ -1210,7 +968,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-62",
+    "id": "course-52",
     "slug": "mastering-chatgpt-from-beginner-to-ai-power-user",
     "title": "Mastering ChatGPT: From Beginner to AI Power User",
     "url": "https://www.udemy.com/course/mastering-chatgpt-from-beginner-to-ai-power-user/?couponCode=CCB34AED5197F029728E",
@@ -1232,7 +990,7 @@
     "expiryDate": "06/11/2026 12:55:31"
   },
   {
-    "id": "course-63",
+    "id": "course-53",
     "slug": "software-architecture",
     "title": "Software architecture",
     "url": "https://www.udemy.com/course/software-architecture-it-bulls/?couponCode=OCTOBERFREE22026",
@@ -1255,6 +1013,50 @@
   },
   {
     "id": "course-1",
+    "slug": "ai-for-image-video-and-music-creation",
+    "title": "AI for Image, Video and Music Creation",
+    "url": "https://www.udemy.com/course/ai-for-image-video-and-music-creation/?couponCode=C68F5DD2DE64D0303D85",
+    "image": "https://img-c.udemycdn.com/course/240x135/6249409_0d99_2.jpg",
+    "category": "Design",
+    "coupon": "C68F5DD2DE64D0303D85",
+    "instructor": "Md. Aliful Islam",
+    "originalPrice": "$34.99",
+    "discountPrice": "$34.99",
+    "rating": "3.7",
+    "subscribers": 7498,
+    "reviews": 47,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Unlock the Power of AI: Master Image, Video, and Music Creation for Creative Professionals",
+    "expiryDate": "07/11/2026 3:46:04"
+  },
+  {
+    "id": "course-3",
+    "slug": "professional-in-employee-relations-and-engagement",
+    "title": "Professional in Employee Relations and Engagement",
+    "url": "https://www.udemy.com/course/professional-in-employee-relations-and-engagement/?couponCode=4A2F0F81B9A7D2576116",
+    "image": "https://img-c.udemycdn.com/course/240x135/7358597_c068_5.jpg",
+    "category": "Development",
+    "coupon": "4A2F0F81B9A7D2576116",
+    "instructor": "MTF INSTITUTE SCHOOL OF PROFESSIONAL EDUCATION",
+    "originalPrice": "$39.99",
+    "discountPrice": "$39.99",
+    "rating": "4.6",
+    "subscribers": 110,
+    "reviews": 0,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Employee Relations and Engagement",
+    "expiryDate": "07/11/2026 3:46:04"
+  },
+  {
+    "id": "course-5",
     "slug": "python-complete-course-for-beginners",
     "title": "Python Complete Course For Beginners",
     "url": "https://www.udemy.com/course/python-complete-course-for-beginners-h/?couponCode=CB3ED4FE1BBB83B03F0B",
@@ -1276,29 +1078,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-14",
-    "slug": "chatgpt-earning-money-with-chatgpt-easy-way-for-beginners",
-    "title": "ChatGPT: Earning Money With ChatGPT - Easy Way For Beginners",
-    "url": "https://www.udemy.com/course/chatgpt-earning-money-with-chatgpt-easy-way-for-beginners/?couponCode=D836B52BD654955C1AE8",
-    "image": "https://img-c.udemycdn.com/course/240x135/5127176_6910_2.jpg",
-    "category": "Development",
-    "coupon": "D836B52BD654955C1AE8",
-    "instructor": "Web Oral",
-    "originalPrice": "$44.99",
-    "discountPrice": "$44.99",
-    "rating": "3.8",
-    "subscribers": 62881,
-    "reviews": 531,
-    "isFree": false,
-    "isExpired": true,
-    "claimedCount": 100,
-    "quota": 100,
-    "remainingSlots": 0,
-    "description": "Earn Money Using ChatGPT | Easy Ways To Earn Money Using ChatGPT | Anyone Can Start  A Business Using ChatGPT!",
-    "expiryDate": "06/11/2026 21:00:18"
-  },
-  {
-    "id": "course-16",
+    "id": "course-19",
     "slug": "small-business-finance-budget-pay-and-profitability",
     "title": "Small Business Finance: Budget, Pay and Profitability",
     "url": "https://www.udemy.com/course/senior-recruiter-ua/?couponCode=PAPAHR_NOV_956019",
@@ -1320,7 +1100,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-20",
+    "id": "course-23",
     "slug": "become-master-in-claude-ai-2026",
     "title": "Become master in Claude AI [2026]",
     "url": "https://www.udemy.com/course/become-expert-in-claude-ai-2026/?couponCode=NOVFREE03",
@@ -1342,7 +1122,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-25",
+    "id": "course-28",
     "slug": "become-master-in-uipath-world",
     "title": "Become Master in UiPath World",
     "url": "https://www.udemy.com/course/become-master-in-uipath-world/?couponCode=NOVFREE03",
@@ -1364,7 +1144,7 @@
     "expiryDate": "06/11/2026 21:00:18"
   },
   {
-    "id": "course-26",
+    "id": "course-29",
     "slug": "microsoft-copilot-studio-ms-foundry-claude-code-demo",
     "title": "Microsoft Copilot Studio +MS Foundry + Claude Code (Demo)",
     "url": "https://www.udemy.com/course/ai-agents-copilot-studio-azure-foundry-microsoft-foundry/?couponCode=NOVFREE03",

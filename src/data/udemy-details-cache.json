@@ -18709,5 +18709,49 @@
     "isFree": false,
     "instructors": "Learning Technologies [110000+ Students]",
     "campaign": null
+  },
+  "ai-for-image-video-and-music-creation_C68F5DD2DE64D0303D85": {
+    "subscribers": 7498,
+    "reviews": 47,
+    "rating": "3.7",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
+  },
+  "2024-leadership-mastery-modern-leaders-practical-training_647506308E3B6B935FA6": {
+    "subscribers": 12877,
+    "reviews": 74,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Daniel K'Owuoche",
+    "campaign": {
+      "max": 100,
+      "rem": 64,
+      "end": "2026-12-07T16:39:00Z"
+    }
+  },
+  "professional-in-employee-relations-and-engagement_4A2F0F81B9A7D2576116": {
+    "subscribers": 110,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "MTF INSTITUTE SCHOOL OF PROFESSIONAL EDUCATION",
+    "campaign": null
+  },
+  "love-after-baby_8815B0EBBE81C0E3D150": {
+    "subscribers": 2677,
+    "reviews": 4,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 74,
+      "end": "2026-12-01T17:01:00Z"
+    }
   }
 }
