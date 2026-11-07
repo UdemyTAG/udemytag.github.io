@@ -18753,5 +18753,441 @@
       "rem": 74,
       "end": "2026-12-01T17:01:00Z"
     }
+  },
+  "presentations-with-chatgpt-aece_42503670F17CFF3F965C": {
+    "subscribers": 19290,
+    "reviews": 158,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Agile Enterprise Coach Europe, Vipesh Singla , MBA, Certified  SAFe Agile Coach",
+    "campaign": null
+  },
+  "chatgpt-for-product-managers_BBED74840832B7FD55EC": {
+    "subscribers": 9303,
+    "reviews": 51,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Agile Enterprise Coach Europe, Vipesh Singla , MBA, Certified  SAFe Agile Coach",
+    "campaign": null
+  },
+  "advanced-certified-scrum-master_22304984308D50BBA92E": {
+    "subscribers": 37116,
+    "reviews": 3046,
+    "rating": "4.5",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Vipesh Singla , MBA, Certified  SAFe Agile Coach, Agile Enterprise Coach London",
+    "campaign": {
+      "max": 100,
+      "rem": 48,
+      "end": "2026-12-08T00:46:00Z"
+    }
+  },
+  "chatgpt-and-generative-ai-in-business-management-marketing_BC7E0CB8EA21B902E18C": {
+    "subscribers": 42764,
+    "reviews": 443,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "MTF Institute of Management, Technology and Finance, Vipesh Singla , MBA, Certified  SAFe Agile Coach",
+    "campaign": {
+      "max": 100,
+      "rem": 2,
+      "end": "2026-12-08T00:51:00Z"
+    }
+  },
+  "master-agile-scrum-basics_3E9C7000F6E508E2D16E": {
+    "subscribers": 36801,
+    "reviews": 488,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vipesh Singla , MBA, Certified  SAFe Agile Coach",
+    "campaign": {
+      "max": 100,
+      "rem": 17,
+      "end": "2026-12-08T00:51:00Z"
+    }
+  },
+  "chatgpt-for-product-management-innovation-aece_5CAA94509180DAD112E9": {
+    "subscribers": 20547,
+    "reviews": 368,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Agile Enterprise Coach Europe, Vipesh Singla , MBA, Certified  SAFe Agile Coach",
+    "campaign": null
+  },
+  "master-scrum-basics_7624807859A5886FD133": {
+    "subscribers": 28941,
+    "reviews": 227,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vipesh Singla , MBA, Certified  SAFe Agile Coach, Agile Enterprise Coach London",
+    "campaign": {
+      "max": 100,
+      "rem": 26,
+      "end": "2026-12-08T00:51:00Z"
+    }
+  },
+  "a-csm-advanced-certified-scrum-master_4BB15EC94D94CD1C7EA4": {
+    "subscribers": 20258,
+    "reviews": 868,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Agile Enterprise Coach London",
+    "campaign": {
+      "max": 100,
+      "rem": 47,
+      "end": "2026-12-08T00:46:00Z"
+    }
+  },
+  "ai-for-product-managers-z_6F58124F34717C292AC4": {
+    "subscribers": 799,
+    "reviews": 43,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Agile Enterprise Coach London",
+    "campaign": null
+  },
+  "safe-general-overview-course_0DD8976DC4F48AC2BC38": {
+    "subscribers": 12447,
+    "reviews": 254,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Agile Enterprise Coach London",
+    "campaign": {
+      "max": 100,
+      "rem": 61,
+      "end": "2026-12-08T00:46:00Z"
+    }
+  },
+  "ai-for-product-management-innovation-r_050B6FDB4078DC11DA40": {
+    "subscribers": 7513,
+    "reviews": 251,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Agile Enterprise Coach London",
+    "campaign": {
+      "max": 100,
+      "rem": 4,
+      "end": "2026-12-08T00:45:00Z"
+    }
+  },
+  "start-your-freelancing-agency_E11800CF8D32D1969DEA": {
+    "subscribers": 14630,
+    "reviews": 114,
+    "rating": "3.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Pierre Henry",
+    "campaign": {
+      "max": 100,
+      "rem": 3,
+      "end": "2026-12-08T04:16:00Z"
+    }
+  },
+  "sap-ui5-fiori-essentials-beginners-complete-walkthrough_569F47200863826E0E22": {
+    "subscribers": 5189,
+    "reviews": 22,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "ZK Tutorials",
+    "campaign": null
+  },
+  "agile-trainer-certification-aec_D00971EF7E59116E1DAA": {
+    "subscribers": 11897,
+    "reviews": 132,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Agile Enterprise Coach London",
+    "campaign": {
+      "max": 100,
+      "rem": 61,
+      "end": "2026-12-08T00:46:00Z"
+    }
+  },
+  "safe-scaled-agile-framework-overview_AD77D770F69BF8786845": {
+    "subscribers": 839,
+    "reviews": 61,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Agile Enterprise Coach London",
+    "campaign": {
+      "max": 100,
+      "rem": 14,
+      "end": "2026-12-08T00:45:00Z"
+    }
+  },
+  "sap-abap-on-hana-j_16B121A845221710FEC8": {
+    "subscribers": 10593,
+    "reviews": 528,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "ZK Tutorials",
+    "campaign": null
+  },
+  "cursor-ai-build-apps_A91BB7944E8B1B145E59": {
+    "subscribers": 19661,
+    "reviews": 58,
+    "rating": "3.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Pierre Henry",
+    "campaign": null
+  },
+  "postgresql-database-administration-complete-course_7FE012242C5B7E4504E3": {
+    "subscribers": 2758,
+    "reviews": 4,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "go-programming-the-complete-guide-to-golang-development_9ADB32119C0D8EC7DF8E": {
+    "subscribers": 5660,
+    "reviews": 13,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "microsoft-excel-master-formulas-functions-and-data-tools_E7E6F18AC5B714D84FAF": {
+    "subscribers": 3283,
+    "reviews": 22,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Logic Labs",
+    "campaign": {
+      "max": 100,
+      "rem": 28,
+      "end": "2026-11-30T13:52:00Z"
+    }
+  },
+  "excel-data-analysis-build-professional-dashboards-reports_7EBCC030D56F9B0B535C": {
+    "subscribers": 3612,
+    "reviews": 31,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "the-complete-microsoft-excel-course-master-all-levels-j_98A26C891D58557A99CF": {
+    "subscribers": 3061,
+    "reviews": 20,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "c-bootcamp-job-ready-skills-for-net-development_8FFBE1192A902F3933F6": {
+    "subscribers": 3485,
+    "reviews": 10,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": 100,
+      "rem": 40,
+      "end": "2026-11-28T05:47:00Z"
+    }
+  },
+  "the-complete-c-and-c-plus-programming-course-mastering-c-and-c-plus_3138405854A8EDD3C997": {
+    "subscribers": 43679,
+    "reviews": 483,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 68,
+      "end": "2026-12-02T02:36:00Z"
+    }
+  },
+  "html-the-complete-guide-to-html-zero-to-hero_43D95267EB97BA45748F": {
+    "subscribers": 35512,
+    "reviews": 866,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 65,
+      "end": "2026-12-02T03:02:00Z"
+    }
+  },
+  "javascript-fundamentals-course-for-beginners_06D011953CB52BC21F7E": {
+    "subscribers": 35876,
+    "reviews": 447,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 71,
+      "end": "2026-12-02T03:01:00Z"
+    }
+  },
+  "become-rpa-solution-architect-in-30-days_NOVFREE02": {
+    "subscribers": 6603,
+    "reviews": 32,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": 100,
+      "rem": 55,
+      "end": "2026-12-03T08:00:00Z"
+    }
+  },
+  "claude-certified-developer-foundations-ccdv-f-certification_NOVFREE02": {
+    "subscribers": 1421,
+    "reviews": 18,
+    "rating": "3.9",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": null
+  },
+  "learn-rpa-microsoft-power-automate-step-by-step_NOVFREE02": {
+    "subscribers": 3598,
+    "reviews": 194,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": null
+  },
+  "blue-prism-beginners-course-step-by-step_NOVFREE02": {
+    "subscribers": 10280,
+    "reviews": 70,
+    "rating": "4.6",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": 100,
+      "rem": 51,
+      "end": "2026-12-03T08:00:00Z"
+    }
+  },
+  "ab-100-microsoft-agentic-ai-business-solutions-architect-i_NOVFREE02": {
+    "subscribers": 1439,
+    "reviews": 9,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": null
+  },
+  "microsoft-power-automate-with-ai-builder_NOVFREE02": {
+    "subscribers": 15413,
+    "reviews": 183,
+    "rating": "4.1",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": 100,
+      "rem": 38,
+      "end": "2026-12-03T08:00:00Z"
+    }
+  },
+  "ai-agents-copilot-studio-azure-foundry-microsoft-foundry_NOVFREE02": {
+    "subscribers": 5494,
+    "reviews": 67,
+    "rating": "4.4",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": null
+  },
+  "become-master-in-uipath-world_NOVFREE02": {
+    "subscribers": 3221,
+    "reviews": 28,
+    "rating": "4.5",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": null
+  },
+  "php-for-beginners-2021-the-complete-php-mysql-pdo-course_FULLSTACK127": {
+    "subscribers": 134533,
+    "reviews": 1131,
+    "rating": "4.3",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": null
+  },
+  "microsoft-power-automate-desktop-tutorials-for-beginners_NOVFREE02": {
+    "subscribers": 18269,
+    "reviews": 2594,
+    "rating": "4.5",
+    "price": "$84.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": null
+  },
+  "microsoft-power-automate-desktop-course-zero-to-expert-2_NOVFREE02": {
+    "subscribers": 14417,
+    "reviews": 302,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": {
+      "max": 100,
+      "rem": 36,
+      "end": "2026-12-03T08:00:00Z"
+    }
+  },
+  "pl-500-microsoft-power-automate-rpa-developer-bootcamp_NOVFREE02": {
+    "subscribers": 5578,
+    "reviews": 611,
+    "rating": "4.0",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": null
+  },
+  "power-automate-desktop-course-intelligent-automation_NOVFREE02": {
+    "subscribers": 11190,
+    "reviews": 379,
+    "rating": "4.5",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": null
+  },
+  "mastering-microsoft-copilot-studio-future-of-ai-agents_NOVFREE02": {
+    "subscribers": 2603,
+    "reviews": 131,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [110000+ Students]",
+    "campaign": null
   }
 }
