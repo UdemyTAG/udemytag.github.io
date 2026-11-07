@@ -19189,5 +19189,221 @@
     "isFree": false,
     "instructors": "Learning Technologies [110000+ Students]",
     "campaign": null
+  },
+  "javascript-and-php-ultimate-course-for-beginners_4F75EB34891130FDDA39": {
+    "subscribers": 3786,
+    "reviews": 24,
+    "rating": "4.4",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "ARUNNACHALAM SHANMUGARAAJAN",
+    "campaign": null
+  },
+  "growth-hacking-scarcity-marketing-in-the-digital-age_B01480DDC050ED53D15A": {
+    "subscribers": 4936,
+    "reviews": 10,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Upskellix Academy",
+    "campaign": null
+  },
+  "master-figma-complete-ui-ux-design-course-for-beginners_25D64C5D5562AE5F0147": {
+    "subscribers": 1426,
+    "reviews": 41,
+    "rating": "4.3",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "ARUNNACHALAM SHANMUGARAAJAN",
+    "campaign": null
+  },
+  "javascript-like-never-before_NOVE2026MO2": {
+    "subscribers": 16877,
+    "reviews": 109,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Uday Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 25,
+      "end": "2026-12-07T06:49:00Z"
+    }
+  },
+  "java-complete-course-from-beginner-to-advanced_89E48DF25F5EF87F0A7D": {
+    "subscribers": 1380,
+    "reviews": 13,
+    "rating": "4.4",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "ARUNNACHALAM SHANMUGARAAJAN",
+    "campaign": null
+  },
+  "marriage-compatibility-choosing-the-right-life-partner_GIFT4U": {
+    "subscribers": 300,
+    "reviews": 1,
+    "rating": "5.0",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "LifeWise Academy",
+    "campaign": null
+  },
+  "elevate-your-leadership-amplify-your-communication-skills_2319E58D8E680CC904E5": {
+    "subscribers": 15235,
+    "reviews": 101,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Daniel K'Owuoche",
+    "campaign": {
+      "max": 100,
+      "rem": 5,
+      "end": "2026-12-08T15:20:00Z"
+    }
+  },
+  "servicenow-javascript-by-uday-gadiparthii_NOVE2026MO2": {
+    "subscribers": 19678,
+    "reviews": 295,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Uday Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 38,
+      "end": "2026-12-07T06:49:00Z"
+    }
+  },
+  "servicenow-mock-interviews-interview-questions_NOVE2026MO1": {
+    "subscribers": 17287,
+    "reviews": 258,
+    "rating": "4.6",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "Uday Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 4,
+      "end": "2026-12-03T03:38:00Z"
+    }
+  },
+  "html-like-never-before_NOVE2026MO2": {
+    "subscribers": 19218,
+    "reviews": 266,
+    "rating": "4.5",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Uday Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 24,
+      "end": "2026-12-07T06:49:00Z"
+    }
+  },
+  "servicenow-scripting-mastery-advanced-development_NOVE2026MO2": {
+    "subscribers": 21877,
+    "reviews": 200,
+    "rating": "4.4",
+    "price": "$74.99",
+    "isFree": true,
+    "instructors": "Uday Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 31,
+      "end": "2026-12-07T06:49:00Z"
+    }
+  },
+  "mastering-servicenow-administration-from-basics-to-expert_NOVE2026MO1": {
+    "subscribers": 22850,
+    "reviews": 762,
+    "rating": "4.3",
+    "price": "$79.99",
+    "isFree": false,
+    "instructors": "Uday Academy",
+    "campaign": null
+  },
+  "total-servicenow-developer-and-admin-course-with-javascript_NOVE2026MO2": {
+    "subscribers": 37907,
+    "reviews": 2821,
+    "rating": "4.5",
+    "price": "$79.99",
+    "isFree": true,
+    "instructors": "Uday Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 8,
+      "end": "2026-12-07T06:49:00Z"
+    }
+  },
+  "servicenow-catalog-item-and-record-producer-workflow-flows_NOVE2026MO2": {
+    "subscribers": 18028,
+    "reviews": 360,
+    "rating": "4.3",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Uday Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 45,
+      "end": "2026-12-07T06:49:00Z"
+    }
+  },
+  "google-ads-mastery-from-beginner-to-advanced-d_NOVE2026MO2": {
+    "subscribers": 10134,
+    "reviews": 42,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Uday Academy",
+    "campaign": null
+  },
+  "complete-salesforce-administrator-masterclass-training-2026_NOVE2026MO2": {
+    "subscribers": 4739,
+    "reviews": 19,
+    "rating": "3.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Uday Academy",
+    "campaign": null
+  },
+  "mastering-azure-devops-from-beginner-to-advanced_NOVE2026MO2": {
+    "subscribers": 16960,
+    "reviews": 139,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Uday Academy",
+    "campaign": null
+  },
+  "brain-computer-interface-with-deep-learning_A513BE6C0C50B4AB6B32": {
+    "subscribers": 18305,
+    "reviews": 111,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Riad Almadani • 70,000+ Students",
+    "campaign": {
+      "max": 100,
+      "rem": 1,
+      "end": "2026-12-08T09:09:00Z"
+    }
+  },
+  "mastering-mysql-from-beginner-to-advanced_NOVE2026MO2": {
+    "subscribers": 12792,
+    "reviews": 120,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Uday Academy",
+    "campaign": null
+  },
+  "full-stack-web-development-html-css-javascript-bootstrap-react-js_NOVE2026MO2": {
+    "subscribers": 7611,
+    "reviews": 66,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Uday Academy",
+    "campaign": null
   }
 }
