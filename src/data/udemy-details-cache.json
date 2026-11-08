@@ -19405,5 +19405,92 @@
     "isFree": false,
     "instructors": "Uday Academy",
     "campaign": null
+  },
+  "ai-for-all-r_NOVFREE01": {
+    "subscribers": 19071,
+    "reviews": 304,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vivian Aranha, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 29,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "ai_powered_microservices_with_vibe_coding_NOVFREE03": {
+    "subscribers": 22347,
+    "reviews": 181,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vivian Aranha, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 54,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "scrum-certification_051126_FREE": {
+    "subscribers": 320573,
+    "reviews": 45063,
+    "rating": "4.5",
+    "price": "$139.99",
+    "isFree": true,
+    "instructors": "Paul Ashun",
+    "campaign": {
+      "max": 100,
+      "rem": 32,
+      "end": "2026-12-06T12:49:00Z"
+    }
+  },
+  "mastering-context-design-for-intelligent-ai-agents_NOVFREE03": {
+    "subscribers": 24595,
+    "reviews": 215,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vivian Aranha, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 56,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "certified_generative_ai_architect_with_knowledge_graphs_NOVFREE03": {
+    "subscribers": 19542,
+    "reviews": 103,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vivian Aranha, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 71,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "mastering-ai-on-aws-training-aws-certified-ai-practitioner_NOVFREE01": {
+    "subscribers": 48806,
+    "reviews": 833,
+    "rating": "4.3",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 36,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "100-ai-agents_NOVFREE01": {
+    "subscribers": 56213,
+    "reviews": 1415,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Vivian Aranha, School of AI, Arjun Vaid",
+    "campaign": null
   }
 }
