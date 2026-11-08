@@ -38,45 +38,45 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 
 | No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
 | :-: | :--- | :--- | :-: | :--- |
-| 1 | **Your WORDS, Powerful Tools** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/your-words-powerful-tools/) |
-| 2 | **Gratitude** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/gratitude/) |
-| 3 | **Investing in Africa - Key factors for Investors to consider** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/investing-in-africa-key-factors-for-investors-to-consider/) |
-| 4 | **Vigilant Leadership** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/vigilant-leadership/) |
-| 5 | **Leadership Through Tough Times** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/leadership-through-tough-times/) |
-| 6 | **Personal Growth - Affirmations and Taking Action** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/personal-growth-affirmations-and-taking-action/) |
-| 7 | **Purpose Driven Leadership** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/purpose-driven-leadership/) |
-| 8 | **Certified Fusion 360 for Absolute Beginners** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-fusion-360-for-absolute-beginners/) |
-| 9 | **Advanced RPA - Microsoft Power Automate With AI Builder** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-rpa-microsoft-power-automate-with-ai-builder/) |
-| 10 | **Blue Prism Foundation Course Step By Step** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/blue-prism-foundation-course-step-by-step/) |
-| 11 | **RPA:Microsoft Power Automate Desktop:Intelligent Automation** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/rpa-microsoft-power-automate-desktop-intelligent-automation/) |
-| 12 | **Complete Guide to RPA Solution Architecture** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-guide-to-rpa-solution-architecture/) |
-| 13 | **Learn PL-500 Power Automate RPA Developer Associate** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-pl-500-power-automate-rpa-developer-associate/) |
-| 14 | **Become Master in Microsoft Power Automate for Cloud** | `IT & Software` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/become-master-in-microsoft-power-automate-for-cloud/) |
-| 15 | **AI Foundations for Professionals** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-foundations-for-professionals/) |
-| 16 | **Generative AI for Productivity** | `Personal Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/generative-ai-for-productivity/) |
-| 17 | **Agentic AI for Product Owners: Strategy & Solutions** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/agentic-ai-for-product-owners-strategy-solutions/) |
-| 18 | **AI-Powered Microservices with Vibe Coding & Software 3.0** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-powered-microservices-with-vibe-coding-software-3-0/) |
-| 19 | **Scrum Master Certification 2025 + Agile Scrum Certification** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/scrum-master-certification-2025-agile-scrum-certification/) |
-| 20 | **Mastering Context Design for Intelligent AI Agents** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-context-design-for-intelligent-ai-agents/) |
-| 21 | **Certified Generative AI Architect with Knowledge Graphs** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-generative-ai-architect-with-knowledge-graphs/) |
-| 22 | **Mastering AI on AWS: Training AWS Certified AI-Practitioner** | `IT & Software` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-ai-on-aws-training-aws-certified-ai-practitioner/) |
-| 23 | **Javascript for freshers!!** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/javascript-for-freshers/) |
-| 24 | **Elevate Your Leadership, Amplify Your Communication Skills** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/elevate-your-leadership-amplify-your-communication-skills/) |
-| 25 | **ServiceNow javascript for ServiceNow Professionals** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/servicenow-javascript-for-servicenow-professionals/) |
-| 26 | **ServiceNow Mock Interviews, 500 Interview Questions** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/servicenow-mock-interviews-500-interview-questions/) |
-| 27 | **HTML, CSS for freshers!** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/html-css-for-freshers/) |
-| 28 | **ServiceNow Scripting Mastery: Advanced Development** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/servicenow-scripting-mastery-advanced-development/) |
-| 29 | **Mastering ServiceNow Admin&Development From Beginner to Pro** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-servicenow-admin-development-from-beginner-to-pro/) |
-| 30 | **ServiceNow Catalog Item and Record Producer, Workflow, Flows** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/servicenow-catalog-item-and-record-producer-workflow-flows/) |
-| 31 | **Brain computer interface with deep learning** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/brain-computer-interface-with-deep-learning/) |
-| 32 | **Master Scrum Basics** | `Business` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-scrum-basics/) |
-| 33 | **Product Owner Certification** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/product-owner-certification/) |
-| 34 | **SAFe®: General Overview course** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/safe-general-overview-course/) |
-| 35 | **Agile Trainer Certification** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/agile-trainer-certification/) |
-| 36 | **SAFe (Scaled Agile Framework) Overview** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/safe-scaled-agile-framework-overview/) |
-| 37 | **Microsoft Excel: Master Formulas, Functions, and Data Tools** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/microsoft-excel-master-formulas-functions-and-data-tools/) |
-| 38 | **C# Bootcamp – Job Ready Skills for .NET Development** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/c-bootcamp-job-ready-skills-for-net-development/) |
-| 39 | **The Complete C & C++ Programming Course - Mastering  C & C++** | `Development` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-c-c-programming-course-mastering-c-c/) |
-| 40 | **HTML -  The Complete Guide to HTML for Beginners** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/html-the-complete-guide-to-html-for-beginners/) |
+| 1 | **Learn T-Shirt Design with Adobe Illustrator** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-t-shirt-design-with-adobe-illustrator/) |
+| 2 | **Java Fundamentals Course For Beginners** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/java-fundamentals-course-for-beginners/) |
+| 3 | **MS PowerPoint Course: Present with Confidence & Creativity** | `Development` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/ms-powerpoint-course-present-with-confidence-creativity/) |
+| 4 | **Advance MS Excel VBA for Beginner to Advanced** | `Business` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/advance-ms-excel-vba-for-beginner-to-advanced/) |
+| 5 | **Microsoft Excel Masterclass: Learn Excel Step by Step** | `Business` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/microsoft-excel-masterclass-learn-excel-step-by-step/) |
+| 6 | **Advanced Professional Photoshop Course** | `Design` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-professional-photoshop-course/) |
+| 7 | **The Complete T-Shirt Design Toolkit: PS, AI & Canva** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-t-shirt-design-toolkit-ps-ai-canva/) |
+| 8 | **Python Programming for Beginners: Learn Python from Scratch** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/python-programming-for-beginners-learn-python-from-scratch/) |
+| 9 | **Social Media Video Editing: Premiere Pro After Effect Canva** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/social-media-video-editing-premiere-pro-after-effect-canva/) |
+| 10 | **Comprehensive DaVinci Resolve With Color Grading Masterclass** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/comprehensive-davinci-resolve-with-color-grading-masterclass/) |
+| 11 | **Blender Essential: From Beginner to 3D Masterclass** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/blender-essential-from-beginner-to-3d-masterclass/) |
+| 12 | **The Complete Photo Editing Masterclass With Adobe and Canva** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-photo-editing-masterclass-with-adobe-and-canva/) |
+| 13 | **Adobe After Effects: From Beginner to Motion Master** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-after-effects-from-beginner-to-motion-master/) |
+| 14 | **Advanced Adobe After Effects: Become VFX & Motion Expert** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-adobe-after-effects-become-vfx-motion-expert/) |
+| 15 | **Adobe Illustrator Essentials: Design Like a Pro in Days** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-illustrator-essentials-design-like-a-pro-in-days/) |
+| 16 | **Ultimate YouTube Blueprint: Proven Tactics Channel Success** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/ultimate-youtube-blueprint-proven-tactics-channel-success/) |
+| 17 | **Adobe Illustrator Essentials: Zero to Hero for Beginners** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-illustrator-essentials-zero-to-hero-for-beginners/) |
+| 18 | **Advanced Adobe Premiere Pro Add Hollywood-level Effects** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-adobe-premiere-pro-add-hollywood-level-effects/) |
+| 19 | **Your WORDS, Powerful Tools** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/your-words-powerful-tools/) |
+| 20 | **Gratitude** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/gratitude/) |
+| 21 | **Investing in Africa - Key factors for Investors to consider** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/investing-in-africa-key-factors-for-investors-to-consider/) |
+| 22 | **Vigilant Leadership** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/vigilant-leadership/) |
+| 23 | **Leadership Through Tough Times** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/leadership-through-tough-times/) |
+| 24 | **Personal Growth - Affirmations and Taking Action** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/personal-growth-affirmations-and-taking-action/) |
+| 25 | **Purpose Driven Leadership** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/purpose-driven-leadership/) |
+| 26 | **Certified Fusion 360 for Absolute Beginners** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-fusion-360-for-absolute-beginners/) |
+| 27 | **Advanced RPA - Microsoft Power Automate With AI Builder** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-rpa-microsoft-power-automate-with-ai-builder/) |
+| 28 | **Blue Prism Foundation Course Step By Step** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/blue-prism-foundation-course-step-by-step/) |
+| 29 | **RPA:Microsoft Power Automate Desktop:Intelligent Automation** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/rpa-microsoft-power-automate-desktop-intelligent-automation/) |
+| 30 | **Complete Guide to RPA Solution Architecture** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-guide-to-rpa-solution-architecture/) |
+| 31 | **Learn PL-500 Power Automate RPA Developer Associate** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-pl-500-power-automate-rpa-developer-associate/) |
+| 32 | **Become Master in Microsoft Power Automate for Cloud** | `IT & Software` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/become-master-in-microsoft-power-automate-for-cloud/) |
+| 33 | **AI Foundations for Professionals** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-foundations-for-professionals/) |
+| 34 | **Generative AI for Productivity** | `Personal Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/generative-ai-for-productivity/) |
+| 35 | **AI-Powered Microservices with Vibe Coding & Software 3.0** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-powered-microservices-with-vibe-coding-software-3-0/) |
+| 36 | **Scrum Master Certification 2025 + Agile Scrum Certification** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/scrum-master-certification-2025-agile-scrum-certification/) |
+| 37 | **Mastering Context Design for Intelligent AI Agents** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-context-design-for-intelligent-ai-agents/) |
+| 38 | **Certified Generative AI Architect with Knowledge Graphs** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-generative-ai-architect-with-knowledge-graphs/) |
+| 39 | **Mastering AI on AWS: Training AWS Certified AI-Practitioner** | `IT & Software` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-ai-on-aws-training-aws-certified-ai-practitioner/) |
+| 40 | **Master Node.js: From Beginner to Full-Stack Developer** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-node-js-from-beginner-to-full-stack-developer/) |
 
 *Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*

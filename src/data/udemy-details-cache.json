@@ -19753,5 +19753,356 @@
     "isFree": false,
     "instructors": "Data Science Academy, School of AI",
     "campaign": null
+  },
+  "learn-t-shirt-design-with-adobe-photoshop-and-illustrator_D68DC241D3728AF140EB": {
+    "subscribers": 34351,
+    "reviews": 137,
+    "rating": "4.1",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 76,
+      "end": "2026-12-09T06:22:00Z"
+    }
+  },
+  "master-nodejs-from-beginner-to-full-stack-developer_D8336B20249C53CCD43A": {
+    "subscribers": 9994,
+    "reviews": 54,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Brighter Futures Hub",
+    "campaign": null
+  },
+  "complete-graphics-design-course-for-beginner-to-advanced_969CFD669BEB385B0DEF": {
+    "subscribers": 49301,
+    "reviews": 549,
+    "rating": "4.5",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Ben Kemp, Zechariah Tech",
+    "campaign": null
+  },
+  "complete-video-editing-course-with-motion-graphics_E301E7CA5B817932DF05": {
+    "subscribers": 53541,
+    "reviews": 443,
+    "rating": "4.2",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Nerding I/O, Zechariah Tech",
+    "campaign": null
+  },
+  "java-fundamentals-course-for-beginners_B730BCAA3F46E2DD2C95": {
+    "subscribers": 34898,
+    "reviews": 688,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 67,
+      "end": "2026-12-02T03:01:00Z"
+    }
+  },
+  "ms-powerpoint-course-present-with-confidence-creativity_1B3B48B87948C58AC8A0": {
+    "subscribers": 3570,
+    "reviews": 9,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Logic Labs",
+    "campaign": {
+      "max": 100,
+      "rem": 39,
+      "end": "2026-11-30T13:53:00Z"
+    }
+  },
+  "the-complete-mysql-bootcamp-go-from-beginner-to-expert_998BAB4143E9BB74E44D": {
+    "subscribers": 58908,
+    "reviews": 823,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": null
+  },
+  "advance-ms-excel-vba-for-beginner-to-advanced_B6D35637085EB6523E13": {
+    "subscribers": 56570,
+    "reviews": 639,
+    "rating": "3.8",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 30,
+      "end": "2026-12-09T06:22:00Z"
+    }
+  },
+  "complete-ms-office-and-web-design-development-course_5A6D71F079CF39FA07C8": {
+    "subscribers": 42030,
+    "reviews": 532,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Nerding I/O, Zechariah Tech",
+    "campaign": null
+  },
+  "microsoft-excel-masterclass-learn-excel-step-by-step_D630E848082CD597885F": {
+    "subscribers": 3414,
+    "reviews": 36,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Logic Labs",
+    "campaign": {
+      "max": 100,
+      "rem": 9,
+      "end": "2026-11-30T13:52:00Z"
+    }
+  },
+  "advanced-professional-photoshop-course_16A951C058E5706CBEAB": {
+    "subscribers": 53023,
+    "reviews": 336,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 9,
+      "end": "2026-12-09T06:21:00Z"
+    }
+  },
+  "php-with-mysql-2022-build-php-and-mysql-projects_PHPMYSQLPROJECTS78": {
+    "subscribers": 45396,
+    "reviews": 260,
+    "rating": "4.3",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": null
+  },
+  "ethically-hack-the-planet-part-4_AB123573AB0C8AC3F778": {
+    "subscribers": 54454,
+    "reviews": 208,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Cyber Twinkle, Zeronyte Security",
+    "campaign": null
+  },
+  "the-complete-t-shirt-design-toolkit-ps-ai-canva_902187A44EE64B6CADDC": {
+    "subscribers": 25160,
+    "reviews": 81,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 66,
+      "end": "2026-12-09T07:51:00Z"
+    }
+  },
+  "python-programming-for-beginners-learn-python-from-scratch_DDF84C8E7EA309692F6B": {
+    "subscribers": 39254,
+    "reviews": 985,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 21,
+      "end": "2026-12-09T07:49:00Z"
+    }
+  },
+  "ethically-hack-the-planet-part-1_AC0E13BDF65EAC06B1A7": {
+    "subscribers": 68082,
+    "reviews": 770,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Cyber Twinkle, Zeronyte Security",
+    "campaign": null
+  },
+  "social-media-video-editing-premiere-pro-after-effect-canva_8A501C3561295BF5CDD6": {
+    "subscribers": 29663,
+    "reviews": 176,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 44,
+      "end": "2026-12-09T07:49:00Z"
+    }
+  },
+  "ms-office-with-ai-word-excel-powerpoint-chatgpt-gemini_411EBFC96A569422F519": {
+    "subscribers": 11245,
+    "reviews": 99,
+    "rating": "3.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": null
+  },
+  "microsoft-office-and-google-workspace-masterclass_42B8D4223D89D1E33814": {
+    "subscribers": 10636,
+    "reviews": 110,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": null
+  },
+  "ultimate-guide-to-canva-t-shirt-design-mastery-in-t-shirt_FA99E430CD0B3556F9D5": {
+    "subscribers": 21637,
+    "reviews": 91,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": null
+  },
+  "comprehensive-davinci-resolve-with-color-grading-masterclass_A35B9B2BD21347BA1F64": {
+    "subscribers": 25311,
+    "reviews": 164,
+    "rating": "3.7",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 39,
+      "end": "2026-12-09T07:51:00Z"
+    }
+  },
+  "blender-essential-from-beginner-to-3d-masterclass_BDC396CBC91D37C7AA50": {
+    "subscribers": 37105,
+    "reviews": 295,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 43,
+      "end": "2026-12-09T07:51:00Z"
+    }
+  },
+  "the-complete-photo-editing-masterclass-with-adobe-and-canva_BA2F8BE1068A1ADF1286": {
+    "subscribers": 31891,
+    "reviews": 172,
+    "rating": "4.2",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 55,
+      "end": "2026-12-09T07:51:00Z"
+    }
+  },
+  "ultimate-guide-to-creating-presentations-with-powerpoint_B06FE28CDA2991B9B330": {
+    "subscribers": 24028,
+    "reviews": 146,
+    "rating": "4.4",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": null
+  },
+  "excel-for-everyone-essential-skills-for-work-and-life_5EFC72739CB5FDF3F14D": {
+    "subscribers": 33245,
+    "reviews": 607,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": null
+  },
+  "adobe-after-effects-from-beginner-to-motion-master_9CBFC1A85B8D33486861": {
+    "subscribers": 24915,
+    "reviews": 138,
+    "rating": "4.4",
+    "price": "$29.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 51,
+      "end": "2026-12-09T07:59:00Z"
+    }
+  },
+  "advanced-adobe-after-effects-become-vfx-motion-expert_2358D07A7ACC16D9338D": {
+    "subscribers": 28184,
+    "reviews": 156,
+    "rating": "4.0",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 71,
+      "end": "2026-12-09T08:00:00Z"
+    }
+  },
+  "adobe-illustrator-essentials-design-like-a-pro-in-days_9B2818626E29DA1937E2": {
+    "subscribers": 26010,
+    "reviews": 151,
+    "rating": "4.3",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 69,
+      "end": "2026-12-09T07:59:00Z"
+    }
+  },
+  "ultimate-youtube-blueprint-proven-tactics-channel-success_AE2974AC5EF0B57FEA07": {
+    "subscribers": 29028,
+    "reviews": 171,
+    "rating": "4.2",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 49,
+      "end": "2026-12-09T07:59:00Z"
+    }
+  },
+  "adobe-illustrator-essentials-zero-to-hero-for-beginners_309AC3867F20C805FFBB": {
+    "subscribers": 26442,
+    "reviews": 147,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 69,
+      "end": "2026-12-09T07:59:00Z"
+    }
+  },
+  "advanced-adobe-premiere-pro-add-hollywood-level-effects_5268009F8E5D506D0C01": {
+    "subscribers": 27216,
+    "reviews": 124,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 65,
+      "end": "2026-12-09T08:00:00Z"
+    }
   }
 }
