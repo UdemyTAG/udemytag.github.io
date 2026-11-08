@@ -19492,5 +19492,266 @@
     "isFree": false,
     "instructors": "Vivian Aranha, School of AI, Arjun Vaid",
     "campaign": null
+  },
+  "your-words-powerful-tools_13THOCT26": {
+    "subscribers": 44335,
+    "reviews": 263,
+    "rating": "4.6",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 14,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "gratitude-w_13THOCT26": {
+    "subscribers": 22654,
+    "reviews": 239,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 36,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "investing-in-africa-key-factors-for-investors-to-consider_13THOCT26": {
+    "subscribers": 22999,
+    "reviews": 38,
+    "rating": "4.6",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 42,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "vigilant-leadership_13THOCT26": {
+    "subscribers": 39444,
+    "reviews": 1001,
+    "rating": "4.4",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 31,
+      "end": "2026-11-13T07:00:00Z"
+    }
+  },
+  "python-for-ai-masterclass-build-real-ai-apps-in-5-days_NOVFREE03": {
+    "subscribers": 1575,
+    "reviews": 6,
+    "rating": "3.4",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Siam Hossain, School of AI",
+    "campaign": null
+  },
+  "claude-ai-design-studio-visuals-slides-content_NOVFREE03": {
+    "subscribers": 1642,
+    "reviews": 9,
+    "rating": "3.7",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": null
+  },
+  "agentic-ai-for-beginners-build-smart-ai-agents-from-scratch-z_NOVFREE03": {
+    "subscribers": 1605,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": null
+  },
+  "fusion-360-for-beginners-design-real-world-products_NOVFREE03": {
+    "subscribers": 1254,
+    "reviews": 4,
+    "rating": "4.1",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Arjun Vaid, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 39,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "how-machine-learning-really-works_NOVFREE02": {
+    "subscribers": 1717,
+    "reviews": 4,
+    "rating": "4.6",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": null
+  },
+  "ai-fundamentals-for-business_NOVFREE03": {
+    "subscribers": 1778,
+    "reviews": 2,
+    "rating": "4.0",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": null
+  },
+  "quantum-computing-ai-bootcamp-build-future-ai-systems_NOVFREE03": {
+    "subscribers": 1559,
+    "reviews": 4,
+    "rating": "3.0",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": null
+  },
+  "microsoft-power-automate-with-ai-builder_NOVFREE03": {
+    "subscribers": 15507,
+    "reviews": 183,
+    "rating": "4.1",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Learning Technologies [112000+ Students]",
+    "campaign": {
+      "max": 100,
+      "rem": 78,
+      "end": "2026-12-03T08:00:00Z"
+    }
+  },
+  "ai-for-cybersecurity-masterclass-build-intelligent-security_NOVFREE03": {
+    "subscribers": 1534,
+    "reviews": 7,
+    "rating": "4.0",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": null
+  },
+  "advanced-rag-engineering-build-production-ready-enterprise_NOVFREE03": {
+    "subscribers": 1096,
+    "reviews": 4,
+    "rating": "4.0",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Arjun Vaid, School of AI",
+    "campaign": null
+  },
+  "learn-rpa-microsoft-power-automate-step-by-step_NOVFREE03": {
+    "subscribers": 3716,
+    "reviews": 195,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learning Technologies [112000+ Students]",
+    "campaign": {
+      "max": 100,
+      "rem": 74,
+      "end": "2026-12-03T08:00:00Z"
+    }
+  },
+  "100-days-of-quantum-computing-coding_NOVFREE03": {
+    "subscribers": 1250,
+    "reviews": 1,
+    "rating": "2.5",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "quantum-physics-to-quantum-computing-masterclass_NOVFREE03": {
+    "subscribers": 1229,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "100-web-development-projects-in-100-days_NOVFREE03": {
+    "subscribers": 1308,
+    "reviews": 1,
+    "rating": "4.0",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "100-projects-to-build-forward-deployed-engineers-portfolio_NOVFREE03": {
+    "subscribers": 1591,
+    "reviews": 8,
+    "rating": "1.8",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "ai-foundations-for-professionals_NOVFREE03": {
+    "subscribers": 904,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": {
+      "max": 100,
+      "rem": 15,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "enterprise-generative-ai-systems-on-microsoft-azure_NOVFREE03": {
+    "subscribers": 1182,
+    "reviews": 3,
+    "rating": "2.9",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "generative-ai-for-productivity_NOVFREE03": {
+    "subscribers": 919,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": {
+      "max": 100,
+      "rem": 4,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "ai-agents-for-business-build-ai-employees_NOVFREE03": {
+    "subscribers": 1268,
+    "reviews": 22,
+    "rating": "4.0",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": null
+  },
+  "100-days-of-aws-from-cloud-basics-to-real-world-mastery_NOVFREE03": {
+    "subscribers": 1201,
+    "reviews": 1,
+    "rating": "5.0",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "business-analytics-with-ai-chatgpt-claude-gemini-copilot_NOVFREE03": {
+    "subscribers": 1240,
+    "reviews": 4,
+    "rating": "4.8",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": null
   }
 }
