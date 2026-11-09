@@ -20135,5 +20135,298 @@
     "isFree": false,
     "instructors": "Abderrahmane Dakir",
     "campaign": null
+  },
+  "essential-workplace-first-aid-skills-for-employee-safety_7A1B8BC7E6F352E4B563": {
+    "subscribers": 870,
+    "reviews": 8,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Gilman Ahmed Chowdhury",
+    "campaign": null
+  },
+  "agile-mindset-learnit_OCTOBERFREE22026": {
+    "subscribers": 13310,
+    "reviews": 31,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 68,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "java-best-practices-learnit_OCTOBERFREE22026": {
+    "subscribers": 14202,
+    "reviews": 235,
+    "rating": "4.6",
+    "price": "$69.99",
+    "isFree": false,
+    "instructors": "Andrii Piatakha",
+    "campaign": null
+  },
+  "owasp-learnit_OCTOBERFREE22026": {
+    "subscribers": 30422,
+    "reviews": 791,
+    "rating": "4.7",
+    "price": "$74.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 53,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "code-reviews-learnit_OCTOBERFREE22026": {
+    "subscribers": 23212,
+    "reviews": 545,
+    "rating": "4.3",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 55,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "ai-for-customer-experience-learnit_OCTOBERFREE22026": {
+    "subscribers": 5468,
+    "reviews": 37,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 35,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "secure-code-java-spring-boot-learnit_OCTOBERFREE22026": {
+    "subscribers": 12373,
+    "reviews": 84,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 73,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "language-learning-with-ai-learnit_OCTOBERFREE22026": {
+    "subscribers": 6511,
+    "reviews": 39,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 26,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "customer-service-with-ai-learnit_OCTOBERFREE22026": {
+    "subscribers": 5921,
+    "reviews": 171,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Andrii Piatakha",
+    "campaign": null
+  },
+  "ai-for-customer-success-learnit_OCTOBERFREE22026": {
+    "subscribers": 4544,
+    "reviews": 22,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 55,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "owasp-llm-security-learnit_OCTOBERFREE22026": {
+    "subscribers": 11537,
+    "reviews": 255,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 2,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "ai-for-business-analysts-learnit_OCTOBERFREE22026": {
+    "subscribers": 6829,
+    "reviews": 162,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 12,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "owasp-security-learnit_OCTOBERFREE22026": {
+    "subscribers": 6261,
+    "reviews": 83,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 59,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "grasp-learnit_OCTOBERFREE22026": {
+    "subscribers": 3953,
+    "reviews": 3,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 73,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "12-factor-app-learnit_OCTOBERFREE22026": {
+    "subscribers": 1248,
+    "reviews": 3,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Andrii Piatakha",
+    "campaign": null
+  },
+  "java-development-for-beginners-learnit_OCTOBERFREE22026": {
+    "subscribers": 298523,
+    "reviews": 6444,
+    "rating": "4.4",
+    "price": "$99.99",
+    "isFree": false,
+    "instructors": "Andrii Piatakha, Learn IT University",
+    "campaign": null
+  },
+  "project-management-simulations-learnit_OCTOBERFREE22026": {
+    "subscribers": 822,
+    "reviews": 6,
+    "rating": "4.9",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Andrii Piatakha",
+    "campaign": null
+  },
+  "100-ai-agents_NOVFREE03": {
+    "subscribers": 56342,
+    "reviews": 1415,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Vivian Aranha, School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "certified_generative_ai_architect_with_knowledge_graphs_NOVFREE02": {
+    "subscribers": 19614,
+    "reviews": 103,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vivian Aranha, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 40,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "7-days-of-hands-on-ai-development-bootcamp_NOVFREE03": {
+    "subscribers": 43655,
+    "reviews": 432,
+    "rating": "4.6",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": null
+  },
+  "mastering-ai-on-aws-training-aws-certified-ai-practitioner_NOVFREE03": {
+    "subscribers": 48912,
+    "reviews": 834,
+    "rating": "4.4",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 54,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "rust-programming-bootcamp_NOVFREE03": {
+    "subscribers": 26256,
+    "reviews": 139,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 34,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "ai_powered_microservices_with_vibe_coding_NOVFREE02": {
+    "subscribers": 22422,
+    "reviews": 181,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vivian Aranha, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 71,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "mastering-context-design-for-intelligent-ai-agents_NOVFREE02": {
+    "subscribers": 24686,
+    "reviews": 215,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vivian Aranha, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 62,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "ai-for-all-r_NOVFREE03": {
+    "subscribers": 19185,
+    "reviews": 305,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vivian Aranha, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 31,
+      "end": "2026-12-03T00:00:00Z"
+    }
   }
 }
