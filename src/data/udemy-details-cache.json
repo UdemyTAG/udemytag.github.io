@@ -20104,5 +20104,36 @@
       "rem": 65,
       "end": "2026-12-09T08:00:00Z"
     }
+  },
+  "diploma-in-office-management_2FF261E5CD806207BF4D": {
+    "subscribers": 2941,
+    "reviews": 26,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
+  },
+  "fundamentals-of-scm_90671D6FB521351AB5D9": {
+    "subscribers": 3738,
+    "reviews": 53,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 34,
+      "end": "2026-12-09T17:43:00Z"
+    }
+  },
+  "pizza-e-commerce-in-python-django5-from-scratch_B20EC78832F741EBEB08": {
+    "subscribers": 9341,
+    "reviews": 29,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Abderrahmane Dakir",
+    "campaign": null
   }
 }
