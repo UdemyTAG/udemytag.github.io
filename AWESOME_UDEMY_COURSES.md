@@ -38,45 +38,45 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 
 | No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
 | :-: | :--- | :--- | :-: | :--- |
-| 1 | **Complete Guide to RPA Solution Architecture** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-guide-to-rpa-solution-architecture/) |
-| 2 | **Blue Prism Foundation Course Step By Step** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/blue-prism-foundation-course-step-by-step/) |
-| 3 | **Mind Power - Change Your Thought Process To Change Your Life** | `Personal Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/mind-power-change-your-thought-process-to-change-your-life/) |
-| 4 | **Next.JS Masterclass: Learn NextJS by Building Modern Web App** | `Development` | ⭐ 3.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/next-js-masterclass-learn-nextjs-by-building-modern-web-app/) |
-| 5 | **Scrum Master Course** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/scrum-master-course/) |
-| 6 | **Essential Excel With Tips Trick Shortcuts and Job Success** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-excel-with-tips-trick-shortcuts-and-job-success/) |
-| 7 | **Essential Canva Course for Graphics Design Learn in 2 Hour** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-canva-course-for-graphics-design-learn-in-2-hour/) |
-| 8 | **Learn ChatGPT, Midjourney, AI and Use it For Passive Income** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-chatgpt-midjourney-ai-and-use-it-for-passive-income/) |
-| 9 | **Adobe Premiere Pro CC For Video Editing - Novice to Expert** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-premiere-pro-cc-for-video-editing-novice-to-expert/) |
-| 10 | **Advanced MS Word Excel PowerPoint Course for Job Success** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-ms-word-excel-powerpoint-course-for-job-success/) |
-| 11 | **Adobe Photoshop Masterclass: Beginner to Pro Photo Editor** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-photoshop-masterclass-beginner-to-pro-photo-editor/) |
-| 12 | **Adobe Premiere Pro Made Easy: Step by Step Guide** | `Design` | ⭐ 3.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-premiere-pro-made-easy-step-by-step-guide/) |
-| 13 | **Web Design Course with HTML CSS and Wordpress** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/web-design-course-with-html-css-and-wordpress/) |
-| 14 | **Excel Charts & Graphs: Master Class Excel Charts & Graphs** | `Business` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/excel-charts-graphs-master-class-excel-charts-graphs/) |
-| 15 | **Excel VBA - Learn Visual Basic Macros - Beginner to Advanced** | `Business` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/excel-vba-learn-visual-basic-macros-beginner-to-advanced/) |
-| 16 | **Google Cloud Productivity: Docs, Forms, Sheets and Slides** | `IT & Software` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/google-cloud-productivity-docs-forms-sheets-and-slides/) |
-| 17 | **Complete UI/UX Design with Canva - Design Smart Interface** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-ui-ux-design-with-canva-design-smart-interface/) |
-| 18 | **Complete MS Office Course Masterclass: Beginner to Advanced** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-ms-office-course-masterclass-beginner-to-advanced/) |
-| 19 | **The Complete Capcut Course: Beginner to Pro** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-capcut-course-beginner-to-pro/) |
-| 20 | **The Ultimate Filmora Video Editing Course: Beginner to Pro** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-ultimate-filmora-video-editing-course-beginner-to-pro/) |
-| 21 | **Canva for Social Media Graphic Design and Video Editing** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/canva-for-social-media-graphic-design-and-video-editing/) |
-| 22 | **The Complete Guide to Instagram Marketing for Businesses** | `Business` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-guide-to-instagram-marketing-for-businesses/) |
-| 23 | **Learn Graphic Design with Photoshop Illustrator and InDesign** | `Design` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-graphic-design-with-photoshop-illustrator-and-indesign/) |
-| 24 | **Social Media Mastery Comprehensive Social Media Success** | `Marketing` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/social-media-mastery-comprehensive-social-media-success/) |
-| 25 | **Pro Photo Editing With Photoshop Illustrator Lightroom Canva** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/pro-photo-editing-with-photoshop-illustrator-lightroom-canva/) |
-| 26 | **Capcut Video Editing for Social Media Reels Shorts Videos** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/capcut-video-editing-for-social-media-reels-shorts-videos/) |
-| 27 | **People Management People Manager Qualification SHRM PMQ [EN]** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/people-management-people-manager-qualification-shrm-pmq-en/) |
-| 28 | **Estrategia de Marca Empleadora y Reclutamiento - 2025 [ES]** | `Development` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/estrategia-de-marca-empleadora-y-reclutamiento-2025-es/) |
-| 29 | **KPI Development: Build Effective Performance Systems [EN]** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/kpi-development-build-effective-performance-systems-en/) |
-| 30 | **CIPD Level 3: Complete preparation for HR certification [EN]** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/cipd-level-3-complete-preparation-for-hr-certification-en/) |
-| 31 | **Global Career Development: Get Hired and Work Abroad [EN]** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/global-career-development-get-hired-and-work-abroad-en/) |
-| 32 | **Managing HR Risks: Build a Safe and Resilient Company Team** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/managing-hr-risks-build-a-safe-and-resilient-company-team/) |
-| 33 | **Systems Thinking for Business: Solve Complex Problems** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/systems-thinking-for-business-solve-complex-problems/) |
-| 34 | **Adobe Animate: A Comprehensive Guide for Beginners to Pro** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-animate-a-comprehensive-guide-for-beginners-to-pro/) |
-| 35 | **Google Sheets Bootcamp Boost Productivity and Efficiency** | `Personal Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/google-sheets-bootcamp-boost-productivity-and-efficiency/) |
-| 36 | **Social Media Graphics Design and Video Editing in Canva** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/social-media-graphics-design-and-video-editing-in-canva/) |
-| 37 | **Product Owner Certification** | `Development` | ⭐ 4.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/product-owner-certification/) |
-| 38 | **Presentations with ChatGPT** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/presentations-with-chatgpt/) |
-| 39 | **Agile Coach Certification** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/agile-coach-certification/) |
-| 40 | **Scrum Master Certification Prep** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/scrum-master-certification-prep/) |
+| 1 | **Essential Lightroom Course for Beginner to Advanced** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-lightroom-course-for-beginner-to-advanced/) |
+| 2 | **Advanced Microsoft Word With Job Success** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-microsoft-word-with-job-success/) |
+| 3 | **Learn Blockchain and Crypto from Beginning** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-blockchain-and-crypto-from-beginning/) |
+| 4 | **jQuery - Complete jQuery Course From Beginner To Advanced** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/jquery-complete-jquery-course-from-beginner-to-advanced/) |
+| 5 | **Adobe Illustrator Course For Beginner** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-illustrator-course-for-beginner/) |
+| 6 | **Advanced Excel Course for Job and Real World** | `Business` | ⭐ 3.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-excel-course-for-job-and-real-world/) |
+| 7 | **Advanced PowerPoint Course For Professional and Job Success** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-powerpoint-course-for-professional-and-job-success/) |
+| 8 | **Complete Guide to RPA Solution Architecture** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-guide-to-rpa-solution-architecture/) |
+| 9 | **Blue Prism Foundation Course Step By Step** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/blue-prism-foundation-course-step-by-step/) |
+| 10 | **Scrum Master Course** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/scrum-master-course/) |
+| 11 | **Complete UI/UX Design with Canva - Design Smart Interface** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-ui-ux-design-with-canva-design-smart-interface/) |
+| 12 | **Complete MS Office Course Masterclass: Beginner to Advanced** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-ms-office-course-masterclass-beginner-to-advanced/) |
+| 13 | **The Complete Capcut Course: Beginner to Pro** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-capcut-course-beginner-to-pro/) |
+| 14 | **The Ultimate Filmora Video Editing Course: Beginner to Pro** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-ultimate-filmora-video-editing-course-beginner-to-pro/) |
+| 15 | **Canva for Social Media Graphic Design and Video Editing** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/canva-for-social-media-graphic-design-and-video-editing/) |
+| 16 | **The Complete Guide to Instagram Marketing for Businesses** | `Business` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-guide-to-instagram-marketing-for-businesses/) |
+| 17 | **Learn Graphic Design with Photoshop Illustrator and InDesign** | `Design` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-graphic-design-with-photoshop-illustrator-and-indesign/) |
+| 18 | **Social Media Mastery Comprehensive Social Media Success** | `Marketing` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/social-media-mastery-comprehensive-social-media-success/) |
+| 19 | **Pro Photo Editing With Photoshop Illustrator Lightroom Canva** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/pro-photo-editing-with-photoshop-illustrator-lightroom-canva/) |
+| 20 | **Capcut Video Editing for Social Media Reels Shorts Videos** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/capcut-video-editing-for-social-media-reels-shorts-videos/) |
+| 21 | **People Management People Manager Qualification SHRM PMQ [EN]** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/people-management-people-manager-qualification-shrm-pmq-en/) |
+| 22 | **Estrategia de Marca Empleadora y Reclutamiento - 2025 [ES]** | `Development` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/estrategia-de-marca-empleadora-y-reclutamiento-2025-es/) |
+| 23 | **KPI Development: Build Effective Performance Systems [EN]** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/kpi-development-build-effective-performance-systems-en/) |
+| 24 | **CIPD Level 3: Complete preparation for HR certification [EN]** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/cipd-level-3-complete-preparation-for-hr-certification-en/) |
+| 25 | **Global Career Development: Get Hired and Work Abroad [EN]** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/global-career-development-get-hired-and-work-abroad-en/) |
+| 26 | **Managing HR Risks: Build a Safe and Resilient Company Team** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/managing-hr-risks-build-a-safe-and-resilient-company-team/) |
+| 27 | **Systems Thinking for Business: Solve Complex Problems** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/systems-thinking-for-business-solve-complex-problems/) |
+| 28 | **Adobe Animate: A Comprehensive Guide for Beginners to Pro** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-animate-a-comprehensive-guide-for-beginners-to-pro/) |
+| 29 | **Google Sheets Bootcamp Boost Productivity and Efficiency** | `Personal Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/google-sheets-bootcamp-boost-productivity-and-efficiency/) |
+| 30 | **Social Media Graphics Design and Video Editing in Canva** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/social-media-graphics-design-and-video-editing-in-canva/) |
+| 31 | **Product Owner Certification** | `Development` | ⭐ 4.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/product-owner-certification/) |
+| 32 | **Presentations with ChatGPT** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/presentations-with-chatgpt/) |
+| 33 | **Agile Coach Certification** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/agile-coach-certification/) |
+| 34 | **Scrum Master Certification Prep** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/scrum-master-certification-prep/) |
+| 35 | **ChatGPT for Product Management & Innovation** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/chatgpt-for-product-management-innovation/) |
+| 36 | **Agile Trainer Certification** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/agile-trainer-certification/) |
+| 37 | **Interview & CV Mastery: From CV to Job Offer** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/interview-cv-mastery-from-cv-to-job-offer/) |
+| 38 | **The Complete CV Writing & Tailoring Masterclass** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-cv-writing-tailoring-masterclass/) |
+| 39 | **Professional Certificate in Agile and SCRUM** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/professional-certificate-in-agile-and-scrum/) |
+| 40 | **AI for Product Managers** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-for-product-managers/) |
 
 *Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*
