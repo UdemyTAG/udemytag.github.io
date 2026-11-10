@@ -21422,5 +21422,213 @@
     "isFree": false,
     "instructors": "School of AI",
     "campaign": null
+  },
+  "python-and-django-framework-and-html-5-complete-course-2022_50E168273D0A7BD057F5": {
+    "subscribers": 106883,
+    "reviews": 1253,
+    "rating": "4.4",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Horizon Tech",
+    "campaign": null
+  },
+  "c-programming-language-mastery-learn-c-from-scratch_D6C73FE7F8E827C4D206": {
+    "subscribers": 2834,
+    "reviews": 12,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "essential-lightroom-course-for-beginner-to-advanced_4A661E399398D1FC6034": {
+    "subscribers": 36199,
+    "reviews": 166,
+    "rating": "4.2",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Ben Kemp, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 78,
+      "end": "2026-12-11T05:23:00Z"
+    }
+  },
+  "c-modern-c-programming-language-made-easy_76A0D8DBBD3125A0AE2D": {
+    "subscribers": 2713,
+    "reviews": 7,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "advanced-microsoft-word-with-job-success_D94F1A054EB0EE1FE52C": {
+    "subscribers": 43095,
+    "reviews": 515,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 72,
+      "end": "2026-12-11T05:23:00Z"
+    }
+  },
+  "excel-data-analysis-data-management-for-business-careers_CB9788E5561B50F513A8": {
+    "subscribers": 1934,
+    "reviews": 8,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "chatgpt-masterclass-the-complete-guide-u_2A74F35B4B1FC749745F": {
+    "subscribers": 2382,
+    "reviews": 9,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "learn-blockchain-and-cryotp-from-beginning_7F8A23F271DBB668CCA2": {
+    "subscribers": 48509,
+    "reviews": 422,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 68,
+      "end": "2026-12-11T05:23:00Z"
+    }
+  },
+  "microsoft-excel-mastering-data-analysis-with-pivot-table_B85081445A4B36CDF4A4": {
+    "subscribers": 16729,
+    "reviews": 197,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "the-ultimate-sql-bootcamp-go-from-zero-to-hero_5F2EFD8CA4CC3FBCBD8B": {
+    "subscribers": 51332,
+    "reviews": 698,
+    "rating": "3.7",
+    "price": "$29.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": null
+  },
+  "jquery-complete-jquery-course-from-beginner-to-advanced_00B2B050B2B7EEE10DBA": {
+    "subscribers": 32413,
+    "reviews": 116,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 22,
+      "end": "2026-12-02T03:02:00Z"
+    }
+  },
+  "web-application-penetration-testing-for-beginners_5C7D36B72227C7E0C867": {
+    "subscribers": 554,
+    "reviews": 3,
+    "rating": "5.0",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Hassan Shafiq, Mavra Hassan",
+    "campaign": null
+  },
+  "microsoft-excel-pivot-tables-the-pivot-table-masterclass_86BA4A9DC4E1E6A27FFB": {
+    "subscribers": 12496,
+    "reviews": 77,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "mastering-excel-formulas-functions-beginner-to-advanced_1E8123A4613920C4D66E": {
+    "subscribers": 27758,
+    "reviews": 267,
+    "rating": "4.5",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "adobe-illustrator-course-for-beginner_40992215EE5E35F9222C": {
+    "subscribers": 51152,
+    "reviews": 558,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Ben Kemp, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 78,
+      "end": "2026-12-11T05:23:00Z"
+    }
+  },
+  "advanced-excel-course-for-job-and-real-world_41D107D3B3E08B53EA90": {
+    "subscribers": 60506,
+    "reviews": 808,
+    "rating": "3.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 65,
+      "end": "2026-12-11T05:23:00Z"
+    }
+  },
+  "advanced-powerpoint-course-for-professional-and-job-success_5262D5EE3E56DA74AB5C": {
+    "subscribers": 49748,
+    "reviews": 566,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 75,
+      "end": "2026-12-11T05:23:00Z"
+    }
+  },
+  "video-editing-with-chatgpt-adobe-premiere-pro-canva-capcut_0242C95D658DB708FD9A": {
+    "subscribers": 13430,
+    "reviews": 45,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": null
+  },
+  "complete-microsoft-office-word-excel-powerpoint-google-sheet_A8C1ECF118FB3EAAA90E": {
+    "subscribers": 14440,
+    "reviews": 217,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": null
+  },
+  "capcut-video-edit-with-ai-chatgpt-and-motion-cinematography_83597B40A0468AD025DB": {
+    "subscribers": 13460,
+    "reviews": 75,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": null
   }
 }
