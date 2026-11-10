@@ -21320,5 +21320,107 @@
     "isFree": false,
     "instructors": "Empower UK Employment Training",
     "campaign": null
+  },
+  "master-the-power-of-your-mind-to-be-more-successful_NOV2026FREE1": {
+    "subscribers": 107797,
+    "reviews": 1225,
+    "rating": "4.2",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Susmita Dutta, Ash Akshay Goel",
+    "campaign": {
+      "max": 100,
+      "rem": 47,
+      "end": "2026-12-10T04:05:00Z"
+    }
+  },
+  "nextjs-masterclass-learn-nextjs-by-building-modern-web-app_CD8CD511CBE364E45B5A": {
+    "subscribers": 4196,
+    "reviews": 7,
+    "rating": "3.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": 100,
+      "rem": 24,
+      "end": "2026-11-28T05:48:00Z"
+    }
+  },
+  "scrum-master-course_D8506D9314D482D407B0": {
+    "subscribers": 25180,
+    "reviews": 484,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vipesh Singla , MBA, Certified  SAFe Agile Coach",
+    "campaign": {
+      "max": 100,
+      "rem": 18,
+      "end": "2026-12-10T10:41:00Z"
+    }
+  },
+  "impact-coaching-for-personal-transformation_COACHING_NOV_FREE": {
+    "subscribers": 718,
+    "reviews": 2,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Chandan Lal Patary",
+    "campaign": null
+  },
+  "agentic-ai-for-leaders-orchestrating-human-machine-teams_NOVFREE03": {
+    "subscribers": 1496,
+    "reviews": 2,
+    "rating": "4.7",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": null
+  },
+  "supplychain-procurement-logistics_568DF30E489E1CF8A261": {
+    "subscribers": 3131,
+    "reviews": 56,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
+  },
+  "ai-governance-for-business-leaders-policy-to-practice_NOVFREE03": {
+    "subscribers": 1467,
+    "reviews": 1,
+    "rating": "5.0",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": null
+  },
+  "ai-in-90-days-a-leadership-bootcamp_NOVFREE03": {
+    "subscribers": 1441,
+    "reviews": 6,
+    "rating": "4.0",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": null
+  },
+  "pgd-fire-safety-management_3C8C76DB9D903F41BC50": {
+    "subscribers": 2299,
+    "reviews": 48,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
+  },
+  "2-week-ai-for-business-productivity-certification_NOVFREE03": {
+    "subscribers": 1497,
+    "reviews": 2,
+    "rating": "4.5",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": null
   }
 }
