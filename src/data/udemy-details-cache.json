@@ -21630,5 +21630,258 @@
     "isFree": false,
     "instructors": "Sustoab Soren",
     "campaign": null
+  },
+  "the-ultimate-microsoft-excel-essential-comprehensive-guide_F5A06C0D49509BF0B7F6": {
+    "subscribers": 40311,
+    "reviews": 710,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 51,
+      "end": "2026-12-11T06:56:00Z"
+    }
+  },
+  "the-ultimate-microsoft-word-essential-comprehensive-guide_27A42FD22D098D604173": {
+    "subscribers": 31109,
+    "reviews": 284,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 73,
+      "end": "2026-12-11T06:56:00Z"
+    }
+  },
+  "build-complete-2022-cms-blog-in-php-mysql-bootstrap-pdo_PHPBLOG86": {
+    "subscribers": 52178,
+    "reviews": 318,
+    "rating": "4.5",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": null
+  },
+  "t-shirt-design-for-beginner-to-expert-with-photoshop_8229F9C6F5EB81F016F4": {
+    "subscribers": 25926,
+    "reviews": 77,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 69,
+      "end": "2026-12-11T06:57:00Z"
+    }
+  },
+  "t-shirt-design-in-adobe-illustrator-for-beginner-to-advanced_48F12038E3D7C19E7B75": {
+    "subscribers": 23460,
+    "reviews": 71,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 66,
+      "end": "2026-12-11T06:57:00Z"
+    }
+  },
+  "advanced-ms-word-course-from-beginner-to-expert_076C24D816BAEB1A5288": {
+    "subscribers": 32839,
+    "reviews": 314,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 48,
+      "end": "2026-12-11T06:57:00Z"
+    }
+  },
+  "essential-after-effects-from-beginner-to-motion-master_37F4D03B462C7B1829E1": {
+    "subscribers": 31124,
+    "reviews": 173,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 29,
+      "end": "2026-12-11T07:25:00Z"
+    }
+  },
+  "mastering-adobe-premiere-pro-cc-from-beginner-to-pro-editor_775A6EDD03DCED8DB2B3": {
+    "subscribers": 32950,
+    "reviews": 187,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 50,
+      "end": "2026-12-11T07:25:00Z"
+    }
+  },
+  "t-shirt-design-bootcamp-photoshop-illustrator-canva_5EF028D1F49A7C3365A4": {
+    "subscribers": 24876,
+    "reviews": 89,
+    "rating": "4.2",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 61,
+      "end": "2026-12-11T07:25:00Z"
+    }
+  },
+  "global-human-resource_783D2397497EA43032FD": {
+    "subscribers": 7610,
+    "reviews": 149,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Academy of Genius Graduates",
+    "campaign": {
+      "max": 100,
+      "rem": 5,
+      "end": "2026-12-11T08:55:00Z"
+    }
+  },
+  "learn-canva-for-advance-graphics-design_A0CCF8417A3D28C837C8": {
+    "subscribers": 44316,
+    "reviews": 612,
+    "rating": "4.3",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 51,
+      "end": "2026-12-11T07:26:00Z"
+    }
+  },
+  "adobe-illustrator-for-everyone-design-like-a-pro_C32B6A7DE35772C63384": {
+    "subscribers": 34044,
+    "reviews": 185,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 21,
+      "end": "2026-12-11T07:26:00Z"
+    }
+  },
+  "essential-canva-for-graphics-design-to-boost-productivity_3D71D28F6ED7CB21236F": {
+    "subscribers": 41228,
+    "reviews": 530,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 49,
+      "end": "2026-12-11T07:26:00Z"
+    }
+  },
+  "retail-management-101_4B20131A605126570FAA": {
+    "subscribers": 7640,
+    "reviews": 60,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Academy of Genius Graduates",
+    "campaign": {
+      "max": 100,
+      "rem": 9,
+      "end": "2026-12-11T08:54:00Z"
+    }
+  },
+  "google-sheets-beginners-guide-2025-learn-fast-easy_E836F134652C71830CD4": {
+    "subscribers": 10811,
+    "reviews": 116,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Amadur Rahman, Academy of Genius Graduates",
+    "campaign": null
+  },
+  "no-oil-cooking-recipes-no-cholesterol-fat-free-food_NOV2026FREE1": {
+    "subscribers": 68553,
+    "reviews": 187,
+    "rating": "4.1",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Susmita Dutta, Ash Akshay Goel",
+    "campaign": {
+      "max": 100,
+      "rem": 31,
+      "end": "2026-12-11T10:39:00Z"
+    }
+  },
+  "human-resource_8120E45F84849E9D2178": {
+    "subscribers": 7751,
+    "reviews": 172,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Academy of Genius Graduates",
+    "campaign": {
+      "max": 100,
+      "rem": 63,
+      "end": "2026-12-11T08:54:00Z"
+    }
+  },
+  "anti-money-laundering-aml-kyc-compliance_6A1CB9A94A83B814D9EF": {
+    "subscribers": 5988,
+    "reviews": 113,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Academy of Genius Graduates",
+    "campaign": null
+  },
+  "project-cost-management-estimating-budgeting-earned-value_8FA02F0FBE65DD8D8CF4": {
+    "subscribers": 4486,
+    "reviews": 39,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Er. FAISAL ATHAR",
+    "campaign": null
+  },
+  "designated-safeguarding-lead-dsl-training_6837DD9CDAE34B5444C5": {
+    "subscribers": 2766,
+    "reviews": 44,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Academy of Genius Graduates",
+    "campaign": {
+      "max": 100,
+      "rem": 52,
+      "end": "2026-12-11T08:58:00Z"
+    }
+  },
+  "vision-board-blueprint-unlock-the-law-of-attraction_2F4DF8958EDD7A6C36EA": {
+    "subscribers": 5974,
+    "reviews": 24,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Academy of Genius Graduates",
+    "campaign": null
   }
 }
