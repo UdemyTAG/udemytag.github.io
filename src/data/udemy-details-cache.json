@@ -21883,5 +21883,194 @@
     "isFree": false,
     "instructors": "Academy of Genius Graduates",
     "campaign": null
+  },
+  "matlab-course-for-wireless-communication-engineering_18A25D2888C951253396": {
+    "subscribers": 15467,
+    "reviews": 181,
+    "rating": "4.4",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Dr. Khaled Ramadan",
+    "campaign": null
+  },
+  "100-days-of-quantum-computing-coding_NOVFREE02": {
+    "subscribers": 1350,
+    "reviews": 1,
+    "rating": "2.5",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "100-projects-to-build-forward-deployed-engineers-portfolio_NOVFREE02": {
+    "subscribers": 1689,
+    "reviews": 9,
+    "rating": "2.3",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "advanced-rag-engineering-build-production-ready-enterprise_NOVFREE02": {
+    "subscribers": 1190,
+    "reviews": 4,
+    "rating": "4.0",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Arjun Vaid, School of AI",
+    "campaign": null
+  },
+  "quantum-physics-to-quantum-computing-masterclass_NOVFREE02": {
+    "subscribers": 1319,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": {
+      "max": 100,
+      "rem": 15,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "ai-governance-and-security_NOVFREE03": {
+    "subscribers": 897,
+    "reviews": 2,
+    "rating": "5.0",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": {
+      "max": 100,
+      "rem": 17,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "business-analytics-with-ai-chatgpt-claude-gemini-copilot_NOVFREE02": {
+    "subscribers": 1340,
+    "reviews": 4,
+    "rating": "4.8",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": null
+  },
+  "ai-agents-for-business-build-ai-employees_NOVFREE02": {
+    "subscribers": 1382,
+    "reviews": 22,
+    "rating": "4.0",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": null
+  },
+  "ai-foundations-for-professionals_NOVFREE02": {
+    "subscribers": 1004,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": {
+      "max": 100,
+      "rem": 13,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "100-days-of-aws-from-cloud-basics-to-real-world-mastery_NOVFREE02": {
+    "subscribers": 1304,
+    "reviews": 1,
+    "rating": "5.0",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "generative-ai-for-productivity_NOVFREE02": {
+    "subscribers": 1020,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": {
+      "max": 100,
+      "rem": 18,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "viral-content-engine-create-marketing-people-want-to-share_NOVFREE03": {
+    "subscribers": 930,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": {
+      "max": 100,
+      "rem": 18,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "ai-for-business-leaders-r_NOVFREE03": {
+    "subscribers": 1013,
+    "reviews": 2,
+    "rating": "4.4",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": {
+      "max": 100,
+      "rem": 15,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "trendjacking-101-turn-viral-moments-into-brand-growth_NOVFREE03": {
+    "subscribers": 925,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": {
+      "max": 100,
+      "rem": 12,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "urban-waste-management_793E6B28ABF70D4DC582": {
+    "subscribers": 934,
+    "reviews": 23,
+    "rating": "4.7",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Green Courses",
+    "campaign": {
+      "max": 100,
+      "rem": 39,
+      "end": "2026-12-05T22:44:00Z"
+    }
+  },
+  "enterprise-generative-ai-systems-on-microsoft-azure_NOVFREE01": {
+    "subscribers": 1381,
+    "reviews": 3,
+    "rating": "2.9",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": {
+      "max": 100,
+      "rem": 21,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "high-converting-funnel-marketing-turn-clicks-into-customers_NOVFREE03": {
+    "subscribers": 863,
+    "reviews": 1,
+    "rating": "1.0",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
   }
 }
