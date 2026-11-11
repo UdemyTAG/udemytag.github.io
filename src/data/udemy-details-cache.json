@@ -22072,5 +22072,404 @@
     "isFree": false,
     "instructors": "School of AI, Arjun Vaid",
     "campaign": null
+  },
+  "graphics-design-videoediting-course_9B60737DEA6A078BD993": {
+    "subscribers": 47110,
+    "reviews": 391,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Nerding I/O, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 16,
+      "end": "2026-12-12T05:29:00Z"
+    }
+  },
+  "graphics-design-and-video-editing-course-for-beginner_AA390468E2D409ED9B21": {
+    "subscribers": 50144,
+    "reviews": 333,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Ben Kemp, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 11,
+      "end": "2026-12-12T05:29:00Z"
+    }
+  },
+  "adobe-premiere-pro-cc-video-editing-course-for-beginners_21108E04E68C75218241": {
+    "subscribers": 48206,
+    "reviews": 291,
+    "rating": "4.2",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Ben Kemp, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 28,
+      "end": "2026-12-12T05:30:00Z"
+    }
+  },
+  "adobe-graphics-design-video-editing_0672822AB3F45FB870AB": {
+    "subscribers": 47445,
+    "reviews": 332,
+    "rating": "4.4",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Ben Kemp, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 45,
+      "end": "2026-12-12T05:30:00Z"
+    }
+  },
+  "complete-microsoft-word-excel-powerpoint-course_B3C72D931863876F9B0E": {
+    "subscribers": 38203,
+    "reviews": 1038,
+    "rating": "4.3",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Nerding I/O, Zechariah Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 17,
+      "end": "2026-12-12T05:30:00Z"
+    }
+  },
+  "web-design-for-beginner-to-advanced_AB5E40A2E3837BC5F4ED": {
+    "subscribers": 44631,
+    "reviews": 704,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Manuel Tudu",
+    "campaign": {
+      "max": 100,
+      "rem": 61,
+      "end": "2026-12-12T05:30:00Z"
+    }
+  },
+  "unlock-excels-power-essential-ms-excel-skills-for-success_E05FC38143E233F0F686": {
+    "subscribers": 32816,
+    "reviews": 551,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 3,
+      "end": "2026-12-12T06:41:00Z"
+    }
+  },
+  "kimi-k3-for-absolute-beginners_NOVFREE01": {
+    "subscribers": 1493,
+    "reviews": 4,
+    "rating": "2.2",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-12T08:00:00Z"
+    }
+  },
+  "python-for-absolute-beginners-a-free-2-hour-crash-course_PYTHON2026": {
+    "subscribers": 3506,
+    "reviews": 142,
+    "rating": "4.4",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Abul Hossain",
+    "campaign": null
+  },
+  "learn-advanced-excel-formulas-functions-vba-macros_D57D5FCD7A224F22F01D": {
+    "subscribers": 41316,
+    "reviews": 559,
+    "rating": "4.4",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 62,
+      "end": "2026-12-12T06:40:00Z"
+    }
+  },
+  "ultimate-freelancing-course-from-beginner-to-expert-success_A03862D709DD9963C686": {
+    "subscribers": 22724,
+    "reviews": 114,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-12T08:00:00Z"
+    }
+  },
+  "figma-essential-for-user-interface-and-user-experience-ui-ux_04B4E16B8A5A92621E26": {
+    "subscribers": 51268,
+    "reviews": 1187,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 20,
+      "end": "2026-12-12T06:40:00Z"
+    }
+  },
+  "complete-guide-to-python-data-analysis-with-real-datasets_5FD8B5907B2A72F5B694": {
+    "subscribers": 5959,
+    "reviews": 37,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Brighter Futures Hub",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-12T08:00:00Z"
+    }
+  },
+  "understanding-typescript-for-beginner-to-advanced_ECAEB8625305583F77AB": {
+    "subscribers": 24311,
+    "reviews": 105,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Knowledge Nest",
+    "campaign": {
+      "max": 100,
+      "rem": 12,
+      "end": "2026-11-14T04:07:00Z"
+    }
+  },
+  "master-the-blender-for-game-art-film-design_EFE66BF062A1B4AE0604": {
+    "subscribers": 33839,
+    "reviews": 204,
+    "rating": "4.2",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 17,
+      "end": "2026-12-12T07:56:00Z"
+    }
+  },
+  "postgresql-bootcamp-complete-beginner-to-advanced-course_CCEB033D98C1099E1C47": {
+    "subscribers": 33493,
+    "reviews": 266,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Knowledge Nest",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-12T08:00:00Z"
+    }
+  },
+  "html-and-css-for-beginners-from-basic-to-advance_320E5F871E62D14B98CE": {
+    "subscribers": 47965,
+    "reviews": 1363,
+    "rating": "4.5",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-12T08:00:00Z"
+    }
+  },
+  "beginner-guide-to-learn-t-shirt-design-with-photoshop_0CA1A73BB3EC6FB402A3": {
+    "subscribers": 26007,
+    "reviews": 78,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 67,
+      "end": "2026-12-12T06:41:00Z"
+    }
+  },
+  "django-masterclass-get-started-with-django-web-development_D40900A4CEBFF2720BD7": {
+    "subscribers": 37594,
+    "reviews": 198,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Knowledge Nest",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-12T08:00:00Z"
+    }
+  },
+  "t-shirt-design-in-adobe-illustrator-beginner-guide-to-expert_877FA4E0056C8A7C248E": {
+    "subscribers": 20459,
+    "reviews": 108,
+    "rating": "4.4",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 57,
+      "end": "2026-12-12T06:41:00Z"
+    }
+  },
+  "mastering-microsoft-excel-a-comprehensive-guide-to-boost-you_4EAE4FEC7E71F42F2187": {
+    "subscribers": 37511,
+    "reviews": 885,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-12T08:00:00Z"
+    }
+  },
+  "graphic-design-masterclass-bootcamp-from-beginner-to-expert_6CF6D2BDCC3DA82F1C9D": {
+    "subscribers": 35799,
+    "reviews": 277,
+    "rating": "4.4",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-12T08:00:00Z"
+    }
+  },
+  "project-based-professional-photoshop_730374102FFAF51D8DC7": {
+    "subscribers": 31540,
+    "reviews": 111,
+    "rating": "3.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 70,
+      "end": "2026-12-12T07:57:00Z"
+    }
+  },
+  "adobe-illustrator-cc-masterpiece-unleashing-creative-magic_E2B639F9776EB80554C2": {
+    "subscribers": 36359,
+    "reviews": 243,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 43,
+      "end": "2026-12-12T07:57:00Z"
+    }
+  },
+  "canva-for-graphics-design-and-video-editing-masterclass_B02E60F0E0A974F8FBB0": {
+    "subscribers": 40909,
+    "reviews": 557,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-12T08:00:00Z"
+    }
+  },
+  "professional-graphics-design-video-editing-course-with-project_37771CA7CAB54105D4DA": {
+    "subscribers": 30962,
+    "reviews": 152,
+    "rating": "4.2",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 47,
+      "end": "2026-12-12T07:57:00Z"
+    }
+  },
+  "python-for-beginners-course-_19B1E7045E6C2625B5EA": {
+    "subscribers": 283167,
+    "reviews": 2223,
+    "rating": "4.2",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Horizon Tech",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-12T08:00:00Z"
+    }
+  },
+  "css-javascript-and-php-complete-course-for-beginners_D3B5A00463DD5828E1B4": {
+    "subscribers": 126329,
+    "reviews": 1469,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "PROPER DOT INSTITUTE",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-12T08:00:00Z"
+    }
+  },
+  "microsoft-excel-the-complete-excel-data-analysis-course_C2C9B7888BC8FC37FAD9": {
+    "subscribers": 23102,
+    "reviews": 544,
+    "rating": "3.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-12T08:00:00Z"
+    }
+  },
+  "excel-learn-excel-course-from-beginners-to-advanced_8C8A3FDB32FA103177EF": {
+    "subscribers": 26531,
+    "reviews": 587,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-12T08:00:00Z"
+    }
+  },
+  "microsoft-office-training-master-excel-powerpoint-word_411ECFCBA899A6778A84": {
+    "subscribers": 14874,
+    "reviews": 205,
+    "rating": "4.2",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-12T08:00:00Z"
+    }
   }
 }
