@@ -38,45 +38,45 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 
 | No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
 | :-: | :--- | :--- | :-: | :--- |
-| 1 | **Essential Photoshop Course for Beginner To Advanced** | `Design` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-photoshop-course-for-beginner-to-advanced/) |
-| 2 | **Graphics Design and Video Editing Course for Beginner** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/graphics-design-and-video-editing-course-for-beginner/) |
-| 3 | **Adobe Premiere Pro CC Video Editing  Course For Beginners** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-premiere-pro-cc-video-editing-course-for-beginners/) |
-| 4 | **Essential Photoshop Course Beginner to Intermediate** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-photoshop-course-beginner-to-intermediate/) |
-| 5 | **Complete Microsoft Word Excel PowerPoint Course** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-microsoft-word-excel-powerpoint-course/) |
-| 6 | **Web Design Course For Beginner to Advanced** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/web-design-course-for-beginner-to-advanced/) |
-| 7 | **Unlock Excel's Power: Essential MS Excel Skills for Success** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/unlock-excel-s-power-essential-ms-excel-skills-for-success/) |
-| 8 | **Learn Advanced Excel: Formulas, Functions, VBA Macros** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-advanced-excel-formulas-functions-vba-macros/) |
-| 9 | **Figma Essential for User Interface and User Experience UI UX** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/figma-essential-for-user-interface-and-user-experience-ui-ux/) |
-| 10 | **Understanding TypeScript For Beginner To Advanced** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/understanding-typescript-for-beginner-to-advanced/) |
-| 11 | **Master the Blender for Game Art, Film & Design** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-the-blender-for-game-art-film-design/) |
-| 12 | **Beginner Guide to Learn T-Shirt Design With Photoshop** | `Design` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/beginner-guide-to-learn-t-shirt-design-with-photoshop/) |
-| 13 | **T-Shirt Design in Adobe Illustrator Beginner Guide to Expert** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/t-shirt-design-in-adobe-illustrator-beginner-guide-to-expert/) |
-| 14 | **Creative Brilliance Project Based Professional Photoshop** | `Design` | ⭐ 3.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/creative-brilliance-project-based-professional-photoshop/) |
-| 15 | **Adobe Illustrator CC Masterpiece: Unleashing Creative Magic** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-illustrator-cc-masterpiece-unleashing-creative-magic/) |
-| 16 | **Professional Project Based Graphics Design & Video Editing** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/professional-project-based-graphics-design-video-editing/) |
-| 17 | **Blue Prism Foundation Course Step By Step** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/blue-prism-foundation-course-step-by-step/) |
-| 18 | **AB-100: Microsoft Agentic AI Business Solutions Architect** | `Business` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/ab-100-microsoft-agentic-ai-business-solutions-architect/) |
-| 19 | **AB-620 : Microsoft Copilot Studio & Power Automate Exam Prep** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/ab-620-microsoft-copilot-studio-power-automate-exam-prep/) |
-| 20 | **Microsoft Power Automate Desktop - Zero to Expert : Part 2** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/microsoft-power-automate-desktop-zero-to-expert-part-2/) |
-| 21 | **Advanced RPA - Microsoft Power Automate With AI Builder** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-rpa-microsoft-power-automate-with-ai-builder/) |
-| 22 | **The Complete Claude Code Masterclass [2026]** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-claude-code-masterclass-2026/) |
-| 23 | **Complete Guide to RPA Solution Architecture** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-guide-to-rpa-solution-architecture/) |
-| 24 | **Urban Waste Management** | `Business` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/urban-waste-management/) |
-| 25 | **The Ultimate Microsoft Word: Essential Comprehensive Guide** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-ultimate-microsoft-word-essential-comprehensive-guide/) |
-| 26 | **T-Shirt Design for Beginner to Expert With Photoshop** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/t-shirt-design-for-beginner-to-expert-with-photoshop/) |
-| 27 | **T-Shirt Design In Adobe Illustrator for Beginner to Advanced** | `Design` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/t-shirt-design-in-adobe-illustrator-for-beginner-to-advanced/) |
-| 28 | **Advanced MS Word Course from Beginner to Expert** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-ms-word-course-from-beginner-to-expert/) |
-| 29 | **T-Shirt Design Bootcamp: Photoshop, Illustrator & Canva** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/t-shirt-design-bootcamp-photoshop-illustrator-canva/) |
-| 30 | **No Oil Cooking Recipes - Eat Healthy! Live Strong!** | `Personal Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/no-oil-cooking-recipes-eat-healthy-live-strong/) |
-| 31 | **Introduction to HR(Human Resource)** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/introduction-to-hr-human-resource/) |
-| 32 | **Designated Safeguarding Lead (DSL) Training in Education** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/designated-safeguarding-lead-dsl-training-in-education/) |
-| 33 | **Essential Lightroom Course for Beginner to Advanced** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-lightroom-course-for-beginner-to-advanced/) |
-| 34 | **Advanced Microsoft Word With Job Success** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-microsoft-word-with-job-success/) |
-| 35 | **Learn Blockchain and Crypto from Beginning** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-blockchain-and-crypto-from-beginning/) |
-| 36 | **Adobe Illustrator Course For Beginner** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-illustrator-course-for-beginner/) |
-| 37 | **Adobe Animate: A Comprehensive Guide for Beginners to Pro** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-animate-a-comprehensive-guide-for-beginners-to-pro/) |
-| 38 | **Google Sheets Bootcamp Boost Productivity and Efficiency** | `Personal Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/google-sheets-bootcamp-boost-productivity-and-efficiency/) |
-| 39 | **Product Owner Certification** | `Development` | ⭐ 4.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/product-owner-certification/) |
-| 40 | **Presentations with ChatGPT** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/presentations-with-chatgpt/) |
+| 1 | **Essential Canva Course for Graphics Design Learn in 2 Hour** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-canva-course-for-graphics-design-learn-in-2-hour/) |
+| 2 | **Adobe Premiere Pro CC For Video Editing - Novice to Expert** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-premiere-pro-cc-for-video-editing-novice-to-expert/) |
+| 3 | **Adobe Premiere Pro Made Easy: Step by Step Guide** | `Design` | ⭐ 3.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-premiere-pro-made-easy-step-by-step-guide/) |
+| 4 | **Adobe Photoshop Masterclass: Beginner to Pro Photo Editor** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-photoshop-masterclass-beginner-to-pro-photo-editor/) |
+| 5 | **Excel Charts & Graphs: Master Class Excel Charts & Graphs** | `Business` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/excel-charts-graphs-master-class-excel-charts-graphs/) |
+| 6 | **Web Design Course with HTML CSS and Wordpress** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/web-design-course-with-html-css-and-wordpress/) |
+| 7 | **Google Cloud Productivity: Docs, Forms, Sheets and Slides** | `IT & Software` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/google-cloud-productivity-docs-forms-sheets-and-slides/) |
+| 8 | **Excel VBA - Learn Visual Basic Macros - Beginner to Advanced** | `Business` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/excel-vba-learn-visual-basic-macros-beginner-to-advanced/) |
+| 9 | **Complete UI/UX Design with Canva - Design Smart Interface** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-ui-ux-design-with-canva-design-smart-interface/) |
+| 10 | **The Complete Guide to Instagram Marketing for Businesses** | `Business` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-guide-to-instagram-marketing-for-businesses/) |
+| 11 | **Social Media Mastery Comprehensive Social Media Success** | `Marketing` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/social-media-mastery-comprehensive-social-media-success/) |
+| 12 | **Pro Photo Editing With Photoshop Illustrator Lightroom Canva** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/pro-photo-editing-with-photoshop-illustrator-lightroom-canva/) |
+| 13 | **People Management People Manager Qualification SHRM PMQ [EN]** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/people-management-people-manager-qualification-shrm-pmq-en/) |
+| 14 | **Estrategia de Marca Empleadora y Reclutamiento - 2025 [ES]** | `Development` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/estrategia-de-marca-empleadora-y-reclutamiento-2025-es/) |
+| 15 | **CIPD Level 3: Complete preparation for HR certification [EN]** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/cipd-level-3-complete-preparation-for-hr-certification-en/) |
+| 16 | **KPI Development: Build Effective Performance Systems [EN]** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/kpi-development-build-effective-performance-systems-en/) |
+| 17 | **Global Career Development: Get Hired and Work Abroad [EN]** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/global-career-development-get-hired-and-work-abroad-en/) |
+| 18 | **Managing HR Risks: Build a Safe and Resilient Company Team** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/managing-hr-risks-build-a-safe-and-resilient-company-team/) |
+| 19 | **Negotiation A-Z - Inside Secrets from a Master Negotiator** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/negotiation-a-z-inside-secrets-from-a-master-negotiator/) |
+| 20 | **Essential Photoshop Course for Beginner To Advanced** | `Design` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-photoshop-course-for-beginner-to-advanced/) |
+| 21 | **Graphics Design and Video Editing Course for Beginner** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/graphics-design-and-video-editing-course-for-beginner/) |
+| 22 | **Adobe Premiere Pro CC Video Editing  Course For Beginners** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-premiere-pro-cc-video-editing-course-for-beginners/) |
+| 23 | **Essential Photoshop Course Beginner to Intermediate** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-photoshop-course-beginner-to-intermediate/) |
+| 24 | **Complete Microsoft Word Excel PowerPoint Course** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-microsoft-word-excel-powerpoint-course/) |
+| 25 | **Web Design Course For Beginner to Advanced** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/web-design-course-for-beginner-to-advanced/) |
+| 26 | **Unlock Excel's Power: Essential MS Excel Skills for Success** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/unlock-excel-s-power-essential-ms-excel-skills-for-success/) |
+| 27 | **Learn Advanced Excel: Formulas, Functions, VBA Macros** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-advanced-excel-formulas-functions-vba-macros/) |
+| 28 | **Figma Essential for User Interface and User Experience UI UX** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/figma-essential-for-user-interface-and-user-experience-ui-ux/) |
+| 29 | **Understanding TypeScript For Beginner To Advanced** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/understanding-typescript-for-beginner-to-advanced/) |
+| 30 | **Master the Blender for Game Art, Film & Design** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-the-blender-for-game-art-film-design/) |
+| 31 | **Beginner Guide to Learn T-Shirt Design With Photoshop** | `Design` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/beginner-guide-to-learn-t-shirt-design-with-photoshop/) |
+| 32 | **T-Shirt Design in Adobe Illustrator Beginner Guide to Expert** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/t-shirt-design-in-adobe-illustrator-beginner-guide-to-expert/) |
+| 33 | **Creative Brilliance Project Based Professional Photoshop** | `Design` | ⭐ 3.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/creative-brilliance-project-based-professional-photoshop/) |
+| 34 | **Adobe Illustrator CC Masterpiece: Unleashing Creative Magic** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-illustrator-cc-masterpiece-unleashing-creative-magic/) |
+| 35 | **Professional Project Based Graphics Design & Video Editing** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/professional-project-based-graphics-design-video-editing/) |
+| 36 | **The Ultimate Microsoft Word: Essential Comprehensive Guide** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-ultimate-microsoft-word-essential-comprehensive-guide/) |
+| 37 | **T-Shirt Design for Beginner to Expert With Photoshop** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/t-shirt-design-for-beginner-to-expert-with-photoshop/) |
+| 38 | **T-Shirt Design In Adobe Illustrator for Beginner to Advanced** | `Design` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/t-shirt-design-in-adobe-illustrator-for-beginner-to-advanced/) |
+| 39 | **Advanced MS Word Course from Beginner to Expert** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-ms-word-course-from-beginner-to-expert/) |
+| 40 | **T-Shirt Design Bootcamp: Photoshop, Illustrator & Canva** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/t-shirt-design-bootcamp-photoshop-illustrator-canva/) |
 
 *Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*
