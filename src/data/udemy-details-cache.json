@@ -22931,5 +22931,32 @@
     "isFree": false,
     "instructors": "Md. Aliful Islam",
     "campaign": null
+  },
+  "psychology-diploma-course-sample-semester-sample-module_SC02JQ1T3YBM": {
+    "subscribers": 1713,
+    "reviews": 41,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Prf. Dr. Bilal Semih Bozdemir",
+    "campaign": null
+  },
+  "things-to-know-about-psychological-counseling_SCYJEA6TIS0Q": {
+    "subscribers": 1094,
+    "reviews": 11,
+    "rating": "4.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Prf. Dr. Bilal Semih Bozdemir",
+    "campaign": null
+  },
+  "become-expert-in-claude-ai-2026_NOVFREE02": {
+    "subscribers": 1833,
+    "reviews": 11,
+    "rating": "4.7",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [112000+ Students]",
+    "campaign": null
   }
 }

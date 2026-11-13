@@ -39,21 +39,12 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 | No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
 | :-: | :--- | :--- | :-: | :--- |
 | 1 | **American English Vowels for Chinese Professionals** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/american-english-vowels-for-chinese-professionals/) |
-| 2 | **Supplementary University Approved Certificate Course** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/supplementary-university-approved-certificate-course/) |
-| 3 | **Bootcamp AZ-900: Microsoft Azure Fundamentals Course** | `IT & Software` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/bootcamp-az-900-microsoft-azure-fundamentals-course/) |
-| 4 | **Postgraduate Diploma in Supply Chain & Operations Management** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/postgraduate-diploma-in-supply-chain-operations-management/) |
-| 5 | **Research Methods in Psychology University Approved  Certific** | `Personal Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/research-methods-in-psychology-university-approved-certific/) |
-| 6 | **Researches and Ethics for Psychology and Philosophy Universi** | `Personal Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/researches-and-ethics-for-psychology-and-philosophy-universi/) |
-| 7 | **Science of Psychology University Approved Certificate Course** | `Personal Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/science-of-psychology-university-approved-certificate-course/) |
-| 8 | **Social Development and Social Psychology Approved Certificat** | `Personal Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/social-development-and-social-psychology-approved-certificat/) |
-| 9 | **Tips on Mental Health University Approved Certificate Course** | `Personal Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/tips-on-mental-health-university-approved-certificate-course/) |
-| 10 | **Time Management Mastery: Achieve More in Less Time** | `Business` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/time-management-mastery-achieve-more-in-less-time/) |
-| 11 | **Social Psychology Course University Approved  Certificate Co** | `Personal Development` | ⭐ 3.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/social-psychology-course-university-approved-certificate-co/) |
-| 12 | **P.O.W.E.R Resume System: Proven system to get job interviews** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/p-o-w-e-r-resume-system-proven-system-to-get-job-interviews/) |
-| 13 | **The Art and Science of Meditation University Approved Certif** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-art-and-science-of-meditation-university-approved-certif/) |
-| 14 | **Understanding Human Psychology University Approved Certifica** | `Personal Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/understanding-human-psychology-university-approved-certifica/) |
-| 15 | **The Importance of Chakras in Human Energy University Diploma** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-importance-of-chakras-in-human-energy-university-diploma/) |
-| 16 | **Work and Organizational Psychology Tips for Business Success** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/work-and-organizational-psychology-tips-for-business-success/) |
-| 17 | **Tricks of Clinical Psychology University Approved Certificat** | `Personal Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/tricks-of-clinical-psychology-university-approved-certificat/) |
+| 2 | **Psychology Course Sample Semester Sample Module University** | `Personal Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/psychology-course-sample-semester-sample-module-university/) |
+| 3 | **Psychological Counseling University Approved Certificate Cou** | `Development` | ⭐ 4.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/psychological-counseling-university-approved-certificate-cou/) |
+| 4 | **Microsoft Copilot Studio +MS Foundry + Claude Code (Demo)** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/microsoft-copilot-studio-ms-foundry-claude-code-demo/) |
+| 5 | **Become Master in UiPath World** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/become-master-in-uipath-world/) |
+| 6 | **Become master in Claude AI [2026]** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/become-master-in-claude-ai-2026/) |
+| 7 | **Bootcamp AZ-900: Microsoft Azure Fundamentals Course** | `IT & Software` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/bootcamp-az-900-microsoft-azure-fundamentals-course/) |
+| 8 | **P.O.W.E.R Resume System: Proven system to get job interviews** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/p-o-w-e-r-resume-system-proven-system-to-get-job-interviews/) |
 
 *Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*
