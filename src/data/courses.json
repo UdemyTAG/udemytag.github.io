@@ -1,6 +1,28 @@
 [
   {
-    "id": "course-5",
+    "id": "course-1",
+    "slug": "american-english-vowels-for-chinese-professionals",
+    "title": "American English Vowels for Chinese Professionals",
+    "url": "https://www.udemy.com/course/vowels-for-advanced-chinese-learners-of-american-english/?couponCode=REALDINOV26",
+    "image": "https://img-c.udemycdn.com/course/240x135/1837892_b71f_3.jpg",
+    "category": "Development",
+    "coupon": "REALDINOV26",
+    "instructor": "Sheila Lebedenko",
+    "originalPrice": "$69.99",
+    "discountPrice": "Free",
+    "rating": "4.7",
+    "subscribers": 10807,
+    "reviews": 85,
+    "isFree": true,
+    "isExpired": false,
+    "claimedCount": 63,
+    "quota": 100,
+    "remainingSlots": 37,
+    "description": "American Vowels for Advanced Students with a Chinese Language Background",
+    "expiryDate": "13/11/2026 6:23:48"
+  },
+  {
+    "id": "course-8",
     "slug": "supplementary-university-approved-certificate-course",
     "title": "Supplementary University Approved Certificate Course",
     "url": "https://www.udemy.com/course/psychology-diploma-course/?couponCode=SCNRDCYI2LUG",
@@ -22,7 +44,51 @@
     "expiryDate": "13/11/2026 0:27:47"
   },
   {
-    "id": "course-1",
+    "id": "course-2",
+    "slug": "bootcamp-az-900-microsoft-azure-fundamentals-course",
+    "title": "Bootcamp AZ-900: Microsoft Azure Fundamentals Course",
+    "url": "https://www.udemy.com/course/bootcamp-az-900-microsoft-azure-fundamentals/?couponCode=C11E7F7101185DF49E67",
+    "image": "https://img-c.udemycdn.com/course/240x135/7126561_0c10_10.jpg",
+    "category": "IT & Software",
+    "coupon": "C11E7F7101185DF49E67",
+    "instructor": "Codaming • 300k+ Learners Worldwide, Dinesh Kumar, Vedika Singh",
+    "originalPrice": "Free",
+    "discountPrice": "Free",
+    "rating": "4.5",
+    "subscribers": 8691,
+    "reviews": 175,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Bootcamp AZ-900: Microsoft Azure Fundamentals Course | AZ-900, Microsoft Azure Fundamentals AZ900, Azure AZ900, AZ-900",
+    "expiryDate": "13/11/2026 6:23:48"
+  },
+  {
+    "id": "course-3",
+    "slug": "postgraduate-diploma-in-supply-chain-operations-management",
+    "title": "Postgraduate Diploma in Supply Chain & Operations Management",
+    "url": "https://www.udemy.com/course/pgd-in-scom/?couponCode=FC7215642ECDB362F2DB",
+    "image": "https://img-c.udemycdn.com/course/240x135/6609829_4ec7_2.jpg",
+    "category": "Business",
+    "coupon": "FC7215642ECDB362F2DB",
+    "instructor": "Md. Aliful Islam",
+    "originalPrice": "$19.99",
+    "discountPrice": "$19.99",
+    "rating": "4.5",
+    "subscribers": 3056,
+    "reviews": 54,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Master Global Supply Chain & Operations Management: Inventory, Logistics, Procurement, Lean, Six Sigma & SCM Strategies",
+    "expiryDate": "13/11/2026 6:23:48"
+  },
+  {
+    "id": "course-4",
     "slug": "research-methods-in-psychology-university-approved-certific",
     "title": "Research Methods in Psychology University Approved  Certific",
     "url": "https://www.udemy.com/course/research-methods-in-psychology-course/?couponCode=SCS487NQ8O9L",
@@ -44,7 +110,7 @@
     "expiryDate": "13/11/2026 0:27:47"
   },
   {
-    "id": "course-2",
+    "id": "course-5",
     "slug": "researches-and-ethics-for-psychology-and-philosophy-universi",
     "title": "Researches and Ethics for Psychology and Philosophy Universi",
     "url": "https://www.udemy.com/course/psychology-diploma-course-semester-4-module-2/?couponCode=SCQIDY7GX9VO",
@@ -66,7 +132,7 @@
     "expiryDate": "13/11/2026 0:27:47"
   },
   {
-    "id": "course-3",
+    "id": "course-6",
     "slug": "science-of-psychology-university-approved-certificate-course",
     "title": "Science of Psychology University Approved Certificate Course",
     "url": "https://www.udemy.com/course/a-different-look-at-the-science-of-psychology/?couponCode=SC5Q8DG80XAR",
@@ -88,7 +154,7 @@
     "expiryDate": "13/11/2026 0:27:47"
   },
   {
-    "id": "course-4",
+    "id": "course-7",
     "slug": "social-development-and-social-psychology-approved-certificat",
     "title": "Social Development and Social Psychology Approved Certificat",
     "url": "https://www.udemy.com/course/psychology-diploma-course-semester-5-module-3/?couponCode=SC9BY1A5V8DB",
@@ -110,7 +176,7 @@
     "expiryDate": "13/11/2026 0:27:47"
   },
   {
-    "id": "course-6",
+    "id": "course-9",
     "slug": "tips-on-mental-health-university-approved-certificate-course",
     "title": "Tips on Mental Health University Approved Certificate Course",
     "url": "https://www.udemy.com/course/psychology-diploma-course-semester-3-module-5/?couponCode=SCS505B1N8J9",
@@ -132,7 +198,7 @@
     "expiryDate": "13/11/2026 0:27:47"
   },
   {
-    "id": "course-7",
+    "id": "course-10",
     "slug": "time-management-mastery-achieve-more-in-less-time",
     "title": "Time Management Mastery: Achieve More in Less Time",
     "url": "https://www.udemy.com/course/comprehensive-time-management-and-improve-productivity/?couponCode=SCIGZ5U8Y252",
@@ -154,7 +220,7 @@
     "expiryDate": "13/11/2026 0:27:47"
   },
   {
-    "id": "course-8",
+    "id": "course-11",
     "slug": "social-psychology-course-university-approved-certificate-co",
     "title": "Social Psychology Course University Approved  Certificate Co",
     "url": "https://www.udemy.com/course/social-psychology-course/?couponCode=SCUQ71QWD5TK",
@@ -176,7 +242,7 @@
     "expiryDate": "13/11/2026 0:27:47"
   },
   {
-    "id": "course-9",
+    "id": "course-12",
     "slug": "p-o-w-e-r-resume-system-proven-system-to-get-job-interviews",
     "title": "P.O.W.E.R Resume System: Proven system to get job interviews",
     "url": "https://www.udemy.com/course/power-resume-and-cv-writing-that-lands-job-interviews/?couponCode=NOV2026FREE01",
@@ -198,7 +264,7 @@
     "expiryDate": "13/11/2026 0:27:47"
   },
   {
-    "id": "course-10",
+    "id": "course-13",
     "slug": "the-art-and-science-of-meditation-university-approved-certif",
     "title": "The Art and Science of Meditation University Approved Certif",
     "url": "https://www.udemy.com/course/the-art-and-science-of-meditation-course/?couponCode=SC4J7A9E6RDN",
@@ -220,7 +286,7 @@
     "expiryDate": "13/11/2026 0:27:47"
   },
   {
-    "id": "course-11",
+    "id": "course-14",
     "slug": "understanding-human-psychology-university-approved-certifica",
     "title": "Understanding Human Psychology University Approved Certifica",
     "url": "https://www.udemy.com/course/understanding-human-psychology-lessons/?couponCode=SC9G41WLNW06",
@@ -242,7 +308,7 @@
     "expiryDate": "13/11/2026 0:27:47"
   },
   {
-    "id": "course-12",
+    "id": "course-15",
     "slug": "the-importance-of-chakras-in-human-energy-university-diploma",
     "title": "The Importance of Chakras in Human Energy University Diploma",
     "url": "https://www.udemy.com/course/chakras-course/?couponCode=SCJE8FGHHVYV",
@@ -264,7 +330,7 @@
     "expiryDate": "13/11/2026 0:27:47"
   },
   {
-    "id": "course-13",
+    "id": "course-16",
     "slug": "work-and-organizational-psychology-tips-for-business-success",
     "title": "Work and Organizational Psychology Tips for Business Success",
     "url": "https://www.udemy.com/course/psychology-diploma-course-semester-7-module-4/?couponCode=SCSZRAIAOUBP",
@@ -286,7 +352,7 @@
     "expiryDate": "13/11/2026 0:27:47"
   },
   {
-    "id": "course-14",
+    "id": "course-17",
     "slug": "tricks-of-clinical-psychology-university-approved-certificat",
     "title": "Tricks of Clinical Psychology University Approved Certificat",
     "url": "https://www.udemy.com/course/psychology-diploma-course-semester-3-module-3/?couponCode=SCYAB5BPDOW2",

@@ -22900,5 +22900,36 @@
     "isFree": false,
     "instructors": "Prf. Dr. Bilal Semih Bozdemir",
     "campaign": null
+  },
+  "vowels-for-advanced-chinese-learners-of-american-english_REALDINOV26": {
+    "subscribers": 10807,
+    "reviews": 85,
+    "rating": "4.7",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "Sheila Lebedenko",
+    "campaign": {
+      "max": 100,
+      "rem": 37,
+      "end": "2026-12-13T17:40:00Z"
+    }
+  },
+  "bootcamp-az-900-microsoft-azure-fundamentals_C11E7F7101185DF49E67": {
+    "subscribers": 8691,
+    "reviews": 175,
+    "rating": "4.5",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Codaming • 300k+ Learners Worldwide, Dinesh Kumar, Vedika Singh",
+    "campaign": null
+  },
+  "pgd-in-scom_FC7215642ECDB362F2DB": {
+    "subscribers": 3056,
+    "reviews": 54,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
   }
 }
