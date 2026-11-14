@@ -23953,5 +23953,68 @@
     "isFree": false,
     "instructors": "Logic Labs",
     "campaign": null
+  },
+  "python-for-absolute-beginners-a-free-2-hour-crash-course_KNPYTHON2026": {
+    "subscribers": 3661,
+    "reviews": 143,
+    "rating": "4.4",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Abul Hossain",
+    "campaign": null
+  },
+  "javascript-jquery-typescript-full-stack-web-development_446D86DE43B801BD8A2C": {
+    "subscribers": 27493,
+    "reviews": 201,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": null
+  },
+  "php-with-mysql-2023-build-real-estate-management-system_PHPREALESTATE73": {
+    "subscribers": 39158,
+    "reviews": 229,
+    "rating": "4.5",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": null
+  },
+  "adobe-illustrator-for-t-shirt-design-from-sketch-to-print_6D00622942080A46EF17": {
+    "subscribers": 22988,
+    "reviews": 111,
+    "rating": "4.4",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": null
+  },
+  "capcut-video-editing-for-social-media-beginner-to-pro_FF41237301A0556D3BE6": {
+    "subscribers": 39451,
+    "reviews": 473,
+    "rating": "4.0",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": null
+  },
+  "learn-figma-uiux-design-masterclass-from-beginner-to-pro_45BAA0FB178056696AB8": {
+    "subscribers": 48793,
+    "reviews": 1028,
+    "rating": "4.1",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": null
+  },
+  "become-experts-in-python-by-exercises-by-projects_F977005B1207121B0657": {
+    "subscribers": 17590,
+    "reviews": 130,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Ashish Pandit",
+    "campaign": null
   }
 }
