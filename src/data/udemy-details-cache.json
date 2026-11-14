@@ -23671,5 +23671,130 @@
     "isFree": false,
     "instructors": "OCSALY Academy | 570.000+ Students",
     "campaign": null
+  },
+  "master-your-brain-to-achieve-your-desired-success_NOV2026FREE01": {
+    "subscribers": 84458,
+    "reviews": 636,
+    "rating": "4.2",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Dr. Vijender Goel, Susmita Dutta, Ash Akshay Goel",
+    "campaign": null
+  },
+  "quantum-physics-to-quantum-computing-masterclass_NOVFREE01": {
+    "subscribers": 1437,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": {
+      "max": 100,
+      "rem": 12,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "100-days-of-quantum-computing-coding_NOVFREE01": {
+    "subscribers": 1432,
+    "reviews": 1,
+    "rating": "2.5",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "business-analytics-with-ai-chatgpt-claude-gemini-copilot_NOVFREE01": {
+    "subscribers": 1458,
+    "reviews": 4,
+    "rating": "4.8",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": null
+  },
+  "ai-foundations-for-professionals_NOVFREE01": {
+    "subscribers": 1104,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "ai-agents-for-business-build-ai-employees_NOVFREE01": {
+    "subscribers": 1499,
+    "reviews": 24,
+    "rating": "4.1",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": null
+  },
+  "generative-ai-for-productivity_NOVFREE01": {
+    "subscribers": 1121,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "iso-overview-understanding-core-standards-9000-31000_6AAC31D3A6B66301D4B7": {
+    "subscribers": 2732,
+    "reviews": 23,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Global Skills Network",
+    "campaign": null
+  },
+  "pgdincapitalmarket_71DBB1EACA17A7D81B1E": {
+    "subscribers": 3508,
+    "reviews": 28,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 27,
+      "end": "2026-12-14T19:07:00Z"
+    }
+  },
+  "standard-customer-support-responses-course_36DE1B57B1B972A13A0E": {
+    "subscribers": 614,
+    "reviews": 2,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Ejiro Igho",
+    "campaign": null
+  },
+  "ai-tools-for-non-tech-creators_F7D46063559F85B8B8DB": {
+    "subscribers": 3531,
+    "reviews": 8,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
+  },
+  "handling-sensitive-information-in-caregiving_8B3E268988126F183F66": {
+    "subscribers": 2213,
+    "reviews": 9,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Global Skills Network",
+    "campaign": null
+  },
+  "language-learning-with-ai-your-personal-language-partner_FBDC15E5207E7A890297": {
+    "subscribers": 100,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Laurentiu Raducu",
+    "campaign": null
   }
 }
