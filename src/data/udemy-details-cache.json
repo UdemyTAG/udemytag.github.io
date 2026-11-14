@@ -23796,5 +23796,162 @@
     "isFree": false,
     "instructors": "Laurentiu Raducu",
     "campaign": null
+  },
+  "supply-chain-manager_RD5887598": {
+    "subscribers": 1759,
+    "reviews": 12,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "GURUCAN Institute",
+    "campaign": null
+  },
+  "understanding-archetypes-in-human-psychology_RD6013664": {
+    "subscribers": 1438,
+    "reviews": 4,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "GURUCAN Institute",
+    "campaign": null
+  },
+  "the-art-and-practice-of-ghostwriting_RD6159707": {
+    "subscribers": 1716,
+    "reviews": 7,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "GURUCAN Institute",
+    "campaign": null
+  },
+  "supply-chain-management-pathway-to-success_RD6062745": {
+    "subscribers": 1475,
+    "reviews": 16,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "GURUCAN Institute",
+    "campaign": null
+  },
+  "understanding-economic-sustainability-balancing-growth-and_RD6066743": {
+    "subscribers": 820,
+    "reviews": 1,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "GURUCAN Institute",
+    "campaign": null
+  },
+  "forex-mastery-technical-fundamental-analysis-mega-course_2642B7239CC7A24EFE5D": {
+    "subscribers": 12523,
+    "reviews": 257,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Ransom Enupe",
+    "campaign": null
+  },
+  "complete-fundamental-analysis-master-course_1CB761877E30C8C1C116": {
+    "subscribers": 12225,
+    "reviews": 113,
+    "rating": "4.7",
+    "price": "$69.99",
+    "isFree": false,
+    "instructors": "Ransom Enupe",
+    "campaign": null
+  },
+  "forextradingrobotcreationcourse_14BF24519E00DA11A062": {
+    "subscribers": 10779,
+    "reviews": 203,
+    "rating": "4.6",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Ransom Enupe",
+    "campaign": null
+  },
+  "javascript-10-projects-in-10-days-beginner-friendly-hands_7085413F6BCC255AA96F": {
+    "subscribers": 4636,
+    "reviews": 10,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Ram Din",
+    "campaign": null
+  },
+  "become-expert-in-claude-ai-2026_NOVFREE04": {
+    "subscribers": 2092,
+    "reviews": 18,
+    "rating": "4.6",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [112000+ Students]",
+    "campaign": null
+  },
+  "javascript-10-projects-in-10-days-course-for-beginners-w_89E39E460BBEF7B99EBD": {
+    "subscribers": 48079,
+    "reviews": 517,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Ram Din",
+    "campaign": null
+  },
+  "master-programming-with-c-and-c-from-beginner-to-advanced_1530ACF9B9A0BFF7A7A1": {
+    "subscribers": 3779,
+    "reviews": 13,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "canva-for-graphic-design-social-media-marketing_A13FD343042A5A858AFA": {
+    "subscribers": 3810,
+    "reviews": 29,
+    "rating": "3.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "claude-ai-masterclass-build-automate-scale-with-ai_A686C78AA4A6411E153E": {
+    "subscribers": 792,
+    "reviews": 12,
+    "rating": "3.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "excel-data-analysis-from-beginner-to-advanced-techniques_5F5736E6FBA696C9B065": {
+    "subscribers": 1212,
+    "reviews": 11,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": 100,
+      "rem": 14,
+      "end": "2026-11-28T06:04:00Z"
+    }
+  },
+  "complete-nodejs-developer-2026-apis-projects-deployment_FB9B154DC0415C9BBECC": {
+    "subscribers": 776,
+    "reviews": 2,
+    "rating": "2.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "modern-web-development-with-javascript-jquery-typescript_030382C2F1E9C09652EA": {
+    "subscribers": 3869,
+    "reviews": 12,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
   }
 }
