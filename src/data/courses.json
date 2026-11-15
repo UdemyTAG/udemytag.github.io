@@ -1,6 +1,6 @@
 [
   {
-    "id": "course-4",
+    "id": "course-5",
     "slug": "trendjacking-101-turn-viral-moments-into-brand-growth",
     "title": "Trendjacking 101: Turn Viral Moments Into Brand Growth",
     "url": "https://www.udemy.com/course/trendjacking-101-turn-viral-moments-into-brand-growth/?couponCode=NOVFREE01",
@@ -22,7 +22,7 @@
     "expiryDate": "15/11/2026 2:49:57"
   },
   {
-    "id": "course-7",
+    "id": "course-8",
     "slug": "high-converting-funnel-marketing-turn-clicks-into-customers",
     "title": "High-Converting Funnel Marketing: Turn Clicks Into Customers",
     "url": "https://www.udemy.com/course/high-converting-funnel-marketing-turn-clicks-into-customers/?couponCode=NOVFREE01",
@@ -44,7 +44,7 @@
     "expiryDate": "15/11/2026 2:49:57"
   },
   {
-    "id": "course-9",
+    "id": "course-10",
     "slug": "professional-diploma-in-virtual-executive-assistant",
     "title": "Professional Diploma in Virtual Executive Assistant",
     "url": "https://www.udemy.com/course/virtual-executive-assistant/?couponCode=DFB47A1F1D637EA4D231",
@@ -66,7 +66,7 @@
     "expiryDate": "15/11/2026 2:49:57"
   },
   {
-    "id": "course-17",
+    "id": "course-18",
     "slug": "gratitude",
     "title": "Gratitude",
     "url": "https://www.udemy.com/course/gratitude-w/?couponCode=12THNOV26",
@@ -85,28 +85,6 @@
     "quota": 100,
     "remainingSlots": 88,
     "description": "The life transforming power of Gratitude",
-    "expiryDate": "14/11/2026 12:46:25"
-  },
-  {
-    "id": "course-22",
-    "slug": "excel-data-analysis-from-beginner-to-advanced-techniques",
-    "title": "Excel Data Analysis: From Beginner to Advanced Techniques",
-    "url": "https://www.udemy.com/course/excel-data-analysis-from-beginner-to-advanced-techniques/?couponCode=5F5736E6FBA696C9B065",
-    "image": "https://img-c.udemycdn.com/course/240x135/7043097_1281_3.jpg",
-    "category": "Business",
-    "coupon": "5F5736E6FBA696C9B065",
-    "instructor": "Muhammad Riaz Uddin",
-    "originalPrice": "$19.99",
-    "discountPrice": "Free",
-    "rating": "4.6",
-    "subscribers": 1212,
-    "reviews": 11,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 86,
-    "quota": 100,
-    "remainingSlots": 14,
-    "description": "Master Data Analysis, PivotTables, Charts, and Formulas in ExcelTotal:",
     "expiryDate": "14/11/2026 12:46:25"
   },
   {
@@ -1189,6 +1167,28 @@
   },
   {
     "id": "course-1",
+    "slug": "personal-branding-system-3-0-unique-secret-for-your-success",
+    "title": "Personal Branding System 3.0: UNIQUE Secret for YOUR Success",
+    "url": "https://www.udemy.com/course/personal-branding-master-course/?couponCode=NOV2026FREE01",
+    "image": "https://img-c.udemycdn.com/course/240x135/1674460_1ef7_2.jpg",
+    "category": "Development",
+    "coupon": "NOV2026FREE01",
+    "instructor": "Susmita Dutta, Ash Akshay Goel",
+    "originalPrice": "$44.99",
+    "discountPrice": "$44.99",
+    "rating": "4.2",
+    "subscribers": 71763,
+    "reviews": 475,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Create your UNIQUE Brand to make people remember YOU",
+    "expiryDate": "15/11/2026 7:54:09"
+  },
+  {
+    "id": "course-2",
     "slug": "bootcamp-az-900-microsoft-azure-fundamentals-course",
     "title": "Bootcamp AZ-900: Microsoft Azure Fundamentals Course",
     "url": "https://www.udemy.com/course/bootcamp-az-900-microsoft-azure-fundamentals/?couponCode=C11E7F7101185CG49E67",
@@ -1210,7 +1210,7 @@
     "expiryDate": "15/11/2026 2:49:57"
   },
   {
-    "id": "course-2",
+    "id": "course-3",
     "slug": "social-media-growth-hacks-turn-posts-into-leads-and-sales",
     "title": "Social Media Growth Hacks: Turn Posts Into Leads and Sales",
     "url": "https://www.udemy.com/course/social-media-growth-hacks-turn-posts-into-leads-and-sales/?couponCode=NOVFREE01",
@@ -1232,7 +1232,7 @@
     "expiryDate": "15/11/2026 2:49:57"
   },
   {
-    "id": "course-3",
+    "id": "course-4",
     "slug": "ai-for-business-leaders",
     "title": "AI for Business Leaders",
     "url": "https://www.udemy.com/course/ai-for-business-leaders-r/?couponCode=NOVFREE01",
@@ -1254,7 +1254,7 @@
     "expiryDate": "15/11/2026 2:49:57"
   },
   {
-    "id": "course-5",
+    "id": "course-6",
     "slug": "ai-governance-and-security",
     "title": "AI Governance and Security",
     "url": "https://www.udemy.com/course/ai-governance-and-security/?couponCode=NOVFREE01",
@@ -1276,7 +1276,7 @@
     "expiryDate": "15/11/2026 2:49:57"
   },
   {
-    "id": "course-6",
+    "id": "course-7",
     "slug": "viral-content-engine-create-marketing-people-want-to-share",
     "title": "Viral Content Engine: Create Marketing People Want to Share",
     "url": "https://www.udemy.com/course/viral-content-engine-create-marketing-people-want-to-share/?couponCode=NOVFREE01",
@@ -1298,7 +1298,7 @@
     "expiryDate": "15/11/2026 2:49:57"
   },
   {
-    "id": "course-8",
+    "id": "course-9",
     "slug": "introduction-to-rag-retrieval-augmented-generation",
     "title": "Introduction to RAG - Retrieval Augmented Generation",
     "url": "https://www.udemy.com/course/introduction-to-rag/?couponCode=FREENOV142026",
@@ -1320,7 +1320,7 @@
     "expiryDate": "15/11/2026 2:49:57"
   },
   {
-    "id": "course-10",
+    "id": "course-11",
     "slug": "ai-foundations",
     "title": "AI Foundations",
     "url": "https://www.udemy.com/course/ai-foundation-for-beginners/?couponCode=FREE14NOV2026",
@@ -1342,7 +1342,7 @@
     "expiryDate": "15/11/2026 2:49:57"
   },
   {
-    "id": "course-11",
+    "id": "course-12",
     "slug": "postgraduate-diploma-in-capital-market-pgdcm",
     "title": "Postgraduate Diploma in Capital Market (PGDCM)",
     "url": "https://www.udemy.com/course/pgdincapitalmarket/?couponCode=69D58EEF2AE7A3A28757",
@@ -1364,7 +1364,7 @@
     "expiryDate": "15/11/2026 2:49:57"
   },
   {
-    "id": "course-12",
+    "id": "course-13",
     "slug": "introduction-to-mcp",
     "title": "Introduction to MCP",
     "url": "https://www.udemy.com/course/ai-foundation-introduction-to-mcp/?couponCode=FREENOV142026",
@@ -1386,7 +1386,7 @@
     "expiryDate": "15/11/2026 2:49:57"
   },
   {
-    "id": "course-13",
+    "id": "course-14",
     "slug": "personal-brand-marketing-build-authority-and-audience",
     "title": "Personal Brand Marketing: Build Authority and Audience",
     "url": "https://www.udemy.com/course/personal-brand-marketing-build-authority-and-audience/?couponCode=NOVFREE02",
@@ -1408,7 +1408,7 @@
     "expiryDate": "15/11/2026 2:49:57"
   },
   {
-    "id": "course-14",
+    "id": "course-15",
     "slug": "python-for-absolute-beginners-a-free-2-hour-crash-course",
     "title": "Python for Absolute Beginners – A Free 2-Hour Crash Course",
     "url": "https://www.udemy.com/course/python-for-absolute-beginners-a-free-2-hour-crash-course/?couponCode=KNPYTHON2026",
@@ -1430,7 +1430,7 @@
     "expiryDate": "14/11/2026 20:15:46"
   },
   {
-    "id": "course-15",
+    "id": "course-16",
     "slug": "adobe-illustrator-for-t-shirt-design-from-sketch-to-print",
     "title": "Adobe Illustrator for T-Shirt Design: From Sketch to Print",
     "url": "https://www.udemy.com/course/adobe-illustrator-for-t-shirt-design-from-sketch-to-print/?couponCode=6D00622942080A46EF17",
@@ -1452,7 +1452,7 @@
     "expiryDate": "14/11/2026 20:15:46"
   },
   {
-    "id": "course-16",
+    "id": "course-17",
     "slug": "learn-figma-ui-ux-design-masterclass-from-beginner-to-pro",
     "title": "Learn Figma: UI/UX Design Masterclass From Beginner to Pro",
     "url": "https://www.udemy.com/course/learn-figma-uiux-design-masterclass-from-beginner-to-pro/?couponCode=45BAA0FB178056696AB8",
@@ -1474,7 +1474,7 @@
     "expiryDate": "14/11/2026 20:15:46"
   },
   {
-    "id": "course-18",
+    "id": "course-19",
     "slug": "become-master-in-claude-ai-2026",
     "title": "Become master in Claude AI [2026]",
     "url": "https://www.udemy.com/course/become-expert-in-claude-ai-2026/?couponCode=NOVFREE04",
@@ -1496,7 +1496,7 @@
     "expiryDate": "14/11/2026 12:46:25"
   },
   {
-    "id": "course-19",
+    "id": "course-20",
     "slug": "become-master-in-uipath-world",
     "title": "Become Master in UiPath World",
     "url": "https://www.udemy.com/course/become-master-in-uipath-world/?couponCode=NOVFREE03",
@@ -1518,7 +1518,7 @@
     "expiryDate": "14/11/2026 12:46:25"
   },
   {
-    "id": "course-20",
+    "id": "course-21",
     "slug": "microsoft-copilot-studio-ms-foundry-claude-code-demo",
     "title": "Microsoft Copilot Studio +MS Foundry + Claude Code (Demo)",
     "url": "https://www.udemy.com/course/ai-agents-copilot-studio-azure-foundry-microsoft-foundry/?couponCode=NOVFREE03",
@@ -1540,7 +1540,7 @@
     "expiryDate": "14/11/2026 12:46:25"
   },
   {
-    "id": "course-21",
+    "id": "course-22",
     "slug": "master-programming-with-c-and-c-from-beginner-to-advanced",
     "title": "Master Programming with C and C++: From Beginner to Advanced",
     "url": "https://www.udemy.com/course/master-programming-with-c-and-c-from-beginner-to-advanced/?couponCode=1530ACF9B9A0BFF7A7A1",
