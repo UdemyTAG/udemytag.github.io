@@ -24154,5 +24154,940 @@
     "isFree": false,
     "instructors": "Susmita Dutta, Ash Akshay Goel",
     "campaign": null
+  },
+  "python-and-flask-only-demonstration-course_BFBDA33EDB6AB10BC1D6": {
+    "subscribers": 233284,
+    "reviews": 1667,
+    "rating": "4.4",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Horizon Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 30,
+      "end": "2026-12-16T02:36:00Z"
+    }
+  },
+  "gemini-ai-complete-guide-to-googles-powerful-ai_ED6C2C24EBC3E829414A": {
+    "subscribers": 3756,
+    "reviews": 16,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "microsoft-excel-data-analysis-with-formulas-and-vba_865C2351A7AB2E4B21B5": {
+    "subscribers": 13319,
+    "reviews": 145,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "t-shirt-design-mastery-illustrator-photoshop-and-canva_73938E649F7DEF7EE56E": {
+    "subscribers": 8758,
+    "reviews": 39,
+    "rating": "3.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": 100,
+      "rem": 37,
+      "end": "2026-12-12T05:28:00Z"
+    }
+  },
+  "canva-for-social-media-zero-to-hero-graphic-design-in-canva_D4996068040AA29AE72B": {
+    "subscribers": 12652,
+    "reviews": 141,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "c-and-c-for-beginners-step-by-step-to-mastery_62B6435AF41698F0FFAE": {
+    "subscribers": 2718,
+    "reviews": 7,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "ms-office-with-ai-word-excel-powerpoint-chatgpt-gemini_C643B97BF9BCA2B8386F": {
+    "subscribers": 11334,
+    "reviews": 99,
+    "rating": "3.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": null
+  },
+  "ms-office-with-canva-word-excel-powerpoint-canva-all-in-one_EED551ABA65016441870": {
+    "subscribers": 10178,
+    "reviews": 104,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": null
+  },
+  "self-discipline-will-change-your-life-for-good_10THNOV": {
+    "subscribers": 54169,
+    "reviews": 335,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 33,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "your-words-powerful-tools_10THNOV": {
+    "subscribers": 44412,
+    "reviews": 263,
+    "rating": "4.6",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 51,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "strategic-partnerships-and-collaborations_10THNOV": {
+    "subscribers": 50822,
+    "reviews": 1195,
+    "rating": "4.4",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 39,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "microsoft-office-and-google-workspace-masterclass_E2FEEEDB365A1B38FF68": {
+    "subscribers": 10736,
+    "reviews": 110,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": null
+  },
+  "gratitude-w_10THNOV": {
+    "subscribers": 22727,
+    "reviews": 242,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 61,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "t-shirt-design-for-beginner-to-advanced-with-adobe-photoshop_24D2337EF05EEB49E928": {
+    "subscribers": 45809,
+    "reviews": 211,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": 10,
+      "rem": 2,
+      "end": "2026-11-20T06:10:00Z"
+    }
+  },
+  "adobe-after-effect-essential-learn-video-motion-animation_2D57949AF6C8DCD33B5A": {
+    "subscribers": 51917,
+    "reviews": 279,
+    "rating": "4.1",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": null
+  },
+  "time-management-productivity-decision-making-tools-aids_10THNOV": {
+    "subscribers": 53124,
+    "reviews": 643,
+    "rating": "4.5",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 15,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "investing-in-africa-key-factors-for-investors-to-consider_10THNOV": {
+    "subscribers": 23068,
+    "reviews": 38,
+    "rating": "4.6",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 58,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "vigilant-leadership_10THNOV": {
+    "subscribers": 39508,
+    "reviews": 1005,
+    "rating": "4.4",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 55,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "essentials-user-experience-design-adobe-xd-ui-ux-design_EDC4D64CF762639916E3": {
+    "subscribers": 53510,
+    "reviews": 530,
+    "rating": "4.4",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": null
+  },
+  "leadership-through-tough-times_10THNOV": {
+    "subscribers": 28247,
+    "reviews": 217,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 57,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "purpose-driven-leadership-t_10THNOV": {
+    "subscribers": 28671,
+    "reviews": 163,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Timothy Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 65,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "personal-growth-affirmations-and-taking-action_10THNOV": {
+    "subscribers": 34071,
+    "reviews": 164,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 66,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "how-to-transform-your-life-practical-ways_10THNOV": {
+    "subscribers": 33865,
+    "reviews": 120,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 58,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "fundamentals-of-successful-leadership-leading-with-impact_10THNOV": {
+    "subscribers": 57579,
+    "reviews": 2635,
+    "rating": "4.7",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 53,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "leadership-leading-a-community_10THNOV": {
+    "subscribers": 51501,
+    "reviews": 965,
+    "rating": "4.3",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 61,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "fundamentals-of-financial-services_10THNOV": {
+    "subscribers": 55356,
+    "reviews": 3481,
+    "rating": "4.4",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Timothy Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 63,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "principles-of-effective-communication_10THNOV": {
+    "subscribers": 17357,
+    "reviews": 179,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 27,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "authentic-leadership-t_10THNOV": {
+    "subscribers": 24760,
+    "reviews": 294,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 41,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "intentional-leadership_10THNOV": {
+    "subscribers": 31802,
+    "reviews": 257,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 50,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "workplace-stress-management-strategies_10THNOV": {
+    "subscribers": 29991,
+    "reviews": 388,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Helen Hicks, Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 55,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "currency-management-for-small-businesses-corporates_10THNOV": {
+    "subscribers": 32951,
+    "reviews": 201,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 50,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "economics-for-everyone-in-a-digital-first-world_10THNOV": {
+    "subscribers": 1432,
+    "reviews": 38,
+    "rating": "4.6",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Baba Oyewole, Timothy Oyewole",
+    "campaign": null
+  },
+  "prioritization-techniques-for-decision-makers-and-leaders_10THNOV": {
+    "subscribers": 36113,
+    "reviews": 1753,
+    "rating": "4.4",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 50,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "introduction-to-risk-management-in-financial-services_10THNOV": {
+    "subscribers": 34277,
+    "reviews": 2246,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Timothy Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 42,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "visualization-techniques-for-decision-makers-and-leaders_10THNOV": {
+    "subscribers": 36401,
+    "reviews": 592,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 38,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "introduction-to-financial-products-services-i_10THNOV": {
+    "subscribers": 29341,
+    "reviews": 675,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Timothy Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 55,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "introduction-to-risk-management-decision-makers-leaders_10THNOV": {
+    "subscribers": 37241,
+    "reviews": 2359,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 43,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "audit-administration-audit-sampling_10THNOV": {
+    "subscribers": 2017,
+    "reviews": 98,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 23,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "developing-successful-professional-relationships_10THNOV": {
+    "subscribers": 34289,
+    "reviews": 2011,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 40,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "productivity-focus-concentration-performance-strategies_10THNOV": {
+    "subscribers": 24126,
+    "reviews": 275,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 21,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "smart-goals-parenting_10THNOV": {
+    "subscribers": 23093,
+    "reviews": 68,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Helen Hicks, Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 55,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "project-management-post-mortems-x_10THNOV": {
+    "subscribers": 2013,
+    "reviews": 56,
+    "rating": "4.7",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Baba Oyewole, Oluseye Kolawole",
+    "campaign": null
+  },
+  "introduction-to-financial-controls_10THNOV": {
+    "subscribers": 29811,
+    "reviews": 735,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 13,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "organizational-influences-project-management-lifecycle-qi_10THNOV": {
+    "subscribers": 2058,
+    "reviews": 60,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Oluseye Kolawole",
+    "campaign": {
+      "max": 100,
+      "rem": 18,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "financial-services-introduction-to-etfs_10THNOV": {
+    "subscribers": 14631,
+    "reviews": 175,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 41,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "financial-services-overview-of-central-banks_10THNOV": {
+    "subscribers": 21506,
+    "reviews": 190,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 57,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "managing-social-anxiety-in-the-workplace_10THNOV": {
+    "subscribers": 25987,
+    "reviews": 150,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 52,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "workplace-productivity-supporting-others-through-change_10THNOV": {
+    "subscribers": 24263,
+    "reviews": 508,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 52,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "mental-health-for-the-workplace_10THNOV": {
+    "subscribers": 23035,
+    "reviews": 475,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 47,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "emotional-intelligence-in-leadership-y_10THNOV": {
+    "subscribers": 27192,
+    "reviews": 536,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": null
+  },
+  "constructive-debates-in-the-workplace-j_10THNOV": {
+    "subscribers": 765,
+    "reviews": 23,
+    "rating": "4.9",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 1,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "financial-services-overview-of-retail-banking_10THNOV": {
+    "subscribers": 21101,
+    "reviews": 282,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 54,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "financial-services-government-bonds-notes-treasuries_10THNOV": {
+    "subscribers": 828,
+    "reviews": 22,
+    "rating": "4.5",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 1,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "financial-services-overview-of-commodities_10THNOV": {
+    "subscribers": 1936,
+    "reviews": 74,
+    "rating": "4.6",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 28,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "workplace-productivity-coping-with-the-anxiety-of-leadership_10THNOV": {
+    "subscribers": 20313,
+    "reviews": 115,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 55,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "financial-services-basics-of-business-corporate-banking_10THNOV": {
+    "subscribers": 25358,
+    "reviews": 1057,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 34,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "financial-services-funds-flow-optimization-concepts_10THNOV": {
+    "subscribers": 21657,
+    "reviews": 189,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 53,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "financial-stewardship-for-decision-makers-and-leaders_10THNOV": {
+    "subscribers": 20013,
+    "reviews": 139,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 35,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "financial-services-basics-of-regulation-compliance_10THNOV": {
+    "subscribers": 21394,
+    "reviews": 546,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Narelle Ferreira",
+    "campaign": {
+      "max": 100,
+      "rem": 19,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "financial-services-understanding-interest-rates_10THNOV": {
+    "subscribers": 21137,
+    "reviews": 269,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 44,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "employee-wellbeing-toolkit_10THNOV": {
+    "subscribers": 2016,
+    "reviews": 64,
+    "rating": "4.9",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 13,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "audit-administration-effective-communication-in-audit_10THNOV": {
+    "subscribers": 2130,
+    "reviews": 113,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 6,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "learn-filmora-for-video-editing-masterclass-course_85184B234F0B594501A5": {
+    "subscribers": 33747,
+    "reviews": 142,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 39,
+      "end": "2026-12-16T06:38:00Z"
+    }
+  },
+  "learn-blockchain-and-cryptocurrency-from-beginning_4DDDBFF848DAEAF6B8D6": {
+    "subscribers": 54675,
+    "reviews": 452,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": null
+  },
+  "adobe-illustrator-cc-for-learning-graphics-design_30E23B4DD8AA3DD7C738": {
+    "subscribers": 35403,
+    "reviews": 237,
+    "rating": "4.1",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "complete-pcep-python-certification-course-beginner-friendly_14D7E1DC99131716326F": {
+    "subscribers": 7304,
+    "reviews": 50,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": null
+  },
+  "adobe-indesign-cc-for-beginner-to-advanced-masterclass_BC038BDCDA5CA4983892": {
+    "subscribers": 31327,
+    "reviews": 101,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 39,
+      "end": "2026-12-16T06:38:00Z"
+    }
+  },
+  "consonants-for-advanced-chinese-learners-of-american-english_REALDISNOV26": {
+    "subscribers": 12065,
+    "reviews": 27,
+    "rating": "4.7",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Sheila Lebedenko",
+    "campaign": {
+      "max": 100,
+      "rem": 41,
+      "end": "2026-12-16T06:52:00Z"
+    }
+  },
+  "php-for-beginners-2023-build-complete-ecommerce-store_PHPECOMMERCE76": {
+    "subscribers": 42805,
+    "reviews": 300,
+    "rating": "4.6",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": null
+  },
+  "adobe-after-effect-with-motion-graphics-and-animation_0A3ACD8FF0B0A1229014": {
+    "subscribers": 32893,
+    "reviews": 154,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 31,
+      "end": "2026-12-16T06:38:00Z"
+    }
+  },
+  "figma-for-user-interface-and-user-experience-uiux-design_944A00285919C01EC0B0": {
+    "subscribers": 42630,
+    "reviews": 845,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 100,
+      "rem": 18,
+      "end": "2026-12-16T06:39:00Z"
+    }
+  },
+  "fiverr-freelancing-for-absolute-beginners-basic-to-advance_D0F2E60BD1658DB185BF": {
+    "subscribers": 23230,
+    "reviews": 136,
+    "rating": "4.4",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Stephen Koel Soren",
+    "campaign": null
+  },
+  "python-django-full-stack-development-build-modern-web-app_E2B9627DE43D46FCC2C8": {
+    "subscribers": 20137,
+    "reviews": 228,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "learn-ai-python-machine-learning-data-science-big-data_971A1826542E5B10DFD8": {
+    "subscribers": 3664,
+    "reviews": 15,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": null
+  },
+  "mastering-microsoft-word-a-comprehensive-guide-to-boost-you_94929B043FF088D94C65": {
+    "subscribers": 29056,
+    "reviews": 298,
+    "rating": "4.4",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 55,
+      "end": "2026-12-16T08:19:00Z"
+    }
+  },
+  "python-programming-for-pcep-beginner-to-certified_94EBB16DD10583714F8A": {
+    "subscribers": 3811,
+    "reviews": 23,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": null
+  },
+  "become-expert-in-claude-ai-2026_NOVFREE05": {
+    "subscribers": 2308,
+    "reviews": 24,
+    "rating": "4.6",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [112000+ Students]",
+    "campaign": null
+  },
+  "ai-agents-copilot-studio-azure-foundry-microsoft-foundry_NOVFREE05": {
+    "subscribers": 5854,
+    "reviews": 72,
+    "rating": "4.3",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [112000+ Students]",
+    "campaign": null
+  },
+  "become-master-in-uipath-world_NOVFREE05": {
+    "subscribers": 3431,
+    "reviews": 28,
+    "rating": "4.5",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [112000+ Students]",
+    "campaign": null
   }
 }
