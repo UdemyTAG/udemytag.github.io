@@ -24016,5 +24016,134 @@
     "isFree": false,
     "instructors": "Ashish Pandit",
     "campaign": null
+  },
+  "bootcamp-az-900-microsoft-azure-fundamentals_C11E7F7101185CG49E67": {
+    "subscribers": 8747,
+    "reviews": 177,
+    "rating": "4.5",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Codaming • 300k+ Learners Worldwide, Dinesh Kumar, Vedika Singh",
+    "campaign": null
+  },
+  "social-media-growth-hacks-turn-posts-into-leads-and-sales_NOVFREE01": {
+    "subscribers": 1162,
+    "reviews": 1,
+    "rating": "5.0",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "ai-for-business-leaders-r_NOVFREE01": {
+    "subscribers": 1290,
+    "reviews": 2,
+    "rating": "4.4",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "trendjacking-101-turn-viral-moments-into-brand-growth_NOVFREE01": {
+    "subscribers": 1139,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": {
+      "max": 100,
+      "rem": 21,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "ai-governance-and-security_NOVFREE01": {
+    "subscribers": 1173,
+    "reviews": 2,
+    "rating": "5.0",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "viral-content-engine-create-marketing-people-want-to-share_NOVFREE01": {
+    "subscribers": 1173,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "high-converting-funnel-marketing-turn-clicks-into-customers_NOVFREE01": {
+    "subscribers": 1093,
+    "reviews": 1,
+    "rating": "1.0",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": {
+      "max": 100,
+      "rem": 7,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "introduction-to-rag_FREENOV142026": {
+    "subscribers": 998,
+    "reviews": 3,
+    "rating": "5.0",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Rahul Anand",
+    "campaign": null
+  },
+  "virtual-executive-assistant_DFB47A1F1D637EA4D231": {
+    "subscribers": 3892,
+    "reviews": 55,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 11,
+      "end": "2026-12-15T16:38:00Z"
+    }
+  },
+  "ai-foundation-for-beginners_FREE14NOV2026": {
+    "subscribers": 1007,
+    "reviews": 33,
+    "rating": "4.4",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Rahul Anand",
+    "campaign": null
+  },
+  "pgdincapitalmarket_69D58EEF2AE7A3A28757": {
+    "subscribers": 3618,
+    "reviews": 28,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
+  },
+  "ai-foundation-introduction-to-mcp_FREENOV142026": {
+    "subscribers": 1441,
+    "reviews": 29,
+    "rating": "4.0",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Rahul Anand",
+    "campaign": null
+  },
+  "personal-brand-marketing-build-authority-and-audience_NOVFREE02": {
+    "subscribers": 1087,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
   }
 }
