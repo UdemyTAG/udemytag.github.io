@@ -25344,5 +25344,525 @@
     "isFree": false,
     "instructors": "Agile Enterprise Coach London",
     "campaign": null
+  },
+  "strategic-scm_EA38B8852EE9BB416415": {
+    "subscribers": 3846,
+    "reviews": 43,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 19,
+      "end": "2026-12-16T19:29:00Z"
+    }
+  },
+  "pgd-in-fire-safety_FBFDCA9CB3F5BB03CB8E": {
+    "subscribers": 331,
+    "reviews": 2,
+    "rating": "4.9",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "learn-python-programming-a-step-by-step-course-to-beginners_OCTOBERFREE32026": {
+    "subscribers": 334525,
+    "reviews": 13728,
+    "rating": "4.5",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "Ivan Lourenço Gomes, Learn IT University, Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 70,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "improving-software-development-productivity_OCTOBERFREE32026": {
+    "subscribers": 84399,
+    "reviews": 440,
+    "rating": "4.0",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "ANDRII SVIATOBATKO",
+    "campaign": {
+      "max": 100,
+      "rem": 79,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "selenium-in-c-sharp-taf-for-beginners-learnit_OCTOBERFREE32026": {
+    "subscribers": 92315,
+    "reviews": 522,
+    "rating": "4.3",
+    "price": "$64.99",
+    "isFree": true,
+    "instructors": "Tigran Ter-Karapetyants, Learn IT University",
+    "campaign": {
+      "max": 100,
+      "rem": 90,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "software-architecture-it-bulls_OCTOBERFREE32026": {
+    "subscribers": 96857,
+    "reviews": 631,
+    "rating": "4.1",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "ANDRII SVIATOBATKO",
+    "campaign": {
+      "max": 100,
+      "rem": 71,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "master-any-language-with-chatgpt-boost-your-language-skills_OCTOBERFREE32026": {
+    "subscribers": 55539,
+    "reviews": 558,
+    "rating": "4.3",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Ellen Chamilothoris",
+    "campaign": {
+      "max": 100,
+      "rem": 81,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "mastering-idioms_OCTOBERFREE32026": {
+    "subscribers": 49364,
+    "reviews": 413,
+    "rating": "4.7",
+    "price": "$29.99",
+    "isFree": true,
+    "instructors": "Ellen Chamilothoris, Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 83,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "customer-success-with-chatgpt-learnit_OCTOBERFREE32026": {
+    "subscribers": 18189,
+    "reviews": 66,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 78,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "functional-programming-learnit_OCTOBERFREE32026": {
+    "subscribers": 133538,
+    "reviews": 353,
+    "rating": "4.1",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha, Learn IT University",
+    "campaign": {
+      "max": 100,
+      "rem": 77,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "information-security-learnit_OCTOBERFREE32026": {
+    "subscribers": 24363,
+    "reviews": 198,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 76,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "xp-techniques-learnit_OCTOBERFREE32026": {
+    "subscribers": 13790,
+    "reviews": 43,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 79,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "gof-design-patterns-learnit_OCTOBERFREE32026": {
+    "subscribers": 96433,
+    "reviews": 625,
+    "rating": "4.5",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha, Learn IT University",
+    "campaign": {
+      "max": 100,
+      "rem": 91,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "java-collections-framework-learnit_OCTOBERFREE32026": {
+    "subscribers": 186325,
+    "reviews": 1184,
+    "rating": "4.4",
+    "price": "$64.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha, Learn IT University",
+    "campaign": {
+      "max": 100,
+      "rem": 86,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "customer-service-with-chatgpt-learnit_OCTOBERFREE32026": {
+    "subscribers": 17474,
+    "reviews": 92,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 77,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "qa-metrics-kpis-learnit_OCTOBERFREE32026": {
+    "subscribers": 12623,
+    "reviews": 65,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 62,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "secure-coding-spring-boot-learnit_OCTOBERFREE32026": {
+    "subscribers": 12403,
+    "reviews": 29,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 84,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "databases-learnit_OCTOBERFREE32026": {
+    "subscribers": 54634,
+    "reviews": 592,
+    "rating": "4.4",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha, Learn IT University",
+    "campaign": {
+      "max": 100,
+      "rem": 75,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "uml-learnit_OCTOBERFREE32026": {
+    "subscribers": 25337,
+    "reviews": 104,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 92,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "resilience-patterns-microservice-architecture-learnit_OCTOBERFREE32026": {
+    "subscribers": 9665,
+    "reviews": 39,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 94,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "testing-for-developers_OCTOBERFREE32026": {
+    "subscribers": 89904,
+    "reviews": 397,
+    "rating": "4.3",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha, Learn IT University",
+    "campaign": {
+      "max": 100,
+      "rem": 94,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "agile-mindset-learnit_OCTOBERFREE32026": {
+    "subscribers": 13383,
+    "reviews": 31,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 91,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "gpt-learnit_OCTOBERFREE32026": {
+    "subscribers": 19622,
+    "reviews": 266,
+    "rating": "4.6",
+    "price": "$64.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 80,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "test-metrics-kpis-learnit_OCTOBERFREE32026": {
+    "subscribers": 10442,
+    "reviews": 35,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 87,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "software-architecture-learnit_OCTOBERFREE32026": {
+    "subscribers": 112419,
+    "reviews": 720,
+    "rating": "4.8",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha, Learn IT University",
+    "campaign": {
+      "max": 100,
+      "rem": 76,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "resilience4j-spring-boot-learnit_OCTOBERFREE32026": {
+    "subscribers": 9398,
+    "reviews": 26,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 92,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "web-development-learnit_OCTOBERFREE32026": {
+    "subscribers": 32038,
+    "reviews": 220,
+    "rating": "4.4",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 71,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "oop-learnit_OCTOBERFREE32026": {
+    "subscribers": 209364,
+    "reviews": 2821,
+    "rating": "4.2",
+    "price": "$74.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha, Learn IT University",
+    "campaign": {
+      "max": 100,
+      "rem": 84,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "oracle-certification-java-21-learnit_OCTOBERFREE32026": {
+    "subscribers": 21782,
+    "reviews": 410,
+    "rating": "4.4",
+    "price": "$74.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 89,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "secure-coding-web-apps-learnit_OCTOBERFREE32026": {
+    "subscribers": 12544,
+    "reviews": 64,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 59,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "ai-cybersecurity-learnit_OCTOBERFREE32026": {
+    "subscribers": 11858,
+    "reviews": 331,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 54,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "xp-programming-learnit_OCTOBERFREE32026": {
+    "subscribers": 12538,
+    "reviews": 39,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 84,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "qa-qc-metrics-kpis-learnit_OCTOBERFREE32026": {
+    "subscribers": 11990,
+    "reviews": 85,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 72,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "securing-ai-applications-learnit_OCTOBERFREE32026": {
+    "subscribers": 7017,
+    "reviews": 21,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 44,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "oracle-java-17-ocp-certification-learnit_OCTOBERFREE32026": {
+    "subscribers": 10878,
+    "reviews": 127,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 79,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "code-reviews-learnit_OCTOBERFREE32026": {
+    "subscribers": 23294,
+    "reviews": 547,
+    "rating": "4.4",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 76,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "owasp-learnit_OCTOBERFREE32026": {
+    "subscribers": 30492,
+    "reviews": 791,
+    "rating": "4.7",
+    "price": "$74.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 78,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "ai-for-program-managers-learnit_OCTOBERFREE32026": {
+    "subscribers": 7390,
+    "reviews": 91,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 31,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "ai-for-customer-experience-learnit_OCTOBERFREE32026": {
+    "subscribers": 5530,
+    "reviews": 37,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 61,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "ai-security-learnit_OCTOBERFREE32026": {
+    "subscribers": 7279,
+    "reviews": 40,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 47,
+      "end": "2026-12-01T17:12:00Z"
+    }
   }
 }
