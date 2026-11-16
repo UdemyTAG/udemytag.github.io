@@ -38,45 +38,45 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 
 | No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
 | :-: | :--- | :--- | :-: | :--- |
-| 1 | **Professional Diploma in Strategic Supply Chain Management** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/professional-diploma-in-strategic-supply-chain-management/) |
-| 2 | **Learn to Code in Python 3: Programming beginner to advanced** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-to-code-in-python-3-programming-beginner-to-advanced/) |
-| 3 | **Improving software development productivity** | `Personal Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/improving-software-development-productivity/) |
-| 4 | **Selenium in C# - Setup Simple Test Automation Framework** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/selenium-in-c-setup-simple-test-automation-framework/) |
-| 5 | **Software architecture** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/software-architecture/) |
-| 6 | **Master Any Language with ChatGPT: Boost Your Language Skills** | `Personal Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-any-language-with-chatgpt-boost-your-language-skills/) |
-| 7 | **Mastering English Idioms: Essential for ESL Communication** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-english-idioms-essential-for-esl-communication/) |
-| 8 | **Customer Success with ChatGPT(AI): Innovate Client Relations** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/customer-success-with-chatgpt-ai-innovate-client-relations/) |
-| 9 | **Functional Programming + Lambdas, Method References, Streams** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/functional-programming-lambdas-method-references-streams/) |
-| 10 | **Information Security Crash Course: Quick Steps to Safety** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/information-security-crash-course-quick-steps-to-safety/) |
-| 11 | **TDD, CI/CD, Pair Programming & Other XP Practices for Devs** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/tdd-ci-cd-pair-programming-other-xp-practices-for-devs/) |
-| 12 | **GoF Design Patterns - Complete Course with Java Examples** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/gof-design-patterns-complete-course-with-java-examples/) |
-| 13 | **Java Collections Framework + Generics, Lambdas & Stream API** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/java-collections-framework-generics-lambdas-stream-api/) |
-| 14 | **Customer Service with ChatGPT: AI-Driven Customer Care** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/customer-service-with-chatgpt-ai-driven-customer-care/) |
-| 15 | **QA Metrics & KPIs: Testing, Defect Tracking & Automation** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/qa-metrics-kpis-testing-defect-tracking-automation/) |
-| 16 | **Secure Coding in Spring Boot: Real-World Coding Guide** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/secure-coding-in-spring-boot-real-world-coding-guide/) |
-| 17 | **Relational Databases & SQL: Complete Guide for Developers** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/relational-databases-sql-complete-guide-for-developers/) |
-| 18 | **UML: The Most Complete Guide with Real-Life Examples** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/uml-the-most-complete-guide-with-real-life-examples/) |
-| 19 | **Resilience Patterns in Microservice Architecture: Hands-On** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/resilience-patterns-in-microservice-architecture-hands-on/) |
-| 20 | **JUnit 5, Mockito, PowerMock, TDD, BDD & ATTD** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/junit-5-mockito-powermock-tdd-bdd-attd/) |
-| 21 | **Agile Mindset & Adaptability: The Complete Guide to XP** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/agile-mindset-adaptability-the-complete-guide-to-xp/) |
-| 22 | **ChatGPT Complete Guide: OpenAI API, AI Tools, ChatGPT 4** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/chatgpt-complete-guide-openai-api-ai-tools-chatgpt-4/) |
-| 23 | **Defect Management & QA Reporting: Metrics & KPIs** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/defect-management-qa-reporting-metrics-kpis/) |
-| 24 | **Software Architecture and Clean Code Design in OOP** | `Design` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/software-architecture-and-clean-code-design-in-oop/) |
-| 25 | **Resilience4j with Spring Boot: Build Fault-Tolerant Systems** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/resilience4j-with-spring-boot-build-fault-tolerant-systems/) |
-| 26 | **Java EE, Web Development: HTTP, Server,Servlet,HTML/CSS,JSP** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/java-ee-web-development-http-server-servlet-html-css-jsp/) |
-| 27 | **Object Oriented Programming - Basics to Advance (Java OOP)** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/object-oriented-programming-basics-to-advance-java-oop/) |
-| 28 | **Oracle Java SE 21 Developer Professional: 1Z0-830** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/oracle-java-se-21-developer-professional-1z0-830/) |
-| 29 | **Secure Coding: Security Best Practices in Web Applications** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/secure-coding-security-best-practices-in-web-applications/) |
-| 30 | **AI Cybersecurity Solutions: Overview of Applied AI Security** | `IT & Software` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-cybersecurity-solutions-overview-of-applied-ai-security/) |
-| 31 | **Extreme Programming (XP): Techniques for Agile Development** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/extreme-programming-xp-techniques-for-agile-development/) |
-| 32 | **Data-Driven Quality Assurance & Quality Control: Metrics/KPI** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/data-driven-quality-assurance-quality-control-metrics-kpi/) |
-| 33 | **Securing AI Applications: From Threats to Controls** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/securing-ai-applications-from-threats-to-controls/) |
-| 34 | **Oracle Java SE 17 Developer Professional: 1Z0-829 Exam** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/oracle-java-se-17-developer-professional-1z0-829-exam/) |
-| 35 | **Code Reviews for Secure, Clean, and Scalable Code** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/code-reviews-for-secure-clean-and-scalable-code/) |
-| 36 | **OWASP API Security Top 10 2021 + 2023 with Java Examples** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/owasp-api-security-top-10-2021-2023-with-java-examples/) |
-| 37 | **AI for Program Managers: Practical Skills and Automation** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-for-program-managers-practical-skills-and-automation/) |
-| 38 | **AI for Customer Experience: CX Automation and Analytics** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-for-customer-experience-cx-automation-and-analytics/) |
-| 39 | **AI Security Fundamentals: Risks, Frameworks & Tools** | `IT & Software` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-security-fundamentals-risks-frameworks-tools/) |
-| 40 | **Complete Photography : 21 Courses in 1 [Beginner to Expert]** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-photography-21-courses-in-1-beginner-to-expert/) |
+| 1 | **NVIDIA-Certified Professional: AI Infrastructure (NCP-AII)** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/nvidia-certified-professional-ai-infrastructure-ncp-aii/) |
+| 2 | **Generative AI for Business Leaders and Executives** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/generative-ai-for-business-leaders-and-executives/) |
+| 3 | **How to Add Value in the Project Management Role** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/how-to-add-value-in-the-project-management-role/) |
+| 4 | **The 3C’s to Become an AI-Ready Project Manager** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-3c-s-to-become-an-ai-ready-project-manager/) |
+| 5 | **C, C++, PHP & Java: Complete Guide to Modern Programming** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/c-c-php-java-complete-guide-to-modern-programming/) |
+| 6 | **Fiverr Success Secrets Blueprint From Beginner to Top Seller** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/fiverr-success-secrets-blueprint-from-beginner-to-top-seller/) |
+| 7 | **Career Resilience: Burnout, Setbacks and Uncertainty** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/career-resilience-burnout-setbacks-and-uncertainty/) |
+| 8 | **Learn Web Design using WordPress & Start Freelancing** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-web-design-using-wordpress-start-freelancing/) |
+| 9 | **Become a Successful SEO Freelancer & Start Online Businesses** | `Business` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/become-a-successful-seo-freelancer-start-online-businesses/) |
+| 10 | **Learn Graphic Design using Canva & Start Freelancing** | `Design` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-graphic-design-using-canva-start-freelancing/) |
+| 11 | **PR Director: Corporate Reputation & Public Relations [EN]** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/pr-director-corporate-reputation-public-relations-en/) |
+| 12 | **AI for Business Strategy & Planning [Masterclass]** | `Business` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-for-business-strategy-planning-masterclass/) |
+| 13 | **Build a Profitable Online Courses Business [Complete Guide]** | `Business` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/build-a-profitable-online-courses-business-complete-guide/) |
+| 14 | **Build, Host & Manage WordPress Websites using AI [10Web]** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/build-host-manage-wordpress-websites-using-ai-10web/) |
+| 15 | **Become a Successful Affiliate Marketer [Success Blueprint]** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/become-a-successful-affiliate-marketer-success-blueprint/) |
+| 16 | **Build Profitable E-Commerce Stores with WordPress & Woostify** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/build-profitable-e-commerce-stores-with-wordpress-woostify/) |
+| 17 | **Start a Profitable Affiliate Coupons Website -Passive Income** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/start-a-profitable-affiliate-coupons-website-passive-income/) |
+| 18 | **Create and Sell Digital Art using AI [Passive Income]** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/create-and-sell-digital-art-using-ai-passive-income/) |
+| 19 | **HR Audit Guide and Checklist with 729-Point + XLSX [EN]** | `Design` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/hr-audit-guide-and-checklist-with-729-point-xlsx-en/) |
+| 20 | **Learn Content Writing using AI & Start Freelancing** | `Marketing` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-content-writing-using-ai-start-freelancing/) |
+| 21 | **Print on Demand 2023: From Zero to Profitable Business** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/print-on-demand-2023-from-zero-to-profitable-business/) |
+| 22 | **Building AI Saas Apps / AI Tools with [No Code] x ChatGPT** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/building-ai-saas-apps-ai-tools-with-no-code-x-chatgpt/) |
+| 23 | **AI x ChatGPT for Productivity 101 [Masterclass]** | `Personal Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-x-chatgpt-for-productivity-101-masterclass/) |
+| 24 | **Cold Email & Lead Generation using AI [Masterclass]** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/cold-email-lead-generation-using-ai-masterclass/) |
+| 25 | **Learn Content Writing using AI & Make Money Online** | `Marketing` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-content-writing-using-ai-make-money-online/) |
+| 26 | **AI for Bloggers: SEO, Content Writing & Optimization** | `Marketing` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-for-bloggers-seo-content-writing-optimization/) |
+| 27 | **Executive Career: Get on the Shortlist First, 400+ Tools** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/executive-career-get-on-the-shortlist-first-400-tools/) |
+| 28 | **DP-900 Azure Data Fundamentals Practice Exam Questions 2025** | `IT & Software` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/dp-900-azure-data-fundamentals-practice-exam-questions-2025/) |
+| 29 | **Implementation of Occupational Health and Safety in Industry** | `Personal Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/implementation-of-occupational-health-and-safety-in-industry/) |
+| 30 | **Introduction to Occupational Health and Safety Professional** | `Personal Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/introduction-to-occupational-health-and-safety-professional/) |
+| 31 | **Become master in Claude AI [2026]** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/become-master-in-claude-ai-2026/) |
+| 32 | **Microsoft Copilot Studio +MS Foundry + Claude Code (Demo)** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/microsoft-copilot-studio-ms-foundry-claude-code-demo/) |
+| 33 | **Become Master in UiPath World** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/become-master-in-uipath-world/) |
+| 34 | **Jumpstart your Project Management career** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/jumpstart-your-project-management-career/) |
+| 35 | **Python For Beginners Course In-Depth** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/python-for-beginners-course-in-depth/) |
+| 36 | **The Complete AngularJS Bootcamp for Web Developers** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-angularjs-bootcamp-for-web-developers/) |
+| 37 | **Adobe Premiere Pro 101: Learn Editing, Effects & Transitions** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-premiere-pro-101-learn-editing-effects-transitions/) |
+| 38 | **Mastering Prompt Engineering: From Beginner to AI Expert** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-prompt-engineering-from-beginner-to-ai-expert/) |
+| 39 | **Learn HTML and CSS from Beginning to Advanced** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-html-and-css-from-beginning-to-advanced/) |
+| 40 | **HTML, CSS, Java, & JavaScript: Full Stack Programming Course** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/html-css-java-javascript-full-stack-programming-course/) |
 
 *Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*
