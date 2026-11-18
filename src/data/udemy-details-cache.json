@@ -27842,5 +27842,799 @@
       "rem": null,
       "end": "2026-11-19T08:00:00Z"
     }
+  },
+  "pivot-tables-microsoft-excel-pivot-table-and-data-analysis_E85CF3EEEFFF1811D91E": {
+    "subscribers": 3990,
+    "reviews": 28,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "essential-excel-with-tips-trick-shortcuts-and-job-success_C525D65D78C14D557958": {
+    "subscribers": 54178,
+    "reviews": 609,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "microsoft-excel-formulas-and-functions-beginner-to-advanced_FF4CA6EAD8B44F6C1033": {
+    "subscribers": 3105,
+    "reviews": 37,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "learn-chatgpt-midjourney-ai-and-use-it-for-passive-income_492E4BDD572713DA968F": {
+    "subscribers": 55001,
+    "reviews": 599,
+    "rating": "3.8",
+    "price": "$22.99",
+    "isFree": false,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "essential-canva-course-for-graphics-design-learn-in-2-hour_258FFD93FAF28FC27CAC": {
+    "subscribers": 59443,
+    "reviews": 1271,
+    "rating": "4.5",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "waste-and-environmental-management-for-sustainability_9CB0CA80A74CE31F4008": {
+    "subscribers": 1462,
+    "reviews": 10,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Dr Kazi Mamur .MD",
+    "campaign": {
+      "max": 100,
+      "rem": 28,
+      "end": "2026-12-19T06:02:00Z"
+    }
+  },
+  "safeguarding-adults-vulnerable-people-expert-training_4136E2CF9F825BAB19D7": {
+    "subscribers": 2030,
+    "reviews": 9,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Empower UK Employment Training",
+    "campaign": {
+      "max": 100,
+      "rem": 68,
+      "end": "2026-12-19T06:04:00Z"
+    }
+  },
+  "reactjs-the-complete-reactjs-course-for-beginners_412797681FB97084FA3A": {
+    "subscribers": 53535,
+    "reviews": 786,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "python-programming-the-complete-course-for-success_5AB6FE12DCB3EAD1BF3B": {
+    "subscribers": 26650,
+    "reviews": 345,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "adobe-premiere-pro-cc-for-video-editing-from-novice-to-exper_5EA318AE640066400A94": {
+    "subscribers": 50259,
+    "reviews": 374,
+    "rating": "4.3",
+    "price": "$29.99",
+    "isFree": false,
+    "instructors": "Ben Kemp, Zechariah Tech",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "advanced-ms-word-excel-powerpoint-course-for-job-success_F10A4B838A4DA1F59557": {
+    "subscribers": 39733,
+    "reviews": 676,
+    "rating": "4.5",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "web-design-course-with-html-css-and-wordpress_917AF6E65D272E777D61": {
+    "subscribers": 42167,
+    "reviews": 787,
+    "rating": "4.5",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Manuel Tudu",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "c-programming-masterclass-build-your-programming-foundation_D424A69889C9F31DB169": {
+    "subscribers": 5711,
+    "reviews": 55,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Brighter Futures Hub",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "capcut-video-editing-bootcamp-for-social-media-and-creators_D389B1F1768BD2255A96": {
+    "subscribers": 11771,
+    "reviews": 83,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "advanced-capcut-from-beginner-to-motion-graphics-master_510980218B256D573ABC": {
+    "subscribers": 30698,
+    "reviews": 265,
+    "rating": "4.0",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "all-in-one-video-editing-master-in-capcut-premiere-pro-canva_1FDB30D1B13D42E8C338": {
+    "subscribers": 12431,
+    "reviews": 76,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "ai-masteclass-chatgpt-gemini-midjourney-stable-diffusion_CB6062071BFE3BAC2ED9": {
+    "subscribers": 29568,
+    "reviews": 182,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "instagram-marketing-bootcamp-from-zero-to-hero_C2700B6DE72C7124B12E": {
+    "subscribers": 25495,
+    "reviews": 162,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "complete-microsoft-office-masterclass-word-excel-powerpoint_81CA883A7D94176A1343": {
+    "subscribers": 9101,
+    "reviews": 141,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": 100,
+      "rem": 4,
+      "end": "2026-12-19T07:52:00Z"
+    }
+  },
+  "ultimate-freelancing-course-from-beginner-to-expert-success_BF0EB4666D5B6A31B351": {
+    "subscribers": 22794,
+    "reviews": 114,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "php-oop-with-mysql-2023-build-restaurant-management-system_PHPRESTAURANTT67": {
+    "subscribers": 31814,
+    "reviews": 180,
+    "rating": "4.5",
+    "price": "$64.99",
+    "isFree": true,
+    "instructors": "Web Coding",
+    "campaign": {
+      "max": 100,
+      "rem": 21,
+      "end": "2026-12-19T07:47:00Z"
+    }
+  },
+  "mastering-social-media-marketing-a-comprehensive-guide_FFA80303480B262101B6": {
+    "subscribers": 28651,
+    "reviews": 389,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": 100,
+      "rem": 11,
+      "end": "2026-12-19T07:54:00Z"
+    }
+  },
+  "learn-machine-learning-course-with-python-ml_C21FA4A4310F7F11AB9C": {
+    "subscribers": 46167,
+    "reviews": 600,
+    "rating": "4.1",
+    "price": "$27.99",
+    "isFree": false,
+    "instructors": "Maria EduCare",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "the-complete-social-media-video-editing-masterclass_A36630AC52FABCBE5650": {
+    "subscribers": 34773,
+    "reviews": 506,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "complete-jquery-course-learn-from-beginner-to-advanced_6C508F8CAF356D6BC590": {
+    "subscribers": 28897,
+    "reviews": 92,
+    "rating": "4.2",
+    "price": "$27.99",
+    "isFree": false,
+    "instructors": "Maria EduCare",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "python-for-everyone-master-the-basics-of-programming_2163C8FBF7240D605145": {
+    "subscribers": 37459,
+    "reviews": 784,
+    "rating": "4.5",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "canva-masterclass-social-media-t-shirt-video-edit-motion_EF815CC67D6C49A14AEE": {
+    "subscribers": 30753,
+    "reviews": 293,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "financial-literacy-for-business-efficiency-driven-strategy_PAPAHR_NOV_159006": {
+    "subscribers": 3280,
+    "reviews": 9,
+    "rating": "4.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "corporate-university-director-lead-drive-learning_PAPAHR_NOV_370070": {
+    "subscribers": 5391,
+    "reviews": 15,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 41,
+      "end": "2026-12-19T07:05:00Z"
+    }
+  },
+  "hr-generalist-head-of-hr_PAPAHR_NOV_118611": {
+    "subscribers": 3185,
+    "reviews": 10,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 19,
+      "end": "2026-12-19T07:05:00Z"
+    }
+  },
+  "remote-and-hybrid-work_PAPAHR_NOV_984251": {
+    "subscribers": 2995,
+    "reviews": 5,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 20,
+      "end": "2026-12-19T07:05:00Z"
+    }
+  },
+  "hr-coordinator-hr-assistant-training-hr-operations-en_PAPAHR_NOV_641808": {
+    "subscribers": 252,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "google-gemini-for-hr-ai-recruiting-analytics-en_PAPAHR_NOV_759607": {
+    "subscribers": 853,
+    "reviews": 6,
+    "rating": "4.9",
+    "price": "$9.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": null
+  },
+  "competency-and-skill-model-development-approach-and-library_PAPAHR_NOV_144938": {
+    "subscribers": 3175,
+    "reviews": 20,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 30,
+      "end": "2026-12-19T07:05:00Z"
+    }
+  },
+  "capcut-mastery-create-stunning-social-media-videos_8A4C85E2F44183AA95FE": {
+    "subscribers": 24887,
+    "reviews": 188,
+    "rating": "4.1",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "build-8-python-web-and-application-python-from-zero-to-hero_0BCDB95F47EA4F92E1A7": {
+    "subscribers": 8489,
+    "reviews": 47,
+    "rating": "4.1",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "sourcer-recruiter-ai-boolean-search-talent-sourcing-en_PAPAHR_NOV_622843": {
+    "subscribers": 2647,
+    "reviews": 31,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 36,
+      "end": "2026-12-19T07:05:00Z"
+    }
+  },
+  "performance-review-playbook-evaluation-forms-en_PAPAHR_NOV_357830": {
+    "subscribers": 636,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "business-acumen-for-hr_PAPAHR_NOV_481514": {
+    "subscribers": 3080,
+    "reviews": 3,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 5,
+      "end": "2026-12-19T07:05:00Z"
+    }
+  },
+  "data-analysis-bootcamp-master-data-science-skills_AD08F048F2C5DE6320FC": {
+    "subscribers": 33769,
+    "reviews": 414,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "prep-for-shrm-scp-senior-certified-professional-society_PAPAHR_NOV_443070": {
+    "subscribers": 8875,
+    "reviews": 118,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 62,
+      "end": "2026-12-19T07:05:00Z"
+    }
+  },
+  "gallup-q12_PAPAHR_NOV_670409": {
+    "subscribers": 2946,
+    "reviews": 5,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 54,
+      "end": "2026-12-19T07:05:00Z"
+    }
+  },
+  "high-volume-hiring-mastery-recruit-faster-and-smarter_PAPAHR_NOV_960088": {
+    "subscribers": 7200,
+    "reviews": 25,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 41,
+      "end": "2026-12-19T07:05:00Z"
+    }
+  },
+  "organizational-development-ru_PAPAHR_NOV_229142": {
+    "subscribers": 2993,
+    "reviews": 2,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 19,
+      "end": "2026-12-19T07:05:00Z"
+    }
+  },
+  "hr-strategy-guide-and-checklist-with-174-lines-xlsx-en_PAPAHR_NOV_652081": {
+    "subscribers": 745,
+    "reviews": 3,
+    "rating": "4.7",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "people-management-for-hr-leading-developing-employees_PAPAHR_NOV_394980": {
+    "subscribers": 4751,
+    "reviews": 29,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 23,
+      "end": "2026-12-19T07:05:00Z"
+    }
+  },
+  "angularjs-essentials-from-beginner-to-advanced-developer_2210F639AE215BC61EDE": {
+    "subscribers": 23351,
+    "reviews": 128,
+    "rating": "4.3",
+    "price": "$29.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "gamification-in-hr-boost-engagement-recruitment-culture_PAPAHR_NOV_794920": {
+    "subscribers": 7965,
+    "reviews": 27,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 15,
+      "end": "2026-12-19T07:05:00Z"
+    }
+  },
+  "professional-adobe-photoshop-cc-course-with-advance-training_61662A7096E25F6855AB": {
+    "subscribers": 209135,
+    "reviews": 2139,
+    "rating": "4.0",
+    "price": "$74.99",
+    "isFree": false,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "conquer-pmp-success-essential-guide-for-project-management_D50DFBBD2FD81CE067D3": {
+    "subscribers": 12660,
+    "reviews": 132,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "hands-on-react-js-from-beginner-to-expert_39FAF68F6CD76C119CED": {
+    "subscribers": 36211,
+    "reviews": 652,
+    "rating": "4.1",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "premiere-pro-cc-novice-to-expert-how-to-earn-money-by-video_177DE3B5DC06206AAB63": {
+    "subscribers": 82728,
+    "reviews": 371,
+    "rating": "4.3",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "internal-auditing-principles-practices-and-applications_F0BA031C522C64421A2D": {
+    "subscribers": 8126,
+    "reviews": 128,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Financial Analysts",
+    "campaign": {
+      "max": 100,
+      "rem": 10,
+      "end": "2026-12-19T09:52:00Z"
+    }
+  },
+  "cost-accounting-from-fundamentals-to-advanced-analysis_4BA424A306C28A50B1CB": {
+    "subscribers": 7882,
+    "reviews": 42,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Financial Analysts",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "java-best-practices-learnit_OCTOBERFREE32026": {
+    "subscribers": 14319,
+    "reviews": 237,
+    "rating": "4.6",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 13,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "become-master-in-uipath-world_Novemberfree18": {
+    "subscribers": 3484,
+    "reviews": 28,
+    "rating": "4.5",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [112000+ Students]",
+    "campaign": null
+  },
+  "iso-45001-2018-complete-course_B684A1BFA1D9DD22613D": {
+    "subscribers": 29188,
+    "reviews": 3651,
+    "rating": "4.4",
+    "price": "$84.99",
+    "isFree": false,
+    "instructors": "Occam Consult",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "secure-code-java-spring-boot-learnit_OCTOBERFREE32026": {
+    "subscribers": 12503,
+    "reviews": 85,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 45,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "ai-agents-copilot-studio-azure-foundry-microsoft-foundry_Novemberfree18": {
+    "subscribers": 5948,
+    "reviews": 73,
+    "rating": "4.4",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [112000+ Students]",
+    "campaign": null
+  },
+  "ai-security-architecture-learnit_OCTOBERFREE32026": {
+    "subscribers": 8034,
+    "reviews": 30,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 15,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "ai-for-customer-success-learnit_OCTOBERFREE32026": {
+    "subscribers": 4645,
+    "reviews": 23,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 58,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "language-learning-with-ai-learnit_OCTOBERFREE32026": {
+    "subscribers": 6637,
+    "reviews": 41,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 5,
+      "end": "2026-12-01T17:12:00Z"
+    }
   }
 }
