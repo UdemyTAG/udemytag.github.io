@@ -38,45 +38,45 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 
 | No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
 | :-: | :--- | :--- | :-: | :--- |
-| 1 | **Java Best Practices for Efficient, Scalable, and Secure Code** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/java-best-practices-for-efficient-scalable-and-secure-code/) |
-| 2 | **Software architecture** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/software-architecture/) |
-| 3 | **Secure Code in Java and Spring Boot: Build Resilient Apps** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/secure-code-in-java-and-spring-boot-build-resilient-apps/) |
-| 4 | **Enterprise AI Security Architecture: Protecting AI Apps** | `IT & Software` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/enterprise-ai-security-architecture-protecting-ai-apps/) |
-| 5 | **AI for Customer Success: Transforming Customer Relationships** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-for-customer-success-transforming-customer-relationships/) |
-| 6 | **Language Learning with AI: Practical Skills Guide** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/language-learning-with-ai-practical-skills-guide/) |
-| 7 | **Salesforce Fundamentals : A Complete Guide for Beginners** | `Business` | ⭐ 3.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/salesforce-fundamentals-a-complete-guide-for-beginners/) |
-| 8 | **The Certified Global CEO Masterclass: Leading at the Top** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-certified-global-ceo-masterclass-leading-at-the-top/) |
-| 9 | **Machine Learning & Artificial Intelligence Beginners Course** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/machine-learning-artificial-intelligence-beginners-course/) |
-| 10 | **Certified Data Analyst Foundations Course** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-data-analyst-foundations-course/) |
-| 11 | **Mastering LLM Evaluation: Build Reliable Scalable AI Systems** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-llm-evaluation-build-reliable-scalable-ai-systems/) |
-| 12 | **[Non-Technical] AI Product Manager Explorer Certificate** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/non-technical-ai-product-manager-explorer-certificate/) |
-| 13 | **NCA-GENL: NVIDIA-Certified Generative AI LLMs Specialization** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/nca-genl-nvidia-certified-generative-ai-llms-specialization/) |
-| 14 | **Generative AI Foundational Certificate Course** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/generative-ai-foundational-certificate-course/) |
-| 15 | **Certified Data Engineering Foundation Course** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-data-engineering-foundation-course/) |
-| 16 | **Machine Learning & AI Foundations Course** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/machine-learning-ai-foundations-course/) |
-| 17 | **Deep Learning Specialization: Advanced AI, Hands on Lab** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/deep-learning-specialization-advanced-ai-hands-on-lab/) |
-| 18 | **Applied AI Foundations: 8-Week Professional Course** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/applied-ai-foundations-8-week-professional-course/) |
-| 19 | **Generative AI & LLMs Foundations: From Basics to Application** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/generative-ai-llms-foundations-from-basics-to-application/) |
-| 20 | **Data Science & AI Mastery: 100 Days to Career Success** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/data-science-ai-mastery-100-days-to-career-success/) |
-| 21 | **The Startup Founder’s Roadmap: From Zero to Market** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-startup-founder-s-roadmap-from-zero-to-market/) |
-| 22 | **AI in 60 Minutes: What Every Leader Should Know** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-in-60-minutes-what-every-leader-should-know/) |
-| 23 | **AI Made Simple for Kids: Fun Learning with Technology** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-made-simple-for-kids-fun-learning-with-technology/) |
-| 24 | **School of AI Certified Cloud Practitioner (Foundational)** | `IT & Software` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/school-of-ai-certified-cloud-practitioner-foundational/) |
-| 25 | **Complete RAG Bootcamp: Build, Optimize, and Deploy AI Apps** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-rag-bootcamp-build-optimize-and-deploy-ai-apps/) |
-| 26 | **School of AI Certified Solutions Architect (Associate)** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/school-of-ai-certified-solutions-architect-associate/) |
-| 27 | **Senior Executive Program: AI, Robotics, and Systems** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/senior-executive-program-ai-robotics-and-systems/) |
-| 28 | **One-Year Executive MBA: Strategy and Execution** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/one-year-executive-mba-strategy-and-execution/) |
-| 29 | **AI-Powered Microservices with Vibe Coding & Software 3.0** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-powered-microservices-with-vibe-coding-software-3-0/) |
-| 30 | **AI Governance: Strategy, Policy & Responsible Deployment** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-governance-strategy-policy-responsible-deployment/) |
-| 31 | **Excel - Excel Essential With Tips Trick and Job Success** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/excel-excel-essential-with-tips-trick-and-job-success/) |
-| 32 | **Word - Microsoft Word from Basic to Advanced** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/word-microsoft-word-from-basic-to-advanced/) |
-| 33 | **Canva Rockstar: Design Like a Pro for Social Media Success** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/canva-rockstar-design-like-a-pro-for-social-media-success/) |
-| 34 | **Certified Generative AI Architect with Knowledge Graphs** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-generative-ai-architect-with-knowledge-graphs/) |
-| 35 | **7 Days of Hands-On AI Development Bootcamp and Certification** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/7-days-of-hands-on-ai-development-bootcamp-and-certification/) |
-| 36 | **Custom ChatGPT Publishing & AI Bootcamp Masterclass** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/custom-chatgpt-publishing-ai-bootcamp-masterclass/) |
-| 37 | **Rust Programming Bootcamp - 100 Projects in 100 Days** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/rust-programming-bootcamp-100-projects-in-100-days/) |
-| 38 | **Mistral AI Development: AI with Mistral, LangChain & Ollama** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/mistral-ai-development-ai-with-mistral-langchain-ollama/) |
-| 39 | **Mastering DeepScaleR: Build & Deploy AI Models with Ollama** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-deepscaler-build-deploy-ai-models-with-ollama/) |
-| 40 | **Full-Stack AI with Ollama: Llama, Deepseek, Mistral, QwQ** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/full-stack-ai-with-ollama-llama-deepseek-mistral-qwq/) |
+| 1 | **Blue Prism Foundation Course Step By Step** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/blue-prism-foundation-course-step-by-step/) |
+| 2 | **Complete Guide to RPA Solution Architecture** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-guide-to-rpa-solution-architecture/) |
+| 3 | **Waste and Environmental Management for Sustainability** | `Business` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/waste-and-environmental-management-for-sustainability/) |
+| 4 | **Safeguarding Adults & Vulnerable People: Expert Training** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/safeguarding-adults-vulnerable-people-expert-training/) |
+| 5 | **Complete Microsoft Office Masterclass Word Excel PowerPoint** | `Business` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-microsoft-office-masterclass-word-excel-powerpoint/) |
+| 6 | **PHP OOP with MySQL 2023: Build Restaurant Management System** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/php-oop-with-mysql-2023-build-restaurant-management-system/) |
+| 7 | **Mastering Social Media Marketing: A Comprehensive Guide** | `Business` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-social-media-marketing-a-comprehensive-guide/) |
+| 8 | **Corporate University Director: Lead & Drive Learning [EN]** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/corporate-university-director-lead-drive-learning-en/) |
+| 9 | **Marketing Campaign Management: Brief, Budget, Results [EN]** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/marketing-campaign-management-brief-budget-results-en/) |
+| 10 | **Remote Work Productivity: Focus, Teams and Boundaries [EN]** | `Personal Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/remote-work-productivity-focus-teams-and-boundaries-en/) |
+| 11 | **Competency and Skill Model Development: Approach and Library** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/competency-and-skill-model-development-approach-and-library/) |
+| 12 | **Sourcer Recruiter: AI, Boolean Search & Talent Sourcing [EN]** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/sourcer-recruiter-ai-boolean-search-talent-sourcing-en/) |
+| 13 | **Financial Forecasting, Budgeting, Scenario Planning** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-forecasting-budgeting-scenario-planning/) |
+| 14 | **Prepare and test for the SHRM-SCP Senior HR Exam 2025 [EN]** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/prepare-and-test-for-the-shrm-scp-senior-hr-exam-2025-en/) |
+| 15 | **Employee Wellbeing Program: Culture, Benefits, Metrics [EN]** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/employee-wellbeing-program-culture-benefits-metrics-en/) |
+| 16 | **High-Volume Hiring Mastery: Recruit Faster and Smarter [EN]** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/high-volume-hiring-mastery-recruit-faster-and-smarter-en/) |
+| 17 | **Organizational Transformation: Change and Culture 120+ Tools** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/organizational-transformation-change-and-culture-120-tools/) |
+| 18 | **People Management for HR Leading, Developing Employees [EN]** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/people-management-for-hr-leading-developing-employees-en/) |
+| 19 | **HR Gamification: Boost Engagement Recruitment Culture [EN]** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/hr-gamification-boost-engagement-recruitment-culture-en/) |
+| 20 | **Internal Auditing: Principles, Practices, and Applications** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/internal-auditing-principles-practices-and-applications/) |
+| 21 | **Java Best Practices for Efficient, Scalable, and Secure Code** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/java-best-practices-for-efficient-scalable-and-secure-code/) |
+| 22 | **Software architecture** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/software-architecture/) |
+| 23 | **Secure Code in Java and Spring Boot: Build Resilient Apps** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/secure-code-in-java-and-spring-boot-build-resilient-apps/) |
+| 24 | **Enterprise AI Security Architecture: Protecting AI Apps** | `IT & Software` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/enterprise-ai-security-architecture-protecting-ai-apps/) |
+| 25 | **AI for Customer Success: Transforming Customer Relationships** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-for-customer-success-transforming-customer-relationships/) |
+| 26 | **Language Learning with AI: Practical Skills Guide** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/language-learning-with-ai-practical-skills-guide/) |
+| 27 | **Salesforce Fundamentals : A Complete Guide for Beginners** | `Business` | ⭐ 3.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/salesforce-fundamentals-a-complete-guide-for-beginners/) |
+| 28 | **NCA‑AIIO NVIDIA‑Certified Associate: AI Infrastructure & Ops** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/nca-aiio-nvidia-certified-associate-ai-infrastructure-ops/) |
+| 29 | **Pivot Tables - Microsoft Excel Pivot Table and Data Analysis** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/pivot-tables-microsoft-excel-pivot-table-and-data-analysis/) |
+| 30 | **Essential Excel With Tips Trick Shortcuts and Job Success** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-excel-with-tips-trick-shortcuts-and-job-success/) |
+| 31 | **Microsoft Excel Formulas and Functions: Beginner to Advanced** | `Business` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/microsoft-excel-formulas-and-functions-beginner-to-advanced/) |
+| 32 | **Learn ChatGPT, Midjourney, AI and Use it For Passive Income** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-chatgpt-midjourney-ai-and-use-it-for-passive-income/) |
+| 33 | **Essential Canva Course for Graphics Design Learn in 2 Hour** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-canva-course-for-graphics-design-learn-in-2-hour/) |
+| 34 | **Become master in Claude AI [2026]** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/become-master-in-claude-ai-2026/) |
+| 35 | **ReactJs - The Complete ReactJs Course For Beginners** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/reactjs-the-complete-reactjs-course-for-beginners/) |
+| 36 | **Python Programming: The Complete Course for Success** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/python-programming-the-complete-course-for-success/) |
+| 37 | **Adobe Premiere Pro CC For Video Editing - Novice to Expert** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-premiere-pro-cc-for-video-editing-novice-to-expert/) |
+| 38 | **Advanced MS Word Excel PowerPoint Course for Job Success** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-ms-word-excel-powerpoint-course-for-job-success/) |
+| 39 | **Web Design Course with HTML CSS and Wordpress** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/web-design-course-with-html-css-and-wordpress/) |
+| 40 | **C Programming Masterclass: Build Your Programming Foundation** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/c-programming-masterclass-build-your-programming-foundation/) |
 
 *Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*
