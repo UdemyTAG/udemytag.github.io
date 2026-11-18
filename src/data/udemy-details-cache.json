@@ -27716,5 +27716,131 @@
       "rem": null,
       "end": "2026-11-19T08:00:00Z"
     }
+  },
+  "cybersecurity-101-foundations-for-absolute-beginners_NOVFREE03": {
+    "subscribers": 33746,
+    "reviews": 3680,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 8,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "salesforce-fundamentals-a-complete-guide-for-beginners_F1ABD982A1B9B951A790": {
+    "subscribers": 28217,
+    "reviews": 210,
+    "rating": "3.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 25,
+      "end": "2026-12-12T11:00:00Z"
+    }
+  },
+  "build-13-projects-with-php-mysql-bootstrap-and-pdo_13PROJECTS64": {
+    "subscribers": 32518,
+    "reviews": 188,
+    "rating": "4.4",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "ultimate-ai-art-content-creation-course-2023_9B77427295C9661645E0": {
+    "subscribers": 30869,
+    "reviews": 503,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Dekker the Marketer, Samuel Albury, Jyra Galosmo",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "mastering-javascript-and-jquery-course-beginners-to-advanced_9EE4172AC1442FC61C2C": {
+    "subscribers": 31360,
+    "reviews": 149,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "responsive-design-with-css3-create-mobile-friendly-webpages_E042995C632B03B4731C": {
+    "subscribers": 5879,
+    "reviews": 24,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Brighter Futures Hub",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "master-the-power-of-your-mind-to-be-more-successful_NOV2026FREE01": {
+    "subscribers": 107858,
+    "reviews": 1226,
+    "rating": "4.2",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Susmita Dutta, Ash Akshay Goel",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "bootcamp-az-900-microsoft-azure-fundamentals_C14E7F7101185CF49E67": {
+    "subscribers": 8861,
+    "reviews": 181,
+    "rating": "4.5",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Codaming • 300k+ Learners Worldwide, Dinesh Kumar, Vedika Singh",
+    "campaign": null
+  },
+  "html5-masterclass-build-modern-and-mobile-friendly-websites_94A5493542746EDD8FDD": {
+    "subscribers": 5922,
+    "reviews": 48,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Brighter Futures Hub",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
+  },
+  "water-resources-management_5026D8E717CE08BDB15C": {
+    "subscribers": 867,
+    "reviews": 5,
+    "rating": "4.8",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Green Courses",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-19T08:00:00Z"
+    }
   }
 }

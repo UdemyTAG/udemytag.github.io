@@ -1,6 +1,50 @@
 [
   {
     "id": "course-1",
+    "slug": "cybersecurity-101-foundations-for-absolute-beginners",
+    "title": "Cybersecurity 101: Foundations for Absolute Beginners",
+    "url": "https://www.udemy.com/course/cybersecurity-101-foundations-for-absolute-beginners/?couponCode=NOVFREE03",
+    "image": "https://img-c.udemycdn.com/course/240x135/6613447_62f4.jpg",
+    "category": "IT & Software",
+    "coupon": "NOVFREE03",
+    "instructor": "School of AI",
+    "originalPrice": "$19.99",
+    "discountPrice": "Free",
+    "rating": "4.5",
+    "subscribers": 33746,
+    "reviews": 3680,
+    "isFree": true,
+    "isExpired": false,
+    "claimedCount": 92,
+    "quota": 100,
+    "remainingSlots": 8,
+    "description": "Master the basics of cybersecurity, protect your data, and gain hands-on skills using real-world tools and labs.",
+    "expiryDate": "18/11/2026 1:20:11"
+  },
+  {
+    "id": "course-2",
+    "slug": "salesforce-fundamentals-a-complete-guide-for-beginners",
+    "title": "Salesforce Fundamentals : A Complete Guide for Beginners",
+    "url": "https://www.udemy.com/course/salesforce-fundamentals-a-complete-guide-for-beginners/?couponCode=F1ABD982A1B9B951A790",
+    "image": "https://img-c.udemycdn.com/course/240x135/5668638_f94e_2.jpg",
+    "category": "Business",
+    "coupon": "F1ABD982A1B9B951A790",
+    "instructor": "Sara Academy",
+    "originalPrice": "$19.99",
+    "discountPrice": "Free",
+    "rating": "3.2",
+    "subscribers": 28217,
+    "reviews": 210,
+    "isFree": true,
+    "isExpired": false,
+    "claimedCount": 75,
+    "quota": 100,
+    "remainingSlots": 25,
+    "description": "Salesforce Completely Beginners Course. Everything You Need to Know to Start Using Salesforce Today",
+    "expiryDate": "18/11/2026 1:20:11"
+  },
+  {
+    "id": "course-11",
     "slug": "quantum-computing-for-decision-makers-executive-essentials",
     "title": "Quantum Computing for Decision Makers: Executive Essentials",
     "url": "https://www.udemy.com/course/quantum-computing-for-decision-makers-executive-essentials/?couponCode=NOVFREE03",
@@ -22,7 +66,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-2",
+    "id": "course-12",
     "slug": "ai-bible-from-beginner-to-builder-in-100-projects",
     "title": "AI Bible: From Beginner to Builder in 100 Projects",
     "url": "https://www.udemy.com/course/ai-bible-from-beginner-to-builder-in-100-projects/?couponCode=NOVFREE03",
@@ -44,7 +88,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-3",
+    "id": "course-13",
     "slug": "rag-strategy-execution-build-enterprise-knowledge-systems",
     "title": "RAG Strategy & Execution: Build Enterprise Knowledge Systems",
     "url": "https://www.udemy.com/course/rag-strategy-execution-build-enterprise-knowledge-systems/?couponCode=NOVFREE03",
@@ -66,7 +110,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-4",
+    "id": "course-14",
     "slug": "certified-chief-ai-officer-program-ai-strategy-governance",
     "title": "Certified Chief AI Officer Program: AI Strategy & Governance",
     "url": "https://www.udemy.com/course/chief-ai-officer-program-lead-ai-strategy-governance/?couponCode=NOVFREE03",
@@ -88,7 +132,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-5",
+    "id": "course-15",
     "slug": "mcp-for-leaders-architecting-context-driven-ai",
     "title": "MCP for Leaders: Architecting Context-Driven AI",
     "url": "https://www.udemy.com/course/mcp-for-leaders-architecting-context-driven-ai/?couponCode=NOVFREE03",
@@ -110,7 +154,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-6",
+    "id": "course-16",
     "slug": "certified-chief-technology-officer-cto-mastery-program",
     "title": "Certified Chief Technology Officer(CTO) Mastery Program",
     "url": "https://www.udemy.com/course/chief-technology-officercto-mastery-program/?couponCode=NOVFREE03",
@@ -132,7 +176,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-7",
+    "id": "course-17",
     "slug": "ai-engineer-explorer-certificate-course",
     "title": "AI Engineer Explorer Certificate Course",
     "url": "https://www.udemy.com/course/ai-engineer-explorer-certificate-course/?couponCode=NOVFREE03",
@@ -154,7 +198,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-8",
+    "id": "course-18",
     "slug": "ai-engineer-associate-certificate-course",
     "title": "AI Engineer Associate Certificate Course",
     "url": "https://www.udemy.com/course/ai-engineer-associate-certificate-course/?couponCode=NOVFREE03",
@@ -176,7 +220,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-9",
+    "id": "course-19",
     "slug": "ai-engineer-professional-certificate-course",
     "title": "AI Engineer Professional Certificate Course",
     "url": "https://www.udemy.com/course/ai-engineer-professional-certificate-course/?couponCode=NOVFREE03",
@@ -198,7 +242,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-10",
+    "id": "course-20",
     "slug": "ai-product-manager-explorer-certificate",
     "title": "AI Product Manager Explorer Certificate",
     "url": "https://www.udemy.com/course/ai-product-manager-explorer-certificate/?couponCode=NOVFREE03",
@@ -220,7 +264,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-11",
+    "id": "course-21",
     "slug": "the-certified-global-ceo-masterclass-leading-at-the-top",
     "title": "The Certified Global CEO Masterclass: Leading at the Top",
     "url": "https://www.udemy.com/course/ceo-masterclass/?couponCode=NOVFREE03",
@@ -242,7 +286,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-12",
+    "id": "course-22",
     "slug": "machine-learning-artificial-intelligence-beginners-course",
     "title": "Machine Learning & Artificial Intelligence Beginners Course",
     "url": "https://www.udemy.com/course/ml-ai-beginners-course/?couponCode=NOVFREE03",
@@ -264,7 +308,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-13",
+    "id": "course-23",
     "slug": "certified-data-analyst-foundations-course",
     "title": "Certified Data Analyst Foundations Course",
     "url": "https://www.udemy.com/course/certified-data-analyst-foundations-course/?couponCode=NOVFREE03",
@@ -286,7 +330,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-14",
+    "id": "course-24",
     "slug": "mastering-llm-evaluation-build-reliable-scalable-ai-systems",
     "title": "Mastering LLM Evaluation: Build Reliable Scalable AI Systems",
     "url": "https://www.udemy.com/course/mastering-llm-evaluation-build-reliable-scalable-ai-systems/?couponCode=NOVFREE03",
@@ -308,7 +352,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-15",
+    "id": "course-25",
     "slug": "non-technical-ai-product-manager-explorer-certificate",
     "title": "[Non-Technical] AI Product Manager Explorer Certificate",
     "url": "https://www.udemy.com/course/ai-product-manager-certificate/?couponCode=NOVFREE03",
@@ -330,7 +374,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-16",
+    "id": "course-26",
     "slug": "nca-genl-nvidia-certified-generative-ai-llms-specialization",
     "title": "NCA-GENL: NVIDIA-Certified Generative AI LLMs Specialization",
     "url": "https://www.udemy.com/course/nca-genl-nvidia-certified-generative-ai-llms-specialization/?couponCode=NOVFREE03",
@@ -352,7 +396,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-17",
+    "id": "course-27",
     "slug": "generative-ai-foundational-certificate-course",
     "title": "Generative AI Foundational Certificate Course",
     "url": "https://www.udemy.com/course/generative-ai-foundational-certificate-course/?couponCode=NOVFREE03",
@@ -374,7 +418,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-18",
+    "id": "course-28",
     "slug": "certified-data-engineering-foundation-course",
     "title": "Certified Data Engineering Foundation Course",
     "url": "https://www.udemy.com/course/certified-data-engineering-foundation-course/?couponCode=NOVFREE03",
@@ -396,7 +440,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-19",
+    "id": "course-29",
     "slug": "machine-learning-ai-foundations-course",
     "title": "Machine Learning & AI Foundations Course",
     "url": "https://www.udemy.com/course/machine-learning-ai-foundations-course/?couponCode=NOVFREE03",
@@ -418,7 +462,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-20",
+    "id": "course-30",
     "slug": "deep-learning-specialization-advanced-ai-hands-on-lab",
     "title": "Deep Learning Specialization: Advanced AI, Hands on Lab",
     "url": "https://www.udemy.com/course/deep-learning-specialization-advanced-ai-architectures/?couponCode=NOVFREE03",
@@ -440,7 +484,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-21",
+    "id": "course-31",
     "slug": "applied-ai-foundations-8-week-professional-course",
     "title": "Applied AI Foundations: 8-Week Professional Course",
     "url": "https://www.udemy.com/course/applied-ai-foundations-8-week-professional-course/?couponCode=NOVFREE03",
@@ -462,7 +506,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-22",
+    "id": "course-32",
     "slug": "generative-ai-llms-foundations-from-basics-to-application",
     "title": "Generative AI & LLMs Foundations: From Basics to Application",
     "url": "https://www.udemy.com/course/generative-ai-llms-foundations-from-basics-to-application/?couponCode=NOVFREE03",
@@ -484,7 +528,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-23",
+    "id": "course-33",
     "slug": "data-science-ai-mastery-100-days-to-career-success",
     "title": "Data Science & AI Mastery: 100 Days to Career Success",
     "url": "https://www.udemy.com/course/data-science-ai-mastery-100-days-to-career-success/?couponCode=NOVFREE03",
@@ -506,7 +550,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-24",
+    "id": "course-34",
     "slug": "the-startup-founder-s-roadmap-from-zero-to-market",
     "title": "The Startup Founder’s Roadmap: From Zero to Market",
     "url": "https://www.udemy.com/course/startup-founders-roadmap-from-zero-to-market/?couponCode=NOVFREE03",
@@ -528,7 +572,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-26",
+    "id": "course-36",
     "slug": "ai-in-60-minutes-what-every-leader-should-know",
     "title": "AI in 60 Minutes: What Every Leader Should Know",
     "url": "https://www.udemy.com/course/ai-in-60-minutes/?couponCode=NOVFREE03",
@@ -550,7 +594,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-28",
+    "id": "course-38",
     "slug": "ai-made-simple-for-kids-fun-learning-with-technology",
     "title": "AI Made Simple for Kids: Fun Learning with Technology",
     "url": "https://www.udemy.com/course/ai-made-simple-for-kids/?couponCode=NOVFREE03",
@@ -572,7 +616,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-29",
+    "id": "course-39",
     "slug": "school-of-ai-certified-cloud-practitioner-foundational",
     "title": "School of AI Certified Cloud Practitioner (Foundational)",
     "url": "https://www.udemy.com/course/school-of-ai-certified-cloud-practitioner-foundational/?couponCode=NOVFREE03",
@@ -594,7 +638,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-30",
+    "id": "course-40",
     "slug": "complete-rag-bootcamp-build-optimize-and-deploy-ai-apps",
     "title": "Complete RAG Bootcamp: Build, Optimize, and Deploy AI Apps",
     "url": "https://www.udemy.com/course/complete-rag-bootcamp-build-optimize-and-deploy-ai-apps/?couponCode=NOVFREE03",
@@ -616,7 +660,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-31",
+    "id": "course-41",
     "slug": "school-of-ai-certified-solutions-architect-associate",
     "title": "School of AI Certified Solutions Architect (Associate)",
     "url": "https://www.udemy.com/course/school-of-ai-certified-solutions-architect-associate/?couponCode=NOVFREE03",
@@ -638,7 +682,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-32",
+    "id": "course-42",
     "slug": "senior-executive-program-ai-robotics-and-systems",
     "title": "Senior Executive Program: AI, Robotics, and Systems",
     "url": "https://www.udemy.com/course/senior-executive-program-ai-robotics-and-systems/?couponCode=NOVFREE03",
@@ -660,7 +704,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-33",
+    "id": "course-43",
     "slug": "one-year-executive-mba-strategy-and-execution",
     "title": "One-Year Executive MBA: Strategy and Execution",
     "url": "https://www.udemy.com/course/one-year-executive-mba-strategy-and-execution/?couponCode=NOVFREE03",
@@ -682,7 +726,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-36",
+    "id": "course-44",
     "slug": "ai-powered-microservices-with-vibe-coding-software-3-0",
     "title": "AI-Powered Microservices with Vibe Coding & Software 3.0",
     "url": "https://www.udemy.com/course/ai_powered_microservices_with_vibe_coding/?couponCode=NOVFREE02",
@@ -704,7 +748,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-37",
+    "id": "course-45",
     "slug": "ai-governance-strategy-policy-responsible-deployment",
     "title": "AI Governance: Strategy, Policy & Responsible Deployment",
     "url": "https://www.udemy.com/course/ai-governance-strategy-policy-responsible-deployment/?couponCode=NOVFREE03",
@@ -726,7 +770,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-39",
+    "id": "course-46",
     "slug": "excel-excel-essential-with-tips-trick-and-job-success",
     "title": "Excel - Excel Essential With Tips Trick and Job Success",
     "url": "https://www.udemy.com/course/excel-excel-essential-with-tips-trick-and-job-success/?couponCode=86C7F8C67E12D622CEF0",
@@ -748,7 +792,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-40",
+    "id": "course-47",
     "slug": "word-microsoft-word-from-basic-to-advanced",
     "title": "Word - Microsoft Word from Basic to Advanced",
     "url": "https://www.udemy.com/course/word-microsoft-word-from-basic-to-advanced/?couponCode=C73B844D5E6A574CD5AE",
@@ -770,7 +814,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-41",
+    "id": "course-48",
     "slug": "canva-rockstar-design-like-a-pro-for-social-media-success",
     "title": "Canva Rockstar: Design Like a Pro for Social Media Success",
     "url": "https://www.udemy.com/course/canva-rockstar-design-like-a-pro-for-social-media-success/?couponCode=3B4D4B54E07833FBA1A4",
@@ -792,7 +836,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-42",
+    "id": "course-49",
     "slug": "certified-generative-ai-architect-with-knowledge-graphs",
     "title": "Certified Generative AI Architect with Knowledge Graphs",
     "url": "https://www.udemy.com/course/certified_generative_ai_architect_with_knowledge_graphs/?couponCode=NOVFREE01",
@@ -814,7 +858,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-43",
+    "id": "course-50",
     "slug": "7-days-of-hands-on-ai-development-bootcamp-and-certification",
     "title": "7 Days of Hands-On AI Development Bootcamp and Certification",
     "url": "https://www.udemy.com/course/7-days-of-hands-on-ai-development-bootcamp/?couponCode=NOVFREE01",
@@ -836,7 +880,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-44",
+    "id": "course-51",
     "slug": "ai-agents-for-everyone-and-artificial-intelligence-bootcamp",
     "title": "AI Agents for Everyone and Artificial Intelligence Bootcamp",
     "url": "https://www.udemy.com/course/ai-agents-for-everyone-and-artificial-intelligence-bootcamp/?couponCode=NOVFREE02",
@@ -858,29 +902,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-45",
-    "slug": "mastering-context-design-for-intelligent-ai-agents",
-    "title": "Mastering Context Design for Intelligent AI Agents",
-    "url": "https://www.udemy.com/course/mastering-context-design-for-intelligent-ai-agents/?couponCode=NOVFREE02",
-    "image": "https://img-c.udemycdn.com/course/240x135/1630106_3469_5.jpg",
-    "category": "Design",
-    "coupon": "NOVFREE02",
-    "instructor": "Vivian Aranha, School of AI",
-    "originalPrice": "$19.99",
-    "discountPrice": "Free",
-    "rating": "4.1",
-    "subscribers": 24686,
-    "reviews": 215,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 38,
-    "quota": 100,
-    "remainingSlots": 62,
-    "description": "Learn how to design smarter, effective AI agents using the 6 essential context types: Instructions, Memory, Tools & more",
-    "expiryDate": "17/11/2026 14:23:33"
-  },
-  {
-    "id": "course-46",
+    "id": "course-52",
     "slug": "custom-chatgpt-publishing-ai-bootcamp-masterclass",
     "title": "Custom ChatGPT Publishing & AI Bootcamp Masterclass",
     "url": "https://www.udemy.com/course/custom-chatgpt-publishing-ai-bootcamp-masterclass/?couponCode=NOVFREE02",
@@ -902,7 +924,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-47",
+    "id": "course-53",
     "slug": "rust-programming-bootcamp-100-projects-in-100-days",
     "title": "Rust Programming Bootcamp - 100 Projects in 100 Days",
     "url": "https://www.udemy.com/course/rust-programming-bootcamp/?couponCode=NOVFREE01",
@@ -924,7 +946,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-49",
+    "id": "course-54",
     "slug": "mistral-ai-development-ai-with-mistral-langchain-ollama",
     "title": "Mistral AI Development: AI with Mistral, LangChain & Ollama",
     "url": "https://www.udemy.com/course/mistral-ai-development-mistral-langchain-ollama/?couponCode=NOVFREE02",
@@ -946,7 +968,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-50",
+    "id": "course-55",
     "slug": "mastering-deepscaler-build-deploy-ai-models-with-ollama",
     "title": "Mastering DeepScaleR: Build & Deploy AI Models with Ollama",
     "url": "https://www.udemy.com/course/mastering-deepscaler-build-deploy-ai-models-with-ollama/?couponCode=NOVFREE02",
@@ -968,7 +990,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-51",
+    "id": "course-56",
     "slug": "full-stack-ai-with-ollama-llama-deepseek-mistral-qwq",
     "title": "Full-Stack AI with Ollama: Llama, Deepseek, Mistral, QwQ",
     "url": "https://www.udemy.com/course/full-stack-ai-with-ollama-llama-deepseek-mistral-phi/?couponCode=NOVFREE02",
@@ -990,7 +1012,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-52",
+    "id": "course-57",
     "slug": "ai-python-development-megaclass-300-hands-on-projects",
     "title": "AI & Python Development Megaclass - 300+ Hands-on Projects",
     "url": "https://www.udemy.com/course/ai-python-development-megaclass-300-hands-on-projects/?couponCode=NOVFREE02",
@@ -1012,7 +1034,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-53",
+    "id": "course-58",
     "slug": "mastering-ai-agents-bootcamp-build-smart-chatbots-tools",
     "title": "Mastering AI Agents Bootcamp: Build Smart Chatbots & Tools",
     "url": "https://www.udemy.com/course/mastering-ai-agents-bootcamp-build-smart-chatbots-tools/?couponCode=NOVFREE02",
@@ -1034,7 +1056,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-54",
+    "id": "course-59",
     "slug": "ai-quantum-computing-mastery-from-zero-to-expert-bootcamp",
     "title": "AI & Quantum Computing Mastery: From Zero to Expert Bootcamp",
     "url": "https://www.udemy.com/course/ai-quantum-computing-mastery-from-zero-to-expert-bootcamp/?couponCode=NOVFREE02",
@@ -1056,7 +1078,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-55",
+    "id": "course-60",
     "slug": "from-recipe-to-chef-become-an-llm-engineer-100-projects",
     "title": "From Recipe to Chef: Become an LLM Engineer 100+ Projects",
     "url": "https://www.udemy.com/course/llm-engineer/?couponCode=NOVFREE02",
@@ -1078,7 +1100,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-56",
+    "id": "course-61",
     "slug": "quantum-kitchen-cooking-up-concepts-in-quantum-computing",
     "title": "Quantum Kitchen: Cooking Up Concepts in Quantum Computing",
     "url": "https://www.udemy.com/course/quantum-computing-kitchen/?couponCode=NOVFREE02",
@@ -1100,7 +1122,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-57",
+    "id": "course-62",
     "slug": "nvidia-certified-professional-ai-infrastructure-ncp-aii",
     "title": "NVIDIA-Certified Professional: AI Infrastructure (NCP-AII)",
     "url": "https://www.udemy.com/course/ncp-aii-nvidia-certified-professional-ai-infrastructure/?couponCode=NOVFREE02",
@@ -1122,7 +1144,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-58",
+    "id": "course-63",
     "slug": "generative-ai-for-business-leaders-and-executives",
     "title": "Generative AI for Business Leaders and Executives",
     "url": "https://www.udemy.com/course/generative-ai-for-business-leaders-and-executives/?couponCode=NOVFREE02",
@@ -1144,7 +1166,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-59",
+    "id": "course-64",
     "slug": "certified-master-in-agentic-ai-a-52-week-applied-program",
     "title": "Certified Master in Agentic AI: A 52-Week Applied Program",
     "url": "https://www.udemy.com/course/certified-master-in-agentic-ai/?couponCode=NOVFREE02",
@@ -1166,7 +1188,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-60",
+    "id": "course-65",
     "slug": "nca-aiio-nvidia-certified-associate-ai-infrastructure-ops",
     "title": "NCA‑AIIO NVIDIA‑Certified Associate: AI Infrastructure & Ops",
     "url": "https://www.udemy.com/course/nca-aiio-nvidia-certified-associate-ai-infrastructure-and-operations/?couponCode=NOVFREE02",
@@ -1188,29 +1210,183 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-65",
-    "slug": "ms-office-with-ai-word-excel-powerpoint-with-chatgpt",
-    "title": "MS Office With AI - Word Excel PowerPoint with ChatGPT",
-    "url": "https://www.udemy.com/course/ms-office-with-ai-word-excel-powerpoint-with-chatgpt/?couponCode=CF1441271BCDEA991133",
-    "image": "https://img-c.udemycdn.com/course/240x135/6792989_b739.jpg",
-    "category": "Business",
-    "coupon": "CF1441271BCDEA991133",
-    "instructor": "Sustoab Soren",
-    "originalPrice": "$19.99",
-    "discountPrice": "Free",
-    "rating": "4.0",
-    "subscribers": 12145,
-    "reviews": 132,
-    "isFree": true,
-    "isExpired": false,
-    "claimedCount": 81,
+    "id": "course-3",
+    "slug": "build-13-projects-with-php-mysql-bootstrap-and-pdo",
+    "title": "Build 13 Projects with PHP MySQL Bootstrap and PDO",
+    "url": "https://www.udemy.com/course/build-13-projects-with-php-mysql-bootstrap-and-pdo/?couponCode=13PROJECTS64",
+    "image": "https://img-c.udemycdn.com/course/240x135/5181130_1601_2.jpg",
+    "category": "Development",
+    "coupon": "13PROJECTS64",
+    "instructor": "Web Coding",
+    "originalPrice": "$64.99",
+    "discountPrice": "$64.99",
+    "rating": "4.4",
+    "subscribers": 32518,
+    "reviews": 188,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
     "quota": 100,
-    "remainingSlots": 19,
-    "description": "Master Microsoft Word, Excel, PowerPoint, and Google Sheets with AI tools like ChatGPT to Save time, Automate tasks",
-    "expiryDate": "17/11/2026 14:23:33"
+    "remainingSlots": 0,
+    "description": "Build Amazing Projects with PHP MySQL Bootstrap and PDO and Take your Web Development Skills to the Next Level",
+    "expiryDate": "18/11/2026 1:20:11"
   },
   {
-    "id": "course-25",
+    "id": "course-4",
+    "slug": "ultimate-ai-art-content-creation-course-generative-ai",
+    "title": "Ultimate AI Art Content Creation Course (Generative AI)",
+    "url": "https://www.udemy.com/course/ultimate-ai-art-content-creation-course-2023/?couponCode=9B77427295C9661645E0",
+    "image": "https://img-c.udemycdn.com/course/240x135/5489108_0256_3.jpg",
+    "category": "Marketing",
+    "coupon": "9B77427295C9661645E0",
+    "instructor": "Dekker the Marketer, Samuel Albury, Jyra Galosmo",
+    "originalPrice": "$19.99",
+    "discountPrice": "$19.99",
+    "rating": "4.2",
+    "subscribers": 30869,
+    "reviews": 503,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "AI Art (Image/Video/Audio/Writing): Midjourney, Dall-E, Leonardo AI, CapCut, Adobe Premiere, Firefly, Topaz etc",
+    "expiryDate": "18/11/2026 1:20:11"
+  },
+  {
+    "id": "course-5",
+    "slug": "mastering-javascript-and-jquery-course-beginners-to-advanced",
+    "title": "Mastering JavaScript and jQuery Course Beginners to Advanced",
+    "url": "https://www.udemy.com/course/mastering-javascript-and-jquery-course-beginners-to-advanced/?couponCode=9EE4172AC1442FC61C2C",
+    "image": "https://img-c.udemycdn.com/course/240x135/5652818_10f1_2.jpg",
+    "category": "Development",
+    "coupon": "9EE4172AC1442FC61C2C",
+    "instructor": "Sara Academy",
+    "originalPrice": "$19.99",
+    "discountPrice": "$19.99",
+    "rating": "4.4",
+    "subscribers": 31360,
+    "reviews": 149,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Create Dynamic Interactive Website With  JavaScript & jQuery Coding.",
+    "expiryDate": "18/11/2026 1:20:11"
+  },
+  {
+    "id": "course-6",
+    "slug": "responsive-design-with-css3-create-mobile-friendly-webpages",
+    "title": "Responsive Design with CSS3: Create Mobile Friendly Webpages",
+    "url": "https://www.udemy.com/course/responsive-design-with-css3-create-mobile-friendly-webpages/?couponCode=E042995C632B03B4731C",
+    "image": "https://img-c.udemycdn.com/course/240x135/6849563_f60c_2.jpg",
+    "category": "Development",
+    "coupon": "E042995C632B03B4731C",
+    "instructor": "Brighter Futures Hub",
+    "originalPrice": "$19.99",
+    "discountPrice": "$19.99",
+    "rating": "4.1",
+    "subscribers": 5879,
+    "reviews": 24,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Master Responsive Design Principles With CSS3 Techniques For Mobile First Web Development.",
+    "expiryDate": "18/11/2026 1:20:11"
+  },
+  {
+    "id": "course-7",
+    "slug": "mind-power-change-your-thought-process-to-change-your-life",
+    "title": "Mind Power - Change Your Thought Process To Change Your Life",
+    "url": "https://www.udemy.com/course/master-the-power-of-your-mind-to-be-more-successful/?couponCode=NOV2026FREE01",
+    "image": "https://img-c.udemycdn.com/course/240x135/1035788_0fc9.jpg",
+    "category": "Personal Development",
+    "coupon": "NOV2026FREE01",
+    "instructor": "Susmita Dutta, Ash Akshay Goel",
+    "originalPrice": "$59.99",
+    "discountPrice": "$59.99",
+    "rating": "4.2",
+    "subscribers": 107858,
+    "reviews": 1226,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Change Your Belief System to have a Breakthrough in Personal as well as Professional Life",
+    "expiryDate": "18/11/2026 1:20:11"
+  },
+  {
+    "id": "course-8",
+    "slug": "bootcamp-az-900-microsoft-azure-fundamentals-course",
+    "title": "Bootcamp AZ-900: Microsoft Azure Fundamentals Course",
+    "url": "https://www.udemy.com/course/bootcamp-az-900-microsoft-azure-fundamentals/?couponCode=C14E7F7101185CF49E67",
+    "image": "https://img-c.udemycdn.com/course/240x135/7126561_0c10_10.jpg",
+    "category": "IT & Software",
+    "coupon": "C14E7F7101185CF49E67",
+    "instructor": "Codaming • 300k+ Learners Worldwide, Dinesh Kumar, Vedika Singh",
+    "originalPrice": "Free",
+    "discountPrice": "Free",
+    "rating": "4.5",
+    "subscribers": 8861,
+    "reviews": 181,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Bootcamp AZ-900: Microsoft Azure Fundamentals Course | AZ-900, Microsoft Azure Fundamentals AZ900, Azure AZ900, AZ-900",
+    "expiryDate": "18/11/2026 1:20:11"
+  },
+  {
+    "id": "course-9",
+    "slug": "html5-masterclass-build-modern-and-mobile-friendly-websites",
+    "title": "HTML5 Masterclass: Build Modern and Mobile Friendly Websites",
+    "url": "https://www.udemy.com/course/html5-masterclass-build-modern-and-mobile-friendly-websites/?couponCode=94A5493542746EDD8FDD",
+    "image": "https://img-c.udemycdn.com/course/240x135/6849593_2e49_2.jpg",
+    "category": "Development",
+    "coupon": "94A5493542746EDD8FDD",
+    "instructor": "Brighter Futures Hub",
+    "originalPrice": "$19.99",
+    "discountPrice": "$19.99",
+    "rating": "4.5",
+    "subscribers": 5922,
+    "reviews": 48,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Master The Latest HTML5 Features Build Fast, Responsive Websites That Look Great On All Devices Using HTML5.",
+    "expiryDate": "18/11/2026 1:20:11"
+  },
+  {
+    "id": "course-10",
+    "slug": "water-resources-management",
+    "title": "Water Resources Management",
+    "url": "https://www.udemy.com/course/water-resources-management/?couponCode=5026D8E717CE08BDB15C",
+    "image": "https://img-c.udemycdn.com/course/240x135/7185301_9365.jpg",
+    "category": "Business",
+    "coupon": "5026D8E717CE08BDB15C",
+    "instructor": "Green Courses",
+    "originalPrice": "$39.99",
+    "discountPrice": "$39.99",
+    "rating": "4.8",
+    "subscribers": 867,
+    "reviews": 5,
+    "isFree": false,
+    "isExpired": true,
+    "claimedCount": 100,
+    "quota": 100,
+    "remainingSlots": 0,
+    "description": "Discover the Challenges and Innovations of our Most Precious Resource ManagementTotal:",
+    "expiryDate": "18/11/2026 1:20:11"
+  },
+  {
+    "id": "course-35",
     "slug": "data-science-ai-mastery-from-basics-to-deployment",
     "title": "Data Science & AI Mastery: From Basics to Deployment",
     "url": "https://www.udemy.com/course/data-science-ai-mastery-from-basics-to-deployment/?couponCode=NOVFREE03",
@@ -1232,7 +1408,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-27",
+    "id": "course-37",
     "slug": "agentic-ai-building-the-next-generation-of-smart-agents",
     "title": "Agentic AI: Building the Next Generation of Smart Agents",
     "url": "https://www.udemy.com/course/agentic-ai-building-the-next-generation-of-smart-agents/?couponCode=NOVFREE03",
@@ -1254,117 +1430,7 @@
     "expiryDate": "17/11/2026 14:23:33"
   },
   {
-    "id": "course-34",
-    "slug": "generative-ai-engineering-with-openai-anthropic",
-    "title": "Generative AI Engineering with OpenAI, Anthropic",
-    "url": "https://www.udemy.com/course/generative-ai-engineering-with-openai-anthropic/?couponCode=NOVFREE03",
-    "image": "https://img-c.udemycdn.com/course/240x135/6901057_e04e.jpg",
-    "category": "Development",
-    "coupon": "NOVFREE03",
-    "instructor": "Data Science Academy, School of AI",
-    "originalPrice": "$19.99",
-    "discountPrice": "$19.99",
-    "rating": "4.2",
-    "subscribers": 10198,
-    "reviews": 45,
-    "isFree": false,
-    "isExpired": true,
-    "claimedCount": 100,
-    "quota": 100,
-    "remainingSlots": 0,
-    "description": "Master LLM integration, prompt design, and scalable AI app development using OpenAI and Anthropic APIs.",
-    "expiryDate": "17/11/2026 14:23:33"
-  },
-  {
-    "id": "course-35",
-    "slug": "ms-excel-masterclass-for-job-seekers-accounting-success",
-    "title": "MS Excel Masterclass for Job Seekers Accounting Success",
-    "url": "https://www.udemy.com/course/ms-excel-masterclass-for-job-seekers-accounting-success/?couponCode=1FCE889ACABAC8DD5593",
-    "image": "https://img-c.udemycdn.com/course/240x135/6185785_a817_3.jpg",
-    "category": "Business",
-    "coupon": "1FCE889ACABAC8DD5593",
-    "instructor": "Sayman Creative Institute",
-    "originalPrice": "$39.99",
-    "discountPrice": "$39.99",
-    "rating": "4.4",
-    "subscribers": 24456,
-    "reviews": 507,
-    "isFree": false,
-    "isExpired": true,
-    "claimedCount": 100,
-    "quota": 100,
-    "remainingSlots": 0,
-    "description": "A Comprehensive Masterclass for Job Seekers Focused on Accounting, Data Analysis, and Essential Excel Skills for Success",
-    "expiryDate": "17/11/2026 14:23:33"
-  },
-  {
-    "id": "course-38",
-    "slug": "hands-on-python-machine-learning-with-real-world-projects",
-    "title": "Hands-On Python Machine Learning with Real World Projects",
-    "url": "https://www.udemy.com/course/hands-on-python-machine-learning-with-real-world-projects/?couponCode=5DC13A8D3802F1C9D532",
-    "image": "https://img-c.udemycdn.com/course/240x135/6189863_aae8.jpg",
-    "category": "Development",
-    "coupon": "5DC13A8D3802F1C9D532",
-    "instructor": "Sayman Creative Institute",
-    "originalPrice": "$39.99",
-    "discountPrice": "$39.99",
-    "rating": "4.2",
-    "subscribers": 35432,
-    "reviews": 525,
-    "isFree": false,
-    "isExpired": true,
-    "claimedCount": 100,
-    "quota": 100,
-    "remainingSlots": 0,
-    "description": "Python Based Machine Learning Course with Practical Exercises and Case Studies",
-    "expiryDate": "17/11/2026 14:23:33"
-  },
-  {
-    "id": "course-48",
-    "slug": "python-mastery-100-days-100-projects",
-    "title": "Python Mastery: 100 Days, 100 Projects",
-    "url": "https://www.udemy.com/course/python-mastery-100-days-100-projects/?couponCode=NOVFREE02",
-    "image": "https://img-c.udemycdn.com/course/240x135/6372561_b824_3.jpg",
-    "category": "Development",
-    "coupon": "NOVFREE02",
-    "instructor": "School of AI, Arjun Vaid",
-    "originalPrice": "$79.99",
-    "discountPrice": "$79.99",
-    "rating": "4.3",
-    "subscribers": 38388,
-    "reviews": 533,
-    "isFree": false,
-    "isExpired": true,
-    "claimedCount": 100,
-    "quota": 100,
-    "remainingSlots": 0,
-    "description": "Learn Python by Building 100 Real-World Projects in 100 Days – From Basics to Advanced Skills Through Hands-On Coding(AI",
-    "expiryDate": "17/11/2026 14:23:33"
-  },
-  {
-    "id": "course-61",
-    "slug": "javascript-fundamentals-to-advanced-full-stack-development",
-    "title": "JavaScript Fundamentals to Advanced: Full Stack Development",
-    "url": "https://www.udemy.com/course/javascript-fundamentals-to-advanced-full-stack-development/?couponCode=E1DE35E237812460F554",
-    "image": "https://img-c.udemycdn.com/course/240x135/6122347_5db0_2.jpg",
-    "category": "Development",
-    "coupon": "E1DE35E237812460F554",
-    "instructor": "Sayman Creative Institute",
-    "originalPrice": "$19.99",
-    "discountPrice": "$19.99",
-    "rating": "4.2",
-    "subscribers": 36374,
-    "reviews": 718,
-    "isFree": false,
-    "isExpired": true,
-    "claimedCount": 100,
-    "quota": 100,
-    "remainingSlots": 0,
-    "description": "Comprehensive JavaScript Course: From Beginner to Full Stack Pro",
-    "expiryDate": "17/11/2026 14:23:33"
-  },
-  {
-    "id": "course-62",
+    "id": "course-66",
     "slug": "olympic-games-analytics-project-in-apache-spark-for-beginner",
     "title": "Olympic Games Analytics Project in Apache Spark for beginner",
     "url": "https://www.udemy.com/course/olympic-games-analytics-project-in-apache-spark-for-beginner/?couponCode=1DF3ED706C06B6EC5EB1",
@@ -1383,72 +1449,6 @@
     "quota": 100,
     "remainingSlots": 0,
     "description": "Olympic Games Analytics Project in Apache Spark for beginner using Databricks (Unofficial)",
-    "expiryDate": "17/11/2026 14:23:33"
-  },
-  {
-    "id": "course-63",
-    "slug": "logo-design-essentials-photoshop-illustrator",
-    "title": "Logo Design Essentials: Photoshop & Illustrator",
-    "url": "https://www.udemy.com/course/logo-design-essentials-photoshop-illustrator/?couponCode=4A57A39BA9E95EEDA33A",
-    "image": "https://img-c.udemycdn.com/course/240x135/6078811_1a06_5.jpg",
-    "category": "Design",
-    "coupon": "4A57A39BA9E95EEDA33A",
-    "instructor": "Sayman Creative Institute",
-    "originalPrice": "$19.99",
-    "discountPrice": "$19.99",
-    "rating": "4.2",
-    "subscribers": 23880,
-    "reviews": 164,
-    "isFree": false,
-    "isExpired": true,
-    "claimedCount": 100,
-    "quota": 100,
-    "remainingSlots": 0,
-    "description": "Essential Skills for Logo Designers",
-    "expiryDate": "17/11/2026 14:23:33"
-  },
-  {
-    "id": "course-64",
-    "slug": "master-of-essential-c-programming-beginner-to-advanced",
-    "title": "Master of Essential C++ Programming Beginner to Advanced",
-    "url": "https://www.udemy.com/course/master-of-essential-c-programming-beginner-to-advanced/?couponCode=EE9C09B540B4EFFE24CB",
-    "image": "https://img-c.udemycdn.com/course/240x135/6104625_e7a4_2.jpg",
-    "category": "Development",
-    "coupon": "EE9C09B540B4EFFE24CB",
-    "instructor": "Sayman Creative Institute",
-    "originalPrice": "$19.99",
-    "discountPrice": "$19.99",
-    "rating": "4.3",
-    "subscribers": 25446,
-    "reviews": 324,
-    "isFree": false,
-    "isExpired": true,
-    "claimedCount": 100,
-    "quota": 100,
-    "remainingSlots": 0,
-    "description": "Comprehensive Mastery: From Core Concepts to Expert-Level Techniques in C++ Programming",
-    "expiryDate": "17/11/2026 14:23:33"
-  },
-  {
-    "id": "course-66",
-    "slug": "learn-microsoft-office-with-chatgpt-gemini-and-copilot",
-    "title": "Learn Microsoft Office with ChatGPT Gemini and Copilot",
-    "url": "https://www.udemy.com/course/learn-microsoft-office-with-chatgpt-gemini-and-copilot/?couponCode=D61374BF5EDFC4963902",
-    "image": "https://img-c.udemycdn.com/course/240x135/6862375_5232.jpg",
-    "category": "Development",
-    "coupon": "D61374BF5EDFC4963902",
-    "instructor": "Sustoab Soren",
-    "originalPrice": "$19.99",
-    "discountPrice": "$19.99",
-    "rating": "4.1",
-    "subscribers": 6414,
-    "reviews": 49,
-    "isFree": false,
-    "isExpired": true,
-    "claimedCount": 100,
-    "quota": 100,
-    "remainingSlots": 0,
-    "description": "Microsoft Word, Excel and PowerPoint skills enhanced with AI tools like ChatGPT, Gemini and Micorosoft Copilot",
     "expiryDate": "17/11/2026 14:23:33"
   }
 ]
