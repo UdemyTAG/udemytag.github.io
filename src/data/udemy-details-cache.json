@@ -29417,5 +29417,457 @@
     "isFree": false,
     "instructors": "Shin Chze",
     "campaign": null
+  },
+  "excel-formulas-functions-beginner-to-expert-course_F07F343F08A9A04E34CF": {
+    "subscribers": 75484,
+    "reviews": 1001,
+    "rating": "4.4",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Web Oral",
+    "campaign": null
+  },
+  "ai-for-beginners-learn-chatgpt-gemini-perplexity-and-grok_E3C0AA64A11185F2EF82": {
+    "subscribers": 4988,
+    "reviews": 25,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "rank-your-blog-website-in-google-beginners-seo-course_603A629F5E9776B8AE9E": {
+    "subscribers": 68847,
+    "reviews": 681,
+    "rating": "3.7",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Web Oral",
+    "campaign": {
+      "max": 100,
+      "rem": 28,
+      "end": "2026-12-20T04:08:00Z"
+    }
+  },
+  "illustrator-t-shirt-design-mastery-from-concept-to-print_87FAB8F8B9BE6B53DDEC": {
+    "subscribers": 3069,
+    "reviews": 3,
+    "rating": "3.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Logic Labs",
+    "campaign": {
+      "max": 100,
+      "rem": 50,
+      "end": "2026-12-12T13:16:00Z"
+    }
+  },
+  "the-global-disruptions-in-operations-master-class_DB12C646458F085D0A80": {
+    "subscribers": 2752,
+    "reviews": 11,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sameh Elsayed, FCCA, MSc, FMVA, DipIFR, The Business Coach Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 36,
+      "end": "2026-12-20T04:50:00Z"
+    }
+  },
+  "advanced-microsoft-word-with-job-success_3C6EE9456D93BD997A13": {
+    "subscribers": 43183,
+    "reviews": 515,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Marcus Menti, Zechariah Tech",
+    "campaign": null
+  },
+  "islamic-finance-made-practical-and-easy_1C381DA6CEA9F221954A": {
+    "subscribers": 475,
+    "reviews": 2,
+    "rating": "4.7",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Sameh Elsayed, FCCA, MSc, FMVA, DipIFR, The Business Coach Academy",
+    "campaign": null
+  },
+  "understanding-islam-beliefs-history-message-and-meaning_697E06DF34BE8E298C9E": {
+    "subscribers": 953,
+    "reviews": 4,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sam Elsayed, The Business Coach Academy",
+    "campaign": null
+  },
+  "html-5pythonflask-framework-all-in-one-complete-course_560CFC109525DCC69E76": {
+    "subscribers": 138092,
+    "reviews": 1399,
+    "rating": "4.3",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Horizon Tech",
+    "campaign": null
+  },
+  "essential-lightroom-course-for-beginner-to-advanced_411D2A8733FE581480F1": {
+    "subscribers": 36292,
+    "reviews": 166,
+    "rating": "4.2",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Ben Kemp, Zechariah Tech",
+    "campaign": null
+  },
+  "learn-blockchain-and-cryotp-from-beginning_54ED90EC6CEFD6A54D46": {
+    "subscribers": 48595,
+    "reviews": 422,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Zechariah Tech",
+    "campaign": null
+  },
+  "the-complete-javascript-course-from-zero-to-expert-o_839759B9E04DD2BBA1D6": {
+    "subscribers": 48881,
+    "reviews": 595,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": null
+  },
+  "python-programming-python-bootcamp-for-beginners_E8CBB300CA9E3EFD1B2C": {
+    "subscribers": 48623,
+    "reviews": 923,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": null
+  },
+  "the-beginners-guide-to-bash-scripting-and-automation_F634C25FB5A6FA5C6BF5": {
+    "subscribers": 43157,
+    "reviews": 508,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Cyber Twinkle, Zeronyte Security",
+    "campaign": null
+  },
+  "adobe-illustrator-course-for-beginner_3E75AF93D66D00A2F5C4": {
+    "subscribers": 51245,
+    "reviews": 559,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Ben Kemp, Zechariah Tech",
+    "campaign": null
+  },
+  "complete-guide-in-html-css-build-responsive-website_7E639E0B05188292791D": {
+    "subscribers": 40117,
+    "reviews": 690,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sara Academy",
+    "campaign": null
+  },
+  "the-complete-html-course-2023_HTMLCOURSE64": {
+    "subscribers": 28321,
+    "reviews": 507,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": null
+  },
+  "advanced-powerpoint-course-for-professional-and-job-success_F171FEB0A9D9FA067908": {
+    "subscribers": 49839,
+    "reviews": 569,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Zechariah Tech",
+    "campaign": null
+  },
+  "advanced-excel-course-for-job-and-real-world_0F372174E11D47DAEF57": {
+    "subscribers": 60593,
+    "reviews": 814,
+    "rating": "3.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Zechariah Tech",
+    "campaign": null
+  },
+  "the-complete-microsoft-word-course-learn-word-step-by-step_FAFB9127158CACFC94F7": {
+    "subscribers": 4398,
+    "reviews": 26,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Brighter Futures Hub",
+    "campaign": null
+  },
+  "multipurpose-canva-design-bootcamp-from-beginner-to-pro_9060F26DDE33A8CA34FF": {
+    "subscribers": 11740,
+    "reviews": 70,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": null
+  },
+  "capcut-for-cinematography-motion-graphics-and-social-media_EACE3D252E4C87333912": {
+    "subscribers": 12970,
+    "reviews": 75,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": null
+  },
+  "python-app-development-masterclass-app-development-bootcamp_40278FA4F01C2F8D73FE": {
+    "subscribers": 34389,
+    "reviews": 263,
+    "rating": "4.3",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": null
+  },
+  "advanced-powerpoint-masterclass-for-professionals_120DAC62E6961AFE879A": {
+    "subscribers": 26517,
+    "reviews": 303,
+    "rating": "4.3",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 50,
+      "end": "2026-12-20T06:09:00Z"
+    }
+  },
+  "aws-essentials-a-complete-beginners-guide_B2F9054AE10C58ED19C9": {
+    "subscribers": 43353,
+    "reviews": 680,
+    "rating": "4.1",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": null
+  },
+  "capcut-mastery-from-beginner-to-pro_3E9527E8D9B7E9FA87AE": {
+    "subscribers": 30535,
+    "reviews": 180,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": null
+  },
+  "ultimate-job-seeker-course-resume-cover-letter-interview_54223603648FA75EA50B": {
+    "subscribers": 28915,
+    "reviews": 175,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": null
+  },
+  "diversity-equity-inclusion-building-inclusive-workplaces_5979F1A8A65EAEAC5E1B": {
+    "subscribers": 6477,
+    "reviews": 30,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": null
+  },
+  "ai-model-risk-management-validate-monitor-and-govern-ai_874C19763F3A6677DF78": {
+    "subscribers": 101,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Dr. Amar Massoud",
+    "campaign": null
+  },
+  "iso-31010-risk-assessment-techniques-for-better-decisions_BA61D4E042F8243E5B6B": {
+    "subscribers": 403,
+    "reviews": 2,
+    "rating": "3.8",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Sameh Elsayed, FCCA, MSc, FMVA, DipIFR, The Business Coach Academy",
+    "campaign": null
+  },
+  "python-machine-learning-from-beginner-to-pro_49CA1F4314F1C5F2BCF3": {
+    "subscribers": 43615,
+    "reviews": 813,
+    "rating": "4.1",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": null
+  },
+  "rank-your-social-media-and-go-viral-be-social-media-master_3A6B1F9A99253C45E603": {
+    "subscribers": 27827,
+    "reviews": 181,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": null
+  },
+  "ai-threat-modeling-secure-llm-rag-and-agent-systems_97D826117FE9BB34C432": {
+    "subscribers": 102,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Dr. Amar Massoud",
+    "campaign": null
+  },
+  "python-course-for-app-developers-build-your-first-app_D6F78AF24817AA9423D5": {
+    "subscribers": 36196,
+    "reviews": 242,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 40,
+      "end": "2026-12-20T06:10:00Z"
+    }
+  },
+  "forward-deployed-engineering-build-and-lead-ai-teams_NOVFREE02": {
+    "subscribers": 901,
+    "reviews": 4,
+    "rating": "3.6",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Arjun Vaid, School of AI",
+    "campaign": null
+  },
+  "loop-engineering-for-agentic-ai_NOVFREE02": {
+    "subscribers": 1118,
+    "reviews": 1,
+    "rating": "4.0",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Arjun Vaid, School of AI",
+    "campaign": null
+  },
+  "java-python-programming-mastery-learn-to-code-like-a-pro_480F5E69C9CF3B3DF2CB": {
+    "subscribers": 21395,
+    "reviews": 244,
+    "rating": "4.5",
+    "price": "$29.99",
+    "isFree": false,
+    "instructors": "Maria EduCare",
+    "campaign": null
+  },
+  "mastering-mysql-database-creation-management-sql-queries_E4F9FA1936FCEF095BBC": {
+    "subscribers": 32551,
+    "reviews": 483,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Maria EduCare",
+    "campaign": null
+  },
+  "microsoft-word-essential-training-master-the-basics-to-pro_27C848C8914EFC35FC1D": {
+    "subscribers": 21033,
+    "reviews": 217,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "the-complete-da-vinci-resolve-course-beginner-to-filmmaker_946852B77B2939F07DDE": {
+    "subscribers": 26937,
+    "reviews": 169,
+    "rating": "3.3",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "microsoft-office-mastery-learn-word-excel-and-powerpoint_76243FA8F56FD6AFC5FF": {
+    "subscribers": 27715,
+    "reviews": 607,
+    "rating": "4.5",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "meme-coins-explained-scams-hype-and-risk_NOVFREE01": {
+    "subscribers": 532,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "ultimate-adobe-photoshop-cc-masterclass-basics-to-advanced_1311AF9694DCB358BB8A": {
+    "subscribers": 210528,
+    "reviews": 2505,
+    "rating": "3.7",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Stephen Koel Soren",
+    "campaign": null
+  },
+  "master-filmora-editing-motion-graphics-and-color-grading_13A8EF00CA50F143E3FE": {
+    "subscribers": 22935,
+    "reviews": 104,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "adobe-premiere-pro-cc-essential-video-editing-zero-to-hero_3987E22530915C2DF4F9": {
+    "subscribers": 158554,
+    "reviews": 1574,
+    "rating": "4.3",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Stephen Koel Soren",
+    "campaign": null
+  },
+  "adobe-premiere-pro-cc-video-editing-course-beginners-to-professional_B218C8BA3ACC146ABAC2": {
+    "subscribers": 136364,
+    "reviews": 1330,
+    "rating": "4.4",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Stephen Koel Soren",
+    "campaign": null
+  },
+  "adobe-illustrator-essentials-design-like-a-pro-in-days_E916DDE2E1AE4CE943C8": {
+    "subscribers": 26111,
+    "reviews": 151,
+    "rating": "4.3",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "ultimate-youtube-blueprint-proven-tactics-channel-success_AA5807F6AD3F38A905AB": {
+    "subscribers": 29132,
+    "reviews": 172,
+    "rating": "4.2",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
   }
 }
