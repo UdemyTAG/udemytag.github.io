@@ -29386,5 +29386,36 @@
       "rem": 38,
       "end": "2026-12-03T00:00:00Z"
     }
+  },
+  "ai-security-governance-compliance_NOVFREE02": {
+    "subscribers": 5834,
+    "reviews": 107,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 27,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "art-gallery-management-mastery-course_0024BF82E7B3676DBF71": {
+    "subscribers": 4311,
+    "reviews": 37,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Achal Kale",
+    "campaign": null
+  },
+  "effective-powerpoint_E3E086B4573F7A1CE957": {
+    "subscribers": 511,
+    "reviews": 9,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Shin Chze",
+    "campaign": null
   }
 }
