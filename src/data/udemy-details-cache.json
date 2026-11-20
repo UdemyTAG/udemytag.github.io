@@ -29869,5 +29869,58 @@
     "isFree": false,
     "instructors": "Sayman Creative Institute",
     "campaign": null
+  },
+  "ace-every-job-interview-master-blueprint-and-get-your-dream-job_NOV2026FREE01": {
+    "subscribers": 95264,
+    "reviews": 647,
+    "rating": "4.3",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Susmita Dutta, Ash Akshay Goel",
+    "campaign": null
+  },
+  "introduction-to-time-management-p_E42B4582ECD0561F1E38": {
+    "subscribers": 16628,
+    "reviews": 156,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Daniel K'Owuoche",
+    "campaign": {
+      "max": 100,
+      "rem": 12,
+      "end": "2026-12-20T15:48:00Z"
+    }
+  },
+  "bootcamp-az-900-microsoft-azure-fundamentals_C11E7G7101185CG49E67": {
+    "subscribers": 8932,
+    "reviews": 182,
+    "rating": "4.5",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Codaming • 300k+ Learners Worldwide, Dinesh Kumar, Vedika Singh",
+    "campaign": null
+  },
+  "financial-services-sovereign-wealth-national-funds_12THNOV26": {
+    "subscribers": 1084,
+    "reviews": 20,
+    "rating": "5.0",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 35,
+      "end": "2026-12-13T08:00:00Z"
+    }
+  },
+  "technology-for-non-technology-decision-makers-with-ai_12THNOV26": {
+    "subscribers": 1009,
+    "reviews": 13,
+    "rating": "4.8",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Baba Oyewole",
+    "campaign": null
   }
 }
