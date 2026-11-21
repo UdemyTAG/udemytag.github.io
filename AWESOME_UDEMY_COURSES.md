@@ -38,45 +38,45 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 
 | No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
 | :-: | :--- | :--- | :-: | :--- |
-| 1 | **Workplace Safety Essentials: Fire Safety, First Aid Training** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-safety-essentials-fire-safety-first-aid-training/) |
-| 2 | **Evergreen Instagram Marketing Theories That Always Works** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/evergreen-instagram-marketing-theories-that-always-works/) |
-| 3 | **Software architecture** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/software-architecture/) |
-| 4 | **Foreclosure Success for Real Estate Investors by Jay Conner** | `Development` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/foreclosure-success-for-real-estate-investors-by-jay-conner/) |
-| 5 | **Data-Driven Quality Assurance & Quality Control: Metrics/KPI** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/data-driven-quality-assurance-quality-control-metrics-kpi/) |
-| 6 | **OWASP Top 10 LLM 2025: AI Security Essentials** | `IT & Software` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/owasp-top-10-llm-2025-ai-security-essentials/) |
-| 7 | **Customer Service with AI: Practical Skills and Automation** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/customer-service-with-ai-practical-skills-and-automation/) |
-| 8 | **OWASP API Security Top 10 2023: Comprehensive Security Guide** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/owasp-api-security-top-10-2023-comprehensive-security-guide/) |
-| 9 | **Threat Modeling for Agentic AI: Attacks, Risks, Controls** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/threat-modeling-for-agentic-ai-attacks-risks-controls/) |
-| 10 | **Service Oriented Architecture and Event Driven Systems** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/service-oriented-architecture-and-event-driven-systems/) |
-| 11 | **Mastering GRASP Principles in Object-Oriented Design** | `Design` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-grasp-principles-in-object-oriented-design/) |
-| 12 | **Project Crisis Management: Real-World Simulations** | `Business` | ⭐ 4.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/project-crisis-management-real-world-simulations/) |
-| 13 | **Developing successful Professional Relationships** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/developing-successful-professional-relationships/) |
-| 14 | **Audit Administration - Audit Sampling** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/audit-administration-audit-sampling/) |
-| 15 | **Introduction to Financial Controls** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/introduction-to-financial-controls/) |
-| 16 | **Managing Social Anxiety in the Workplace** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/managing-social-anxiety-in-the-workplace/) |
-| 17 | **Productivity - Focus, Concentration & Performance Strategies** | `Personal Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/productivity-focus-concentration-performance-strategies/) |
-| 18 | **SMART Goals Parenting** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/smart-goals-parenting/) |
-| 19 | **Organizational Influences & Project Management Lifecycle** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/organizational-influences-project-management-lifecycle/) |
-| 20 | **Project Management: Post Mortems** | `Business` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/project-management-post-mortems/) |
-| 21 | **Leadership for Successful Project Management and Delivery** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/leadership-for-successful-project-management-and-delivery/) |
-| 22 | **Empathy and Emotional Intelligence for Project Managers** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/empathy-and-emotional-intelligence-for-project-managers/) |
-| 23 | **Mental Health for the Workplace** | `Personal Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/mental-health-for-the-workplace/) |
-| 24 | **Financial Services: Introduction to ETFs** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-introduction-to-etfs/) |
-| 25 | **Workplace Productivity - Supporting Others Through Change** | `Personal Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-productivity-supporting-others-through-change/) |
-| 26 | **Financial Services - Overview of Central Banks** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-overview-of-central-banks/) |
-| 27 | **Financial Services - Funds Flow Optimization Concepts** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-funds-flow-optimization-concepts/) |
-| 28 | **Constructive Debates In the Workplace** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/constructive-debates-in-the-workplace/) |
-| 29 | **Emotional Intelligence in Leadership** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/emotional-intelligence-in-leadership/) |
-| 30 | **Financial Services - Government Bonds, Notes & Treasuries** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-government-bonds-notes-treasuries/) |
-| 31 | **Financial Services: Overview of Commodities** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-overview-of-commodities/) |
-| 32 | **Financial Services - Overview of Retail Banking** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-overview-of-retail-banking/) |
-| 33 | **Workplace Productivity-Coping with the Anxiety of Leadership** | `Personal Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-productivity-coping-with-the-anxiety-of-leadership/) |
-| 34 | **Financial Services - Basics of Business & Corporate Banking** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-basics-of-business-corporate-banking/) |
-| 35 | **Financial Stewardship for Decision Makers and Leaders** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-stewardship-for-decision-makers-and-leaders/) |
-| 36 | **Financial Services - Basics of Regulation & Compliance** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-basics-of-regulation-compliance/) |
-| 37 | **Financial Services: Sovereign Wealth & National Funds** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-sovereign-wealth-national-funds/) |
-| 38 | **Financial Services - Understanding Interest Rates** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-understanding-interest-rates/) |
-| 39 | **Audit Administration - Effective Communication in Audit** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/audit-administration-effective-communication-in-audit/) |
-| 40 | **Financial Services: Financial Wellbeing for Employees** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-financial-wellbeing-for-employees/) |
+| 1 | **Data Literacy for Product Owners** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/data-literacy-for-product-owners/) |
+| 2 | **HTML 5 With Quizzes And Python 3 Complete Course 2023** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/html-5-with-quizzes-and-python-3-complete-course-2023/) |
+| 3 | **Product Thinking & Problem Framing for AI** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/product-thinking-problem-framing-for-ai/) |
+| 4 | **AI Use Cases Across Industries** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-use-cases-across-industries/) |
+| 5 | **Ethics, Bias & Trust in AI** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/ethics-bias-trust-in-ai/) |
+| 6 | **3 Week Responsible AI & Governance Certification** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/3-week-responsible-ai-governance-certification/) |
+| 7 | **AI Governance for Business Leaders: Policy to Practice** | `Business` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-governance-for-business-leaders-policy-to-practice/) |
+| 8 | **AB-210 Microsoft Dynamics 365 Sales AI Consultant Associate** | `Business` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/ab-210-microsoft-dynamics-365-sales-ai-consultant-associate/) |
+| 9 | **Meme Coins Explained: Scams, Hype and Risk** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/meme-coins-explained-scams-hype-and-risk/) |
+| 10 | **Certified Master in Agentic AI: A 52-Week Applied Program** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-master-in-agentic-ai-a-52-week-applied-program/) |
+| 11 | **AI Hero: A 12-Month Journey Taking You from Zero to Expert** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-hero-a-12-month-journey-taking-you-from-zero-to-expert/) |
+| 12 | **Quantum Computing for Decision Makers: Executive Essentials** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/quantum-computing-for-decision-makers-executive-essentials/) |
+| 13 | **Certified Infra AI Expert: End-to-End GPU-Accelerated AI** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-infra-ai-expert-end-to-end-gpu-accelerated-ai/) |
+| 14 | **The Complete Guide to AI Infrastructure: Zero to Hero** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-guide-to-ai-infrastructure-zero-to-hero/) |
+| 15 | **RAG Strategy & Execution: Build Enterprise Knowledge Systems** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/rag-strategy-execution-build-enterprise-knowledge-systems/) |
+| 16 | **AI Bible: From Beginner to Builder in 100 Projects** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-bible-from-beginner-to-builder-in-100-projects/) |
+| 17 | **MCP for Leaders: Architecting Context-Driven AI** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/mcp-for-leaders-architecting-context-driven-ai/) |
+| 18 | **Certified Chief Technology Officer(CTO) Mastery Program** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-chief-technology-officer-cto-mastery-program/) |
+| 19 | **AI Engineer Associate Certificate Course** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-engineer-associate-certificate-course/) |
+| 20 | **AI Engineer Explorer Certificate Course** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-engineer-explorer-certificate-course/) |
+| 21 | **[Non-Technical] AI Product Manager Explorer Certificate** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/non-technical-ai-product-manager-explorer-certificate/) |
+| 22 | **The Certified Global CEO Masterclass: Leading at the Top** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-certified-global-ceo-masterclass-leading-at-the-top/) |
+| 23 | **Generative AI Foundational Certificate Course** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/generative-ai-foundational-certificate-course/) |
+| 24 | **NCA-GENL: SoAI-Certified Generative AI LLMs Specialization** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/nca-genl-soai-certified-generative-ai-llms-specialization/) |
+| 25 | **Machine Learning & AI Foundations Course** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/machine-learning-ai-foundations-course/) |
+| 26 | **Certified Data Analyst Foundations Course** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-data-analyst-foundations-course/) |
+| 27 | **AI in 60 Minutes: What Every Leader Should Know** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-in-60-minutes-what-every-leader-should-know/) |
+| 28 | **Deep Learning Specialization: Advanced AI, Hands on Lab** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/deep-learning-specialization-advanced-ai-hands-on-lab/) |
+| 29 | **The Startup Founder’s Roadmap: From Zero to Market** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-startup-founder-s-roadmap-from-zero-to-market/) |
+| 30 | **Data Science & AI Mastery: 100 Days to Career Success** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/data-science-ai-mastery-100-days-to-career-success/) |
+| 31 | **Custom ChatGPT Publishing & AI Bootcamp Masterclass** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/custom-chatgpt-publishing-ai-bootcamp-masterclass/) |
+| 32 | **Mistral AI Development: AI with Mistral, LangChain & Ollama** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/mistral-ai-development-ai-with-mistral-langchain-ollama/) |
+| 33 | **Mastering DeepScaleR: Build & Deploy AI Models with Ollama** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-deepscaler-build-deploy-ai-models-with-ollama/) |
+| 34 | **Quantum Kitchen: Cooking Up Concepts in Quantum Computing** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/quantum-kitchen-cooking-up-concepts-in-quantum-computing/) |
+| 35 | **From Recipe to Chef: Become an LLM Engineer 100+ Projects** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/from-recipe-to-chef-become-an-llm-engineer-100-projects/) |
+| 36 | **SoAI-Certified Professional: AI Infrastructure (NCP-AII)** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/soai-certified-professional-ai-infrastructure-ncp-aii/) |
+| 37 | **Generative AI for Business Leaders and Executives** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/generative-ai-for-business-leaders-and-executives/) |
+| 38 | **AI for Data Analysis for Beginners: ChatGPT, Excel, SQL** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-for-data-analysis-for-beginners-chatgpt-excel-sql/) |
+| 39 | **52-Week AI Leadership Course: Agents, MCP, RAG** | `Development` | ⭐ 2.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/52-week-ai-leadership-course-agents-mcp-rag/) |
+| 40 | **3-Week AI for Cybersecurity Certification** | `IT & Software` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/3-week-ai-for-cybersecurity-certification/) |
 
 *Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*
