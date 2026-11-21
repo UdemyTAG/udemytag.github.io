@@ -30187,5 +30187,703 @@
       "rem": 20,
       "end": "2026-12-21T07:05:00Z"
     }
+  },
+  "introduction-to-risk-management-decision-makers-leaders_20THNOV": {
+    "subscribers": 37398,
+    "reviews": 2369,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 84,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "developing-successful-professional-relationships_20THNOV": {
+    "subscribers": 34451,
+    "reviews": 2052,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 90,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "introduction-to-financial-products-services-i_20THNOV": {
+    "subscribers": 29418,
+    "reviews": 675,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Timothy Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 93,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "audit-administration-audit-sampling_20THNOV": {
+    "subscribers": 2117,
+    "reviews": 101,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 83,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "introduction-to-financial-controls_20THNOV": {
+    "subscribers": 29922,
+    "reviews": 735,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 75,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "managing-social-anxiety-in-the-workplace_20THNOV": {
+    "subscribers": 26081,
+    "reviews": 153,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 82,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "productivity-focus-concentration-performance-strategies_20THNOV": {
+    "subscribers": 24246,
+    "reviews": 281,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 87,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "smart-goals-parenting_20THNOV": {
+    "subscribers": 23151,
+    "reviews": 68,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Helen Hicks, Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 89,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "organizational-influences-project-management-lifecycle-qi_20THNOV": {
+    "subscribers": 2135,
+    "reviews": 61,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Oluseye Kolawole",
+    "campaign": {
+      "max": 100,
+      "rem": 58,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "project-management-post-mortems-x_20THNOV": {
+    "subscribers": 2109,
+    "reviews": 56,
+    "rating": "4.7",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Oluseye Kolawole",
+    "campaign": {
+      "max": 100,
+      "rem": 72,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "leadership-for-successful-project-management-and-delivery_20THNOV": {
+    "subscribers": 23341,
+    "reviews": 376,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Oluseye Kolawole",
+    "campaign": {
+      "max": 100,
+      "rem": 64,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "empathy-and-emotional-intelligence-for-project-managers_20THNOV": {
+    "subscribers": 28347,
+    "reviews": 230,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Oluseye Kolawole",
+    "campaign": {
+      "max": 100,
+      "rem": 79,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "mental-health-for-the-workplace_20THNOV": {
+    "subscribers": 23151,
+    "reviews": 478,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 73,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "financial-services-introduction-to-etfs_20THNOV": {
+    "subscribers": 14728,
+    "reviews": 179,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 78,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "workplace-productivity-supporting-others-through-change_20THNOV": {
+    "subscribers": 24356,
+    "reviews": 509,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 87,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "financial-services-overview-of-central-banks_20THNOV": {
+    "subscribers": 21564,
+    "reviews": 192,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 89,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "financial-services-funds-flow-optimization-concepts_20THNOV": {
+    "subscribers": 21710,
+    "reviews": 190,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 92,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "constructive-debates-in-the-workplace-j_20THNOV": {
+    "subscribers": 864,
+    "reviews": 24,
+    "rating": "4.8",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 51,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "emotional-intelligence-in-leadership-y_20THNOV": {
+    "subscribers": 27265,
+    "reviews": 550,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 72,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "financial-services-government-bonds-notes-treasuries_20THNOV": {
+    "subscribers": 889,
+    "reviews": 23,
+    "rating": "4.6",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 54,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "financial-services-overview-of-commodities_20THNOV": {
+    "subscribers": 2045,
+    "reviews": 74,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 79,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "financial-services-overview-of-retail-banking_20THNOV": {
+    "subscribers": 21220,
+    "reviews": 303,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 89,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "workplace-productivity-coping-with-the-anxiety-of-leadership_20THNOV": {
+    "subscribers": 20391,
+    "reviews": 116,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 87,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "financial-services-basics-of-business-corporate-banking_20THNOV": {
+    "subscribers": 25462,
+    "reviews": 1067,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 83,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "financial-stewardship-for-decision-makers-and-leaders_20THNOV": {
+    "subscribers": 20095,
+    "reviews": 140,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 69,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "financial-services-basics-of-regulation-compliance_20THNOV": {
+    "subscribers": 21476,
+    "reviews": 548,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Narelle Ferreira",
+    "campaign": {
+      "max": 100,
+      "rem": 67,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "financial-services-sovereign-wealth-national-funds_20THNOV": {
+    "subscribers": 1165,
+    "reviews": 20,
+    "rating": "5.0",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 54,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "financial-services-understanding-interest-rates_20THNOV": {
+    "subscribers": 21236,
+    "reviews": 271,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 74,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "audit-administration-effective-communication-in-audit_20THNOV": {
+    "subscribers": 2219,
+    "reviews": 116,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 59,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "financial-services-financial-wellbeing-for-employees_20THNOV": {
+    "subscribers": 1669,
+    "reviews": 31,
+    "rating": "4.8",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 68,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "employee-wellbeing-toolkit_20THNOV": {
+    "subscribers": 2091,
+    "reviews": 65,
+    "rating": "4.9",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 64,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "technology-for-non-technology-decision-makers-with-ai_20THNOV": {
+    "subscribers": 1067,
+    "reviews": 13,
+    "rating": "4.8",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 28,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "principles-of-effective-communication_20THNOV": {
+    "subscribers": 17462,
+    "reviews": 183,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 33,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "product-owner-certification-agileenterprisecoach_8839DDB44210EBA22521": {
+    "subscribers": 16963,
+    "reviews": 208,
+    "rating": "4.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Vipesh Singla , MBA, Certified  SAFe Agile Coach",
+    "campaign": null
+  },
+  "authentic-leadership-t_20THNOV": {
+    "subscribers": 24882,
+    "reviews": 304,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 58,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "intentional-leadership_20THNOV": {
+    "subscribers": 31904,
+    "reviews": 258,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 69,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "workplace-stress-management-strategies_20THNOV": {
+    "subscribers": 30099,
+    "reviews": 395,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Helen Hicks, Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 73,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "currency-management-for-small-businesses-corporates_20THNOV": {
+    "subscribers": 33038,
+    "reviews": 202,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 60,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "visualization-techniques-for-decision-makers-and-leaders_20THNOV": {
+    "subscribers": 36500,
+    "reviews": 592,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 80,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "sales-operations-foundations_16-NOV": {
+    "subscribers": 1818,
+    "reviews": 185,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Pasha Academy",
+    "campaign": null
+  },
+  "introduction-to-risk-management-in-financial-services_20THNOV": {
+    "subscribers": 34515,
+    "reviews": 2274,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Timothy Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 84,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "prioritization-techniques-for-decision-makers-and-leaders_20THNOV": {
+    "subscribers": 36219,
+    "reviews": 1756,
+    "rating": "4.4",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 85,
+      "end": "2026-12-20T08:00:00Z"
+    }
+  },
+  "professional-diploma-in-procurement-management_8287FC8F851B62F372E5": {
+    "subscribers": 3683,
+    "reviews": 32,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 25,
+      "end": "2026-12-21T15:00:00Z"
+    }
+  },
+  "product-marketing-go-to-market_16-NOV": {
+    "subscribers": 3395,
+    "reviews": 612,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Pasha Academy",
+    "campaign": null
+  },
+  "the-future-of-work-job_AD99B4F560A4FD079E7B": {
+    "subscribers": 3548,
+    "reviews": 29,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Green Courses",
+    "campaign": null
+  },
+  "mental-capacity-assessment-training_D3650D2406C8ED7717BF": {
+    "subscribers": 2601,
+    "reviews": 6,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learndrive Courses",
+    "campaign": {
+      "max": 100,
+      "rem": 24,
+      "end": "2026-12-21T12:59:00Z"
+    }
+  },
+  "sexual-harassment-prevention-usa_C4F1076B710D8ABEEC44": {
+    "subscribers": 1187,
+    "reviews": 86,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Bespoke Learning Solutions",
+    "campaign": null
+  },
+  "google-calendar-virtual-assistant_16-NOV": {
+    "subscribers": 38670,
+    "reviews": 441,
+    "rating": "3.3",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Pasha Academy",
+    "campaign": null
+  },
+  "tableau-desktop-specialist-certification-exams-2023_16-NOV": {
+    "subscribers": 16668,
+    "reviews": 72,
+    "rating": "4.1",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Pasha Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 34,
+      "end": "2026-12-17T04:25:00Z"
+    }
+  },
+  "product-owner-certification-exam-prep_E18CC09F193632FDF504": {
+    "subscribers": 9716,
+    "reviews": 35,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Vipesh Singla , MBA, Certified  SAFe Agile Coach",
+    "campaign": null
+  },
+  "scrum-master-certification-exam-prep_E2F633C515FDD0C98CB6": {
+    "subscribers": 14288,
+    "reviews": 91,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Vipesh Singla , MBA, Certified  SAFe Agile Coach",
+    "campaign": null
+  },
+  "marketing-brief_16-NOV": {
+    "subscribers": 3242,
+    "reviews": 66,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Pasha Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 12,
+      "end": "2026-12-17T04:25:00Z"
+    }
+  },
+  "public-relations-for-startups_16-NOV": {
+    "subscribers": 1351,
+    "reviews": 50,
+    "rating": "4.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Pasha Academy",
+    "campaign": null
+  },
+  "designing-the-candidate-experience-q_16-NOV": {
+    "subscribers": 2113,
+    "reviews": 36,
+    "rating": "4.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Pasha Academy",
+    "campaign": null
+  },
+  "bootcamp-az-900-microsoft-azure-fundamentals_C11E7F7101185CF49E67": {
+    "subscribers": 8956,
+    "reviews": 184,
+    "rating": "4.5",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Codaming • 300k+ Learners Worldwide, Dinesh Kumar, Vedika Singh",
+    "campaign": null
+  },
+  "agile-coach-certification_670CF3C1B2BC3F43B673": {
+    "subscribers": 15617,
+    "reviews": 193,
+    "rating": "4.4",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Vipesh Singla , MBA, Certified  SAFe Agile Coach",
+    "campaign": null
+  },
+  "presenting-to-executives_16-NOV": {
+    "subscribers": 2363,
+    "reviews": 50,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Pasha Academy",
+    "campaign": null
+  },
+  "certified-e-course-creation-masterclass-for-coaches_43DCB4580009F57F2071": {
+    "subscribers": 8849,
+    "reviews": 22,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Ritu Singh",
+    "campaign": null
   }
 }
