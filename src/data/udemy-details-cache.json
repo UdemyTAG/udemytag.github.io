@@ -30885,5 +30885,162 @@
     "isFree": false,
     "instructors": "Ritu Singh",
     "campaign": null
+  },
+  "new-manager-training-course_056A5A22DA64482C68E0": {
+    "subscribers": 4242,
+    "reviews": 22,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Global Skills Network",
+    "campaign": null
+  },
+  "essential-workplace-first-aid-skills-for-employee-safety_0986713386A2FD8F3E6E": {
+    "subscribers": 925,
+    "reviews": 9,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Gilman Ahmed Chowdhury",
+    "campaign": {
+      "max": 100,
+      "rem": 10,
+      "end": "2026-12-21T20:22:00Z"
+    }
+  },
+  "evergreen-instagram-marketing-theories-that-always-works_D5023571195DC71278E4": {
+    "subscribers": 8670,
+    "reviews": 34,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Gilman Ahmed Chowdhury",
+    "campaign": {
+      "max": 100,
+      "rem": 11,
+      "end": "2026-12-21T20:23:00Z"
+    }
+  },
+  "linux-crash-course_LINUX_FREE_1": {
+    "subscribers": 40406,
+    "reviews": 3622,
+    "rating": "4.2",
+    "price": "$119.99",
+    "isFree": false,
+    "instructors": "Mo Khalil, CloudsArk Academy",
+    "campaign": null
+  },
+  "foreclosure-real-estate-investing_FSFREIEXPDEC192026F": {
+    "subscribers": 23739,
+    "reviews": 45,
+    "rating": "3.9",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Scott Paton, Jay Conner, Scott Alex, Cherub Santelices",
+    "campaign": {
+      "max": 100,
+      "rem": 28,
+      "end": "2026-12-19T20:27:00Z"
+    }
+  },
+  "owasp-llm-security-learnit_OCTOBERFREE32026": {
+    "subscribers": 11682,
+    "reviews": 259,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 28,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "customer-service-with-ai-learnit_OCTOBERFREE32026": {
+    "subscribers": 6070,
+    "reviews": 187,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 2,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "java-development-for-beginners-learnit_OCTOBERFREE32026": {
+    "subscribers": 298668,
+    "reviews": 6453,
+    "rating": "4.6",
+    "price": "$99.99",
+    "isFree": false,
+    "instructors": "Andrii Piatakha, Learn IT University",
+    "campaign": null
+  },
+  "owasp-security-learnit_OCTOBERFREE32026": {
+    "subscribers": 6379,
+    "reviews": 83,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 46,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "threat-modeling-for-agentic-ai-learnit_OCTOBERFREE32026": {
+    "subscribers": 6100,
+    "reviews": 15,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 16,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "soa-learnit_OCTOBERFREE32026": {
+    "subscribers": 2252,
+    "reviews": 14,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 29,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "grasp-learnit_OCTOBERFREE32026": {
+    "subscribers": 4048,
+    "reviews": 4,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 48,
+      "end": "2026-12-01T17:12:00Z"
+    }
+  },
+  "project-management-simulations-learnit_OCTOBERFREE32026": {
+    "subscribers": 907,
+    "reviews": 7,
+    "rating": "4.9",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Andrii Piatakha",
+    "campaign": {
+      "max": 100,
+      "rem": 14,
+      "end": "2026-12-01T17:12:00Z"
+    }
   }
 }
