@@ -38,45 +38,45 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 
 | No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
 | :-: | :--- | :--- | :-: | :--- |
-| 1 | **Introduction to Risk Management - Decision Makers & Leaders** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/introduction-to-risk-management-decision-makers-leaders/) |
-| 2 | **Developing successful Professional Relationships** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/developing-successful-professional-relationships/) |
-| 3 | **Introduction to Financial Products & Services** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/introduction-to-financial-products-services/) |
-| 4 | **Audit Administration - Audit Sampling** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/audit-administration-audit-sampling/) |
-| 5 | **Introduction to Financial Controls** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/introduction-to-financial-controls/) |
-| 6 | **Managing Social Anxiety in the Workplace** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/managing-social-anxiety-in-the-workplace/) |
-| 7 | **Productivity - Focus, Concentration & Performance Strategies** | `Personal Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/productivity-focus-concentration-performance-strategies/) |
-| 8 | **SMART Goals Parenting** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/smart-goals-parenting/) |
-| 9 | **Organizational Influences & Project Management Lifecycle** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/organizational-influences-project-management-lifecycle/) |
-| 10 | **Project Management: Post Mortems** | `Business` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/project-management-post-mortems/) |
-| 11 | **Leadership for Successful Project Management and Delivery** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/leadership-for-successful-project-management-and-delivery/) |
-| 12 | **Empathy and Emotional Intelligence for Project Managers** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/empathy-and-emotional-intelligence-for-project-managers/) |
-| 13 | **Mental Health for the Workplace** | `Personal Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/mental-health-for-the-workplace/) |
-| 14 | **Financial Services: Introduction to ETFs** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-introduction-to-etfs/) |
-| 15 | **Workplace Productivity - Supporting Others Through Change** | `Personal Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-productivity-supporting-others-through-change/) |
-| 16 | **Financial Services - Overview of Central Banks** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-overview-of-central-banks/) |
-| 17 | **Financial Services - Funds Flow Optimization Concepts** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-funds-flow-optimization-concepts/) |
-| 18 | **Constructive Debates In the Workplace** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/constructive-debates-in-the-workplace/) |
-| 19 | **Emotional Intelligence in Leadership** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/emotional-intelligence-in-leadership/) |
-| 20 | **Financial Services - Government Bonds, Notes & Treasuries** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-government-bonds-notes-treasuries/) |
-| 21 | **Financial Services: Overview of Commodities** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-overview-of-commodities/) |
-| 22 | **Financial Services - Overview of Retail Banking** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-overview-of-retail-banking/) |
-| 23 | **Workplace Productivity-Coping with the Anxiety of Leadership** | `Personal Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-productivity-coping-with-the-anxiety-of-leadership/) |
-| 24 | **Financial Services - Basics of Business & Corporate Banking** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-basics-of-business-corporate-banking/) |
-| 25 | **Financial Stewardship for Decision Makers and Leaders** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-stewardship-for-decision-makers-and-leaders/) |
-| 26 | **Financial Services - Basics of Regulation & Compliance** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-basics-of-regulation-compliance/) |
-| 27 | **Financial Services: Sovereign Wealth & National Funds** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-sovereign-wealth-national-funds/) |
-| 28 | **Financial Services - Understanding Interest Rates** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-understanding-interest-rates/) |
-| 29 | **Audit Administration - Effective Communication in Audit** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/audit-administration-effective-communication-in-audit/) |
-| 30 | **Financial Services: Financial Wellbeing for Employees** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-financial-wellbeing-for-employees/) |
-| 31 | **Employee Wellbeing Toolkit** | `Development` | ⭐ 4.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/employee-wellbeing-toolkit/) |
-| 32 | **Technology for Non Technology Decision Makers with AI** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/technology-for-non-technology-decision-makers-with-ai/) |
-| 33 | **Principles of Effective Communication** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/principles-of-effective-communication/) |
-| 34 | **Authentic Leadership** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/authentic-leadership/) |
-| 35 | **Intentional Leadership** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/intentional-leadership/) |
-| 36 | **Workplace Stress Management Strategies** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-stress-management-strategies/) |
-| 37 | **Currency Management for Small Businesses & Corporates** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/currency-management-for-small-businesses-corporates/) |
-| 38 | **Visualization Techniques for Decision Makers and Leaders** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/visualization-techniques-for-decision-makers-and-leaders/) |
-| 39 | **Introduction to Risk Management in Financial Services** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/introduction-to-risk-management-in-financial-services/) |
-| 40 | **Prioritization Techniques for Decision Makers and Leaders** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/prioritization-techniques-for-decision-makers-and-leaders/) |
+| 1 | **Workplace Safety Essentials: Fire Safety, First Aid Training** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-safety-essentials-fire-safety-first-aid-training/) |
+| 2 | **Evergreen Instagram Marketing Theories That Always Works** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/evergreen-instagram-marketing-theories-that-always-works/) |
+| 3 | **Software architecture** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/software-architecture/) |
+| 4 | **Foreclosure Success for Real Estate Investors by Jay Conner** | `Development` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/foreclosure-success-for-real-estate-investors-by-jay-conner/) |
+| 5 | **Data-Driven Quality Assurance & Quality Control: Metrics/KPI** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/data-driven-quality-assurance-quality-control-metrics-kpi/) |
+| 6 | **OWASP Top 10 LLM 2025: AI Security Essentials** | `IT & Software` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/owasp-top-10-llm-2025-ai-security-essentials/) |
+| 7 | **Customer Service with AI: Practical Skills and Automation** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/customer-service-with-ai-practical-skills-and-automation/) |
+| 8 | **OWASP API Security Top 10 2023: Comprehensive Security Guide** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/owasp-api-security-top-10-2023-comprehensive-security-guide/) |
+| 9 | **Threat Modeling for Agentic AI: Attacks, Risks, Controls** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/threat-modeling-for-agentic-ai-attacks-risks-controls/) |
+| 10 | **Service Oriented Architecture and Event Driven Systems** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/service-oriented-architecture-and-event-driven-systems/) |
+| 11 | **Mastering GRASP Principles in Object-Oriented Design** | `Design` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-grasp-principles-in-object-oriented-design/) |
+| 12 | **Project Crisis Management: Real-World Simulations** | `Business` | ⭐ 4.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/project-crisis-management-real-world-simulations/) |
+| 13 | **Developing successful Professional Relationships** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/developing-successful-professional-relationships/) |
+| 14 | **Audit Administration - Audit Sampling** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/audit-administration-audit-sampling/) |
+| 15 | **Introduction to Financial Controls** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/introduction-to-financial-controls/) |
+| 16 | **Managing Social Anxiety in the Workplace** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/managing-social-anxiety-in-the-workplace/) |
+| 17 | **Productivity - Focus, Concentration & Performance Strategies** | `Personal Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/productivity-focus-concentration-performance-strategies/) |
+| 18 | **SMART Goals Parenting** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/smart-goals-parenting/) |
+| 19 | **Organizational Influences & Project Management Lifecycle** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/organizational-influences-project-management-lifecycle/) |
+| 20 | **Project Management: Post Mortems** | `Business` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/project-management-post-mortems/) |
+| 21 | **Leadership for Successful Project Management and Delivery** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/leadership-for-successful-project-management-and-delivery/) |
+| 22 | **Empathy and Emotional Intelligence for Project Managers** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/empathy-and-emotional-intelligence-for-project-managers/) |
+| 23 | **Mental Health for the Workplace** | `Personal Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/mental-health-for-the-workplace/) |
+| 24 | **Financial Services: Introduction to ETFs** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-introduction-to-etfs/) |
+| 25 | **Workplace Productivity - Supporting Others Through Change** | `Personal Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-productivity-supporting-others-through-change/) |
+| 26 | **Financial Services - Overview of Central Banks** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-overview-of-central-banks/) |
+| 27 | **Financial Services - Funds Flow Optimization Concepts** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-funds-flow-optimization-concepts/) |
+| 28 | **Constructive Debates In the Workplace** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/constructive-debates-in-the-workplace/) |
+| 29 | **Emotional Intelligence in Leadership** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/emotional-intelligence-in-leadership/) |
+| 30 | **Financial Services - Government Bonds, Notes & Treasuries** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-government-bonds-notes-treasuries/) |
+| 31 | **Financial Services: Overview of Commodities** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-overview-of-commodities/) |
+| 32 | **Financial Services - Overview of Retail Banking** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-overview-of-retail-banking/) |
+| 33 | **Workplace Productivity-Coping with the Anxiety of Leadership** | `Personal Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-productivity-coping-with-the-anxiety-of-leadership/) |
+| 34 | **Financial Services - Basics of Business & Corporate Banking** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-basics-of-business-corporate-banking/) |
+| 35 | **Financial Stewardship for Decision Makers and Leaders** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-stewardship-for-decision-makers-and-leaders/) |
+| 36 | **Financial Services - Basics of Regulation & Compliance** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-basics-of-regulation-compliance/) |
+| 37 | **Financial Services: Sovereign Wealth & National Funds** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-sovereign-wealth-national-funds/) |
+| 38 | **Financial Services - Understanding Interest Rates** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-understanding-interest-rates/) |
+| 39 | **Audit Administration - Effective Communication in Audit** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/audit-administration-effective-communication-in-audit/) |
+| 40 | **Financial Services: Financial Wellbeing for Employees** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-financial-wellbeing-for-employees/) |
 
 *Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*
