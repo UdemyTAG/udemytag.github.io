@@ -31042,5 +31042,538 @@
       "rem": 14,
       "end": "2026-12-01T17:12:00Z"
     }
+  },
+  "ai-for-data-analysis-for-beginners-chatgpt-excel-sql_NOVFREE01": {
+    "subscribers": 1782,
+    "reviews": 6,
+    "rating": "4.1",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, Vivian Aranha",
+    "campaign": null
+  },
+  "data-literacy-for-product-owners_NOVFREE03": {
+    "subscribers": 1919,
+    "reviews": 4,
+    "rating": "5.0",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 12,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "html-5-with-quizzes-and-python-3-complete-course-2023_B75C5849BFB7DE4E2993": {
+    "subscribers": 48107,
+    "reviews": 387,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Horizon Tech",
+    "campaign": {
+      "max": 100,
+      "rem": 82,
+      "end": "2026-12-22T02:49:00Z"
+    }
+  },
+  "product-thinking-problem-framing-for-ai_NOVFREE01": {
+    "subscribers": 1954,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 43,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "ai-use-cases-across-industries_NOVFREE01": {
+    "subscribers": 1978,
+    "reviews": 1,
+    "rating": "4.0",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 22,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "52-week-ai-leadership-course-agents-mcp-rag_NOVFREE01": {
+    "subscribers": 1695,
+    "reviews": 1,
+    "rating": "2.5",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": null
+  },
+  "ethics-bias-trust-in-ai_NOVFREE03": {
+    "subscribers": 1883,
+    "reviews": 2,
+    "rating": "4.7",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 10,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "3-week-ai-for-cybersecurity-certification_NOVFREE01": {
+    "subscribers": 1769,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": null
+  },
+  "3-week-generative-ai-foundations-certification_NOVFREE01": {
+    "subscribers": 1802,
+    "reviews": 5,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": null
+  },
+  "3-week-responsible-ai-governance-certification_NOVFREE01": {
+    "subscribers": 1720,
+    "reviews": 3,
+    "rating": "4.8",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 58,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "2-week-no-code-ai-automation-certification_NOVFREE01": {
+    "subscribers": 1792,
+    "reviews": 7,
+    "rating": "4.4",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": null
+  },
+  "agentic-ai-for-leaders-orchestrating-human-machine-teams_NOVFREE02": {
+    "subscribers": 1755,
+    "reviews": 2,
+    "rating": "4.7",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": null
+  },
+  "2-week-prompt-engineering-certification_NOVFREE01": {
+    "subscribers": 1761,
+    "reviews": 8,
+    "rating": "4.2",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": null
+  },
+  "ai-governance-for-business-leaders-policy-to-practice_NOVFREE02": {
+    "subscribers": 1742,
+    "reviews": 1,
+    "rating": "5.0",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 5,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "ab-210-microsoft-dynamics-365-sales-ai-consultant-associate-q_NOVFREE01": {
+    "subscribers": 1125,
+    "reviews": 1,
+    "rating": "4.0",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Arjun Vaid, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 28,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "chief-data-ai-officer-cdaio-executive-mastery_NOVFREE01": {
+    "subscribers": 1215,
+    "reviews": 4,
+    "rating": "1.8",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "chief-product-officer-mastery-52-week-program_NOVFREE01": {
+    "subscribers": 856,
+    "reviews": 1,
+    "rating": "1.0",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "meme-coins-explained-scams-hype-and-risk_NOVFREE02": {
+    "subscribers": 581,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": {
+      "max": 100,
+      "rem": 2,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "ai-powered-soc-analyst-bootcamp-ai-security-operations_NOVFREE01": {
+    "subscribers": 1162,
+    "reviews": 1,
+    "rating": "5.0",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": null
+  },
+  "chief-sustainability-officer-mastery-52-weeks_NOVFREE01": {
+    "subscribers": 875,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": null
+  },
+  "forward-deployed-engineering-build-and-lead-ai-teams_NOVFREE01": {
+    "subscribers": 931,
+    "reviews": 4,
+    "rating": "3.6",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Arjun Vaid, School of AI",
+    "campaign": null
+  },
+  "certified-master-in-agentic-ai_NOVFREE01": {
+    "subscribers": 23444,
+    "reviews": 663,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 6,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "ai-hero-a-12-month-journey-taking-you-from-zero-to-expert_NOVFREE01": {
+    "subscribers": 20557,
+    "reviews": 324,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 7,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "certified-nvidia-ai-expert_NOVFREE01": {
+    "subscribers": 13388,
+    "reviews": 234,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vivian Aranha, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 49,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "cybersecurity-101-foundations-for-absolute-beginners_NOVFREE01": {
+    "subscribers": 33966,
+    "reviews": 3708,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "School of AI, Bayt Al Hikmah",
+    "campaign": null
+  },
+  "complete-guide-ai-infrastructure_NOVFREE03": {
+    "subscribers": 18977,
+    "reviews": 356,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": {
+      "max": 100,
+      "rem": 14,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "ai-bible-from-beginner-to-builder-in-100-projects_NOVFREE01": {
+    "subscribers": 22933,
+    "reviews": 176,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Gourav J. Shah, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 22,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "ai-engineer-professional-certificate-course_NOVFREE01": {
+    "subscribers": 25279,
+    "reviews": 233,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": null
+  },
+  "ai-engineer-associate-certificate-course_NOVFREE01": {
+    "subscribers": 21239,
+    "reviews": 118,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 29,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "ai-engineer-explorer-certificate-course_NOVFREE01": {
+    "subscribers": 21587,
+    "reviews": 321,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 38,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "generative-ai-foundational-certificate-course_NOVFREE01": {
+    "subscribers": 16224,
+    "reviews": 456,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 9,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "machine-learning-ai-foundations-course_NOVFREE01": {
+    "subscribers": 17016,
+    "reviews": 222,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 24,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "certified-data-analyst-foundations-course_NOVFREE01": {
+    "subscribers": 19301,
+    "reviews": 661,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 16,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "generative-ai-llms-foundations-from-basics-to-application_NOVFREE01": {
+    "subscribers": 11686,
+    "reviews": 68,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": null
+  },
+  "applied-ai-foundations-8-week-professional-course_NOVFREE01": {
+    "subscribers": 10369,
+    "reviews": 27,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": null
+  },
+  "deep-learning-specialization-advanced-ai-architectures_NOVFREE01": {
+    "subscribers": 16788,
+    "reviews": 157,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 33,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "startup-founders-roadmap-from-zero-to-market_NOVFREE01": {
+    "subscribers": 11258,
+    "reviews": 64,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 51,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "data-science-ai-mastery-100-days-to-career-success_NOVFREE01": {
+    "subscribers": 12126,
+    "reviews": 42,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 1,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "data-science-ai-mastery-from-basics-to-deployment_NOVFREE01": {
+    "subscribers": 12120,
+    "reviews": 120,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": null
+  },
+  "custom-chatgpt-publishing-ai-bootcamp-masterclass_NOVFREE01": {
+    "subscribers": 34154,
+    "reviews": 236,
+    "rating": "4.5",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 27,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "building-ai-android-applications_16A30F3D3E7235615CDA": {
+    "subscribers": 19712,
+    "reviews": 116,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Riad Almadani • 70,000+ Students",
+    "campaign": null
+  },
+  "microsoft-excel-complete-excel-from-beginner-to-advanced_D521F2C40F2ACB78D822": {
+    "subscribers": 12627,
+    "reviews": 319,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Bright Path",
+    "campaign": null
+  },
+  "illustrator-t-shirt-design-mastery-from-concept-to-print_F69FA9838DD381ABFA33": {
+    "subscribers": 3116,
+    "reviews": 3,
+    "rating": "3.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "php-with-mysql-2023-build-amazing-streaming-service_PHPSTREAMING63": {
+    "subscribers": 28887,
+    "reviews": 139,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": null
+  },
+  "adobe-premiere-pro-for-content-creators-and-youtubers_1CCE4E14CF13FA7D0546": {
+    "subscribers": 2491,
+    "reviews": 7,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
+  },
+  "the-ultimate-php-oop-crash-course-for-beginners-2025_PHPOOPCRASH47": {
+    "subscribers": 4465,
+    "reviews": 11,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": null
+  },
+  "complete-css-web-design-course-front-end-web-development_57757B1EED5E587DB327": {
+    "subscribers": 3163,
+    "reviews": 11,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "master-html-for-modern-web-design-front-end-web-development_86F50761C78F38D1B2FF": {
+    "subscribers": 3057,
+    "reviews": 15,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "adobe-photoshop-ultimate-guide-to-photo-editing-and-design_8B52C8ED1783D222DC58": {
+    "subscribers": 1797,
+    "reviews": 3,
+    "rating": "1.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": null
   }
 }
