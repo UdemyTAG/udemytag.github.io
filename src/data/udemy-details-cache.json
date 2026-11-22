@@ -31575,5 +31575,77 @@
     "isFree": false,
     "instructors": "Muhammad Riaz Uddin",
     "campaign": null
+  },
+  "fusion-360-for-beginners-design-real-world-products_NOVFREE02": {
+    "subscribers": 1500,
+    "reviews": 5,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Arjun Vaid, School of AI",
+    "campaign": null
+  },
+  "data-analytics-visualization-acquire-demanded-tech-skills_703F426ED69593F77A2C": {
+    "subscribers": 57862,
+    "reviews": 988,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Meritshot Academy",
+    "campaign": null
+  },
+  "statistics-and-hypothesis-testing-for-data-science_EF622940327771E34AC3": {
+    "subscribers": 38022,
+    "reviews": 682,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Meritshot Academy",
+    "campaign": null
+  },
+  "communication-skills-acquire-effective-communication_AE53C1363E3D51164C2A": {
+    "subscribers": 61600,
+    "reviews": 9022,
+    "rating": "4.6",
+    "price": "$94.99",
+    "isFree": false,
+    "instructors": "Meritshot Academy",
+    "campaign": null
+  },
+  "mastering-social-media-marketing-brand-building-growth_C22640D45A18E8895FAA": {
+    "subscribers": 47226,
+    "reviews": 733,
+    "rating": "4.1",
+    "price": "$79.99",
+    "isFree": false,
+    "instructors": "Meritshot Academy",
+    "campaign": null
+  },
+  "work-life-balance-for-busy-professionals_2D72B1F44145A6B528BB": {
+    "subscribers": 489,
+    "reviews": 10,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Meritshot Academy",
+    "campaign": null
+  },
+  "mental-health-awareness-certificate-carers-educators_6A8700CE539763BD2C18": {
+    "subscribers": 660,
+    "reviews": 2,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Gilman Ahmed Chowdhury",
+    "campaign": null
+  },
+  "learn-microsoft-excel-from-zero-with-ai-using-copilot_100% OFF": {
+    "subscribers": 201,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Aşkın TEMEL",
+    "campaign": null
   }
 }

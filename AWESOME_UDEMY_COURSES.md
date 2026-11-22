@@ -72,11 +72,11 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 | 32 | **Mistral AI Development: AI with Mistral, LangChain & Ollama** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/mistral-ai-development-ai-with-mistral-langchain-ollama/) |
 | 33 | **Mastering DeepScaleR: Build & Deploy AI Models with Ollama** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-deepscaler-build-deploy-ai-models-with-ollama/) |
 | 34 | **Quantum Kitchen: Cooking Up Concepts in Quantum Computing** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/quantum-kitchen-cooking-up-concepts-in-quantum-computing/) |
-| 35 | **From Recipe to Chef: Become an LLM Engineer 100+ Projects** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/from-recipe-to-chef-become-an-llm-engineer-100-projects/) |
-| 36 | **SoAI-Certified Professional: AI Infrastructure (NCP-AII)** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/soai-certified-professional-ai-infrastructure-ncp-aii/) |
-| 37 | **Generative AI for Business Leaders and Executives** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/generative-ai-for-business-leaders-and-executives/) |
-| 38 | **AI for Data Analysis for Beginners: ChatGPT, Excel, SQL** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-for-data-analysis-for-beginners-chatgpt-excel-sql/) |
-| 39 | **52-Week AI Leadership Course: Agents, MCP, RAG** | `Development` | ⭐ 2.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/52-week-ai-leadership-course-agents-mcp-rag/) |
-| 40 | **3-Week AI for Cybersecurity Certification** | `IT & Software` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/3-week-ai-for-cybersecurity-certification/) |
+| 35 | **SoAI-Certified Professional: AI Infrastructure (NCP-AII)** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/soai-certified-professional-ai-infrastructure-ncp-aii/) |
+| 36 | **Generative AI for Business Leaders and Executives** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/generative-ai-for-business-leaders-and-executives/) |
+| 37 | **Certified Fusion 360 for Absolute Beginners** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-fusion-360-for-absolute-beginners/) |
+| 38 | **Data Analytics & Visualization: Acquire Demanded Tech Skills** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/data-analytics-visualization-acquire-demanded-tech-skills/) |
+| 39 | **Statistics and Hypothesis Testing for Data science** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/statistics-and-hypothesis-testing-for-data-science/) |
+| 40 | **Communication Skills: Acquire Effective Communication** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/communication-skills-acquire-effective-communication/) |
 
 *Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*
