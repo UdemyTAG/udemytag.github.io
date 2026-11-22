@@ -38,45 +38,45 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 
 | No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
 | :-: | :--- | :--- | :-: | :--- |
-| 1 | **Project Crisis Management: Real-World Simulations** | `Business` | ⭐ 4.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/project-crisis-management-real-world-simulations/) |
-| 2 | **Agentic AI & Prompt Engineering Bootcamp: Build AI Employees** | `Design` | ⭐ 2.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/agentic-ai-prompt-engineering-bootcamp-build-ai-employees/) |
-| 3 | **Anthropic Claude for Absolute Beginners** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/anthropic-claude-for-absolute-beginners/) |
-| 4 | **Databricks for Data Engineers: Full Curriculum (Structured)** | `Development` | ⭐ 3.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/databricks-for-data-engineers-full-curriculum-structured/) |
-| 5 | **AI for Beginners: Use ChatGPT, Claude & AI Tools** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-for-beginners-use-chatgpt-claude-ai-tools/) |
-| 6 | **Fundamentals of Marketing and Brand Management Masterclass** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/fundamentals-of-marketing-and-brand-management-masterclass/) |
-| 7 | **Data Literacy for Product Owners** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/data-literacy-for-product-owners/) |
-| 8 | **HTML 5 With Quizzes And Python 3 Complete Course 2023** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/html-5-with-quizzes-and-python-3-complete-course-2023/) |
-| 9 | **Product Thinking & Problem Framing for AI** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/product-thinking-problem-framing-for-ai/) |
-| 10 | **AI Use Cases Across Industries** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-use-cases-across-industries/) |
-| 11 | **Ethics, Bias & Trust in AI** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/ethics-bias-trust-in-ai/) |
-| 12 | **3 Week Responsible AI & Governance Certification** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/3-week-responsible-ai-governance-certification/) |
-| 13 | **AI Governance for Business Leaders: Policy to Practice** | `Business` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-governance-for-business-leaders-policy-to-practice/) |
-| 14 | **AB-210 Microsoft Dynamics 365 Sales AI Consultant Associate** | `Business` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/ab-210-microsoft-dynamics-365-sales-ai-consultant-associate/) |
-| 15 | **Certified Master in Agentic AI: A 52-Week Applied Program** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-master-in-agentic-ai-a-52-week-applied-program/) |
-| 16 | **AI Hero: A 12-Month Journey Taking You from Zero to Expert** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-hero-a-12-month-journey-taking-you-from-zero-to-expert/) |
-| 17 | **Quantum Computing for Decision Makers: Executive Essentials** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/quantum-computing-for-decision-makers-executive-essentials/) |
-| 18 | **Certified Infra AI Expert: End-to-End GPU-Accelerated AI** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-infra-ai-expert-end-to-end-gpu-accelerated-ai/) |
-| 19 | **The Complete Guide to AI Infrastructure: Zero to Hero** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-guide-to-ai-infrastructure-zero-to-hero/) |
-| 20 | **RAG Strategy & Execution: Build Enterprise Knowledge Systems** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/rag-strategy-execution-build-enterprise-knowledge-systems/) |
-| 21 | **AI Bible: From Beginner to Builder in 100 Projects** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-bible-from-beginner-to-builder-in-100-projects/) |
-| 22 | **Certified Chief Technology Officer(CTO) Mastery Program** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-chief-technology-officer-cto-mastery-program/) |
-| 23 | **AI Engineer Associate Certificate Course** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-engineer-associate-certificate-course/) |
-| 24 | **AI Engineer Explorer Certificate Course** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-engineer-explorer-certificate-course/) |
-| 25 | **[Non-Technical] AI Product Manager Explorer Certificate** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/non-technical-ai-product-manager-explorer-certificate/) |
-| 26 | **The Certified Global CEO Masterclass: Leading at the Top** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-certified-global-ceo-masterclass-leading-at-the-top/) |
-| 27 | **Generative AI Foundational Certificate Course** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/generative-ai-foundational-certificate-course/) |
-| 28 | **NCA-GENL: SoAI-Certified Generative AI LLMs Specialization** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/nca-genl-soai-certified-generative-ai-llms-specialization/) |
-| 29 | **Machine Learning & AI Foundations Course** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/machine-learning-ai-foundations-course/) |
-| 30 | **Certified Data Analyst Foundations Course** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-data-analyst-foundations-course/) |
-| 31 | **AI in 60 Minutes: What Every Leader Should Know** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-in-60-minutes-what-every-leader-should-know/) |
-| 32 | **Deep Learning Specialization: Advanced AI, Hands on Lab** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/deep-learning-specialization-advanced-ai-hands-on-lab/) |
-| 33 | **The Startup Founder’s Roadmap: From Zero to Market** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-startup-founder-s-roadmap-from-zero-to-market/) |
-| 34 | **Data Science & AI Mastery: 100 Days to Career Success** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/data-science-ai-mastery-100-days-to-career-success/) |
-| 35 | **Custom ChatGPT Publishing & AI Bootcamp Masterclass** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/custom-chatgpt-publishing-ai-bootcamp-masterclass/) |
-| 36 | **Mastering DeepScaleR: Build & Deploy AI Models with Ollama** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-deepscaler-build-deploy-ai-models-with-ollama/) |
-| 37 | **Quantum Kitchen: Cooking Up Concepts in Quantum Computing** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/quantum-kitchen-cooking-up-concepts-in-quantum-computing/) |
-| 38 | **SoAI-Certified Professional: AI Infrastructure (NCP-AII)** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/soai-certified-professional-ai-infrastructure-ncp-aii/) |
-| 39 | **Generative AI for Business Leaders and Executives** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/generative-ai-for-business-leaders-and-executives/) |
-| 40 | **Claude Design Mastery: Build AI Visual Assets** | `Design` | ⭐ 2.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/claude-design-mastery-build-ai-visual-assets/) |
+| 1 | **SDR for Ethical Hackers and Security Researchers** | `IT & Software` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/sdr-for-ethical-hackers-and-security-researchers/) |
+| 2 | **Diversity Equity Inclusion Building Inclusive Workplaces** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/diversity-equity-inclusion-building-inclusive-workplaces/) |
+| 3 | **Ultimate Guide to Creating Presentations with PowerPoint** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/ultimate-guide-to-creating-presentations-with-powerpoint/) |
+| 4 | **Master Logo Design with Photoshop Illustrator Zero to Pro** | `Design` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-logo-design-with-photoshop-illustrator-zero-to-pro/) |
+| 5 | **Fundamentals of Marketing and Brand Management Masterclass** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/fundamentals-of-marketing-and-brand-management-masterclass/) |
+| 6 | **Quantum Computing for Decision Makers: Executive Essentials** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/quantum-computing-for-decision-makers-executive-essentials/) |
+| 7 | **Certified Infra AI Expert: End-to-End GPU-Accelerated AI** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-infra-ai-expert-end-to-end-gpu-accelerated-ai/) |
+| 8 | **The Complete Guide to AI Infrastructure: Zero to Hero** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-guide-to-ai-infrastructure-zero-to-hero/) |
+| 9 | **AI Bible: From Beginner to Builder in 100 Projects** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-bible-from-beginner-to-builder-in-100-projects/) |
+| 10 | **Certified Chief Technology Officer(CTO) Mastery Program** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-chief-technology-officer-cto-mastery-program/) |
+| 11 | **AI Engineer Associate Certificate Course** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-engineer-associate-certificate-course/) |
+| 12 | **AI Engineer Explorer Certificate Course** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-engineer-explorer-certificate-course/) |
+| 13 | **[Non-Technical] AI Product Manager Explorer Certificate** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/non-technical-ai-product-manager-explorer-certificate/) |
+| 14 | **The Certified Global CEO Masterclass: Leading at the Top** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-certified-global-ceo-masterclass-leading-at-the-top/) |
+| 15 | **NCA-GENL: SoAI-Certified Generative AI LLMs Specialization** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/nca-genl-soai-certified-generative-ai-llms-specialization/) |
+| 16 | **Machine Learning & AI Foundations Course** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/machine-learning-ai-foundations-course/) |
+| 17 | **AI in 60 Minutes: What Every Leader Should Know** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-in-60-minutes-what-every-leader-should-know/) |
+| 18 | **Deep Learning Specialization: Advanced AI, Hands on Lab** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/deep-learning-specialization-advanced-ai-hands-on-lab/) |
+| 19 | **The Startup Founder’s Roadmap: From Zero to Market** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-startup-founder-s-roadmap-from-zero-to-market/) |
+| 20 | **Custom ChatGPT Publishing & AI Bootcamp Masterclass** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/custom-chatgpt-publishing-ai-bootcamp-masterclass/) |
+| 21 | **Mastering DeepScaleR: Build & Deploy AI Models with Ollama** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-deepscaler-build-deploy-ai-models-with-ollama/) |
+| 22 | **Quantum Kitchen: Cooking Up Concepts in Quantum Computing** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/quantum-kitchen-cooking-up-concepts-in-quantum-computing/) |
+| 23 | **SoAI-Certified Professional: AI Infrastructure (NCP-AII)** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/soai-certified-professional-ai-infrastructure-ncp-aii/) |
+| 24 | **Generative AI for Business Leaders and Executives** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/generative-ai-for-business-leaders-and-executives/) |
+| 25 | **Mastering Google Docs - Complete Google Docs Course** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-google-docs-complete-google-docs-course/) |
+| 26 | **Python Demonstrations For Practice Course** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/python-demonstrations-for-practice-course/) |
+| 27 | **Modern Web Development with JavaScript, jQuery & TypeScript** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/modern-web-development-with-javascript-jquery-typescript/) |
+| 28 | **PowerPoint - Microsoft PowerPoint From Basic to Advanced** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/powerpoint-microsoft-powerpoint-from-basic-to-advanced/) |
+| 29 | **Bootcamp AZ-900: Microsoft Azure Fundamentals Course** | `IT & Software` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/bootcamp-az-900-microsoft-azure-fundamentals-course/) |
+| 30 | **Deep Learning A-Z: Build Neural Networks & TensorFlow** | `Design` | ⭐ 3.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/deep-learning-a-z-build-neural-networks-tensorflow/) |
+| 31 | **Master Programming with C and C++: From Beginner to Advanced** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-programming-with-c-and-c-from-beginner-to-advanced/) |
+| 32 | **Essential Photoshop Course for Beginner To Advanced** | `Design` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-photoshop-course-for-beginner-to-advanced/) |
+| 33 | **Graphics Design and Video Editing Course for Beginner** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/graphics-design-and-video-editing-course-for-beginner/) |
+| 34 | **Complete Microsoft Word Excel PowerPoint Course** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-microsoft-word-excel-powerpoint-course/) |
+| 35 | **Adobe Premiere Pro CC Video Editing  Course For Beginners** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-premiere-pro-cc-video-editing-course-for-beginners/) |
+| 36 | **Essential Photoshop Course Beginner to Intermediate** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-photoshop-course-beginner-to-intermediate/) |
+| 37 | **Web Design Course For Beginner to Advanced** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/web-design-course-for-beginner-to-advanced/) |
+| 38 | **Capcut With Canva Graphic Design Video Editing Masterclass** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/capcut-with-canva-graphic-design-video-editing-masterclass/) |
+| 39 | **Adobe After Effects: From Beginner to Motion Master** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-after-effects-from-beginner-to-motion-master/) |
+| 40 | **Advanced Adobe Premiere Pro Add Hollywood-level Effects** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-adobe-premiere-pro-add-hollywood-level-effects/) |
 
 *Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*

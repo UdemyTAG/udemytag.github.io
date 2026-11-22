@@ -31766,5 +31766,336 @@
     "isFree": false,
     "instructors": "Erioluwa Olajide",
     "campaign": null
+  },
+  "mastering-google-docs-complete-google-docs-course_C21525EA23C2BBD82555": {
+    "subscribers": 18612,
+    "reviews": 131,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "python-for-beginners-demonstration-course_7B3F8589812B01DF279B": {
+    "subscribers": 217688,
+    "reviews": 1596,
+    "rating": "4.4",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Horizon Tech",
+    "campaign": null
+  },
+  "modern-web-development-with-javascript-jquery-typescript_8D03BA5AA6EB224ADD8F": {
+    "subscribers": 3979,
+    "reviews": 12,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "powerpoint-microsoft-powerpoint-from-basic-to-advanced_D745604B7112EDCEEF49": {
+    "subscribers": 28299,
+    "reviews": 220,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": null
+  },
+  "bootcamp-az-900-microsoft-azure-fundamentals_C11E7F7101186CF49E67": {
+    "subscribers": 9014,
+    "reviews": 186,
+    "rating": "4.5",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Codaming • 300k+ Learners Worldwide, Dinesh Kumar, Vedika Singh",
+    "campaign": null
+  },
+  "deep-learning-a-z-build-neural-networks-tensorflow_14782FA9D4966D45E461": {
+    "subscribers": 1100,
+    "reviews": 4,
+    "rating": "3.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "master-programming-with-c-and-c-from-beginner-to-advanced_F88668448ADBAFF07C30": {
+    "subscribers": 3889,
+    "reviews": 13,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": null
+  },
+  "graphics-design-videoediting-course_BDD8F6B647FA0EAA0AEF": {
+    "subscribers": 47181,
+    "reviews": 391,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Nerding I/O, Zechariah Tech",
+    "campaign": null
+  },
+  "graphics-design-and-video-editing-course-for-beginner_FF8F72111C047B0FF7F2": {
+    "subscribers": 50209,
+    "reviews": 335,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Ben Kemp, Zechariah Tech",
+    "campaign": null
+  },
+  "complete-microsoft-word-excel-powerpoint-course_F39111754CCFDBBDAEDF": {
+    "subscribers": 38275,
+    "reviews": 1044,
+    "rating": "4.3",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Nerding I/O, Zechariah Tech",
+    "campaign": null
+  },
+  "adobe-premiere-pro-cc-video-editing-course-for-beginners_C1233434F4356244860D": {
+    "subscribers": 48284,
+    "reviews": 291,
+    "rating": "4.1",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Ben Kemp, Zechariah Tech",
+    "campaign": null
+  },
+  "adobe-graphics-design-video-editing_BDFEA930FF98F5D552DC": {
+    "subscribers": 47533,
+    "reviews": 333,
+    "rating": "4.4",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Ben Kemp, Zechariah Tech",
+    "campaign": null
+  },
+  "web-design-for-beginner-to-advanced_13A147407BFF23C7867F": {
+    "subscribers": 44724,
+    "reviews": 707,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Manuel Tudu",
+    "campaign": null
+  },
+  "capcut-with-canva-graphic-design-video-editing-masterclass_9B5C06C2DFE55286CE9C": {
+    "subscribers": 12949,
+    "reviews": 85,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": null
+  },
+  "adobe-after-effects-from-beginner-to-motion-master_E61EC2EB20112FC6D29A": {
+    "subscribers": 25025,
+    "reviews": 138,
+    "rating": "4.4",
+    "price": "$29.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "advanced-adobe-premiere-pro-add-hollywood-level-effects_B7C1019F1FD4EE15BD8C": {
+    "subscribers": 27326,
+    "reviews": 124,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "adobe-illustrator-essentials-zero-to-hero-for-beginners_79482B642A8465D995EA": {
+    "subscribers": 26552,
+    "reviews": 147,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "php-with-laravel-2023-build-cms-blog-with-admin-panel_LARABLOG77": {
+    "subscribers": 27607,
+    "reviews": 168,
+    "rating": "4.2",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": null
+  },
+  "php-codeigniter-4-build-food-ordering-ecommerce-store-2025_CIFOODSTORE61": {
+    "subscribers": 1701,
+    "reviews": 9,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": null
+  },
+  "capcut-video-edit-with-ai-chatgpt-and-motion-cinematography_C4CDF29698D6D17D7586": {
+    "subscribers": 13560,
+    "reviews": 75,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": null
+  },
+  "video-editing-with-chatgpt-adobe-premiere-pro-canva-capcut_71915566D274FACEF646": {
+    "subscribers": 13530,
+    "reviews": 45,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": null
+  },
+  "advanced-adobe-after-effects-become-vfx-motion-expert_2EA9B0ED84CA9D79BBC4": {
+    "subscribers": 28294,
+    "reviews": 156,
+    "rating": "4.0",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "pro-photo-editing-with-photoshop-illustrator-lightroom-canva_5F912CB1FCD587703035": {
+    "subscribers": 26415,
+    "reviews": 114,
+    "rating": "4.2",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "software_defined_radio_OCSALY-ACADEMY-2026": {
+    "subscribers": 17170,
+    "reviews": 173,
+    "rating": "4.1",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "OCSALY Academy | 570.000+ Students",
+    "campaign": {
+      "max": 100,
+      "rem": 18,
+      "end": "2026-12-23T08:43:00Z"
+    }
+  },
+  "social-media-mastery-comprehensive-social-media-success_7A908EFB7DA50E827FBA": {
+    "subscribers": 26236,
+    "reviews": 241,
+    "rating": "4.3",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": null
+  },
+  "computer_science_OCSALY-ACADEMY-2026": {
+    "subscribers": 13489,
+    "reviews": 60,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "OCSALY Academy | 570.000+ Students",
+    "campaign": null
+  },
+  "wireshark-course_OCSALY-ACADEMY-2026": {
+    "subscribers": 20609,
+    "reviews": 149,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "OCSALY Academy | 570.000+ Students",
+    "campaign": null
+  },
+  "artificial-intelligence-certificated_OCSALY-ACADEMYY": {
+    "subscribers": 18468,
+    "reviews": 124,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "OCSALY Academy | 570.000+ Students",
+    "campaign": null
+  },
+  "diversity-equity-inclusion-building-inclusive-workplaces_9B89029ECB77229491FD": {
+    "subscribers": 6487,
+    "reviews": 30,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": 100,
+      "rem": 74,
+      "end": "2026-12-23T07:39:00Z"
+    }
+  },
+  "social-media-video-editing-premiere-pro-after-effect-canva_F8F551625F51E098662B": {
+    "subscribers": 29743,
+    "reviews": 176,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": null
+  },
+  "ultimate-guide-to-creating-presentations-with-powerpoint_501E40934D995F8BAF28": {
+    "subscribers": 24070,
+    "reviews": 146,
+    "rating": "4.4",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": 100,
+      "rem": 4,
+      "end": "2026-12-23T07:39:00Z"
+    }
+  },
+  "python-programming-for-beginners-learn-python-from-scratch_E179E77BF01F71B2D5EA": {
+    "subscribers": 39339,
+    "reviews": 989,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": null
+  },
+  "master-logo-design-with-photoshop-illustrator-zero-to-pro_720042BB42E1AD9D1438": {
+    "subscribers": 29320,
+    "reviews": 196,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 100,
+      "rem": 49,
+      "end": "2026-12-23T07:33:00Z"
+    }
+  },
+  "excel-for-everyone-essential-skills-for-work-and-life_252E17D6B4E3E3F37AD3": {
+    "subscribers": 33279,
+    "reviews": 608,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": null
+  },
+  "build-active-listening-positive-thinking-resilience_5ECA38F5516EF191A682": {
+    "subscribers": 3055,
+    "reviews": 15,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Empower UK Employment Training",
+    "campaign": null
   }
 }
