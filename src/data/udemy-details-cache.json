@@ -31647,5 +31647,124 @@
     "isFree": false,
     "instructors": "Aşkın TEMEL",
     "campaign": null
+  },
+  "agentic-ai-prompt-engineering-bootcamp-build-ai-employees_NOVFREE02": {
+    "subscribers": 2152,
+    "reviews": 8,
+    "rating": "2.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 7,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "anthropic-claude-for-absolute-beginners_NOVFREE02": {
+    "subscribers": 2628,
+    "reviews": 81,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 40,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "claude-design-mastery-build-ai-visual-assets_NOVFREE01": {
+    "subscribers": 2496,
+    "reviews": 31,
+    "rating": "2.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Vivian Aranha",
+    "campaign": null
+  },
+  "databricks-for-data-engineers-full-curriculum-structured_NOVFREE02": {
+    "subscribers": 2070,
+    "reviews": 4,
+    "rating": "3.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 32,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "certified-ai-engineer-masterclass-build-ai-agents-2026_NOVFREE01": {
+    "subscribers": 1857,
+    "reviews": 9,
+    "rating": "2.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": null
+  },
+  "claude-ai-for-beginners-prompting-real-world-use_NOVFREE01": {
+    "subscribers": 1966,
+    "reviews": 27,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": null
+  },
+  "ai-for-beginners-use-chatgpt-claude-ai-tools_NOVFREE01": {
+    "subscribers": 1781,
+    "reviews": 9,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 9,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "data-analysis-for-beginners-excel-sql-real-insights_NOVFREE01": {
+    "subscribers": 1792,
+    "reviews": 11,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": null
+  },
+  "fundamentals1_CC8D3D75144D008FE05D": {
+    "subscribers": 5654,
+    "reviews": 63,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Erioluwa Olajide",
+    "campaign": {
+      "max": 100,
+      "rem": 30,
+      "end": "2026-12-22T20:04:00Z"
+    }
+  },
+  "warehousemanagement_FCDB89EEDB6C1448882B": {
+    "subscribers": 3716,
+    "reviews": 58,
+    "rating": "4.5",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": null
+  },
+  "digrepman_3D50770F431C709446D4": {
+    "subscribers": 5072,
+    "reviews": 28,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Erioluwa Olajide",
+    "campaign": null
   }
 }
