@@ -32381,5 +32381,911 @@
       "rem": null,
       "end": "2026-11-28T08:00:00Z"
     }
+  },
+  "flutter-for-web-mobile-build-fast-flexible-applications_45AA62142E59FC1467B0": {
+    "subscribers": 5357,
+    "reviews": 16,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "mastering-c-plus-language-c-programming-for-beginners_17515AFF3EE0E596CC8D": {
+    "subscribers": 32518,
+    "reviews": 374,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 8,
+      "end": "2026-12-12T11:02:00Z"
+    }
+  },
+  "css-the-complete-guide-to-css-zero-to-hero_9F4BA417654373FE778B": {
+    "subscribers": 29825,
+    "reviews": 313,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 29,
+      "end": "2026-12-12T11:02:00Z"
+    }
+  },
+  "php-master-class-the-complete-php-developer-course_5D106599D2C5B734FF8F": {
+    "subscribers": 37032,
+    "reviews": 275,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 5,
+      "end": "2026-12-12T11:02:00Z"
+    }
+  },
+  "microsoft-excel-pivot-tables-with-formulas-functions_BEFE3E5CE836D150CA20": {
+    "subscribers": 14855,
+    "reviews": 169,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "mastering-microsoft-powerpoint-create-stunning-presentation_F62B3A36617B2CAE52FD": {
+    "subscribers": 11536,
+    "reviews": 81,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "google-sheets-beginners-guide-2025-learn-fast-easy_3CF7EC016D8D6B963655": {
+    "subscribers": 10879,
+    "reviews": 116,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Amadur Rahman, Academy of Genius Graduates",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "fundamentals-of-compliance-management-and-risk-management_1D6930AA6F643C107AB2": {
+    "subscribers": 6865,
+    "reviews": 178,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Academy of Genius Graduates",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "diving-customer-service-kyc-compliance-with-ai-chatbots_3071CBA4DAC84400ACE2": {
+    "subscribers": 6461,
+    "reviews": 61,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Academy of Genius Graduates",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "essential-excel-for-beginner-to-advanced_58B84B13F1C9BE7BEF11": {
+    "subscribers": 54226,
+    "reviews": 1388,
+    "rating": "3.7",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Tech Bunny, Zechariah Tech",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "designated-safeguarding-lead-dsl-training_B60B1C23AC3EBAB591C1": {
+    "subscribers": 2857,
+    "reviews": 46,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Academy of Genius Graduates",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "american-english-consonants-for-all_REALDISCONOV26": {
+    "subscribers": 24627,
+    "reviews": 191,
+    "rating": "4.7",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Sheila Lebedenko",
+    "campaign": {
+      "max": 100,
+      "rem": 9,
+      "end": "2026-12-24T06:07:00Z"
+    }
+  },
+  "the-complete-photo-editing-masterclass-with-adobe-and-canva_34D034CA3047DAC68A18": {
+    "subscribers": 31992,
+    "reviews": 172,
+    "rating": "4.2",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "comprehensive-davinci-resolve-with-color-grading-masterclass_CF1C395D697C62F63811": {
+    "subscribers": 25397,
+    "reviews": 164,
+    "rating": "3.7",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "complete-ms-office-course-masterclass-beginner-to-advanced_8B9DB6F42E8879374E97": {
+    "subscribers": 31609,
+    "reviews": 669,
+    "rating": "4.4",
+    "price": "$69.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "php-codeigniter-4-build-restaurant-management-system-2025_CIRESTURANT63": {
+    "subscribers": 2827,
+    "reviews": 12,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "php-laravel-2023-build-real-estate-management-system_LARAREALESTATE75": {
+    "subscribers": 27027,
+    "reviews": 158,
+    "rating": "4.1",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "the-complete-capcut-course-beginner-to-pro_03A4300AC5C7EDAE8E27": {
+    "subscribers": 31747,
+    "reviews": 294,
+    "rating": "4.4",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "the-ultimate-filmora-video-editing-course-beginner-to-pro_FF1B9409BF0E28E4BC8F": {
+    "subscribers": 26535,
+    "reviews": 93,
+    "rating": "4.2",
+    "price": "$22.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "canva-for-social-media-graphic-design-and-video-editing_4D6C2BD27DCCCF61FF00": {
+    "subscribers": 34362,
+    "reviews": 487,
+    "rating": "4.2",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "complete-social-media-video-editing-masterclass-zero-to-hero_233BD260DE7483B69A4B": {
+    "subscribers": 14995,
+    "reviews": 79,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "complete-microsoft-office-word-excel-powerpoint-google-sheet_14C7704FB9FDA1DD1007": {
+    "subscribers": 14541,
+    "reviews": 219,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "complete-capcut-for-social-media-video-editing-masterclass_6DE2D542D43F2FCA339D": {
+    "subscribers": 14405,
+    "reviews": 85,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "google-slides-full-guide-to-creating-impactful-presentation_82CDB89384BE8FBF9383": {
+    "subscribers": 9857,
+    "reviews": 26,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "adobe-premiere-pro-101-learn-editing-effects-transitions_9738E497677FA782BBB2": {
+    "subscribers": 3737,
+    "reviews": 8,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "premiere-pro-masterclass-beginner-to-advanced-video-editing_D9FADE5C08C319E880F3": {
+    "subscribers": 3048,
+    "reviews": 7,
+    "rating": "3.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "social-media-video-editing-with-canva-capcut-premiere-pro_4EF49C563507B9A15328": {
+    "subscribers": 13733,
+    "reviews": 67,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "capcut-video-editing-for-social-media-reels-shorts-videos_8E576554C813FD1C056F": {
+    "subscribers": 38684,
+    "reviews": 400,
+    "rating": "4.0",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "microsoft-office-excel-word-powerpoint-and-teams-for-pro_2578BE7FA5F49088D602": {
+    "subscribers": 14370,
+    "reviews": 174,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "adobe-animate-a-comprehensive-guide-for-beginners-to-pro_EB29E32AEC590C355C82": {
+    "subscribers": 29946,
+    "reviews": 116,
+    "rating": "4.4",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "google-sheets-bootcamp-boost-productivity-and-efficiency_02B5C0B4B7703E9E48D0": {
+    "subscribers": 34741,
+    "reviews": 303,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "immunology-step-by-step_A5DD4455FC7B638C42D2": {
+    "subscribers": 9997,
+    "reviews": 67,
+    "rating": "3.9",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 61,
+      "end": "2026-11-25T10:34:00Z"
+    }
+  },
+  "ultimate-guide-to-canva-t-shirt-design-mastery-in-t-shirt_FA17655D248540EEF935": {
+    "subscribers": 21714,
+    "reviews": 91,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": 100,
+      "rem": 27,
+      "end": "2026-12-24T08:29:00Z"
+    }
+  },
+  "microsoft-word-mastery-essential-skill-for-job-and-business_1DE9F0DD1D08CF4A7D79": {
+    "subscribers": 27474,
+    "reviews": 375,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "capcut-ninja-mastering-video-editing-basics-to-advanced_E0D6F80027EC6BE0C4DC": {
+    "subscribers": 35361,
+    "reviews": 271,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": 100,
+      "rem": 20,
+      "end": "2026-12-24T08:29:00Z"
+    }
+  },
+  "poultry-diseases-for-profetionals_BB0F47778515F3C9DFB4": {
+    "subscribers": 10288,
+    "reviews": 59,
+    "rating": "3.7",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 57,
+      "end": "2026-11-25T10:16:00Z"
+    }
+  },
+  "web-development-beginners-to-advanced_4A9CB9AD807E7F59B525": {
+    "subscribers": 51552,
+    "reviews": 723,
+    "rating": "4.3",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 26,
+      "end": "2026-12-24T08:39:00Z"
+    }
+  },
+  "poultry-farming-vaccines-and-vaccinations_DCA33C48BFD450495A0A": {
+    "subscribers": 10594,
+    "reviews": 56,
+    "rating": "4.2",
+    "price": "$22.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 57,
+      "end": "2026-11-25T10:19:00Z"
+    }
+  },
+  "clinical-chemistry-from-bench-to-bedside-part1_BB3B81478CC5F220505D": {
+    "subscribers": 408,
+    "reviews": 6,
+    "rating": "4.5",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "zoology-from-genes-to-behavior-and-beyond_F1C9EEA34E3670A43DD3": {
+    "subscribers": 1409,
+    "reviews": 23,
+    "rating": "3.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 20,
+      "end": "2026-11-25T14:46:00Z"
+    }
+  },
+  "graphics-design-video-editing-for-beginner-to-advanced_AD9F538CADD9F745D203": {
+    "subscribers": 50047,
+    "reviews": 360,
+    "rating": "4.3",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 32,
+      "end": "2026-12-24T08:41:00Z"
+    }
+  },
+  "essential-amazon-affiliate-marketing-for-beginners_643C7CFA3D9704F6373A": {
+    "subscribers": 31593,
+    "reviews": 176,
+    "rating": "4.2",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 16,
+      "end": "2026-12-24T08:42:00Z"
+    }
+  },
+  "sales-mastery-new_PAPAHR_NOV_306249": {
+    "subscribers": 3151,
+    "reviews": 9,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "mastering-cross-cultural-communication-in-global-teams_PAPAHR_NOV_157882": {
+    "subscribers": 7453,
+    "reviews": 32,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 38,
+      "end": "2026-12-24T07:05:00Z"
+    }
+  },
+  "employee-onboarding-ru_PAPAHR_NOV_410595": {
+    "subscribers": 2986,
+    "reviews": 5,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 21,
+      "end": "2026-12-24T07:05:00Z"
+    }
+  },
+  "headhunting-and-executive-search-for-recruiters_PAPAHR_NOV_420177": {
+    "subscribers": 6986,
+    "reviews": 47,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 53,
+      "end": "2026-12-24T07:05:00Z"
+    }
+  },
+  "future-of-hr-master-2025-2030-trends-and-strategies_PAPAHR_NOV_476532": {
+    "subscribers": 12885,
+    "reviews": 76,
+    "rating": "4.2",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 29,
+      "end": "2026-12-24T07:05:00Z"
+    }
+  },
+  "claude-ai-cb-total-rewards-hr-ru_PAPAHR_NOV_206604": {
+    "subscribers": 517,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "poultry-farming-nutrition-and-clinical-nutrition-stepby-step_C20AB0AFCB327889F420": {
+    "subscribers": 12801,
+    "reviews": 65,
+    "rating": "3.5",
+    "price": "$29.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 38,
+      "end": "2026-11-25T10:13:00Z"
+    }
+  },
+  "poultry-farming-viral-diseases-threaten-poultry-industry_5136EB6D205E0369D4F1": {
+    "subscribers": 12228,
+    "reviews": 35,
+    "rating": "3.7",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 36,
+      "end": "2026-11-25T10:00:00Z"
+    }
+  },
+  "data-protection-bcs-foundation-certificate-uk-gdpr-prep_100% OFF": {
+    "subscribers": 249,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Bespoke Learning Solutions",
+    "campaign": null
+  },
+  "high-volume-hiring_PAPAHR_NOV_687477": {
+    "subscribers": 3098,
+    "reviews": 5,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "org-design_PAPAHR_NOV_296775": {
+    "subscribers": 3041,
+    "reviews": 6,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 9,
+      "end": "2026-12-24T07:05:00Z"
+    }
+  },
+  "sourcing-automation-speed-up-hiring-4x-linkedin-github_PAPAHR_NOV_909087": {
+    "subscribers": 5126,
+    "reviews": 25,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "icf-ecf-coaching_PAPAHR_NOV_071239": {
+    "subscribers": 3075,
+    "reviews": 12,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 16,
+      "end": "2026-12-24T07:05:00Z"
+    }
+  },
+  "google-sheets-new_PAPAHR_NOV_051570": {
+    "subscribers": 3115,
+    "reviews": 8,
+    "rating": "3.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "process-optimization_PAPAHR_NOV_251079": {
+    "subscribers": 3052,
+    "reviews": 6,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 8,
+      "end": "2026-12-24T07:05:00Z"
+    }
+  },
+  "non-human-identity-and-ai-agent-security-iam-siem-soc_PAPAHR_NOV_246340": {
+    "subscribers": 304,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "ai-learning-online-course_PAPAHR_NOV_541727": {
+    "subscribers": 3098,
+    "reviews": 6,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "certified-operations-manager-business-efficiency-pro-en_PAPAHR_NOV_660979": {
+    "subscribers": 744,
+    "reviews": 5,
+    "rating": "4.5",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "interview-scorecard-pro-objective-hiring-assessment-en_PAPAHR_NOV_045175": {
+    "subscribers": 738,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "microsoft-excel-formulas-and-functions-comprehensive-guide_4C0C9E7B226D5A90D7E0": {
+    "subscribers": 8257,
+    "reviews": 81,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Bright Path",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "excel-data-management-and-analysis-for-basic-to-expert-level_6A88201322A834B3EA8D": {
+    "subscribers": 9509,
+    "reviews": 102,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Bright Path",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "microsoft-powerpoint-blank-slide-to-powerful-presentation_1F0C67305012F6E841CE": {
+    "subscribers": 8107,
+    "reviews": 37,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Bright Path",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "learn-t-shirt-design-with-photoshop-illustrator-and-canva_A0130F6FE52B2E87314A": {
+    "subscribers": 24178,
+    "reviews": 86,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "general-bacteriology-a-concise-course_70A286971A0E78C45415": {
+    "subscribers": 20773,
+    "reviews": 118,
+    "rating": "4.0",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 12,
+      "end": "2026-11-25T09:33:00Z"
+    }
+  },
+  "the-ultimate-microsoft-word-essential-comprehensive-guide_17CCA7767B7865890C55": {
+    "subscribers": 31205,
+    "reviews": 285,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "social-media-graphics-design-and-video-editing-in-canva_57E7F34E611B84D525C4": {
+    "subscribers": 35074,
+    "reviews": 411,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "practical-bacteriology-from-scratch_7CB8856C9EB525850574": {
+    "subscribers": 20536,
+    "reviews": 135,
+    "rating": "3.7",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 52,
+      "end": "2026-11-25T09:39:00Z"
+    }
+  },
+  "general-mycology-a-brief-review_F2B95A6261F447466CD2": {
+    "subscribers": 12658,
+    "reviews": 69,
+    "rating": "3.3",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 52,
+      "end": "2026-11-25T09:46:00Z"
+    }
   }
 }
