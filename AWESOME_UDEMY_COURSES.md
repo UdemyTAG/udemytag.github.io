@@ -38,45 +38,45 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 
 | No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
 | :-: | :--- | :--- | :-: | :--- |
-| 1 | **Mastering Cat Care: Be Your Cat’s Best Friend** | `Development` | ⭐ 3.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-cat-care-be-your-cat-s-best-friend/) |
-| 2 | **Caring for Cats and Dogs** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/caring-for-cats-and-dogs/) |
-| 3 | **ABC of Ear, Nose, and Throat (ENT) Disorders** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/abc-of-ear-nose-and-throat-ent-disorders/) |
-| 4 | **Ethology for veterinerian an introduction** | `Development` | ⭐ 3.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/ethology-for-veterinerian-an-introduction/) |
-| 5 | **Medical ethics for medical students health care professional** | `Personal Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/medical-ethics-for-medical-students-health-care-professional/) |
-| 6 | **oncology understanding cancer biology diagnosis treatments** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/oncology-understanding-cancer-biology-diagnosis-treatments/) |
-| 7 | **histology fundamentals for medical students** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/histology-fundamentals-for-medical-students/) |
-| 8 | **medical genetics learn abnormal human variations** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/medical-genetics-learn-abnormal-human-variations/) |
-| 9 | **ELISA principals and applications for professionals** | `Development` | ⭐ 3.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/elisa-principals-and-applications-for-professionals/) |
-| 10 | **hematology theory and practice  for medical students** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/hematology-theory-and-practice-for-medical-students/) |
-| 11 | **Back pain  between fact and fiction** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/back-pain-between-fact-and-fiction/) |
-| 12 | **horse colic  what can we do** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/horse-colic-what-can-we-do/) |
-| 13 | **Introductory Biology for medical professional** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/introductory-biology-for-medical-professional/) |
-| 14 | **Foundations of Genetics: Principles and Modern Applications** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/foundations-of-genetics-principles-and-modern-applications/) |
-| 15 | **Biotechnology today and yesterday** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/biotechnology-today-and-yesterday/) |
-| 16 | **Aging and Geriatrics** | `Development` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/aging-and-geriatrics/) |
-| 17 | **Become RPA Master in Microsoft Power Automate Desktop** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/become-rpa-master-in-microsoft-power-automate-desktop/) |
-| 18 | **Advanced RPA - Microsoft Power Automate With AI Builder** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-rpa-microsoft-power-automate-with-ai-builder/) |
-| 19 | **RPA:Microsoft Power Automate Desktop:Intelligent Automation** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/rpa-microsoft-power-automate-desktop-intelligent-automation/) |
-| 20 | **AB-100: Microsoft Agentic AI Business Solutions Architect** | `Business` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/ab-100-microsoft-agentic-ai-business-solutions-architect/) |
-| 21 | **Blue Prism Foundation Course Step By Step** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/blue-prism-foundation-course-step-by-step/) |
-| 22 | **Learn PL-500 Power Automate RPA Developer Associate** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-pl-500-power-automate-rpa-developer-associate/) |
-| 23 | **Become Master in Microsoft Power Automate for Cloud** | `IT & Software` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/become-master-in-microsoft-power-automate-for-cloud/) |
-| 24 | **Microsoft Copilot Studio : Future of AI Agents [2026]** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/microsoft-copilot-studio-future-of-ai-agents-2026/) |
-| 25 | **Complete Guide to RPA Solution Architecture** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-guide-to-rpa-solution-architecture/) |
-| 26 | **The Complete Claude Code Masterclass [2026]** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-claude-code-masterclass-2026/) |
-| 27 | **AB-620 : Microsoft Copilot Studio & Power Automate Exam Prep** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/ab-620-microsoft-copilot-studio-power-automate-exam-prep/) |
-| 28 | **SDR for Ethical Hackers and Security Researchers** | `IT & Software` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/sdr-for-ethical-hackers-and-security-researchers/) |
-| 29 | **Diversity Equity Inclusion Building Inclusive Workplaces** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/diversity-equity-inclusion-building-inclusive-workplaces/) |
-| 30 | **Master Logo Design with Photoshop Illustrator Zero to Pro** | `Design` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-logo-design-with-photoshop-illustrator-zero-to-pro/) |
-| 31 | **Fundamentals of Marketing and Brand Management Masterclass** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/fundamentals-of-marketing-and-brand-management-masterclass/) |
-| 32 | **Certified Chief Technology Officer(CTO) Mastery Program** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-chief-technology-officer-cto-mastery-program/) |
-| 33 | **AI Engineer Explorer Certificate Course** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-engineer-explorer-certificate-course/) |
-| 34 | **[Non-Technical] AI Product Manager Explorer Certificate** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/non-technical-ai-product-manager-explorer-certificate/) |
-| 35 | **The Certified Global CEO Masterclass: Leading at the Top** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-certified-global-ceo-masterclass-leading-at-the-top/) |
-| 36 | **NCA-GENL: SoAI-Certified Generative AI LLMs Specialization** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/nca-genl-soai-certified-generative-ai-llms-specialization/) |
-| 37 | **Deep Learning Specialization: Advanced AI, Hands on Lab** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/deep-learning-specialization-advanced-ai-hands-on-lab/) |
-| 38 | **The Startup Founder’s Roadmap: From Zero to Market** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-startup-founder-s-roadmap-from-zero-to-market/) |
-| 39 | **Custom ChatGPT Publishing & AI Bootcamp Masterclass** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/custom-chatgpt-publishing-ai-bootcamp-masterclass/) |
-| 40 | **Mastering DeepScaleR: Build & Deploy AI Models with Ollama** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-deepscaler-build-deploy-ai-models-with-ollama/) |
+| 1 | **Mastering C++ Language - C++ Programming For Beginners** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-c-language-c-programming-for-beginners/) |
+| 2 | **CSS - The Complete Guide to CSS for Beginners** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/css-the-complete-guide-to-css-for-beginners/) |
+| 3 | **PHP Master Class - The Complete PHP Developer Course** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/php-master-class-the-complete-php-developer-course/) |
+| 4 | **American English Consonants for All** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/american-english-consonants-for-all/) |
+| 5 | **immunology step by step** | `Development` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/immunology-step-by-step/) |
+| 6 | **Ultimate Guide to Canva T-Shirt Design: Mastery in T-Shirt** | `Design` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/ultimate-guide-to-canva-t-shirt-design-mastery-in-t-shirt/) |
+| 7 | **Capcut Ninja: Mastering Video Editing Basics to Advanced** | `Design` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/capcut-ninja-mastering-video-editing-basics-to-advanced/) |
+| 8 | **Poultry Diseases Masterclass: Diagnosis & Prevention** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/poultry-diseases-masterclass-diagnosis-prevention/) |
+| 9 | **Web Design Course for Beginners to Intermediate** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/web-design-course-for-beginners-to-intermediate/) |
+| 10 | **Comprehensive Guide to Poultry Vaccination: Principles and P** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/comprehensive-guide-to-poultry-vaccination-principles-and-p/) |
+| 11 | **Master Animal Biology Fundamentals** | `Development` | ⭐ 3.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-animal-biology-fundamentals/) |
+| 12 | **Essential Photoshop Course for Beginner to Advanced** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-photoshop-course-for-beginner-to-advanced/) |
+| 13 | **Essential Amazon Affiliate Marketing for Beginners** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-amazon-affiliate-marketing-for-beginners/) |
+| 14 | **Mastering Cross-Cultural Communication in Global Teams [EN]** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-cross-cultural-communication-in-global-teams-en/) |
+| 15 | **Customer-Centric Management: Journeys, Surveys, Data** | `Business` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/customer-centric-management-journeys-surveys-data/) |
+| 16 | **Headhunting and Executive Search for Recruiters [EN]** | `Design` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/headhunting-and-executive-search-for-recruiters-en/) |
+| 17 | **HR Trends 2025-2030: Future Strategies & Innovations [EN]** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/hr-trends-2025-2030-future-strategies-innovations-en/) |
+| 18 | **Poultry Nutrition & Clinical Nutrition** | `Development` | ⭐ 3.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/poultry-nutrition-clinical-nutrition/) |
+| 19 | **Viral Diseases in Poultry Farming: Challenges and Mitigation** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/viral-diseases-in-poultry-farming-challenges-and-mitigation/) |
+| 20 | **Target Operating Model: Structure, Processes and KPIs [EN]** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/target-operating-model-structure-processes-and-kpis-en/) |
+| 21 | **Coaching Skills for Managers: GROW, Feedback and 1:1 [EN]** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/coaching-skills-for-managers-grow-feedback-and-1-1-en/) |
+| 22 | **Problem Solving, Decision Making: Root Cause Analysis** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/problem-solving-decision-making-root-cause-analysis/) |
+| 23 | **General bacteriology a concise course** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/general-bacteriology-a-concise-course/) |
+| 24 | **practical bacteriology from scratch** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/practical-bacteriology-from-scratch/) |
+| 25 | **Introduction to Mycology: The Biology of Fungi** | `Development` | ⭐ 3.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/introduction-to-mycology-the-biology-of-fungi/) |
+| 26 | **horse colic  what can we do** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/horse-colic-what-can-we-do/) |
+| 27 | **Introductory Biology for medical professional** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/introductory-biology-for-medical-professional/) |
+| 28 | **Foundations of Genetics: Principles and Modern Applications** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/foundations-of-genetics-principles-and-modern-applications/) |
+| 29 | **Biotechnology today and yesterday** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/biotechnology-today-and-yesterday/) |
+| 30 | **Aging and Geriatrics** | `Development` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/aging-and-geriatrics/) |
+| 31 | **Flutter for Web & Mobile: Build Fast, Flexible Applications** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/flutter-for-web-mobile-build-fast-flexible-applications/) |
+| 32 | **Microsoft Excel Pivot Tables With Formulas & Functions** | `Business` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/microsoft-excel-pivot-tables-with-formulas-functions/) |
+| 33 | **Mastering Microsoft PowerPoint: Create Stunning Presentation** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-microsoft-powerpoint-create-stunning-presentation/) |
+| 34 | **Advanced AI-powered Google Sheets Course: Be a Pro** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-ai-powered-google-sheets-course-be-a-pro/) |
+| 35 | **Certificate in Compliance, Audit & Risk Management** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/certificate-in-compliance-audit-risk-management/) |
+| 36 | **Smart Customer Service: KYC, AML & AI Tools** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/smart-customer-service-kyc-aml-ai-tools/) |
+| 37 | **Essential Microsoft Excel from Beginner to Advance level** | `Business` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-microsoft-excel-from-beginner-to-advance-level/) |
+| 38 | **Designated Safeguarding Lead (DSL) Training for Schools** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/designated-safeguarding-lead-dsl-training-for-schools/) |
+| 39 | **The Complete Photo Editing Masterclass With Adobe and Canva** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-photo-editing-masterclass-with-adobe-and-canva/) |
+| 40 | **Comprehensive DaVinci Resolve With Color Grading Masterclass** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/comprehensive-davinci-resolve-with-color-grading-masterclass/) |
 
 *Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*
