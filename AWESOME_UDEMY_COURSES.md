@@ -38,45 +38,45 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 
 | No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
 | :-: | :--- | :--- | :-: | :--- |
-| 1 | **SDR for Ethical Hackers and Security Researchers** | `IT & Software` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/sdr-for-ethical-hackers-and-security-researchers/) |
-| 2 | **Diversity Equity Inclusion Building Inclusive Workplaces** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/diversity-equity-inclusion-building-inclusive-workplaces/) |
-| 3 | **Ultimate Guide to Creating Presentations with PowerPoint** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/ultimate-guide-to-creating-presentations-with-powerpoint/) |
-| 4 | **Master Logo Design with Photoshop Illustrator Zero to Pro** | `Design` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-logo-design-with-photoshop-illustrator-zero-to-pro/) |
-| 5 | **Fundamentals of Marketing and Brand Management Masterclass** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/fundamentals-of-marketing-and-brand-management-masterclass/) |
-| 6 | **Quantum Computing for Decision Makers: Executive Essentials** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/quantum-computing-for-decision-makers-executive-essentials/) |
-| 7 | **The Complete Guide to AI Infrastructure: Zero to Hero** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-guide-to-ai-infrastructure-zero-to-hero/) |
-| 8 | **AI Bible: From Beginner to Builder in 100 Projects** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-bible-from-beginner-to-builder-in-100-projects/) |
-| 9 | **Certified Chief Technology Officer(CTO) Mastery Program** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-chief-technology-officer-cto-mastery-program/) |
-| 10 | **AI Engineer Explorer Certificate Course** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-engineer-explorer-certificate-course/) |
-| 11 | **[Non-Technical] AI Product Manager Explorer Certificate** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/non-technical-ai-product-manager-explorer-certificate/) |
-| 12 | **The Certified Global CEO Masterclass: Leading at the Top** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-certified-global-ceo-masterclass-leading-at-the-top/) |
-| 13 | **NCA-GENL: SoAI-Certified Generative AI LLMs Specialization** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/nca-genl-soai-certified-generative-ai-llms-specialization/) |
-| 14 | **Deep Learning Specialization: Advanced AI, Hands on Lab** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/deep-learning-specialization-advanced-ai-hands-on-lab/) |
-| 15 | **The Startup Founder’s Roadmap: From Zero to Market** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-startup-founder-s-roadmap-from-zero-to-market/) |
-| 16 | **Custom ChatGPT Publishing & AI Bootcamp Masterclass** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/custom-chatgpt-publishing-ai-bootcamp-masterclass/) |
-| 17 | **Mastering DeepScaleR: Build & Deploy AI Models with Ollama** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-deepscaler-build-deploy-ai-models-with-ollama/) |
-| 18 | **Quantum Kitchen: Cooking Up Concepts in Quantum Computing** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/quantum-kitchen-cooking-up-concepts-in-quantum-computing/) |
-| 19 | **SoAI-Certified Professional: AI Infrastructure (NCP-AII)** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/soai-certified-professional-ai-infrastructure-ncp-aii/) |
-| 20 | **The Complete T-Shirt Design Toolkit: PS, AI & Canva** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-t-shirt-design-toolkit-ps-ai-canva/) |
-| 21 | **Conflict Management and Conflict Resolution in the Workplace** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/conflict-management-and-conflict-resolution-in-the-workplace/) |
-| 22 | **Tally Prime Basic to Advance with GST, Payroll, TDS & more** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/tally-prime-basic-to-advance-with-gst-payroll-tds-more/) |
-| 23 | **Mental Capacity Assessment Training for HCPs and Care Admins** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/mental-capacity-assessment-training-for-hcps-and-care-admins/) |
-| 24 | **Person-Centred Care in Adult Nursing - Specialized Diploma** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/person-centred-care-in-adult-nursing-specialized-diploma/) |
-| 25 | **Duty of Care in Nursing and Caregiving: Aid Patient Safety** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/duty-of-care-in-nursing-and-caregiving-aid-patient-safety/) |
-| 26 | **Learn PIC Microcontroller with this 30 Days Challenge** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-pic-microcontroller-with-this-30-days-challenge/) |
-| 27 | **Mastering Google Docs - Complete Google Docs Course** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-google-docs-complete-google-docs-course/) |
-| 28 | **PowerPoint - Microsoft PowerPoint From Basic to Advanced** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/powerpoint-microsoft-powerpoint-from-basic-to-advanced/) |
-| 29 | **Bootcamp AZ-900: Microsoft Azure Fundamentals Course** | `IT & Software` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/bootcamp-az-900-microsoft-azure-fundamentals-course/) |
-| 30 | **Master Programming with C and C++: From Beginner to Advanced** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-programming-with-c-and-c-from-beginner-to-advanced/) |
-| 31 | **Essential Photoshop Course for Beginner To Advanced** | `Design` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-photoshop-course-for-beginner-to-advanced/) |
-| 32 | **Graphics Design and Video Editing Course for Beginner** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/graphics-design-and-video-editing-course-for-beginner/) |
-| 33 | **Complete Microsoft Word Excel PowerPoint Course** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-microsoft-word-excel-powerpoint-course/) |
-| 34 | **Adobe Premiere Pro CC Video Editing  Course For Beginners** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-premiere-pro-cc-video-editing-course-for-beginners/) |
-| 35 | **Essential Photoshop Course Beginner to Intermediate** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-photoshop-course-beginner-to-intermediate/) |
-| 36 | **Adobe After Effects: From Beginner to Motion Master** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/adobe-after-effects-from-beginner-to-motion-master/) |
-| 37 | **Advanced Adobe Premiere Pro Add Hollywood-level Effects** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-adobe-premiere-pro-add-hollywood-level-effects/) |
-| 38 | **PHP with Laravel: Build CMS Blog with Admin Panel** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/php-with-laravel-build-cms-blog-with-admin-panel/) |
-| 39 | **Video Editing with ChatGPT Adobe Premiere Pro Canva CapCut** | `Design` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/video-editing-with-chatgpt-adobe-premiere-pro-canva-capcut/) |
-| 40 | **Advanced Adobe After Effects: Become VFX & Motion Expert** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-adobe-after-effects-become-vfx-motion-expert/) |
+| 1 | **Mastering Cat Care: Be Your Cat’s Best Friend** | `Development` | ⭐ 3.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-cat-care-be-your-cat-s-best-friend/) |
+| 2 | **Caring for Cats and Dogs** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/caring-for-cats-and-dogs/) |
+| 3 | **ABC of Ear, Nose, and Throat (ENT) Disorders** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/abc-of-ear-nose-and-throat-ent-disorders/) |
+| 4 | **Ethology for veterinerian an introduction** | `Development` | ⭐ 3.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/ethology-for-veterinerian-an-introduction/) |
+| 5 | **Medical ethics for medical students health care professional** | `Personal Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/medical-ethics-for-medical-students-health-care-professional/) |
+| 6 | **oncology understanding cancer biology diagnosis treatments** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/oncology-understanding-cancer-biology-diagnosis-treatments/) |
+| 7 | **histology fundamentals for medical students** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/histology-fundamentals-for-medical-students/) |
+| 8 | **medical genetics learn abnormal human variations** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/medical-genetics-learn-abnormal-human-variations/) |
+| 9 | **ELISA principals and applications for professionals** | `Development` | ⭐ 3.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/elisa-principals-and-applications-for-professionals/) |
+| 10 | **hematology theory and practice  for medical students** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/hematology-theory-and-practice-for-medical-students/) |
+| 11 | **Back pain  between fact and fiction** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/back-pain-between-fact-and-fiction/) |
+| 12 | **horse colic  what can we do** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/horse-colic-what-can-we-do/) |
+| 13 | **Introductory Biology for medical professional** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/introductory-biology-for-medical-professional/) |
+| 14 | **Foundations of Genetics: Principles and Modern Applications** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/foundations-of-genetics-principles-and-modern-applications/) |
+| 15 | **Biotechnology today and yesterday** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/biotechnology-today-and-yesterday/) |
+| 16 | **Aging and Geriatrics** | `Development` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/aging-and-geriatrics/) |
+| 17 | **Become RPA Master in Microsoft Power Automate Desktop** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/become-rpa-master-in-microsoft-power-automate-desktop/) |
+| 18 | **Advanced RPA - Microsoft Power Automate With AI Builder** | `Design` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-rpa-microsoft-power-automate-with-ai-builder/) |
+| 19 | **RPA:Microsoft Power Automate Desktop:Intelligent Automation** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/rpa-microsoft-power-automate-desktop-intelligent-automation/) |
+| 20 | **AB-100: Microsoft Agentic AI Business Solutions Architect** | `Business` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/ab-100-microsoft-agentic-ai-business-solutions-architect/) |
+| 21 | **Blue Prism Foundation Course Step By Step** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/blue-prism-foundation-course-step-by-step/) |
+| 22 | **Learn PL-500 Power Automate RPA Developer Associate** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/learn-pl-500-power-automate-rpa-developer-associate/) |
+| 23 | **Become Master in Microsoft Power Automate for Cloud** | `IT & Software` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/become-master-in-microsoft-power-automate-for-cloud/) |
+| 24 | **Microsoft Copilot Studio : Future of AI Agents [2026]** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/microsoft-copilot-studio-future-of-ai-agents-2026/) |
+| 25 | **Complete Guide to RPA Solution Architecture** | `Design` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-guide-to-rpa-solution-architecture/) |
+| 26 | **The Complete Claude Code Masterclass [2026]** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-complete-claude-code-masterclass-2026/) |
+| 27 | **AB-620 : Microsoft Copilot Studio & Power Automate Exam Prep** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/ab-620-microsoft-copilot-studio-power-automate-exam-prep/) |
+| 28 | **SDR for Ethical Hackers and Security Researchers** | `IT & Software` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/sdr-for-ethical-hackers-and-security-researchers/) |
+| 29 | **Diversity Equity Inclusion Building Inclusive Workplaces** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/diversity-equity-inclusion-building-inclusive-workplaces/) |
+| 30 | **Master Logo Design with Photoshop Illustrator Zero to Pro** | `Design` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/master-logo-design-with-photoshop-illustrator-zero-to-pro/) |
+| 31 | **Fundamentals of Marketing and Brand Management Masterclass** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/fundamentals-of-marketing-and-brand-management-masterclass/) |
+| 32 | **Certified Chief Technology Officer(CTO) Mastery Program** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-chief-technology-officer-cto-mastery-program/) |
+| 33 | **AI Engineer Explorer Certificate Course** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-engineer-explorer-certificate-course/) |
+| 34 | **[Non-Technical] AI Product Manager Explorer Certificate** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/non-technical-ai-product-manager-explorer-certificate/) |
+| 35 | **The Certified Global CEO Masterclass: Leading at the Top** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-certified-global-ceo-masterclass-leading-at-the-top/) |
+| 36 | **NCA-GENL: SoAI-Certified Generative AI LLMs Specialization** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/nca-genl-soai-certified-generative-ai-llms-specialization/) |
+| 37 | **Deep Learning Specialization: Advanced AI, Hands on Lab** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/deep-learning-specialization-advanced-ai-hands-on-lab/) |
+| 38 | **The Startup Founder’s Roadmap: From Zero to Market** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-startup-founder-s-roadmap-from-zero-to-market/) |
+| 39 | **Custom ChatGPT Publishing & AI Bootcamp Masterclass** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/custom-chatgpt-publishing-ai-bootcamp-masterclass/) |
+| 40 | **Mastering DeepScaleR: Build & Deploy AI Models with Ollama** | `Design` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-deepscaler-build-deploy-ai-models-with-ollama/) |
 
 *Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*

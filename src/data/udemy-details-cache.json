@@ -32160,5 +32160,226 @@
     "isFree": false,
     "instructors": "Educational Engineering Team, Educational Engineering, Ashraf Said AlMadhoun",
     "campaign": null
+  },
+  "purrfect-companions_6AEF03D65FB07C67AC44": {
+    "subscribers": 1103,
+    "reviews": 9,
+    "rating": "3.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 22,
+      "end": "2026-11-25T14:43:00Z"
+    }
+  },
+  "caring-for-cats-and-dogs_5A90C29D6EFA2403E60A": {
+    "subscribers": 745,
+    "reviews": 7,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 2,
+      "end": "2026-11-25T14:40:00Z"
+    }
+  },
+  "abc-of-ear-nose-and-throat-ent-disorders_72EAE9B6F82EC4FE6429": {
+    "subscribers": 2770,
+    "reviews": 15,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 35,
+      "end": "2026-11-25T21:57:00Z"
+    }
+  },
+  "ethology-for-veterinerian-an-introduction_AD734D12CFA554ADAC6C": {
+    "subscribers": 2578,
+    "reviews": 18,
+    "rating": "3.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 64,
+      "end": "2026-11-26T03:15:00Z"
+    }
+  },
+  "medical-ethics-for-medical-students-health-care-professional_8AE89D5FAB5E696FA1CB": {
+    "subscribers": 2652,
+    "reviews": 32,
+    "rating": "3.7",
+    "price": "$27.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 64,
+      "end": "2026-11-26T03:09:00Z"
+    }
+  },
+  "oncology-understanding-cancer-biology-diagnosis-treatments_9CD2CB9E70563E7A4F0F": {
+    "subscribers": 2806,
+    "reviews": 27,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 45,
+      "end": "2026-11-26T19:30:00Z"
+    }
+  },
+  "histology-step-by-step_89FF96837D9EFFE30AA2": {
+    "subscribers": 5344,
+    "reviews": 11,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 33,
+      "end": "2026-11-27T10:50:00Z"
+    }
+  },
+  "medical-genetics-n_AD7A23CE4185E5BF104E": {
+    "subscribers": 4682,
+    "reviews": 12,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 44,
+      "end": "2026-11-27T10:06:00Z"
+    }
+  },
+  "elisa-principals-and-applications-for-professionals_BFB49C7ABC6C75564628": {
+    "subscribers": 4282,
+    "reviews": 57,
+    "rating": "3.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 48,
+      "end": "2026-11-27T10:04:00Z"
+    }
+  },
+  "hematology-theory-and-practice-for-medical-students_9B9EF335C3F49E0806C4": {
+    "subscribers": 3699,
+    "reviews": 19,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 42,
+      "end": "2026-11-27T10:43:00Z"
+    }
+  },
+  "back-pain-between-fact-and-fiction_2ACD05DC249000832099": {
+    "subscribers": 4854,
+    "reviews": 18,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 8,
+      "end": "2026-11-26T23:24:00Z"
+    }
+  },
+  "horse-colic-what-can-we-do_D6ACF623218F8678B6AE": {
+    "subscribers": 3118,
+    "reviews": 13,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 76,
+      "end": "2026-11-26T21:55:00Z"
+    }
+  },
+  "biology-what-is-life_44170D546123CB1834B7": {
+    "subscribers": 3571,
+    "reviews": 16,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 47,
+      "end": "2026-11-26T21:51:00Z"
+    }
+  },
+  "genetics-from-mendel-to-era-of-microarray-classical-genetics_7000A21AD853321B9957": {
+    "subscribers": 10335,
+    "reviews": 49,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 37,
+      "end": "2026-11-25T11:29:00Z"
+    }
+  },
+  "genetic-from-mendal-to-era-of-microchip-molecular-genetic_32A003A76B07596D9DE9": {
+    "subscribers": 7581,
+    "reviews": 50,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 31,
+      "end": "2026-11-25T22:50:00Z"
+    }
+  },
+  "aging-and-geriatrics_92190D101734B6A3CC09": {
+    "subscribers": 7705,
+    "reviews": 27,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 100,
+      "rem": 41,
+      "end": "2026-11-25T11:04:00Z"
+    }
+  },
+  "microsoft-power-automate-desktop-course-zero-to-expert-2_NOVFREE04": {
+    "subscribers": 14622,
+    "reviews": 303,
+    "rating": "4.4",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Learning Technologies [115000+ Students Globally]",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
   }
 }
