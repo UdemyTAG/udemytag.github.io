@@ -33287,5 +33287,118 @@
       "rem": 52,
       "end": "2026-11-25T09:46:00Z"
     }
+  },
+  "bootcamp-az-900-microsoft-azure-fundamentals_C11E7F7101185CH49E67": {
+    "subscribers": 9055,
+    "reviews": 186,
+    "rating": "4.5",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Codaming • 300k+ Learners Worldwide, Dinesh Kumar, Vedika Singh",
+    "campaign": null
+  },
+  "markstategy_C69286C5150F3E02E322": {
+    "subscribers": 5585,
+    "reviews": 22,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Erioluwa Olajide",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "digmarkpsy_E992F89637125EF08DC1": {
+    "subscribers": 2063,
+    "reviews": 6,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Erioluwa Olajide",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "b2bnegotiation_43E35594380DEE9F39BE": {
+    "subscribers": 2518,
+    "reviews": 8,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Erioluwa Olajide",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "dcf-valuation-complete-course_E04CE119D35423ECAED3": {
+    "subscribers": 7967,
+    "reviews": 65,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Financial Analysts",
+    "campaign": {
+      "max": 100,
+      "rem": 32,
+      "end": "2026-12-24T22:20:00Z"
+    }
+  },
+  "building-company-budget-a-comprehensive-guide-for-financial_1213240D2DAA1CF7D4B5": {
+    "subscribers": 9151,
+    "reviews": 84,
+    "rating": "4.5",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Financial Analysts, Controlling Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "financial-accounting-bookkeeping-beginners-to-advanced_7FDEA89081CAC680AA4C": {
+    "subscribers": 10573,
+    "reviews": 205,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Financial Analysts, Controlling Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "accounting-for-fixed-assets-and-depreciation_950E7B066E74B3EB9433": {
+    "subscribers": 5995,
+    "reviews": 81,
+    "rating": "3.8",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Financial Analysts, Controlling Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "revenue-recognition-under-ifrs-15-asc-606_35E7A9EB964C12057DAF": {
+    "subscribers": 4145,
+    "reviews": 42,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Financial Analysts",
+    "campaign": {
+      "max": 100,
+      "rem": 34,
+      "end": "2026-12-24T22:20:00Z"
+    }
   }
 }
