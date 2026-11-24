@@ -33400,5 +33400,625 @@
       "rem": 34,
       "end": "2026-12-24T22:20:00Z"
     }
+  },
+  "school-of-ai-certified-solutions-architect-associate_NOVFREE01": {
+    "subscribers": 9789,
+    "reviews": 24,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "neural-signal-processing-applied-ai_NOVFREE01": {
+    "subscribers": 5847,
+    "reviews": 19,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 11,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "enterprise-ai-agents-with-open-claw_NOVFREE01": {
+    "subscribers": 5499,
+    "reviews": 22,
+    "rating": "3.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "3-day-ai-product-management-bootcamp_NOVFREE01": {
+    "subscribers": 2678,
+    "reviews": 6,
+    "rating": "2.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "aws-solutions-architect-associate-bootcamp-2026_NOVFREE01": {
+    "subscribers": 2456,
+    "reviews": 6,
+    "rating": "4.1",
+    "price": "$9.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": null
+  },
+  "ai-agents-for-cloud-infrastructure_NOVFREE01": {
+    "subscribers": 2427,
+    "reviews": 9,
+    "rating": "4.2",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "ai-for-business-leaders-strategy-genai-automation_NOVFREE01": {
+    "subscribers": 2168,
+    "reviews": 8,
+    "rating": "4.9",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "memento-skills-build-self-evolving-ai-agents_NOVFREE01": {
+    "subscribers": 2359,
+    "reviews": 1,
+    "rating": "4.0",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "from-idea-to-mvp-in-48-hours_NOVFREE01": {
+    "subscribers": 2373,
+    "reviews": 3,
+    "rating": "5.0",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "ai-seo-geo-bootcamp-rank-in-search-and-ai_NOVFREE01": {
+    "subscribers": 2539,
+    "reviews": 40,
+    "rating": "4.5",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "anthropic-claude-for-absolute-beginners_NOVFREE01": {
+    "subscribers": 2733,
+    "reviews": 81,
+    "rating": "4.3",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "fusion-360-for-beginners-design-real-world-products_NOVFREE01": {
+    "subscribers": 1544,
+    "reviews": 5,
+    "rating": "4.2",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Arjun Vaid, School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "data-literacy-for-product-owners_NOVFREE02": {
+    "subscribers": 1954,
+    "reviews": 4,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 22,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "product-thinking-problem-framing-for-ai_NOVFREE02": {
+    "subscribers": 2048,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "ethics-bias-trust-in-ai_NOVFREE02": {
+    "subscribers": 1959,
+    "reviews": 2,
+    "rating": "4.7",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "3-week-responsible-ai-governance-certification_NOVFREE02": {
+    "subscribers": 1781,
+    "reviews": 3,
+    "rating": "4.8",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "chief-sustainability-officer-mastery-52-weeks_NOVFREE02": {
+    "subscribers": 902,
+    "reviews": 0,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "ai-product-manager-explorer-certificate_NOVFREE01": {
+    "subscribers": 17752,
+    "reviews": 127,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "graphic-design-masterclass-adobe-photoshop-illustrator-indesign-canva_4ABB0A13229DD4987B79": {
+    "subscribers": 32360,
+    "reviews": 230,
+    "rating": "4.1",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "powerpoint-microsoft-powerpoint-from-basic-to-advanced_36F5623AA0AC8404A197": {
+    "subscribers": 28311,
+    "reviews": 220,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "essential-after-effects-from-beginner-to-motion-master_094870061E77B61AB2DE": {
+    "subscribers": 31223,
+    "reviews": 173,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "mastering-adobe-premiere-pro-cc-from-beginner-to-pro-editor_E11B8ACE888126AEA37F": {
+    "subscribers": 33047,
+    "reviews": 187,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "microsoft-excel-formulas-functions-with-charts-graphs_30E9E11B612E82CC8DCC": {
+    "subscribers": 17025,
+    "reviews": 142,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "social-media-graphics-design-and-video-editing-with-canva_12D988C69648EDEDF8FA": {
+    "subscribers": 17162,
+    "reviews": 165,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "mastering-perplexity-ai-smarter-research-better-results_3D6B2BBA956DEE50B6D4": {
+    "subscribers": 5076,
+    "reviews": 9,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "capcut-canva-masterclass-graphic-design-with-video-edit_1A8641C7721033CDEB6A": {
+    "subscribers": 13808,
+    "reviews": 79,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "canva-mastery-design-like-a-pro-in-just-days_6456EF3C0F3F961EF7D8": {
+    "subscribers": 45932,
+    "reviews": 583,
+    "rating": "4.5",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "the-beginners-guide-to-adobe-premiere-pro-edit-like-a-pro_5AC507DE63A37A88B9C7": {
+    "subscribers": 28147,
+    "reviews": 126,
+    "rating": "4.3",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "learn-davinci-resolve-the-complete-video-editing-bootcamp_9F2FE9E7A0A44F4B7301": {
+    "subscribers": 33485,
+    "reviews": 170,
+    "rating": "3.8",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": 100,
+      "rem": 7,
+      "end": "2026-12-25T06:11:00Z"
+    }
+  },
+  "adobe-illustrator-for-everyone-design-like-a-pro_C6B527F2C2789F869B03": {
+    "subscribers": 34145,
+    "reviews": 185,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "t-shirt-design-bootcamp-photoshop-illustrator-canva_987824208BE030A8F834": {
+    "subscribers": 24974,
+    "reviews": 89,
+    "rating": "4.2",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "learn-canva-for-advance-graphics-design_BC76A713672D355D8065": {
+    "subscribers": 44416,
+    "reviews": 613,
+    "rating": "4.3",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "essential-adobe-photoshop-free-photoshop-crash-course_BD4E0FD50C9D05474EDB": {
+    "subscribers": 68332,
+    "reviews": 701,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 25,
+      "end": "2026-12-25T07:03:00Z"
+    }
+  },
+  "t-shirt-design-masterclass-in-photoshop-sell-your-t-shirt_00A8C5C3C0C63827BD61": {
+    "subscribers": 69252,
+    "reviews": 322,
+    "rating": "4.7",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "adobe-photoshop-cc-principal-essential-course-for-beginners_9FB1C3F1502D0025B1C9": {
+    "subscribers": 113295,
+    "reviews": 1100,
+    "rating": "4.5",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 36,
+      "end": "2026-12-25T07:04:00Z"
+    }
+  },
+  "t-shirt-design-in-adobe-illustrator-for-beginner-to-advanced_747065CAABADB0372DE4": {
+    "subscribers": 23553,
+    "reviews": 71,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "complete-jquery-course-learn-from-beginner-to-advanced_F18E847FAB50CED6DE53": {
+    "subscribers": 28954,
+    "reviews": 92,
+    "rating": "4.2",
+    "price": "$27.99",
+    "isFree": false,
+    "instructors": "Maria EduCare",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "the-ultimate-microsoft-excel-essential-comprehensive-guide_7095154B709FC86AE732": {
+    "subscribers": 40400,
+    "reviews": 711,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "t-shirt-design-for-beginner-to-expert-with-photoshop_9D3135D876C4DBE7D042": {
+    "subscribers": 26021,
+    "reviews": 77,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "mastering-c-c-plus-programming-from-fundamentals-to-advanced_6BC6577CE6BB8962031A": {
+    "subscribers": 34448,
+    "reviews": 302,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Maria EduCare",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "php-laravel-2023-build-amazing-restaurant-management-system_LARAVELRESTAURANT74": {
+    "subscribers": 21850,
+    "reviews": 149,
+    "rating": "4.7",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "no-oil-cooking-meat-recipes-no-cholesterol-fat-free-food_NOV2026FREE01": {
+    "subscribers": 47004,
+    "reviews": 155,
+    "rating": "4.2",
+    "price": "$69.99",
+    "isFree": false,
+    "instructors": "Susmita Dutta, Ash Akshay Goel",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "advanced-ms-word-course-from-beginner-to-expert_790EE5889380CB922293": {
+    "subscribers": 32927,
+    "reviews": 315,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "graphic-design-masterclass-bootcamp-from-beginner-to-expert_1E6FDE12277AB57A50E2": {
+    "subscribers": 35903,
+    "reviews": 277,
+    "rating": "4.4",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "ai-ethics-governance-other-considerations-for-businesses_23RDNOV": {
+    "subscribers": 846,
+    "reviews": 29,
+    "rating": "4.9",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "cognitive-productivity-management-leaders-professionals_23RDNOV": {
+    "subscribers": 966,
+    "reviews": 63,
+    "rating": "4.7",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "nca-aiio-nvidia-certified-associate-ai-infrastructure-and-operations_NOVFREE03": {
+    "subscribers": 7798,
+    "reviews": 55,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 38,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "artificial-intelligence-literacy-for-all-employees-basics_23RDNOV": {
+    "subscribers": 909,
+    "reviews": 62,
+    "rating": "4.5",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
   }
 }
