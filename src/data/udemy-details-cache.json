@@ -34124,5 +34124,565 @@
       "rem": 29,
       "end": "2026-12-25T16:09:00Z"
     }
+  },
+  "ai-agents-copilot-studio-azure-foundry-microsoft-foundry_Novemberfree25": {
+    "subscribers": 6116,
+    "reviews": 75,
+    "rating": "4.3",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [115000+ Students Globally]",
+    "campaign": null
+  },
+  "advanced-data-visualization-with-python_12C95F7CDDC3894DD7E8": {
+    "subscribers": 39029,
+    "reviews": 153,
+    "rating": "4.6",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "S. Emadedin Hashemi",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "python-complete-course-for-beginners-h_AC6940B8FCBCDD1E1C44": {
+    "subscribers": 277958,
+    "reviews": 4437,
+    "rating": "4.3",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Horizon Tech",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "become-master-in-uipath-world_Novemberfree25": {
+    "subscribers": 3548,
+    "reviews": 30,
+    "rating": "4.5",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [115000+ Students Globally]",
+    "campaign": null
+  },
+  "python-for-absolute-beginners-a-free-2-hour-crash-course_KNPYTHON2027": {
+    "subscribers": 3973,
+    "reviews": 149,
+    "rating": "4.3",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Abul Hossain",
+    "campaign": null
+  },
+  "learn-advanced-excel-formulas-functions-vba-macros_2763412D917028D0F98A": {
+    "subscribers": 41415,
+    "reviews": 560,
+    "rating": "4.4",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "essential-canva-for-graphics-design-to-boost-productivity_B118F7D078A81A227E62": {
+    "subscribers": 41327,
+    "reviews": 530,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "figma-essential-for-user-interface-and-user-experience-ui-ux_C10E3AC6399A7BFDDAFE": {
+    "subscribers": 51338,
+    "reviews": 1187,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "canva-graphic-design-and-social-media-content-mastery_6BDD703AA38D2561284E": {
+    "subscribers": 3332,
+    "reviews": 9,
+    "rating": "3.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Logic Labs",
+    "campaign": {
+      "max": 100,
+      "rem": 30,
+      "end": "2026-12-21T06:27:00Z"
+    }
+  },
+  "python-data-science-and-machine-learning-made-easy_3F9A8653538DF8208752": {
+    "subscribers": 5110,
+    "reviews": 22,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "ms-powerpoint-course-present-with-confidence-creativity_3F6CAC58081E9D183702": {
+    "subscribers": 3655,
+    "reviews": 10,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "beginner-guide-to-learn-t-shirt-design-with-photoshop_BA7838FF1152847A4007": {
+    "subscribers": 26103,
+    "reviews": 79,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 10,
+      "rem": 7,
+      "end": "2026-11-30T05:01:00Z"
+    }
+  },
+  "microsoft-excel-master-formulas-functions-and-data-tools_04AD3C6563E61D7510DF": {
+    "subscribers": 3393,
+    "reviews": 23,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "unlock-excels-power-essential-ms-excel-skills-for-success_A8183D157FB5134EAE5F": {
+    "subscribers": 32877,
+    "reviews": 555,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "t-shirt-design-in-adobe-illustrator-beginner-guide-to-expert_42556071267283E624DB": {
+    "subscribers": 20557,
+    "reviews": 108,
+    "rating": "4.3",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": 10,
+      "rem": 2,
+      "end": "2026-11-30T05:02:00Z"
+    }
+  },
+  "prompt-engineering-ai-from-scratch-chatgpt_7EF7EEE88DF126FC5C66": {
+    "subscribers": 3720,
+    "reviews": 19,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "nodejs-build-fast-and-scalable-backend-applications_A2B9C37E34C547427AFB": {
+    "subscribers": 5065,
+    "reviews": 13,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "graphics-design-and-video-editing-all-in-one-course_AC2128543E3965E11B74": {
+    "subscribers": 2025,
+    "reviews": 3,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": 100,
+      "rem": 12,
+      "end": "2026-12-19T05:18:00Z"
+    }
+  },
+  "java-programming-masterclass-beginner-to-master_23AE2FE1244E7F2F1D87": {
+    "subscribers": 48249,
+    "reviews": 797,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 42,
+      "end": "2026-12-12T11:01:00Z"
+    }
+  },
+  "microsoft-excel-data-analysis-with-chart-and-graph_141AA77947ED45F6DCF7": {
+    "subscribers": 2214,
+    "reviews": 13,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Muhammad Riaz Uddin",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "adobe-illustrator-cc-masterpiece-unleashing-creative-magic_7F50C5CD610E1FE31170": {
+    "subscribers": 36469,
+    "reviews": 243,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "project-based-professional-photoshop_E88634988D5347DC494C": {
+    "subscribers": 31650,
+    "reviews": 111,
+    "rating": "3.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "python-java-master-backend-frontend-web-developments_5DE6CDD2E8810D2B8984": {
+    "subscribers": 30676,
+    "reviews": 273,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sara Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 21,
+      "end": "2026-12-12T10:59:00Z"
+    }
+  },
+  "professional-graphics-design-video-editing-course-with-project_B90C11393BAE1124E406": {
+    "subscribers": 31068,
+    "reviews": 152,
+    "rating": "4.2",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "master-set-theory-from-scratch_D707D3313F9001270653": {
+    "subscribers": 8351,
+    "reviews": 21,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Infusion X",
+    "campaign": {
+      "max": 100,
+      "rem": 62,
+      "end": "2026-12-26T06:54:00Z"
+    }
+  },
+  "introduction-with-amines-organic-chemistry_E7D3BEACFEAD8D699275": {
+    "subscribers": 6033,
+    "reviews": 29,
+    "rating": "4.2",
+    "price": "$27.99",
+    "isFree": true,
+    "instructors": "Infusion X",
+    "campaign": {
+      "max": 100,
+      "rem": 47,
+      "end": "2026-12-26T06:53:00Z"
+    }
+  },
+  "playing-with-binary_3843A1F4039EF59D0A9F": {
+    "subscribers": 8628,
+    "reviews": 44,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Infusion X",
+    "campaign": {
+      "max": 100,
+      "rem": 68,
+      "end": "2026-12-26T06:52:00Z"
+    }
+  },
+  "lets-learn-modern-physics_0BD6FA00DEE7715C50D6": {
+    "subscribers": 11462,
+    "reviews": 17,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Infusion X",
+    "campaign": {
+      "max": 100,
+      "rem": 45,
+      "end": "2026-12-26T06:52:00Z"
+    }
+  },
+  "engineering-mathematics-sd_7F28AC5AF655ADA054AD": {
+    "subscribers": 8365,
+    "reviews": 5,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Infusion X",
+    "campaign": {
+      "max": 100,
+      "rem": 60,
+      "end": "2026-12-26T06:51:00Z"
+    }
+  },
+  "computer-engineering-mastery-from-beginner-to-expert_BA368886D94847E4890A": {
+    "subscribers": 30995,
+    "reviews": 319,
+    "rating": "4.3",
+    "price": "$79.99",
+    "isFree": false,
+    "instructors": "Infusion X",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "python-mastery-from-novice-to-ninja_98F53BE2216FD295A324": {
+    "subscribers": 23523,
+    "reviews": 213,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Infusion X",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "rewrite-your-reality-10x-your-writing-skills-effortlessly_9A836ACD93316F9CB123": {
+    "subscribers": 16440,
+    "reviews": 48,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Infusion X",
+    "campaign": {
+      "max": 100,
+      "rem": 44,
+      "end": "2026-12-26T06:47:00Z"
+    }
+  },
+  "canva-for-graphics-design-and-video-editing-masterclass_EC9BC818C6FE3A343714": {
+    "subscribers": 41019,
+    "reviews": 557,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "unlock-the-secrets-of-polynomials-command-on-algebra_54D532545776F8FFC111": {
+    "subscribers": 8090,
+    "reviews": 12,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Infusion X",
+    "campaign": {
+      "max": 100,
+      "rem": 70,
+      "end": "2026-12-26T06:46:00Z"
+    }
+  },
+  "pre-algebra-made-easy-the-complete-beginners-guide_DA3FF77BB703EA15A88B": {
+    "subscribers": 10636,
+    "reviews": 28,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Infusion X",
+    "campaign": {
+      "max": 100,
+      "rem": 63,
+      "end": "2026-12-26T06:45:00Z"
+    }
+  },
+  "think-like-a-machine-computer-architecture-unlocked_A67B19987D288DEB9B91": {
+    "subscribers": 9304,
+    "reviews": 31,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Infusion X",
+    "campaign": {
+      "max": 100,
+      "rem": 33,
+      "end": "2026-12-26T06:44:00Z"
+    }
+  },
+  "learn-ui-ux-design-adobe-xd-figma-uiuxdesign_D4F7C4DD423EDCAC8978": {
+    "subscribers": 41072,
+    "reviews": 730,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "mastering-adobe-illustrator-projects-build-your-portfolio_E862F33D4671219C7DBD": {
+    "subscribers": 36358,
+    "reviews": 168,
+    "rating": "3.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Sayman Creative Institute",
+    "campaign": {
+      "max": 10,
+      "rem": 2,
+      "end": "2026-11-30T05:33:00Z"
+    }
+  },
+  "machine-learning-and-deep-learning-projects-in-python_668905DFEE5F353D0034": {
+    "subscribers": 40849,
+    "reviews": 305,
+    "rating": "4.3",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "S. Emadedin Hashemi",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "advanced-capcut-masterclass-complete-video-editing-guide_66E4946A3233AAD272CF": {
+    "subscribers": 15122,
+    "reviews": 86,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Sustoab Soren",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "learn-filmora-video-editing-masterclass-from-beginner-to-pro_F24CA1A760EC4B850160": {
+    "subscribers": 31340,
+    "reviews": 115,
+    "rating": "4.2",
+    "price": "$29.99",
+    "isFree": true,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": 100,
+      "rem": 34,
+      "end": "2026-12-26T07:42:00Z"
+    }
+  },
+  "pl-500-microsoft-power-automate-rpa-developer-certification_NOVFREE01": {
+    "subscribers": 958,
+    "reviews": 4,
+    "rating": "4.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Happy Bots Future of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "engineering-mathematics-essentials-for-ai-computer-science_5F9893BED925FEB36834": {
+    "subscribers": 652,
+    "reviews": 3,
+    "rating": "4.7",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Infusion X",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "artificial-intelligence-for-sme-growth-and-entrepreneurship_BEHNIK": {
+    "subscribers": 202,
+    "reviews": 3,
+    "rating": "5.0",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Najmeh Reazeinik",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
   }
 }
