@@ -34020,5 +34020,109 @@
       "rem": null,
       "end": "2026-11-28T08:00:00Z"
     }
+  },
+  "generative-ai-for-business-leaders-and-executives_NOVFREE01": {
+    "subscribers": 12755,
+    "reviews": 104,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 16,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "mastering-deepscaler-build-deploy-ai-models-with-ollama_NOVFREE01": {
+    "subscribers": 22829,
+    "reviews": 111,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 7,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "llm-engineer_NOVFREE01": {
+    "subscribers": 22385,
+    "reviews": 85,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "igcse-accounting-part-1_2519911FF3473F88A5C8": {
+    "subscribers": 1238,
+    "reviews": 8,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Ashutosh Purani",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "python-and-machine-learning-in-financial-analysis_F8E301B20AA4FD546351": {
+    "subscribers": 73289,
+    "reviews": 583,
+    "rating": "4.2",
+    "price": "$64.99",
+    "isFree": false,
+    "instructors": "S. Emadedin Hashemi",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "ncp-aii-nvidia-certified-professional-ai-infrastructure_NOVFREE01": {
+    "subscribers": 10632,
+    "reviews": 121,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 49,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "plumbing-design-ai-complete-plumbing-design-using-ai-chatgpt_8D321406DD36F153EE83": {
+    "subscribers": 5106,
+    "reviews": 29,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "ExpertEase Global",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "officeadministrationmanagement_53454EC63E7B41396423": {
+    "subscribers": 2511,
+    "reviews": 159,
+    "rating": "3.5",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 29,
+      "end": "2026-12-25T16:09:00Z"
+    }
   }
 }
