@@ -34684,5 +34684,842 @@
       "rem": null,
       "end": "2026-11-28T08:00:00Z"
     }
+  },
+  "a-practical-guide-to-mastering-endpoint-security-management_NOV26-FREE": {
+    "subscribers": 2922,
+    "reviews": 20,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Starweaver Group, Rohit Mukherjee, Paul Siegel",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "mastering-network-defense-strategies_NOV26-FREE": {
+    "subscribers": 2724,
+    "reviews": 17,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Starweaver Group, Ahmed Elhenedy, Paul Siegel",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "mastering-offensive-cyber-operations_NOV26-FREE": {
+    "subscribers": 1709,
+    "reviews": 18,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Starweaver Group, Gleb Marchenko, Paul Siegel",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "modern-cloud-security-devsecops_NOV26-FREE": {
+    "subscribers": 1320,
+    "reviews": 3,
+    "rating": "4.8",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Starweaver Group, Sergii Demianchuk, Paul Siegel",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "mortgage-backed-securities_NOV26-FREE": {
+    "subscribers": 8317,
+    "reviews": 1544,
+    "rating": "4.7",
+    "price": "$64.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Globecon Experts, Doug Carroll",
+    "campaign": {
+      "max": 100,
+      "rem": 41,
+      "end": "2026-12-26T11:00:00Z"
+    }
+  },
+  "introduction-to-futures-options_NOV26-FREE": {
+    "subscribers": 14151,
+    "reviews": 1970,
+    "rating": "4.7",
+    "price": "$64.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Globecon Experts, Doug Carroll",
+    "campaign": {
+      "max": 100,
+      "rem": 40,
+      "end": "2026-12-26T11:00:00Z"
+    }
+  },
+  "sales-and-relationship-management_NOV26-FREE": {
+    "subscribers": 10335,
+    "reviews": 572,
+    "rating": "4.3",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Xavier Jenkins",
+    "campaign": {
+      "max": 100,
+      "rem": 51,
+      "end": "2026-12-26T11:00:00Z"
+    }
+  },
+  "mastering-strategic-sales-leadership_NOV26-FREE": {
+    "subscribers": 1683,
+    "reviews": 14,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Andreas Loizou, Julian Jenkins, Joao Freitas",
+    "campaign": {
+      "max": 100,
+      "rem": 47,
+      "end": "2026-12-26T11:00:00Z"
+    }
+  },
+  "personal-investing-for-working-professionals_NOV26-FREE": {
+    "subscribers": 2643,
+    "reviews": 23,
+    "rating": "4.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Rashmi Rao, Globecon Experts",
+    "campaign": {
+      "max": 100,
+      "rem": 55,
+      "end": "2026-12-26T11:00:00Z"
+    }
+  },
+  "smart-investing-with-ai_NOV26-FREE": {
+    "subscribers": 1194,
+    "reviews": 23,
+    "rating": "4.6",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Starweaver Group, Paul Siegel, Globecon Experts",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "equity-products_NOV26-FREE": {
+    "subscribers": 4686,
+    "reviews": 119,
+    "rating": "4.5",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Globecon Experts, Spencer Morris",
+    "campaign": {
+      "max": 100,
+      "rem": 34,
+      "end": "2026-12-26T11:00:00Z"
+    }
+  },
+  "strategic-ai-leadership-transformation_NOV26-FREE": {
+    "subscribers": 1791,
+    "reviews": 22,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Ritesh Vajariya, Ahmed Hassan, Julian Jenkins, Kārlis Zars",
+    "campaign": {
+      "max": 100,
+      "rem": 23,
+      "end": "2026-12-26T11:00:00Z"
+    }
+  },
+  "strategic-communication-data-management-leadership_NOV26-FREE": {
+    "subscribers": 2825,
+    "reviews": 22,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Eric Zackrison, Andreas Loizou, Joao Freitas",
+    "campaign": {
+      "max": 100,
+      "rem": 32,
+      "end": "2026-12-26T11:00:00Z"
+    }
+  },
+  "expert-strategies-for-advanced-threat-intelligence-technique_NOV26-FREE": {
+    "subscribers": 1644,
+    "reviews": 11,
+    "rating": "4.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Mark Peters, Paul Siegel",
+    "campaign": {
+      "max": 100,
+      "rem": 4,
+      "end": "2026-12-26T11:00:00Z"
+    }
+  },
+  "sustainable-innovation-with-genai_NOV26-FREE": {
+    "subscribers": 6406,
+    "reviews": 1824,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Joyce Wong",
+    "campaign": {
+      "max": 100,
+      "rem": 25,
+      "end": "2026-12-26T11:00:00Z"
+    }
+  },
+  "commercial-credit-analysis_NOV26-FREE": {
+    "subscribers": 21233,
+    "reviews": 5287,
+    "rating": "4.3",
+    "price": "$84.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Globecon Experts, Simon Green",
+    "campaign": {
+      "max": 100,
+      "rem": 42,
+      "end": "2026-12-26T11:00:00Z"
+    }
+  },
+  "leadership-in-change-management-and-innovation_NOV26-FREE": {
+    "subscribers": 1788,
+    "reviews": 15,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Julian Jenkins, Ritesh Vajariya, Ahmed Hassan",
+    "campaign": {
+      "max": 100,
+      "rem": 39,
+      "end": "2026-12-26T11:00:00Z"
+    }
+  },
+  "capital-market-road-map_NOV26-FREE": {
+    "subscribers": 12611,
+    "reviews": 1567,
+    "rating": "4.4",
+    "price": "$74.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Globecon Experts, Doug Carroll",
+    "campaign": {
+      "max": 100,
+      "rem": 35,
+      "end": "2026-12-26T11:00:00Z"
+    }
+  },
+  "ai-leadership-mastery-for-executives_NOV26-FREE": {
+    "subscribers": 2591,
+    "reviews": 29,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Ritesh Vajariya, Ahmed Hassan, Julian Jenkins",
+    "campaign": {
+      "max": 100,
+      "rem": 43,
+      "end": "2026-12-26T11:00:00Z"
+    }
+  },
+  "yield-curve-dynamics_NOV26-FREE": {
+    "subscribers": 6651,
+    "reviews": 698,
+    "rating": "4.7",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Globecon Experts, Doug Carroll",
+    "campaign": {
+      "max": 100,
+      "rem": 59,
+      "end": "2026-12-26T11:00:00Z"
+    }
+  },
+  "credit-portfolio-strategy-and-regulatory-compliance_NOV26-FREE": {
+    "subscribers": 3029,
+    "reviews": 16,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Michael McDonald, Paul Siegel, Globecon Experts",
+    "campaign": {
+      "max": 100,
+      "rem": 65,
+      "end": "2026-12-26T11:00:00Z"
+    }
+  },
+  "the-securities-trade-lifecycle_NOV26-FREE": {
+    "subscribers": 28972,
+    "reviews": 5983,
+    "rating": "4.5",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Globecon Experts, Mike Simmons",
+    "campaign": {
+      "max": 100,
+      "rem": 62,
+      "end": "2026-12-26T11:00:00Z"
+    }
+  },
+  "the-us-residential-mortgage-business_NOV26-FREE": {
+    "subscribers": 12975,
+    "reviews": 3377,
+    "rating": "4.4",
+    "price": "$89.99",
+    "isFree": true,
+    "instructors": "Starweaver Group, Paul Siegel, Globecon Experts, Russ Faulkner",
+    "campaign": {
+      "max": 100,
+      "rem": 49,
+      "end": "2026-12-26T11:00:00Z"
+    }
+  },
+  "genai-foundations-tools-concepts-use-cases_NOV26-FREE": {
+    "subscribers": 1500,
+    "reviews": 4,
+    "rating": "5.0",
+    "price": "$11.99",
+    "isFree": false,
+    "instructors": "Starweaver Group, Eric Zackrison, Paul Siegel",
+    "campaign": null
+  },
+  "chatgpt-for-developers-ai-coding-crash-course_F59B8286B96480055399": {
+    "subscribers": 10517,
+    "reviews": 120,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Dmytro Vasyliev, Anton Voroniuk Support, Dmytro Vasyliev Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "chatgpt-ads-for-beginners-start-advertising-in-ai_C8558EFA18298894D016": {
+    "subscribers": 2074,
+    "reviews": 29,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "b2b-outbound-lead-generation-mastery_69B27A43965162368D63": {
+    "subscribers": 30421,
+    "reviews": 489,
+    "rating": "4.4",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Joshua Pratt, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 57,
+      "end": "2026-12-26T12:09:00Z"
+    }
+  },
+  "chatgpt-digital-marketing_420DA572C9A046CA447A": {
+    "subscribers": 72634,
+    "reviews": 1168,
+    "rating": "4.6",
+    "price": "$79.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support, Eugene Voroniuk, Eugene Vyborov, Dmytro Vasyliev",
+    "campaign": {
+      "max": 100,
+      "rem": 14,
+      "end": "2026-12-26T12:20:00Z"
+    }
+  },
+  "ceo-playbook-generative-ai-_13328E8360823268829F": {
+    "subscribers": 16677,
+    "reviews": 240,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support, Eugene Vyborov, Dmytro Vasyliev",
+    "campaign": {
+      "max": 100,
+      "rem": 41,
+      "end": "2026-12-26T12:19:00Z"
+    }
+  },
+  "digital-marketing-automation-one-step-ahead-of-competitors_B14F41B11A78D2E90DAB": {
+    "subscribers": 51053,
+    "reviews": 520,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 35,
+      "end": "2026-12-26T14:00:00Z"
+    }
+  },
+  "design-with-canva-ai-a-scalable-workflow-for-creators_7D6D0065F0B6F9ED7FD6": {
+    "subscribers": 15612,
+    "reviews": 173,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 11,
+      "end": "2026-12-26T13:59:00Z"
+    }
+  },
+  "deep-dive-into-openai-models-master-o3-o4-mini-beyond_F68634FA88F9D38C7C6D": {
+    "subscribers": 18598,
+    "reviews": 162,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 19,
+      "end": "2026-12-26T13:58:00Z"
+    }
+  },
+  "data-analysis-and-data-visualization-with-microsoft-copilot_A6B5B2B594F89CC52931": {
+    "subscribers": 21129,
+    "reviews": 766,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "deepseek-r1-for-business-and-marketing-harness-ai-insights_E2D6417D4A51DEF1F19C": {
+    "subscribers": 31553,
+    "reviews": 404,
+    "rating": "4.7",
+    "price": "$64.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 9,
+      "end": "2026-12-26T13:52:00Z"
+    }
+  },
+  "deepseek-ai-for-business-build-a-strategy-with-ai-insights_587AE8B84F47C0674134": {
+    "subscribers": 18921,
+    "reviews": 227,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 25,
+      "end": "2026-12-26T13:53:00Z"
+    }
+  },
+  "c-basics-from-zero-to-first-applications_34FAFAE68D3EB2EB87DF": {
+    "subscribers": 42659,
+    "reviews": 554,
+    "rating": "4.4",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Roman Malyi, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 57,
+      "end": "2026-12-26T12:58:00Z"
+    }
+  },
+  "dall-e-101-a-comprehensive-guide-to-creating-art-with-ai_99791EDD24C510328DAD": {
+    "subscribers": 19495,
+    "reviews": 100,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 6,
+      "end": "2026-12-26T12:58:00Z"
+    }
+  },
+  "cursor-ai-for-beginners-ai-coding-crash-course_01293813E8DB4C8DE99E": {
+    "subscribers": 22437,
+    "reviews": 908,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Dmytro Vasyliev, Anton Voroniuk Support, Dmytro Vasyliev Support",
+    "campaign": {
+      "max": 100,
+      "rem": 11,
+      "end": "2026-12-26T12:57:00Z"
+    }
+  },
+  "wordpress-and-hosting-for-beginners_E8634D8B3FA0DCD2D713": {
+    "subscribers": 76832,
+    "reviews": 586,
+    "rating": "3.7",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 53,
+      "end": "2026-12-26T12:56:00Z"
+    }
+  },
+  "craft-marketing-strategy-with-your-ai-copilot_18AA008D67F10D075A11": {
+    "subscribers": 13268,
+    "reviews": 101,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 57,
+      "end": "2026-12-26T12:55:00Z"
+    }
+  },
+  "complete-claude-code-guidehands-on-ai-coding-for-developers_B360A755DCEEDB4B546E": {
+    "subscribers": 1164,
+    "reviews": 30,
+    "rating": "4.3",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Codestars • over 2.7 million students worldwide!, Dmytro Vasyliev, Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "complete-notion-ai-guide-productivity-prompts-templates_562976EEA0120B5B49D0": {
+    "subscribers": 3352,
+    "reviews": 49,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "complete-freelance-mba-2024-digitalize-service-businesses_7FF4015A28AEFF3D0512": {
+    "subscribers": 32814,
+    "reviews": 297,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "David-Benjamin Brakha, Anton Voroniuk• 1.250.000+ Students",
+    "campaign": {
+      "max": 100,
+      "rem": 37,
+      "end": "2026-12-26T12:35:00Z"
+    }
+  },
+  "figma-practical-design_9FE0931EED7128B4767D": {
+    "subscribers": 116548,
+    "reviews": 3390,
+    "rating": "4.4",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Željko Milivojević, Anton Voroniuk Support",
+    "campaign": {
+      "max": 100,
+      "rem": 23,
+      "end": "2026-12-26T12:34:00Z"
+    }
+  },
+  "claude-for-sales-teams-from-first-prompt-to-closed-deals_F7D05F77D93E094312FC": {
+    "subscribers": 1338,
+    "reviews": 68,
+    "rating": "4.3",
+    "price": "$11.99",
+    "isFree": false,
+    "instructors": "Thalita Milan | Marketing Automation & HubSpot expert, Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": null
+  },
+  "claude-pro-mastery-ai-for-business-marketing-automation_C7542757EF23B0CFF80D": {
+    "subscribers": 28214,
+    "reviews": 625,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Anton Voroniuk• 1.250.000+ Students, Anton Voroniuk Support",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "pl-500-microsoft-power-automate-rpa-developer-certification_NOVFREE03": {
+    "subscribers": 1011,
+    "reviews": 4,
+    "rating": "4.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Happy Bots Future of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 32,
+      "end": "2026-12-26T04:16:00Z"
+    }
+  },
+  "word-stress-of-american-english_REALDINOVEM26": {
+    "subscribers": 21975,
+    "reviews": 269,
+    "rating": "4.7",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Sheila Lebedenko",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "master-python-game-development_4AF2EB55A94CF3383004": {
+    "subscribers": 6277,
+    "reviews": 7,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "S. Emadedin Hashemi",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "servicenow-integrations-explained-in-detail_NOVE2026MO3": {
+    "subscribers": 20849,
+    "reviews": 765,
+    "rating": "4.7",
+    "price": "$74.99",
+    "isFree": true,
+    "instructors": "Uday Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 33,
+      "end": "2026-12-13T11:14:00Z"
+    }
+  },
+  "html-like-never-before_NOVE2026MO1": {
+    "subscribers": 19351,
+    "reviews": 269,
+    "rating": "4.5",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Uday Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "mastering-servicenow-administration-from-basics-to-expert_NOVE2026MO3": {
+    "subscribers": 23102,
+    "reviews": 779,
+    "rating": "4.5",
+    "price": "$79.99",
+    "isFree": true,
+    "instructors": "Uday Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 38,
+      "end": "2026-12-13T11:14:00Z"
+    }
+  },
+  "javascript-like-never-before_NOVE2026MO1": {
+    "subscribers": 16991,
+    "reviews": 109,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Uday Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "mastering-servicenow-human-resources-service-delivery-hrsd_NOVE2026MO2": {
+    "subscribers": 11675,
+    "reviews": 385,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Uday Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "servicenow-catalog-item-and-record-producer-workflow-flows_NOVE2026MO1": {
+    "subscribers": 18248,
+    "reviews": 362,
+    "rating": "4.3",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "Uday Academy",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "executive-assistance-and-management_ECA810E1D5741B338CCA": {
+    "subscribers": 2067,
+    "reviews": 112,
+    "rating": "4.5",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 61,
+      "end": "2026-12-26T18:54:00Z"
+    }
+  },
+  "full-digital-marketing-course-2025-ppc-seo-smm-gtm-ga4_A15182E4D329B161BF3E": {
+    "subscribers": 13156,
+    "reviews": 526,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Digital School",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "the-shopify-dropshipping-course-start-selling-online-today_BD7D2363A269699EFA98": {
+    "subscribers": 12230,
+    "reviews": 272,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Tanmoy Das",
+    "campaign": {
+      "max": 100,
+      "rem": 7,
+      "end": "2026-12-03T10:29:00Z"
+    }
+  },
+  "pgd-in-scom_ACE4199997FAC677036C": {
+    "subscribers": 3157,
+    "reviews": 58,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "one-year-executive-mba-strategy-and-execution_NOVFREE01": {
+    "subscribers": 11192,
+    "reviews": 192,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 52,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "artificial-general-intelligence-agi_NOVFREE01": {
+    "subscribers": 10040,
+    "reviews": 61,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 34,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "essential-ai-guide-from-fundamentals-to-real-world-impact_NOVFREE01": {
+    "subscribers": 7234,
+    "reviews": 17,
+    "rating": "3.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 35,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "agi-systems-and-alignment-professional-certificate_NOVFREE01": {
+    "subscribers": 7501,
+    "reviews": 6,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 2,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "artificial-intelligence-journey-beginner-to-pro_NOVFREE01": {
+    "subscribers": 13779,
+    "reviews": 298,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "chief-ai-officer-caio-leading-enterprise-ai-transformation_NOVFREE01": {
+    "subscribers": 9110,
+    "reviews": 123,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
   }
 }
