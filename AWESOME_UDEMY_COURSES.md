@@ -38,45 +38,45 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 
 | No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
 | :-: | :--- | :--- | :-: | :--- |
-| 1 | **Mastering Brain-Computer Interfaces & Neurotechnology** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-brain-computer-interfaces-neurotechnology/) |
-| 2 | **Coding the Brain: AI & Machine Learning for BCIs** | `Development` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/coding-the-brain-ai-machine-learning-for-bcis/) |
-| 3 | **The Ultimate Trading & Wealth Mastery Program** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-ultimate-trading-wealth-mastery-program/) |
-| 4 | **Quantum Kitchen: Cooking Up Concepts in Quantum Computing** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/quantum-kitchen-cooking-up-concepts-in-quantum-computing/) |
-| 5 | **Ethics, Bias & Trust in AI** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/ethics-bias-trust-in-ai/) |
-| 6 | **3 Week Responsible AI & Governance Certification** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/3-week-responsible-ai-governance-certification/) |
-| 7 | **Quantum Computing for Decision Makers: Executive Essentials** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/quantum-computing-for-decision-makers-executive-essentials/) |
-| 8 | **RAG Strategy & Execution: Build Enterprise Knowledge Systems** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/rag-strategy-execution-build-enterprise-knowledge-systems/) |
-| 9 | **SoAI-Certified Professional: AI Infrastructure (NCP-AII)** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/soai-certified-professional-ai-infrastructure-ncp-aii/) |
-| 10 | **NCA‑AIIO SoAI‑Certified Associate: AI Infrastructure & Ops** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/nca-aiio-soai-certified-associate-ai-infrastructure-ops/) |
-| 11 | **MCP for Leaders: Architecting Context-Driven AI** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/mcp-for-leaders-architecting-context-driven-ai/) |
-| 12 | **Certified Chief Technology Officer(CTO) Mastery Program** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-chief-technology-officer-cto-mastery-program/) |
-| 13 | **The Certified Global CEO Masterclass: Leading at the Top** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-certified-global-ceo-masterclass-leading-at-the-top/) |
-| 14 | **[Non-Technical] AI Product Manager Explorer Certificate** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/non-technical-ai-product-manager-explorer-certificate/) |
-| 15 | **AI in 60 Minutes: What Every Leader Should Know** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-in-60-minutes-what-every-leader-should-know/) |
-| 16 | **The Startup Founder’s Roadmap: From Zero to Market** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-startup-founder-s-roadmap-from-zero-to-market/) |
-| 17 | **NCA-GENL: SoAI-Certified Generative AI LLMs Specialization** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/nca-genl-soai-certified-generative-ai-llms-specialization/) |
-| 18 | **C# Basics: From Zero to First Applications** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/c-basics-from-zero-to-first-applications/) |
-| 19 | **DALL-E 101: A Comprehensive Guide to Creating Art with AI** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/dall-e-101-a-comprehensive-guide-to-creating-art-with-ai/) |
-| 20 | **Cursor AI for Beginners: AI Coding Crash Course** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/cursor-ai-for-beginners-ai-coding-crash-course/) |
-| 21 | **Create a WordPress website with Hostinger!** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/create-a-wordpress-website-with-hostinger/) |
-| 22 | **Craft Marketing Strategy in 5 Steps With Your AI-Copilot** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/craft-marketing-strategy-in-5-steps-with-your-ai-copilot/) |
-| 23 | **Complete Freelance MBA 2024: Digitalize Service Businesses** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-freelance-mba-2024-digitalize-service-businesses/) |
-| 24 | **Complete Figma Course: Web & Mobile Projects from Scratch** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/complete-figma-course-web-mobile-projects-from-scratch/) |
-| 25 | **PL-500 Microsoft Power Automate RPA Developer certification** | `Development` | ⭐ 4.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/pl-500-microsoft-power-automate-rpa-developer-certification/) |
-| 26 | **ServiceNow Integrations for ServiceNow Professionals** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/servicenow-integrations-for-servicenow-professionals/) |
-| 27 | **Mastering Complete ServiceNow Administration Course!** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/mastering-complete-servicenow-administration-course/) |
-| 28 | **Professional Diploma in Executive Assistance and Management** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/professional-diploma-in-executive-assistance-and-management/) |
-| 29 | **The Shopify Dropshipping Course: Start Selling Online Today** | `Development` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/the-shopify-dropshipping-course-start-selling-online-today/) |
-| 30 | **One-Year Executive MBA: Strategy and Execution** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/one-year-executive-mba-strategy-and-execution/) |
-| 31 | **AI Governance: Strategy, Policy & Responsible Deployment** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-governance-strategy-policy-responsible-deployment/) |
-| 32 | **Certified Master in Artificial General Intelligence Systems** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-master-in-artificial-general-intelligence-systems/) |
-| 33 | **Essential AI Guide: From Fundamentals to Real-World Impact** | `Design` | ⭐ 3.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/essential-ai-guide-from-fundamentals-to-real-world-impact/) |
-| 34 | **Engineering Artificial General Intelligence Systems** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/engineering-artificial-general-intelligence-systems/) |
-| 35 | **Senior Executive Program: AI, Robotics, and Systems** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/senior-executive-program-ai-robotics-and-systems/) |
-| 36 | **3-Day AI Product Management Bootcamp** | `Business` | ⭐ 2.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/3-day-ai-product-management-bootcamp/) |
-| 37 | **Base44 Mastery: Build Enterprise AI Workflow Automations** | `Design` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/base44-mastery-build-enterprise-ai-workflow-automations/) |
-| 38 | **Passive Income Playbook: AI Tools, Automation & More** | `Development` | ⭐ 3.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/passive-income-playbook-ai-tools-automation-more/) |
-| 39 | **AI Trading & Crypto Intelligence Masterclass** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/ai-trading-crypto-intelligence-masterclass/) |
-| 40 | **Break Into AI Without a Technical Background** | `Development` | ⭐ 2.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/break-into-ai-without-a-technical-background/) |
+| 1 | **Business Communication and Ethics in Organizations** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/business-communication-and-ethics-in-organizations/) |
+| 2 | **Business Economics - Learn to Evaluate Business & Projects** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/business-economics-learn-to-evaluate-business-projects/) |
+| 3 | **Certification in Welding Technology for Engineers - CWI** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/certification-in-welding-technology-for-engineers-cwi/) |
+| 4 | **Bulk & Sheet Forming Processes for Manufacturing Engineers** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/bulk-sheet-forming-processes-for-manufacturing-engineers/) |
+| 5 | **Advanced Internal Combustion Engine Analysis and Design** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/advanced-internal-combustion-engine-analysis-and-design/) |
+| 6 | **Metal Forming Processes-Bulk Deformation&Sheet Metalworking** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/metal-forming-processes-bulk-deformation-sheet-metalworking/) |
+| 7 | **Fundamentals of Metal Machining Techniques & Machine Tools** | `Development` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/fundamentals-of-metal-machining-techniques-machine-tools/) |
+| 8 | **Metal Casting: Techniques, Materials, and Product Design-AFS** | `Design` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/metal-casting-techniques-materials-and-product-design-afs/) |
+| 9 | **Plastic Molding Fundamentals - SPE Certification Program** | `Development` | ⭐ 3.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/plastic-molding-fundamentals-spe-certification-program/) |
+| 10 | **Fundamentals of Manufacturing Processes for Engineers** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/fundamentals-of-manufacturing-processes-for-engineers/) |
+| 11 | **Fundamentals of Heat & Mass Transfer -Basic to Advance Level** | `Development` | ⭐ 4.1 | [Buka di UdemyTAG](https://udemytag.github.io/course/fundamentals-of-heat-mass-transfer-basic-to-advance-level/) |
+| 12 | **Metallurgy of Welding for Engineers** | `Development` | ⭐ 3.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/metallurgy-of-welding-for-engineers/) |
+| 13 | **Project Integration Management : PMP Certification** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/project-integration-management-pmp-certification/) |
+| 14 | **Sustainable Supply Chain Operations Reference Model - SCOR** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/sustainable-supply-chain-operations-reference-model-scor/) |
+| 15 | **Project Risk Management : PMP Certification** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/project-risk-management-pmp-certification/) |
+| 16 | **Industrial Fuel Combustion Systems for Engineers** | `Development` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/industrial-fuel-combustion-systems-for-engineers/) |
+| 17 | **HSE Certification - ISO 14001 & OHSAS 18001** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/hse-certification-iso-14001-ohsas-18001/) |
+| 18 | **Intermediate Accounting** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/intermediate-accounting/) |
+| 19 | **Carbon Accounting** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/carbon-accounting/) |
+| 20 | **Certified Hazardous Material Management Professional (CHMMP)** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-hazardous-material-management-professional-chmmp/) |
+| 21 | **Fundamentals of Energy Management** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/fundamentals-of-energy-management/) |
+| 22 | **Certified Energy Management Professional (CEMP)** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/certified-energy-management-professional-cemp/) |
+| 23 | **Microsoft Word & Google Docs: Master Document Creation** | `Development` | ⭐ 3.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/microsoft-word-google-docs-master-document-creation/) |
+| 24 | **Wordpress Elementor Course: Develop Site Without Coding** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/wordpress-elementor-course-develop-site-without-coding/) |
+| 25 | **Gratitude** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/gratitude/) |
+| 26 | **Financial Services: Financial Wellbeing for Employees** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-financial-wellbeing-for-employees/) |
+| 27 | **SMART Goals Parenting** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/smart-goals-parenting/) |
+| 28 | **Purpose Driven Leadership** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/purpose-driven-leadership/) |
+| 29 | **Investing in Africa - Key factors for Investors to consider** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/investing-in-africa-key-factors-for-investors-to-consider/) |
+| 30 | **How to Transform Your Life - practical ways** | `Personal Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/how-to-transform-your-life-practical-ways/) |
+| 31 | **Leadership - Leading a Community** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/leadership-leading-a-community/) |
+| 32 | **Personal Growth - Affirmations and Taking Action** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/personal-growth-affirmations-and-taking-action/) |
+| 33 | **Introduction to Financial Products & Services** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/introduction-to-financial-products-services/) |
+| 34 | **Financial Services - Funds Flow Optimization Concepts** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-funds-flow-optimization-concepts/) |
+| 35 | **Financial Services - Overview of Central Banks** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-overview-of-central-banks/) |
+| 36 | **Self Discipline will Change Your life for GOOD** | `Personal Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/self-discipline-will-change-your-life-for-good/) |
+| 37 | **Workplace Productivity - Supporting Others Through Change** | `Personal Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-productivity-supporting-others-through-change/) |
+| 38 | **Workplace Productivity-Coping with the Anxiety of Leadership** | `Personal Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-productivity-coping-with-the-anxiety-of-leadership/) |
+| 39 | **Time Management, Productivity, Decision Making Tools &  Aids** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/time-management-productivity-decision-making-tools-aids/) |
+| 40 | **Market Research: Key Strategies for Business Decision-Making** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/market-research-key-strategies-for-business-decision-making/) |
 
 *Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*
