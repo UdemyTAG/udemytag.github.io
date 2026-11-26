@@ -35769,5 +35769,837 @@
     "isFree": false,
     "instructors": "Learning Technologies [115000+ Students Globally]",
     "campaign": null
+  },
+  "business-communication-and-ethics-designed-in-year-2022_5C654037DF695C555BC3": {
+    "subscribers": 11179,
+    "reviews": 1100,
+    "rating": "4.5",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 30,
+      "end": "2026-12-27T05:17:00Z"
+    }
+  },
+  "engineering-economics-take-decision-between-alternatives_DC49DDB2073A843B6E0F": {
+    "subscribers": 9398,
+    "reviews": 44,
+    "rating": "4.3",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 24,
+      "end": "2026-12-27T05:17:00Z"
+    }
+  },
+  "certification-in-welding-technology-for-processing-engineers_17458701F2591E9D4F74": {
+    "subscribers": 9559,
+    "reviews": 199,
+    "rating": "4.1",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 57,
+      "end": "2026-12-27T05:17:00Z"
+    }
+  },
+  "certification-in-fundamentals-of-metal-forming-processes_674281D36AB6159E1671": {
+    "subscribers": 6970,
+    "reviews": 83,
+    "rating": "4.4",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 67,
+      "end": "2026-12-27T05:16:00Z"
+    }
+  },
+  "internal-combustion-engines-ice-2022_D3AC1569410CB40620ED": {
+    "subscribers": 9620,
+    "reviews": 180,
+    "rating": "4.3",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 41,
+      "end": "2026-12-27T05:16:00Z"
+    }
+  },
+  "metal-forming-processes-bulk-deformationsheet-metalworking_294B317B1265CF5761D1": {
+    "subscribers": 6977,
+    "reviews": 25,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 73,
+      "end": "2026-12-27T05:16:00Z"
+    }
+  },
+  "fundamentals-of-advanced-metal-machining-techniques_F3B77CDC41C7D94C79DA": {
+    "subscribers": 7025,
+    "reviews": 49,
+    "rating": "3.8",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 66,
+      "end": "2026-12-27T05:16:00Z"
+    }
+  },
+  "metal-casting-techniques-materials-and-product-design-afs_7E719134E728975FB542": {
+    "subscribers": 6655,
+    "reviews": 40,
+    "rating": "3.8",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 71,
+      "end": "2026-12-27T05:16:00Z"
+    }
+  },
+  "plastic-molding-fundamentals-spe-certification-program_2AA7FFEFA2B1E97E7CF1": {
+    "subscribers": 6629,
+    "reviews": 68,
+    "rating": "3.6",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 56,
+      "end": "2026-12-27T05:16:00Z"
+    }
+  },
+  "fundamentals-of-manufacturing-processes-for-engineers_DAD55417F2E879E89A69": {
+    "subscribers": 9655,
+    "reviews": 274,
+    "rating": "4.1",
+    "price": "$69.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 60,
+      "end": "2026-12-27T05:15:00Z"
+    }
+  },
+  "fundamentals-of-heat-masstransfer-basic-to-advance-level_33352164079C5D11C542": {
+    "subscribers": 6302,
+    "reviews": 32,
+    "rating": "4.1",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 53,
+      "end": "2026-12-27T05:15:00Z"
+    }
+  },
+  "metallurgy-of-welding-for-engineers-2023_BB4680C2873C4FF9E0AC": {
+    "subscribers": 6132,
+    "reviews": 65,
+    "rating": "3.2",
+    "price": "$64.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 54,
+      "end": "2026-12-27T05:15:00Z"
+    }
+  },
+  "introduction-to-project-management-project-integration-23_6530AAA7E46E26C097FF": {
+    "subscribers": 9662,
+    "reviews": 98,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 39,
+      "end": "2026-12-27T05:15:00Z"
+    }
+  },
+  "sustainable-supply-chain-with-scor-model_F66C27BEC7A887D2540A": {
+    "subscribers": 8196,
+    "reviews": 250,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 50,
+      "end": "2026-12-27T05:15:00Z"
+    }
+  },
+  "project-risk-management-pmp-certification-2023_72BBCB3370C32AF8D3FB": {
+    "subscribers": 9830,
+    "reviews": 127,
+    "rating": "4.4",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 29,
+      "end": "2026-12-27T05:15:00Z"
+    }
+  },
+  "combustion-of-fuels-solid-liquid-and-gaseous-fuels-2024_5DF483B74627A5387AA1": {
+    "subscribers": 4900,
+    "reviews": 24,
+    "rating": "3.9",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 50,
+      "end": "2026-12-27T05:14:00Z"
+    }
+  },
+  "hse-certification-iso-14001-ohsas-18001_6F253C311F4B6588B3DB": {
+    "subscribers": 6828,
+    "reviews": 376,
+    "rating": "4.2",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 26,
+      "end": "2026-12-27T05:14:00Z"
+    }
+  },
+  "intermediate-accounting_DD8E0A59699D58388682": {
+    "subscribers": 4030,
+    "reviews": 35,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 36,
+      "end": "2026-12-27T05:14:00Z"
+    }
+  },
+  "carbon-accounting-ozis_057DDA991652822EA458": {
+    "subscribers": 3163,
+    "reviews": 148,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 16,
+      "end": "2026-12-27T05:14:00Z"
+    }
+  },
+  "hazardous-material-management_8C4463DE374F8121E016": {
+    "subscribers": 3202,
+    "reviews": 32,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "ACCREVIA International",
+    "campaign": {
+      "max": 100,
+      "rem": 22,
+      "end": "2026-12-27T05:27:00Z"
+    }
+  },
+  "fundamentals-of-energy-management_C0B25431250678EB9C2D": {
+    "subscribers": 3578,
+    "reviews": 141,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "OZIS Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 40,
+      "end": "2026-12-27T05:13:00Z"
+    }
+  },
+  "certified-energy-management-professional-cemp_9FA379811220A3B3B1B4": {
+    "subscribers": 3915,
+    "reviews": 218,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "ACCREVIA International",
+    "campaign": {
+      "max": 100,
+      "rem": 29,
+      "end": "2026-12-27T05:27:00Z"
+    }
+  },
+  "certified-industrial-hygiene-professional-cihp_AACD7860739F5D3BAF9A": {
+    "subscribers": 742,
+    "reviews": 23,
+    "rating": "4.4",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "ACCREVIA International",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "the-complete-google-forms-course-mastering-google-forms_7E2686B0ABA09B80C46D": {
+    "subscribers": 22053,
+    "reviews": 204,
+    "rating": "3.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "industrial-valves_4086B59A7EF585F6A712": {
+    "subscribers": 506,
+    "reviews": 2,
+    "rating": "4.6",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "ACCREVIA International",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "excel-vba-for-beginner-to-advanced_A83B67A42C44D01EEA3A": {
+    "subscribers": 40201,
+    "reviews": 426,
+    "rating": "3.6",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "microsoft-excel-pivot-tables-with-formulas-functions_D4CDA0ECCBDB93EE4B3A": {
+    "subscribers": 14912,
+    "reviews": 169,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "microsoft-word-google-docs-master-document-creation_104D436C0D941CB2093A": {
+    "subscribers": 7614,
+    "reviews": 41,
+    "rating": "3.6",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": 100,
+      "rem": 19,
+      "end": "2026-12-23T03:16:00Z"
+    }
+  },
+  "mastering-microsoft-excel-a-comprehensive-guide-to-boost-you_59D5A94DA3BD559489F3": {
+    "subscribers": 37607,
+    "reviews": 885,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "essential-microsoft-excel-vba-learn-vba-for-become-expert_EE6BB2E3886F3CEFAD5A": {
+    "subscribers": 41521,
+    "reviews": 314,
+    "rating": "4.1",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Learnify IT",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "medical-ethics-for-medical-students-health-care-professional_555DFB8E82FD1CF45D45": {
+    "subscribers": 2718,
+    "reviews": 32,
+    "rating": "3.7",
+    "price": "$27.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "fundamentals-of-metallograpgy_65A817234B3A22B12715": {
+    "subscribers": 408,
+    "reviews": 2,
+    "rating": "4.3",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "ACCREVIA International",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "weld-defects_7964E75530F83C1E4CA2": {
+    "subscribers": 341,
+    "reviews": 2,
+    "rating": "4.7",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "ACCREVIA International",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "certified-energy-audit-professional-ceap_5905617C3CACD2446327": {
+    "subscribers": 565,
+    "reviews": 9,
+    "rating": "4.7",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "ACCREVIA International",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "corrosion-of-metals_0B596A4C9309DFDAB02F": {
+    "subscribers": 424,
+    "reviews": 4,
+    "rating": "2.9",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "ACCREVIA International",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "graphic-design-masterclass-master-illustrator-photoshop_9AAA95CF226796E2D5E2": {
+    "subscribers": 33458,
+    "reviews": 357,
+    "rating": "3.9",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "nanomaterials-science-and-technology_1FA763FA563A1E0CD0DA": {
+    "subscribers": 405,
+    "reviews": 1,
+    "rating": "5.0",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "ACCREVIA International",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "learn-figma-uiux-design-masterclass-from-beginner-to-pro_ECBE6F4E3E918AC2842D": {
+    "subscribers": 48852,
+    "reviews": 1030,
+    "rating": "4.1",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "capcut-video-editing-for-social-media-beginner-to-pro_F3477633BD60661B2F62": {
+    "subscribers": 39525,
+    "reviews": 474,
+    "rating": "4.1",
+    "price": "$59.99",
+    "isFree": false,
+    "instructors": "James Joab Soren, Hudson Dynamic Lab",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "java-training-complete-course-2022_16BE2944464472828E7C": {
+    "subscribers": 91396,
+    "reviews": 1668,
+    "rating": "4.3",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Crunch Coding Institute",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "master-nodejs-from-beginner-to-full-stack-developer_BB766C96F626ACFB0152": {
+    "subscribers": 10077,
+    "reviews": 54,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Brighter Futures Hub",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "complete-c-plus-programming-course-from-basic-to-expert_3D0A06E51B2C73261F3D": {
+    "subscribers": 32439,
+    "reviews": 446,
+    "rating": "4.2",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Maria EduCare",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "php-laravel-2023-build-amazing-streaming-service_LARAVELSTREAMING106": {
+    "subscribers": 20995,
+    "reviews": 92,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "php-laravel-2023-build-food-ordering-ecommerce-store_LARAVELFOOD117": {
+    "subscribers": 14885,
+    "reviews": 108,
+    "rating": "4.4",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "java-python-programming-mastery-learn-to-code-like-a-pro_2750B6AC19484630EF11": {
+    "subscribers": 21466,
+    "reviews": 244,
+    "rating": "4.5",
+    "price": "$29.99",
+    "isFree": false,
+    "instructors": "Maria EduCare",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "wordpress-elementor-course-develop-site-without-coding_821F50DAA62C65D612EA": {
+    "subscribers": 40706,
+    "reviews": 296,
+    "rating": "4.5",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": 100,
+      "rem": 2,
+      "end": "2026-12-27T09:43:00Z"
+    }
+  },
+  "adobe-photoshop-cc-for-absolute-beginner-to-advanced_664BFE0C90E1379363C8": {
+    "subscribers": 83888,
+    "reviews": 777,
+    "rating": "4.6",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "fiverr-freelancing-for-absolute-beginners-basic-to-advance_BAD67DCD208789A19A87": {
+    "subscribers": 23251,
+    "reviews": 136,
+    "rating": "4.4",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Stephen Koel Soren",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "financial-services-financial-wellbeing-for-employees_10THNOV": {
+    "subscribers": 1759,
+    "reviews": 31,
+    "rating": "4.8",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 10,
+      "end": "2026-12-11T08:00:00Z"
+    }
+  },
+  "financial-services-sovereign-wealth-national-funds_10THNOV": {
+    "subscribers": 1234,
+    "reviews": 21,
+    "rating": "5.0",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "self-discipline-will-change-your-life-for-good_26THNOV26": {
+    "subscribers": 54282,
+    "reviews": 335,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 80,
+      "end": "2026-12-27T08:00:00Z"
+    }
+  },
+  "time-management-productivity-decision-making-tools-aids_26THNOV26": {
+    "subscribers": 53209,
+    "reviews": 646,
+    "rating": "4.5",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 76,
+      "end": "2026-12-27T08:00:00Z"
+    }
+  },
+  "strategic-market-research-key-methods-for-success_37C3454B15D22E58DA4B": {
+    "subscribers": 15980,
+    "reviews": 206,
+    "rating": "4.4",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Learning Academy",
+    "campaign": {
+      "max": 100,
+      "rem": 21,
+      "end": "2026-12-27T12:52:00Z"
+    }
+  },
+  "scrum-master-training_261126_FREE": {
+    "subscribers": 115323,
+    "reviews": 5698,
+    "rating": "4.3",
+    "price": "$74.99",
+    "isFree": true,
+    "instructors": "Paul Ashun",
+    "campaign": {
+      "max": 100,
+      "rem": 45,
+      "end": "2026-12-27T14:27:00Z"
+    }
+  },
+  "fundamentals-of-successful-leadership-leading-with-impact_26THNOV26": {
+    "subscribers": 57712,
+    "reviews": 2640,
+    "rating": "4.6",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 85,
+      "end": "2026-12-27T08:00:00Z"
+    }
+  },
+  "strategic-partnerships-and-collaborations_26THNOV26": {
+    "subscribers": 50950,
+    "reviews": 1200,
+    "rating": "4.4",
+    "price": "$59.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 80,
+      "end": "2026-12-27T08:00:00Z"
+    }
+  },
+  "vigilant-leadership_26THNOV26": {
+    "subscribers": 39614,
+    "reviews": 1012,
+    "rating": "4.4",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 93,
+      "end": "2026-12-27T08:00:00Z"
+    }
+  },
+  "your-words-powerful-tools_26THNOV26": {
+    "subscribers": 44532,
+    "reviews": 264,
+    "rating": "4.6",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Helen Hicks",
+    "campaign": {
+      "max": 100,
+      "rem": 83,
+      "end": "2026-12-27T08:00:00Z"
+    }
+  },
+  "fundamentals-of-financial-services_26THNOV26": {
+    "subscribers": 55485,
+    "reviews": 3493,
+    "rating": "4.5",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Timothy Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 92,
+      "end": "2026-12-27T08:00:00Z"
+    }
+  },
+  "poultry-farming-bacterial-diseases-hindering-satisfying-prod_67A0F21DCE76F8798B1F": {
+    "subscribers": 11061,
+    "reviews": 40,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "become-a-corporate-winner_NOV2026FREE01": {
+    "subscribers": 63890,
+    "reviews": 300,
+    "rating": "4.1",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Susmita Dutta, Ash Akshay Goel",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "poultry-farming-nutrition-and-clinical-nutrition-stepby-step_8EEC8098ABE0680736B9": {
+    "subscribers": 12821,
+    "reviews": 65,
+    "rating": "3.5",
+    "price": "$29.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "financial-services-private-banking-wealth-management_26THNOV26": {
+    "subscribers": 1520,
+    "reviews": 45,
+    "rating": "4.2",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 67,
+      "end": "2026-12-27T08:00:00Z"
+    }
+  },
+  "economics-for-everyone-in-a-digital-first-world_26THNOV26": {
+    "subscribers": 1445,
+    "reviews": 38,
+    "rating": "4.6",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Baba Oyewole, Timothy Oyewole",
+    "campaign": {
+      "max": 100,
+      "rem": 56,
+      "end": "2026-12-27T08:00:00Z"
+    }
   }
 }
