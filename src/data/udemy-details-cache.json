@@ -35521,5 +35521,253 @@
       "rem": null,
       "end": "2026-11-28T08:00:00Z"
     }
+  },
+  "3-day-ai-product-management-bootcamp_NOVFREE03": {
+    "subscribers": 2689,
+    "reviews": 6,
+    "rating": "2.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "base44-mastery-build-enterprise-ai-workflow-automations_NOVFREE01": {
+    "subscribers": 10720,
+    "reviews": 66,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "brain-computer-interfaces-neurotechnology_NOVFREE01": {
+    "subscribers": 8721,
+    "reviews": 36,
+    "rating": "4.5",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 15,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "coding-the-brain-ai-machine-learning-for-bcis_NOVFREE03": {
+    "subscribers": 7782,
+    "reviews": 20,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 7,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "passive-income-playbook-ai-tools-automation-more_NOVFREE01": {
+    "subscribers": 9084,
+    "reviews": 46,
+    "rating": "3.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "ultimate-trading-wealth-mastery-program_NOVFREE01": {
+    "subscribers": 8237,
+    "reviews": 32,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Vivian Aranha",
+    "campaign": {
+      "max": 100,
+      "rem": 1,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "ai-trading-crypto-intelligence-masterclass_NOVFREE01": {
+    "subscribers": 5436,
+    "reviews": 22,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Data Science Academy, School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "break-into-ai-without-a-technical-background_NOVFREE01": {
+    "subscribers": 2361,
+    "reviews": 4,
+    "rating": "2.4",
+    "price": "$11.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": null
+  },
+  "ethics-bias-trust-in-ai_NOVFREE01": {
+    "subscribers": 1987,
+    "reviews": 2,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 48,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "ai-powered-marketing-bootcamp_NOVFREE02": {
+    "subscribers": 2354,
+    "reviews": 4,
+    "rating": "3.5",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "rag-strategy-execution-build-enterprise-knowledge-systems_NOVFREE01": {
+    "subscribers": 20415,
+    "reviews": 426,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Gourav J. Shah, School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 22,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "nca-aiio-nvidia-certified-associate-ai-infrastructure-and-operations_NOVFREE01": {
+    "subscribers": 7882,
+    "reviews": 56,
+    "rating": "3.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 35,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "complete-guide-ai-infrastructure_NOVFREE01": {
+    "subscribers": 19132,
+    "reviews": 356,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "mcp-for-leaders-architecting-context-driven-ai_NOVFREE01": {
+    "subscribers": 23034,
+    "reviews": 1678,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 40,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "chief-technology-officercto-mastery-program_NOVFREE01": {
+    "subscribers": 21313,
+    "reviews": 447,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 17,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "chief-ai-officer-program-lead-ai-strategy-governance_NOVFREE01": {
+    "subscribers": 27345,
+    "reviews": 1405,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "School of AI, Arjun Vaid, Bayt Al Hikmah",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "ai-product-manager-certificate_NOVFREE01": {
+    "subscribers": 14561,
+    "reviews": 597,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 25,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "become-master-in-uipath-world_Novemberfree26": {
+    "subscribers": 3551,
+    "reviews": 30,
+    "rating": "4.5",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [115000+ Students Globally]",
+    "campaign": null
+  },
+  "ai-in-60-minutes_NOVFREE01": {
+    "subscribers": 9387,
+    "reviews": 116,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "School of AI",
+    "campaign": {
+      "max": 100,
+      "rem": 36,
+      "end": "2026-12-03T00:00:00Z"
+    }
+  },
+  "ai-agents-copilot-studio-azure-foundry-microsoft-foundry_Novemberfree26": {
+    "subscribers": 6127,
+    "reviews": 75,
+    "rating": "4.3",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Learning Technologies [115000+ Students Globally]",
+    "campaign": null
   }
 }
