@@ -36874,5 +36874,278 @@
       "rem": null,
       "end": "2026-11-28T08:00:00Z"
     }
+  },
+  "microsoft-office-microsoft-excel_F7B07DC8121A565FF182": {
+    "subscribers": 3283,
+    "reviews": 36,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Logic Labs",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "php-codeigniter-4-build-coffee-shop-management-system-2025_CICOFFEESHOP63": {
+    "subscribers": 3586,
+    "reviews": 11,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Web Coding",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "quantitative-aptitude-for-cat_100FREE": {
+    "subscribers": 16187,
+    "reviews": 252,
+    "rating": "3.9",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Devaki subbalakshmi",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "php-laravel-2023-build-travel-agency-management-system_LARAVELTRAVEL107": {
+    "subscribers": 21664,
+    "reviews": 96,
+    "rating": "4.0",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "Web Coding",
+    "campaign": {
+      "max": 100,
+      "rem": 1,
+      "end": "2026-12-28T07:52:00Z"
+    }
+  },
+  "capcut-for-social-media-video-editing-beginner-to-pro_948C00A6803BE91A0282": {
+    "subscribers": 16059,
+    "reviews": 101,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": 100,
+      "rem": 35,
+      "end": "2026-12-23T03:12:00Z"
+    }
+  },
+  "zoomers-ai-hr-ru_PAPAHR_NOV_912079": {
+    "subscribers": 258,
+    "reviews": 1,
+    "rating": "1.5",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "cryptocurrency-trading-technical-analysis_280669A52F19E0E52528": {
+    "subscribers": 6172,
+    "reviews": 27,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Baeolah Dayo",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "google-slides-full-guide-to-creating-impactful-presentation_E2C7FE8E59D9CF70FB8C": {
+    "subscribers": 9880,
+    "reviews": 26,
+    "rating": "4.4",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Click Learning",
+    "campaign": {
+      "max": 100,
+      "rem": 32,
+      "end": "2026-12-12T05:26:00Z"
+    }
+  },
+  "okr-for-managers-and-employees_PAPAHR_NOV_935797": {
+    "subscribers": 3124,
+    "reviews": 5,
+    "rating": "4.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 46,
+      "end": "2026-12-28T07:05:00Z"
+    }
+  },
+  "recruitgpt-master-ai-chatgpt-for-recruiting-sourcing_PAPAHR_NOV_155708": {
+    "subscribers": 3014,
+    "reviews": 15,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 2,
+      "end": "2026-12-28T07:05:00Z"
+    }
+  },
+  "social-recruiting-telegram_PAPAHR_NOV_247765": {
+    "subscribers": 3016,
+    "reviews": 7,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "employee-feedback_PAPAHR_NOV_859916": {
+    "subscribers": 3001,
+    "reviews": 5,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 29,
+      "end": "2026-12-28T07:05:00Z"
+    }
+  },
+  "robots-and-hr_PAPAHR_NOV_071717": {
+    "subscribers": 3100,
+    "reviews": 7,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "performance-management-ru_PAPAHR_NOV_923837": {
+    "subscribers": 3038,
+    "reviews": 1,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 28,
+      "end": "2026-12-28T07:05:00Z"
+    }
+  },
+  "international-hr-build-global-people-culture-strategy_PAPAHR_NOV_363701": {
+    "subscribers": 6325,
+    "reviews": 33,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 58,
+      "end": "2026-12-28T07:05:00Z"
+    }
+  },
+  "coaching-skills-for-hr-google-approach-icf-ecf-model_PAPAHR_NOV_517555": {
+    "subscribers": 5238,
+    "reviews": 24,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 43,
+      "end": "2026-12-28T07:05:00Z"
+    }
+  },
+  "chatgpt-for-hr-and-recruiters-12-academic-hours-200-tools_PAPAHR_NOV_191519": {
+    "subscribers": 16849,
+    "reviews": 192,
+    "rating": "4.4",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 41,
+      "end": "2026-12-28T07:05:00Z"
+    }
+  },
+  "hr-soft-skills-mastery-communication-leadership-strategy_PAPAHR_NOV_149901": {
+    "subscribers": 8220,
+    "reviews": 66,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 30,
+      "end": "2026-12-28T07:05:00Z"
+    }
+  },
+  "become-a-certified-people-partner-your-path-to-a-rewarding_PAPAHR_NOV_335850": {
+    "subscribers": 10847,
+    "reviews": 95,
+    "rating": "4.3",
+    "price": "$54.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 59,
+      "end": "2026-12-28T07:05:00Z"
+    }
+  },
+  "hr-business-partner-20-ua_PAPAHR_NOV_137570": {
+    "subscribers": 2227,
+    "reviews": 6,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 22,
+      "end": "2026-12-28T07:05:00Z"
+    }
+  },
+  "gtd-online-course_PAPAHR_NOV_784594": {
+    "subscribers": 3153,
+    "reviews": 6,
+    "rating": "5.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "PapaHR ★ 180K students: Human Resources, HR Management, SHRM, AI Analytics, Recruitment, Payroll, Certification, CIPD, Claude",
+    "campaign": {
+      "max": 100,
+      "rem": 15,
+      "end": "2026-12-28T07:05:00Z"
+    }
   }
 }
