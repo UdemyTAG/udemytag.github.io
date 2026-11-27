@@ -36601,5 +36601,278 @@
       "rem": 56,
       "end": "2026-12-27T08:00:00Z"
     }
+  },
+  "aging-and-geriatrics_BD1397B221D6489B5657": {
+    "subscribers": 7792,
+    "reviews": 27,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "immunology-step-by-step_02DEA6E7F29CF0767D44": {
+    "subscribers": 10044,
+    "reviews": 67,
+    "rating": "3.9",
+    "price": "$54.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "genetics-from-mendel-to-era-of-microarray-classical-genetics_D51CB22BA114942EFE72": {
+    "subscribers": 10432,
+    "reviews": 49,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "histology-step-by-step_AF3844E8BFA139778706": {
+    "subscribers": 5428,
+    "reviews": 11,
+    "rating": "4.7",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "poultry-farming-vaccines-and-vaccinations_5E5762FAFF9F87E7F0C4": {
+    "subscribers": 10622,
+    "reviews": 58,
+    "rating": "4.2",
+    "price": "$22.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "poultry-diseases-for-profetionals_64B82264FAA980A762B6": {
+    "subscribers": 10327,
+    "reviews": 60,
+    "rating": "3.7",
+    "price": "$49.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "logisticsmanagement_D0CE934B8C95D6E53E8E": {
+    "subscribers": 4999,
+    "reviews": 73,
+    "rating": "3.9",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "all-about-vaccine-and-vaccnation_72094EBCCCF418880288": {
+    "subscribers": 5729,
+    "reviews": 32,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "genetic-from-mendal-to-era-of-microchip-molecular-genetic_2054AD037E77EB348AAA": {
+    "subscribers": 7674,
+    "reviews": 50,
+    "rating": "4.2",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "back-pain-between-fact-and-fiction_81490BAF6A99B9D7AA3B": {
+    "subscribers": 4929,
+    "reviews": 18,
+    "rating": "4.6",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "poultry-farming-viral-diseases-threaten-poultry-industry_871FC34972146D195BA0": {
+    "subscribers": 12264,
+    "reviews": 35,
+    "rating": "3.7",
+    "price": "$49.99",
+    "isFree": true,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": 10,
+      "rem": 4,
+      "end": "2026-12-01T23:43:00Z"
+    }
+  },
+  "hematology-theory-and-practice-for-medical-students_1B47F255530B169A3D65": {
+    "subscribers": 3767,
+    "reviews": 19,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "oncology-understanding-cancer-biology-diagnosis-treatments_B2C8828875042F63C496": {
+    "subscribers": 2884,
+    "reviews": 27,
+    "rating": "4.1",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "all-about-horse_B65BAB9A0AB5B0E032B7": {
+    "subscribers": 4145,
+    "reviews": 21,
+    "rating": "3.8",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "emergency-medicine-for-medical-professionals_D5DBA62B669F18369556": {
+    "subscribers": 4453,
+    "reviews": 31,
+    "rating": "4.2",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "master-layer-farm-management-the-business-of-millionaires_8B6E5251646572AEC964": {
+    "subscribers": 22791,
+    "reviews": 109,
+    "rating": "3.7",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "general-bacteriology-a-concise-course_5A8F732504248AA33E1D": {
+    "subscribers": 20793,
+    "reviews": 118,
+    "rating": "4.0",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "poultry-farming-broiler-farming-crash-course_11E1B05AB1259F99CA97": {
+    "subscribers": 12727,
+    "reviews": 67,
+    "rating": "3.7",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "practical-bacteriology-from-scratch_8B1B6A3C976F33926971": {
+    "subscribers": 20563,
+    "reviews": 135,
+    "rating": "3.7",
+    "price": "$44.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "virology-4-you_410345E0D66BBC276386": {
+    "subscribers": 16545,
+    "reviews": 83,
+    "rating": "4.2",
+    "price": "$29.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "general-mycology-a-brief-review_98D6765F87A389355EB4": {
+    "subscribers": 12700,
+    "reviews": 70,
+    "rating": "3.3",
+    "price": "$39.99",
+    "isFree": false,
+    "instructors": "Mohamed AL ashram",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
   }
 }
