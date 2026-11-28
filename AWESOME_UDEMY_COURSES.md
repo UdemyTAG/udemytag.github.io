@@ -38,45 +38,45 @@ Koleksi kupon diskon 100% kursus Udemy resmi bersertifikat kelulusan (*Certifica
 
 | No | Judul Kursus | Kategori | Rating | Tautan Langsung Web |
 | :-: | :--- | :--- | :-: | :--- |
-| 1 | **PHP Laravel 2023: Build Travel Agency Management System** | `Business` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/php-laravel-2023-build-travel-agency-management-system/) |
-| 2 | **Capcut for Social Media Video Editing - Beginner to Pro** | `Design` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/capcut-for-social-media-video-editing-beginner-to-pro/) |
-| 3 | **Google Slides: Full Guide to Creating Impactful Presentation** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/google-slides-full-guide-to-creating-impactful-presentation/) |
-| 4 | **Prioritization, Decision Making: Focus on What Counts** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/prioritization-decision-making-focus-on-what-counts/) |
-| 5 | **RecruitGPT Master AI + ChatGPT for Recruiting Sourcing [EN]** | `Design` | ⭐ 3.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/recruitgpt-master-ai-chatgpt-for-recruiting-sourcing-en/) |
-| 6 | **Active Listening and Powerful Questions at Work, 110+ Tools** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/active-listening-and-powerful-questions-at-work-110-tools/) |
-| 7 | **Strategy Execution: OKR, KPI and Real Business Results** | `Business` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/strategy-execution-okr-kpi-and-real-business-results/) |
-| 8 | **International HR Build Global People & Culture Strategy [EN]** | `Design` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/international-hr-build-global-people-culture-strategy-en/) |
-| 9 | **Coaching Skills for HR Google Approach ICF ECF Model [EN]** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/coaching-skills-for-hr-google-approach-icf-ecf-model-en/) |
-| 10 | **ChatGPT for HR AI Powered Automation Talent Management [EN]** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/chatgpt-for-hr-ai-powered-automation-talent-management-en/) |
-| 11 | **HR Soft Skills: Communication, Leadership & Strategy [EN]** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/hr-soft-skills-communication-leadership-strategy-en/) |
-| 12 | **People Partner HR certification program for future HRBP [EN]** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/people-partner-hr-certification-program-for-future-hrbp-en/) |
-| 13 | **Business Partnering: Be a Partner, Not a Service Desk** | `Business` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/business-partnering-be-a-partner-not-a-service-desk/) |
-| 14 | **Workplace Productivity: Time, Focus, High Performance** | `Personal Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-productivity-time-focus-high-performance/) |
-| 15 | **Viral Diseases in Poultry Farming: Challenges and Mitigation** | `Development` | ⭐ 3.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/viral-diseases-in-poultry-farming-challenges-and-mitigation/) |
-| 16 | **Wordpress Elementor Course: Develop Site Without Coding** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/wordpress-elementor-course-develop-site-without-coding/) |
-| 17 | **Gratitude** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/gratitude/) |
-| 18 | **Financial Services: Financial Wellbeing for Employees** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-financial-wellbeing-for-employees/) |
+| 1 | **Color Grading and Video Editing with Davinci Resolve 18** | `Design` | ⭐ 3.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/color-grading-and-video-editing-with-davinci-resolve-18/) |
+| 2 | **Video Editing with Adobe Premiere Pro CC for Beginners** | `Design` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/video-editing-with-adobe-premiere-pro-cc-for-beginners/) |
+| 3 | **Color Correction & Grading with Adobe Premiere Pro** | `Development` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/color-correction-grading-with-adobe-premiere-pro/) |
+| 4 | **Professional Diploma in Leadership** | `Development` | ⭐ 4.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/professional-diploma-in-leadership/) |
+| 5 | **C, C++, C#, Java: The Ultimate Coding Course for Beginners** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/c-c-c-java-the-ultimate-coding-course-for-beginners/) |
+| 6 | **Passive Earn with AI Tools: Unlock Automated Income Streams** | `Development` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/passive-earn-with-ai-tools-unlock-automated-income-streams/) |
+| 7 | **Capcut for Social Media Video Editing - Beginner to Pro** | `Design` | ⭐ 3.9 | [Buka di UdemyTAG](https://udemytag.github.io/course/capcut-for-social-media-video-editing-beginner-to-pro/) |
+| 8 | **Google Slides: Full Guide to Creating Impactful Presentation** | `Design` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/google-slides-full-guide-to-creating-impactful-presentation/) |
+| 9 | **Prioritization, Decision Making: Focus on What Counts** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/prioritization-decision-making-focus-on-what-counts/) |
+| 10 | **Active Listening and Powerful Questions at Work, 110+ Tools** | `Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/active-listening-and-powerful-questions-at-work-110-tools/) |
+| 11 | **Strategy Execution: OKR, KPI and Real Business Results** | `Business` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/strategy-execution-okr-kpi-and-real-business-results/) |
+| 12 | **International HR Build Global People & Culture Strategy [EN]** | `Design` | ⭐ 4.7 | [Buka di UdemyTAG](https://udemytag.github.io/course/international-hr-build-global-people-culture-strategy-en/) |
+| 13 | **Coaching Skills for HR Google Approach ICF ECF Model [EN]** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/coaching-skills-for-hr-google-approach-icf-ecf-model-en/) |
+| 14 | **ChatGPT for HR AI Powered Automation Talent Management [EN]** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/chatgpt-for-hr-ai-powered-automation-talent-management-en/) |
+| 15 | **HR Soft Skills: Communication, Leadership & Strategy [EN]** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/hr-soft-skills-communication-leadership-strategy-en/) |
+| 16 | **People Partner HR certification program for future HRBP [EN]** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/people-partner-hr-certification-program-for-future-hrbp-en/) |
+| 17 | **Business Partnering: Be a Partner, Not a Service Desk** | `Business` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/business-partnering-be-a-partner-not-a-service-desk/) |
+| 18 | **Workplace Productivity: Time, Focus, High Performance** | `Personal Development` | ⭐ 5.0 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-productivity-time-focus-high-performance/) |
 | 19 | **SMART Goals Parenting** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/smart-goals-parenting/) |
 | 20 | **Purpose Driven Leadership** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/purpose-driven-leadership/) |
-| 21 | **Investing in Africa - Key factors for Investors to consider** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/investing-in-africa-key-factors-for-investors-to-consider/) |
-| 22 | **How to Transform Your Life - practical ways** | `Personal Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/how-to-transform-your-life-practical-ways/) |
-| 23 | **Leadership - Leading a Community** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/leadership-leading-a-community/) |
-| 24 | **Personal Growth - Affirmations and Taking Action** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/personal-growth-affirmations-and-taking-action/) |
-| 25 | **Introduction to Financial Products & Services** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/introduction-to-financial-products-services/) |
-| 26 | **Financial Services - Funds Flow Optimization Concepts** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-funds-flow-optimization-concepts/) |
-| 27 | **Financial Services - Overview of Central Banks** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-overview-of-central-banks/) |
-| 28 | **Self Discipline will Change Your life for GOOD** | `Personal Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/self-discipline-will-change-your-life-for-good/) |
-| 29 | **Workplace Productivity - Supporting Others Through Change** | `Personal Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-productivity-supporting-others-through-change/) |
-| 30 | **Workplace Productivity-Coping with the Anxiety of Leadership** | `Personal Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-productivity-coping-with-the-anxiety-of-leadership/) |
-| 31 | **Time Management, Productivity, Decision Making Tools &  Aids** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/time-management-productivity-decision-making-tools-aids/) |
-| 32 | **Market Research: Key Strategies for Business Decision-Making** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/market-research-key-strategies-for-business-decision-making/) |
-| 33 | **Agile Project Management+Scrum Step by Step with Examples** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/agile-project-management-scrum-step-by-step-with-examples/) |
-| 34 | **Fundamentals of  Successful Leadership - Leading with Impact** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/fundamentals-of-successful-leadership-leading-with-impact/) |
-| 35 | **Strategic Partnerships and Collaborations** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/strategic-partnerships-and-collaborations/) |
-| 36 | **Vigilant Leadership** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/vigilant-leadership/) |
-| 37 | **Your WORDS, Powerful Tools** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/your-words-powerful-tools/) |
-| 38 | **Fundamentals of Financial Services** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/fundamentals-of-financial-services/) |
-| 39 | **Financial Services: Private Banking & Wealth Management** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-private-banking-wealth-management/) |
-| 40 | **Economics for Everyone in a Digital First World** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/economics-for-everyone-in-a-digital-first-world/) |
+| 21 | **How to Transform Your Life - practical ways** | `Personal Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/how-to-transform-your-life-practical-ways/) |
+| 22 | **Leadership - Leading a Community** | `Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/leadership-leading-a-community/) |
+| 23 | **Personal Growth - Affirmations and Taking Action** | `Development` | ⭐ 4.8 | [Buka di UdemyTAG](https://udemytag.github.io/course/personal-growth-affirmations-and-taking-action/) |
+| 24 | **Introduction to Financial Products & Services** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/introduction-to-financial-products-services/) |
+| 25 | **Financial Services - Funds Flow Optimization Concepts** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-funds-flow-optimization-concepts/) |
+| 26 | **Financial Services - Overview of Central Banks** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-overview-of-central-banks/) |
+| 27 | **Self Discipline will Change Your life for GOOD** | `Personal Development` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/self-discipline-will-change-your-life-for-good/) |
+| 28 | **Workplace Productivity - Supporting Others Through Change** | `Personal Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-productivity-supporting-others-through-change/) |
+| 29 | **Workplace Productivity-Coping with the Anxiety of Leadership** | `Personal Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/workplace-productivity-coping-with-the-anxiety-of-leadership/) |
+| 30 | **Time Management, Productivity, Decision Making Tools &  Aids** | `Business` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/time-management-productivity-decision-making-tools-aids/) |
+| 31 | **Market Research: Key Strategies for Business Decision-Making** | `Business` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/market-research-key-strategies-for-business-decision-making/) |
+| 32 | **Agile Project Management+Scrum Step by Step with Examples** | `Business` | ⭐ 4.3 | [Buka di UdemyTAG](https://udemytag.github.io/course/agile-project-management-scrum-step-by-step-with-examples/) |
+| 33 | **Fundamentals of  Successful Leadership - Leading with Impact** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/fundamentals-of-successful-leadership-leading-with-impact/) |
+| 34 | **Strategic Partnerships and Collaborations** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/strategic-partnerships-and-collaborations/) |
+| 35 | **Vigilant Leadership** | `Development` | ⭐ 4.4 | [Buka di UdemyTAG](https://udemytag.github.io/course/vigilant-leadership/) |
+| 36 | **Your WORDS, Powerful Tools** | `Development` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/your-words-powerful-tools/) |
+| 37 | **Fundamentals of Financial Services** | `Development` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/fundamentals-of-financial-services/) |
+| 38 | **Financial Services: Private Banking & Wealth Management** | `Business` | ⭐ 4.2 | [Buka di UdemyTAG](https://udemytag.github.io/course/financial-services-private-banking-wealth-management/) |
+| 39 | **Economics for Everyone in a Digital First World** | `Business` | ⭐ 4.6 | [Buka di UdemyTAG](https://udemytag.github.io/course/economics-for-everyone-in-a-digital-first-world/) |
+| 40 | **Bootcamp AZ-900: Microsoft Azure Fundamentals Course** | `IT & Software` | ⭐ 4.5 | [Buka di UdemyTAG](https://udemytag.github.io/course/bootcamp-az-900-microsoft-azure-fundamentals-course/) |
 
 *Diperbarui secara otomatis setiap siklus build via GitHub Actions & UdemyTAG Pipeline.*
