@@ -37147,5 +37147,144 @@
       "rem": 15,
       "end": "2026-12-28T07:05:00Z"
     }
+  },
+  "color-grading-and-video-editing-with-davinci-resolve_5300818756B4BBDBDB83": {
+    "subscribers": 98455,
+    "reviews": 416,
+    "rating": "3.3",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "AK Media",
+    "campaign": {
+      "max": 100,
+      "rem": 9,
+      "end": "2026-12-28T16:58:00Z"
+    }
+  },
+  "video-editing-with-adobe-premiere-pro-cc-for-beginners_980E18D159412A7556A9": {
+    "subscribers": 202905,
+    "reviews": 1427,
+    "rating": "4.3",
+    "price": "$34.99",
+    "isFree": true,
+    "instructors": "AK Media",
+    "campaign": {
+      "max": 100,
+      "rem": 1,
+      "end": "2026-12-28T16:59:00Z"
+    }
+  },
+  "bootcamp-az-900-microsoft-azure-fundamentals_C11E7F7101985CF49E67": {
+    "subscribers": 9126,
+    "reviews": 191,
+    "rating": "4.5",
+    "price": "Free",
+    "isFree": false,
+    "instructors": "Codaming • 300k+ Learners Worldwide, Dinesh Kumar, Vedika Singh",
+    "campaign": null
+  },
+  "color-correction-grading-with-adobe-premiere-pro_FF9DAA7D597FD0E4AF53": {
+    "subscribers": 135993,
+    "reviews": 499,
+    "rating": "3.9",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "AK Media",
+    "campaign": {
+      "max": 100,
+      "rem": 15,
+      "end": "2026-12-28T16:57:00Z"
+    }
+  },
+  "learn-avid-media-composer-first-for-beginners_D30077CA9173EC5BEB6C": {
+    "subscribers": 80486,
+    "reviews": 279,
+    "rating": "3.5",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "AK Media",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "learn-basics-of-adobe-photoshop-cc-for-beginners_A3E59673421777108742": {
+    "subscribers": 153209,
+    "reviews": 1115,
+    "rating": "4.0",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "AK Media",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "learn-basics-of-adobe-after-effects-cc-for-beginners-learn_1A9627D87233A1A629DC": {
+    "subscribers": 105385,
+    "reviews": 562,
+    "rating": "4.0",
+    "price": "$34.99",
+    "isFree": false,
+    "instructors": "AK Media",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "leadershipdiploma_1C30C27E871B3817C2BE": {
+    "subscribers": 6373,
+    "reviews": 79,
+    "rating": "4.0",
+    "price": "$19.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 46,
+      "end": "2026-12-28T19:32:00Z"
+    }
+  },
+  "complete-facial-recognition-system-using-deep-face-model_A189F89B7477991C3D9A": {
+    "subscribers": 7359,
+    "reviews": 48,
+    "rating": "4.3",
+    "price": "$19.99",
+    "isFree": false,
+    "instructors": "ARUNNACHALAM SHANMUGARAAJAN",
+    "campaign": {
+      "max": null,
+      "rem": null,
+      "end": "2026-11-28T08:00:00Z"
+    }
+  },
+  "c-c-c-java-ultimate-course-for-beginners_D9827D545ECE6EA3BC8C": {
+    "subscribers": 5074,
+    "reviews": 30,
+    "rating": "4.2",
+    "price": "$39.99",
+    "isFree": true,
+    "instructors": "ARUNNACHALAM SHANMUGARAAJAN",
+    "campaign": {
+      "max": 100,
+      "rem": 15,
+      "end": "2026-12-28T17:06:00Z"
+    }
+  },
+  "passiveearn_86ACA59B67F5C646BA26": {
+    "subscribers": 6883,
+    "reviews": 62,
+    "rating": "4.2",
+    "price": "$44.99",
+    "isFree": true,
+    "instructors": "Md. Aliful Islam",
+    "campaign": {
+      "max": 100,
+      "rem": 3,
+      "end": "2026-12-28T19:34:00Z"
+    }
   }
 }
